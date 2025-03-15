@@ -2,14 +2,13 @@ import pandas as pd
 from pathlib import Path
 import warnings # suppress noisy warnings in jupyter output
 warnings.simplefilter(action='ignore', category=pd.errors.SettingWithCopyWarning)
-
-# let's create a set of locals referring to our directory and working directory 
 home = Path.home()
-work_dir = (home / 'medicaid_project')
+work_dir = (home / 'housing_project')
 data = (work_dir / 'data')
 raw_data = (data / 'raw')
+raw_election = (raw_data / 'election_data')
 clean_data = (data / 'clean')
-state_level = (clean_data / 'state_level')
+clean_election = (clean_data / 'election_data')
 output = (work_dir / 'output')
 code = Path.cwd() 
 
@@ -38,12 +37,12 @@ def data_2024_cleaning(df, office):
 
 ####################################################################################
 # let's start with cleaning the house election data 
-house_2024 = pd.read_excel(f'{raw_data}/county_house_2024.xlsx', sheet_name='County')
+house_2024 = pd.read_excel(f'{raw_election}/county_house_2024.xlsx', sheet_name='County')
 house_2024 = data_2024_cleaning(house_2024, 'house')
 
 ####################################################################################
 # next, let's clean the senate election data
-senate_2024 = pd.read_excel(f'{raw_data}/county_senate_2024.xlsx', sheet_name='County')
+senate_2024 = pd.read_excel(f'{raw_election}/county_senate_2024.xlsx', sheet_name='County')
 senate_2024 = data_2024_cleaning(senate_2024, 'senate')
 
 ####################################################################################
@@ -52,7 +51,7 @@ def clean_2020_data(states, full_states, office):
     states_data = {}
     for state, full_name in zip(states, full_states):
         print(f'Cleaning {state} {office} data')
-        df = pd.read_csv(f'{raw_data}/2020_precinct_state/2020-{state}-precinct-general.csv')
+        df = pd.read_csv(f'{raw_election}/2020_precinct_state/2020-{state}-precinct-general.csv')
         # make all variable values lowercase
         df = df.apply(lambda x: x.astype(str).str.lower())
         df['votes'] = pd.to_numeric(df['votes'], errors='coerce')
@@ -104,11 +103,8 @@ for df in [house_2024, senate_2024]:
 
 house_2020 = clean_2020_data(states, state_full, 'house')
 house_2020_2024 = pd.merge(house_2020, house_2024, on=['county_name', 'state'], how='outer')
-house_2020_2024.to_csv(f'{clean_data}/house_2020_2024.csv', index=False)
+house_2020_2024.to_csv(f'{clean_election}/house_2020_2024.csv', index=False)
 
 senate_2020 = clean_2020_data(states, state_full, 'senate')
 senate_2020_2024 = pd.merge(senate_2020, senate_2024, on=['county_name', 'state'], how='outer')
-senate_2020_2024.to_csv(f'{clean_data}/senate_2020_2024.csv', index=False)
-
-####################################################################################
-# next, let's extract / clean the 2020 data
+senate_2020_2024.to_csv(f'{clean_election}/senate_2020_2024.csv', index=False)

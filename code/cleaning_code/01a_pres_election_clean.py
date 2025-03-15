@@ -2,19 +2,17 @@ import pandas as pd
 from pathlib import Path
 # let's create a set of locals referring to our directory and working directory 
 home = Path.home()
-work_dir = (home / 'medicaid_project')
+work_dir = (home / 'housing_project')
 data = (work_dir / 'data')
 raw_data = (data / 'raw')
+raw_election = (raw_data / 'election_data')
 clean_data = (data / 'clean')
-state_level = (clean_data / 'state_level')
-state_election_data = (state_level / 'election_results')
-cd_level = (clean_data / 'cd_level')
-cd_election_data = (cd_level / 'election_results')
+clean_election = (clean_data / 'election_data')
 output = (work_dir / 'output')
 code = Path.cwd() 
 
-historical_election = pd.read_csv(f'{raw_data}/county_pres_2000_2020.csv')
-election_2024 = pd.read_excel(f'{raw_data}/county_pres_2024.xlsx', sheet_name='County')
+historical_election = pd.read_csv(f'{raw_election}/county_pres_2000_2020.csv')
+election_2024 = pd.read_excel(f'{raw_election}/county_pres_2024.xlsx', sheet_name='County')
 
 for df in [historical_election, election_2024]:
     df.columns = df.columns.str.lower()
@@ -181,7 +179,7 @@ election_2024.drop(columns={'lsad_trans'}, inplace=True)
 # merge and clean datasets
 ######################################################################################################################################
 master = pd.concat([historical_election, election_2024], axis=0, ignore_index=True)
-master.to_csv(f'{clean_data}/pres_election_2000_2024_county.csv', index=False)
+master.to_csv(f'{clean_election}/pres_election_2000_2024_county.csv', index=False)
 
 # now we want to produce a state-level total vote dataset
 # this is very easy; we can just collapse on state
@@ -192,6 +190,6 @@ master = master.groupby(['year', 'state']).agg({
     'other_pres_votes': 'sum',
     'total_pres_votes': 'sum'
 }).reset_index()
-master.to_csv(f'{state_election_data}/pres_election_2000_2024_state.csv', index=False)
+master.to_csv(f'{clean_election}/pres_election_2000_2024_state.csv', index=False)
 
 # now we want CD-level data, which is a little more complex 
