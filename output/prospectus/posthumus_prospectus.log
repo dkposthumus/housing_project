@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.31)  15 MAR 2025 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.31)  15 MAR 2025 18:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -663,7 +663,7 @@ No file posthumus_prospectus.bbl.
 Package biblatex Info: Reference section=0 on input line 12.
 Package biblatex Info: Reference segment=0 on input line 12.
 
-LaTeX Warning: Empty bibliography on input line 41.
+LaTeX Warning: Empty bibliography on input line 47.
 
 [1
 
@@ -677,14 +677,8 @@ L3 programming layer <2024-02-20>
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `posthumus_prospectus.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `posthumus_prospectus.out':
-(rerunfilecheck)             Before: 73AFFE86AE96EB019B2A50376FED49FA;390
-(rerunfilecheck)             After:  2C8CCC3431C85DA6811298D8E63D2042;544.
+Package rerunfilecheck Info: File `posthumus_prospectus.out' has not changed.
+(rerunfilecheck)             Checksum: 2C8CCC3431C85DA6811298D8E63D2042;544.
 
 Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                posthumus_prospectus
@@ -695,21 +689,22 @@ Package logreq Info: Writing requests to 'posthumus_prospectus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16739 strings out of 474116
- 291307 string characters out of 5743682
- 1930187 words of memory out of 5000000
- 38938 multiletter control sequences out of 15000+600000
- 562383 words of font info for 51 fonts, out of 8000000 for 9000
+ 16742 strings out of 474116
+ 291339 string characters out of 5743682
+ 1936187 words of memory out of 5000000
+ 38940 multiletter control sequences out of 15000+600000
+ 562729 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,81p,1901b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on posthumus_prospectus.pdf (1 page, 45442 bytes).
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on posthumus_prospectus.pdf (1 page, 69366 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
