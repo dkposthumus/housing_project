@@ -2,7 +2,6 @@ import pandas as pd
 from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
-import redivis
 
 # let's create a set of locals referring to our directory and working directory 
 home_dir = Path.home()
