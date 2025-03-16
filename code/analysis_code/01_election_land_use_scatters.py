@@ -12,3 +12,5 @@ clean_election = (clean_data / 'election_data')
 output = (work_dir / 'output')
 code = Path.cwd() 
 
+master = pd.read_csv(f'{clean_data}master_county_level')
+
