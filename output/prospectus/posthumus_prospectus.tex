@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass{article}[11pt]
 \usepackage[portrait, margin=1in]{geometry}
 \usepackage{graphicx} 
 \graphicspath{{/Users/danpost/housing_project/output/prospectus/graphics}}
@@ -6,43 +6,96 @@
 \usepackage{hyperref}
 \usepackage{booktabs}
 \usepackage{array}
-\usepackage[backend=bibtex]{biblatex}
+\usepackage[authordate, backend=bibtex, natbib]{biblatex-chicago}
 \addbibresource{prospectus_bib.bib}
 
 \begin{document}
 
-\title{Housing Policy and the Construction of Political Coalitions} 
+\title{Housing Policy, Access to Capital, and the Construction of Political Coalitions} 
 \author{Daniel Posthumus}
 
 \maketitle
 
 \section{Introduction}
+Why, as labor productivity, output, and aggregate demand have all increased, has the United States gotten worse at building things? This is a question whose we understand, or \textit{think} we understand, fairly well; burdensome regulation has made it more difficult to build. This is the core argument of the ``abundance agenda" (also referred to as ``supply-side progressivism"), which liberal commentators (most prominently Ezra Klein and Derek Thompson) have centered in their arguments over why Democrats lost the election in 2024 and how liberalism can redeem itself.\footnote{Although the idea of supply side progressivism preceded the 2024 election, and went hand-in-hand with the post-COVID development of Bidenomics.} \citep{klein2021economic} The agenda has two leading focuses: energy and housing. In this paper, I focus on the latter; I conceive of housing and energy policy as wholly distinct and the result of distinct political processes (energy being largely determined at the state/federal level, while housing policy is largely determined at the local level).\footnote{For an introduction to the way the abundance agenda addresses energy, see \citep{cheap2022energy}.}
 
-In the wake of the 2024 presidential election, the liberal movement in the United States has become fascinated with the ``abundance agenda". The premise of the agenda is simple: we don't have enough \textit{stuff}. Then, according to Economics 101, if supply is constrained then things will be more expensive. The forefront of the agenda is housing; the United States is fortunate to have high immigration and resulting population growth despite our wealth, but housing constraints have reduced growth in housing supply in the most productive places the country. This has made housing unaffordable for a whole generation of young people. 
+With respect to housing, the abundance agenda highlights a basic misallocation problem: it is very hard to move to the most productive places in the United States of America. It's hard because housing is expensive there, because housing construction in these places has not kept up, in large part because of burdensome regulation. \citep{glaeser2005} \citep{glaeser2005empirical} The economics of this are well-established; scholars have demonstrated that housing prices are higher because of land-use regulation, and they have demonstrated this has led to a misallocation of labor which has devastating effects on aggregate output. \citep{hsieh2019housing} Politics has constrained supply, preventing the ``invisible hand" of the market from operating. In this version, \textit{housing markets are out of equilibrium}. 
 
-This challenge has a political component and an economic component, both of which have been extensively studied. There's a mismatch between these two forces: the economics have driven demand for housing, while the political has choked supply, keeping it  far below where market forces would drive it. These forces have been extensively studied separately; however, bridging the gap between the two is an open challenge for scholars. 
+This argument is well-founded, although I think it neglects politics; housing policies are endogenous outcomes, driven (though not exclusively) by economics. Political participation in the processes which result in housing policies is determined by who can afford to live in a certain place. Yet, another factor beyond housing prices determines whether a person can live in a place; access to capital. A person needs capital to buy a house, the one significant piece of capital an American is likely to own which will appreciate over time. We don't have a sense of what role banks, and more broadly access to capital, play in how housing markets are designed. 
 
-One reason why we don't understand a full model of housing is that political outcomes in housing policy are endogenous; housing policy is determined via political processes which involve residents of political constituencies, the composition of which are determined by who chooses and affords to live there. 
+There are many ways to approach this question, and I am not close to formalizing a model and presenting results. What I do in this paper is first prove there is a puzzle that needs to be answered. \textbf{We don't understand the role that access to capital plays in the construction of political coalitions through housing policy and markets} and this is an incredibly important thing to understand. Housing policy is deeply broken in America, but to fix it people need to understand how to structure capital access, and the political processes which produce and result from the very housing regime that economists have thoroughly demonstrated is economically broken. 
 
-There is a third actor in this process: banks. Owning a house requires a mortgage, which requires lending from a bank. The prospect of owning a house is critical to the idea of the American Dream, one reason why housing policy and economics have such political salience in local elections. Mass ownership of housing requires mass capital available \textit{from banks}; yet, we don't know what role banks play in formulating housing policy and designing housing markets. 
+In the second half of this paper, I explore some specific ways I can operationalize and understand this broad theme. One open question in the literature are the true effects of the Community Reinvestment Act (CRA); since this law has undergone regulatory changes which are the result of federal political process exogenous to the local politics which determine housing policy, it is also econometrically useful as an exogenous source of variation in capital access. Thus, its effects are both substantively and econometrically useful. I'm also interested in harnessing advancements in machine learning methods to understand zoning commission activity and build new datasets on the project-level. Finally, I'm interested in a historical approach. Widespread zoning started in the 1910s-1920s; with the growing extent of pre-1910 micro-geographical data, how can we understand pre-zoning city formation? This historic approach has the advantage of not having to deal with housing policy endogeneity.
 
 \section{Literature Review}
 
+The research puzzle I identify lies at the intersection of different literatures, each of which is vast and unwieldy to summarize. I focus on the broad strokes of 3 literatures.
+\begin{enumerate}
+	\item I establish that a large literature finds that exclusive and constrictive land use regulation exists in the United States, has developed models to explain why this housing regime of exclusionary policies exist, and that this regime has harsh, negative economic effects through raising prices and 2nd- or 3rd-order effects. I then focus on why the sub-literature which seeks to explain the emergence of this regime is inadequate, largely through failing to treat housing policy as endogenous and overlooking politics.  
+	
+	\item Housing and Political Coalitions
+
+	\item Access to Capital and Housing Markets
+\end{enumerate}
+
+	\subsection{Land Use Regulation}
+In the early-mid 2000s, an influential series of articles appeared first establishing the existence of exclusionary zoning restrictions and demonstrating these restrictions were leading to increased housing prices. Although previous work was aware of this phenomenon and its effects, the mid 2000s wave of papers was critical in systematizing our understanding of regulation and its effects. Fischel (2004) provides a thorough economic historic review for \textit{why} exclusionary zoning policies exist. \citep{fischel2004economic} Fischel was prominent for developing a theory that homeowners became \textit{homevoters}, i.e., they would vote for their homes in local elections and at public hearings. Homeowners have a significant financial asset that can increase in value through the achievement of certain policies, so they will push hard for those policies. Fischel's theory is also that homeowners tend to be commuters; hence zoning's initial coinciding with the expansion of streetcar suburbs in the 1910s and 20s and its later expansion under suburbanization and urban renewal in the 1950s and 60s.\footnote{Fischel's approach may seem slightly dated to the reader in 2025; he argued that homeowners were worried about their homes \textit{losing} value, and that zoning was protection against that possibility through increases in density. Today, one might take for granted homes in high-productive areas with restrictive land regulations are perpetually gaining in value, such that when one buys a home one expects not just a steady investment, but significant appreciation over time. This distinction is not central to what I see as Fischel's main contribution, which is explaining the emergence of these regulations between 60-100 years ago, but I think it merits mention.} 
+
+The basic fact of constrictive zoning regulations established, I turn to its effects. Pre-2005, Quigley and Rosenthal document a breadth of papers showing an association, though not causal relationship, between land use regulation and housing prices. \citep{quigley2005effects} Glaeser et al. built on this work to more thoroughly solve a puzzling phenomenon: the cost of building a house stagnated from 1970 to 2005, while housing prices increased astronomically. \citep{glaeser2005empirical} Their argument was that the literature had previously focused on demand-side explanations, while the truth lie on the supply side, which was constrained by restrictive zoning regulations. While Glaeser et al.'s empirics are largely descriptive, they spawned analysis of further effects of zoning regulation beyond the 1st-order price effects.\footnote{Glaeser et al.'s empirics largely focus on disproving alternative explanations for the divergence of housing prices and construction costs. They show that only about a quarter of this gap could be explained by increases in housing quality. Next, they show that high demand (measured by the ratio of price to construction costs) in the 1970s drove new construction in the following decade, whereas that basic relationship was reversed as soon as the 1990s. \textit{High prices no longer led to new construction}, suggesting the reason for those high prices is not high demand, but low supply which can't easily be expanded. They formalize some of these ideas into a model which I briefly discuss below.} 
+
+Housing prices have tremendous 2nd-order and 3rd-order effects: if housing prices increase in a given area, fewer people can afford to live there. This may lead to spatial misallocation of workers if the most productive firms are located in places with stricter regulations and higher prices (prominently San Francisco, for example). Hsieh and Moretti find that if San Francisco, New York City, and San Jose reduced land use regulations to the level of the median city, their growth rate of aggregate output would be 36.3 percent higher -- resulting in a stunning 3.7\% increase in US GDP in 2009.\footnote{This finding and its magnitude serve as a key motivator for the abundance agenda, although notable critiques of the abundance agenda's focus on increasing the aggregate output of these high-productive metros wonder why the movement wouldn't focus on increasing productivity in less-productive areas. \citep{abundanceambiguity}}\footnote{Also, more restrictive zoning policies have also been associated with a great share of residents commuting and working in another community in California. \citep{durst2021land}}  \citep{hsieh2019housing} Another proposed effect of regulation is a weakening of construction productivity, specifically the growing gap between manufacturing traded good productivity and construction productivity in the United States. D'Amico et al. (2024) demonstrate that constrictive regulation has resulted in smaller construction firms and smaller construction projects, which accounts for a very large share of the gap between manufacturing and construction productivity. \citep{d2024has}
+
+Thus far, scholars have very convincingly established constrictive land use regulations exist and that they have resulted in high housing prices and suboptimal welfare effects. Scholars have been far less successful in demonstrating why these regulations emerge. The predictions generated by these models have drawn relatively little empirical support from the literature. In short, there's little empirical evidence that a larger share of homeowners in a given population leads to greater support for exclusionary zoning restrictions. In their review, Gyourko and Molloy posit the lack of rigorous evaluations of the homevoter hypothesis is because of data limitations (a discussion of which I conclude this section). \citep{gyourko2015regulation} This may be true, but it also might be because the structural models are incomplete -- something I seek to remedy.
+
+I don't discuss every structural modeling of housing; I focus here on Several scholars have built structural models, attempting to formalize Fischel's and others' theories about why zoning policies have taken hold. Glaeser et al. built a model to explain the choices faced by homeowners and landlords, one key insight of which is that the development level of a neighborhood which maximizes \textit{current residents'} welfare is not socially optimal, in large part because current homeowners' utility rises with the value of their homes, and they have no internalization of the harmful effects of these rising home prices (and, accordingly, rents) on those who want to live in the town but can't afford to. \citep{glaeser2005} They conclude with some ideas about why exclusionary restrictions have taken hold.\footnote{Their first proposition relates to the composition of local political organizing: conditional on homeowners associations (HOAs) and landlords \textit{both} lobbying for more restrictive zoning conditions, landlords will expend cash while HOAs will expend time. This is not directly related to my research but interesting to note.} One explanation is that ``judicial tastes" and political decision-makers' preferences for development have shifted. Another is that home-ownership is more common. A final possible explanation is that low density communities are normal goods; as incomes rise, people want to live in a low density community. 
+
+Other structural models exist; Ortalo-Magné and Prat (2014) build one in which the central tradeoff for households is between short-term rents (which they pay to themselves if they own their house or absentee landlords if they're renting the property) or end-of-period consumption. \citep{ortalo2014political} If the housing supply goes up, rents go down but housing wealth, consumed at the end of an individual's life, goes down -- and vice-versa. Much like Glaeser et al., their model is rich and convincing in modeling households' incentives vis-a-vis policy. However, it overlooks political constraints and neglects households' access to capital. 
 
 
-\section{Data}
 
 
 
-\section{Reduced Form Evidence}
 
 
+	\subsection{Housing and Political Coalitions}
+
+
+
+	\subsection{Access to Capital and Housing Markets}
+
+
+	\subsection{The Puzzle}
+
+
+	\subsection{Data}
+The empirical analyses I discuss above were largely limited by the lack of a comprehensive dataset on zoning restrictions and housing policy in general; since the publication of his 2005 paper with co-authors, Gyourko has compiled two waves of a nation-wide survey on local regulatory environments, one in 2007 and the other in 2021. \citep{gyourko2008new} \citep{gyourko2021local} \footnote{To summarize, they sought data on 1) general characteristics of the regulatory process, 2) specifics of the local residential land use regulation, 3) outcomes of the regulatory process, 4) state-level analyses of land use policy actions, and 5) measures related to environmental and open space-related ballot initiatives (the latter two categories of variables weren't directly part of the survey but were supplemented by the authors' own analysis.} Another prominent survey, the Terner California Residential Land Use Survey, focuses on California--although it has the drawback of only having one wave of data, from 2017-2018. \citep{mawhorter2018terner} In general, data has lagged behind formal modeling as it relates to housing supply exclusionary zoning -- \textit{particularly along the dimension of time}. \citep{gyourko2015regulation} Nonetheless, extensive progress has been made in data for urban and regional economics the last 10 years. \citep{newdata} With regard to historical data, much of this work has been made by digitizing paper maps (to obtain census tract- or neighborhood-level boundaries used to geographically categorize households, that we could pull from historical Census records, the complete microdata of which is released 72 years after it was fielded). These historical maps and linked census data have allowed researchers to track historical neighborhood formation and segregation within cities. Work is currently underway to use NLP methods to create a true nation-wide dataset on local zoning ordinances, which does \textit{not} rely on survey methods like Gyourko et al. does. \citep{bartik2024costs} 
+
+\section{Operationalizing The Puzzle}
+
+	\subsection{Community Reinvestment Act (CRA) of 1977}
+
+		\subsubsection{Data}
+
+
+		\subsubsection{Reduced Form Evidence}
+
+
+
+	\subsection{Other Ideas For Operationalization}
+My other ideas for operationalizing this question are less well-developed. There has been no systematic and rigorous study of planning commission hearings, the object of scorn for proponents of the abundance agenda. I propose using Natural Language Processing (NLP) methods to parse agenda minutes and notes to try to figure out 1) who goes to speak at these commissions and 2) build a construction project-level dataset that can be useful for answering other questions. 
+
+Another way I'm interested in operationalizing this question is in a historic context, pre-WWII and pre-urban renewal. Fischel posits that New York City was among the first cities to implement city-wide zoning, in 1916. \citep{fischel2004economic} In this pre-zoning context, I would be interested in focusing on SF, the historical case I know the best. Owners of SF-based newspapers during the Gilded Age were deeply invested in real estate; they sought to establish SF as a center of imperialism over the Pacific Ocean to increase industrial activity in the city and thus increase the value of real estate. \citep{brechin2006imperial} 
 
 \section{Conclusion}
 
+	\subsection{Expanding Theoretical Frameworks for Housing Political Economy}
+	
 
 
-\nocite{*}
+\section{Appendix}
+
+	\subsection{Thoughts and Implications for the Abundance Agenda}
+	
 
 \printbibliography
 

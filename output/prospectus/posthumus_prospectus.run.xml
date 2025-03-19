@@ -55,14 +55,17 @@
       <file>blx-compat.def</file>
       <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
-      <file>standard.bbx</file>
-      <file>numeric.bbx</file>
-      <file>numeric.cbx</file>
+      <file>blx-natbib.def</file>
+      <file>chicago-authordate.bbx</file>
+      <file>chicago-dates-common.cbx</file>
+      <file>chicago-authordate.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
+      <file>american.lbx</file>
+      <file>cms-american.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
