@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.31)  18 MAR 2025 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.31)  20 MAR 2025 19:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,6 +302,10 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \backup@length=\skip55
 \ar@cellbox=\box54
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago
 .sty
 Package: biblatex-chicago 2022/07/02 v 3.18 biblatex style
@@ -377,7 +381,7 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \bibparsep=\skip62
 \bibhang=\skip63
 \blx@bcfin=\read2
-\blx@bcfout=\write3
+\blx@bcfout=\write4
 \blx@langwohyphens=\language89
 \c@mincomprange=\count339
 \c@maxcomprange=\count340
@@ -592,24 +596,24 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 (./posthumus_prospectus.aux)
 \openout1 = `posthumus_prospectus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -667,11 +671,11 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
 
 (./posthumus_prospectus.out) (./posthumus_prospectus.out)
-\@outlinefile=\write4
-\openout4 = `posthumus_prospectus.out'.
+\@outlinefile=\write5
+\openout5 = `posthumus_prospectus.out'.
 
 Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
@@ -700,25 +704,63 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
-\openout3 = `posthumus_prospectus-blx.bib'.
+\openout4 = `posthumus_prospectus-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'posthumus_prospectus.bbl' found.
 
 (./posthumus_prospectus.bbl)
-Package biblatex Info: Reference section=0 on input line 12.
-Package biblatex Info: Reference segment=0 on input line 12.
+Package biblatex Info: Reference section=0 on input line 13.
+Package biblatex Info: Reference segment=0 on input line 13.
  [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4] [5] (./posthumus_prospectus.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] Exc
+luding 'comment' comment. [3] [4] [5] [6]
+[7] [8]
+</Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_example_1.
+png, id=265, 623.32875pt x 289.08pt>
+File: /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_examp
+le_1.png Graphic file (type png)
+<use /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_exampl
+e_1.png>
+Package pdftex.def Info: /Users/danpost/housing_project/output/prospectus/graph
+ics/sf_zoning_example_1.png  used on input line 155.
+(pdftex.def)             Requested size: 375.80544pt x 174.28741pt.
+</Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_example_2.
+png, id=267, 627.34375pt x 612.2875pt>
+File: /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_examp
+le_2.png Graphic file (type png)
+<use /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_exampl
+e_2.png>
+Package pdftex.def Info: /Users/danpost/housing_project/output/prospectus/graph
+ics/sf_zoning_example_2.png  used on input line 162.
+(pdftex.def)             Requested size: 375.80544pt x 366.79608pt.
+</Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_example_3.
+png, id=268, 605.26125pt x 261.97874pt>
+File: /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_examp
+le_3.png Graphic file (type png)
+<use /Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_exampl
+e_3.png>
+Package pdftex.def Info: /Users/danpost/housing_project/output/prospectus/graph
+ics/sf_zoning_example_3.png  used on input line 169.
+(pdftex.def)             Requested size: 375.80544pt x 162.661pt.
+ [9{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}] [10 </Users/danpost/housing_project/output/prospectus/graphics/sf_zoning_ex
+ample_1.png> </Users/danpost/housing_project/output/prospectus/graphics/sf_zoni
+ng_example_2.png>] [11 </Users/danpost/housing_project/output/prospectus/graphi
+cs/sf_zoning_example_3.png>] [12
+
+] [13] (./posthumus_prospectus.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `posthumus_prospectus.out' has not changed.
-(rerunfilecheck)             Checksum: 3522C2C2F4EC54761BB5F521253739EB;2918.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `posthumus_prospectus.out' has not changed.
+(rerunfilecheck)             Checksum: 44240091667860F2CABB8BF15CE50086;3186.
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -728,26 +770,28 @@ Package logreq Info: Writing requests to 'posthumus_prospectus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19450 strings out of 474116
- 351080 string characters out of 5743682
- 1942187 words of memory out of 5000000
- 41580 multiletter control sequences out of 15000+600000
- 564150 words of font info for 57 fonts, out of 8000000 for 9000
+ 19720 strings out of 474116
+ 359718 string characters out of 5743682
+ 1945187 words of memory out of 5000000
+ 41798 multiletter control sequences out of 15000+600000
+ 564794 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,6n,95p,2114b,3949s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 82i,6n,95p,3145b,3949s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
-al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on posthumus_prospectus.pdf (5 pages, 166044 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on posthumus_prospectus.pdf (13 pages, 722985 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 371 PDF objects out of 1000 (max. 8388607)
+ 324 compressed objects within 4 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 160 words of extra memory for PDF output out of 10000 (max. 10000000)
 

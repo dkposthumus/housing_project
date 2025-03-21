@@ -17,49 +17,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10600 items from 5000.
 Database file #1: posthumus_prospectus-blx.bib
 Database file #2: prospectus_bib.bib
 Biblatex version: 3.19
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 19 entries,
+You've used 40 entries,
             6399 wiz_defined-function locations,
-            1304 strings with 11840 characters,
-and the built_in function-call counts, 147000 in all, are:
-= -- 11615
-> -- 2411
-< -- 795
-+ -- 3951
-- -- 862
-* -- 10748
-:= -- 15794
+            1408 strings with 14855 characters,
+and the built_in function-call counts, 299755 in all, are:
+= -- 23498
+> -- 4871
+< -- 1675
++ -- 7689
+- -- 1685
+* -- 21903
+:= -- 31302
 add.period$ -- 0
-call.type$ -- 19
-change.case$ -- 467
+call.type$ -- 40
+change.case$ -- 1012
 chr.to.int$ -- 44
-cite$ -- 36
-duplicate$ -- 14762
-empty$ -- 12835
-format.name$ -- 1287
-if$ -- 30519
+cite$ -- 78
+duplicate$ -- 30031
+empty$ -- 26683
+format.name$ -- 2613
+if$ -- 62655
 int.to.chr$ -- 0
-int.to.str$ -- 50
+int.to.str$ -- 107
 missing$ -- 0
-newline$ -- 607
-num.names$ -- 1043
-pop$ -- 6936
+newline$ -- 1240
+num.names$ -- 2260
+pop$ -- 14801
 preamble$ -- 1
-purify$ -- 565
+purify$ -- 1200
 quote$ -- 0
-skip$ -- 3709
+skip$ -- 7749
 stack$ -- 0
-substring$ -- 21203
-swap$ -- 3107
-text.length$ -- 570
-text.prefix$ -- 18
+substring$ -- 42796
+swap$ -- 6538
+text.length$ -- 1156
+text.prefix$ -- 39
 top$ -- 1
-type$ -- 633
+type$ -- 1344
 warning$ -- 0
-while$ -- 1823
+while$ -- 3543
 width$ -- 0
-write$ -- 589
+write$ -- 1201
