@@ -6,7 +6,7 @@ import redivis
 
 # let's create a set of locals referring to our directory and working directory 
 home_dir = Path.home()
-work_dir = (home_dir / 'comparative_poli_econ/final_project')
+work_dir = (home_dir / 'housing_project')
 data = (work_dir / 'data')
 raw_data = (data / 'raw')
 code = Path.cwd() 
