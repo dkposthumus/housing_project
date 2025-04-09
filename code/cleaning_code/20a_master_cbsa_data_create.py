@@ -21,6 +21,10 @@ crosswalk = crosswalk.apply(lambda col: col.str.lower() if col.dtype == "object"
 # clean data to match what we have in the LIHTC data 
 crosswalk['fips2020'] = (((crosswalk['county'] * 1000000) + (crosswalk['tract'] * 100)).astype(int)).astype(str)
 crosswalk = crosswalk[['cbsa23', 'cbsaname23', 'fips2020']]
+# introduce cbsa_type var and merge 
+cbsa_type = pd.read_csv(f'{crosswalks}/cbsa_type.csv', encoding='latin1')
+cbsa_type = cbsa_type[['cbsa23', 'cbsatype23']]
+
 # introduce project-level data from HUD
 lihtc = pd.read_csv(f'{clean_data}/2021_lihtc_projects.csv')
 lihtc['fips2020'] = lihtc['fips2020'].astype(str)
@@ -43,4 +47,6 @@ cbsa_master = pd.merge(cbsa_master, permit, on=['cbsa23', 'cbsaname23'], how='ou
 ##################################################################################################################
 # Save master dataset 
 ##################################################################################################################
+cbsa_master = pd.merge(cbsa_master, cbsa_type, on=['cbsa23'], how='outer')
+cbsa_master = cbsa_master.apply(lambda col: col.str.lower() if col.dtype == "object" or pd.api.types.is_string_dtype(col) else col)
 cbsa_master.to_csv(f'{clean_data}/msa_lihtc_permits_data.csv', index=False)
