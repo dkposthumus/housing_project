@@ -1,0 +1,922 @@
+cbsa23,cbsaname23,metro_micro_code,new_permits_total
+10100,"aberdeen, sd",5,88
+10140,"aberdeen, wa",5,297
+10180,"abilene, tx",2,520
+10220,"ada, ok",5,2
+10300,"adrian, mi",5,137
+10420,"akron, oh",2,1310
+10460,"alamogordo, nm",5,6
+10480,"alamosa, co",5,90
+10500,"albany, ga",4,206
+10540,"albany, or",2,311
+10580,"albany-schenectady-troy, ny",2,2401
+10620,"albemarle, nc",5,367
+10660,"albert lea, mn",5,16
+10700,"albertville, al",5,163
+10740,"albuquerque, nm",2,2897
+10760,"alexander city, al",5,218
+10780,"alexandria, la",4,244
+10820,"alexandria, mn",5,285
+10860,"alice, tx",5,6
+10900,"allentown-bethlehem-easton, pa-nj",2,2142
+10940,"alma, mi",5,47
+10980,"alpena, mi",5,46
+11020,"altoona, pa",2,99
+11060,"altus, ok",5,8
+11100,"amarillo, tx",2,1298
+11140,"americus, ga",5,57
+11180,"ames, ia",2,276
+11200,"amherst town-northampton, ma",2,349
+11220,"amsterdam, ny",5,210
+11260,"anchorage, ak",4,397
+11360,"anderson creek, nc",5,2080
+11380,"andrews, tx",5,72
+11420,"angola, in",5,209
+11460,"ann arbor, mi",2,996
+11500,"anniston-oxford, al",4,135
+11540,"appleton, wi",2,651
+11580,"arcadia, fl",5,71
+11620,"ardmore, ok",5,73
+11660,"arkadelphia, ar",5,12
+11680,"arkansas city-winfield, ks",5,41
+11700,"asheville, nc",2,5048
+11740,"ashland, oh",5,61
+11820,"astoria, or",5,98
+11860,"atchison, ks",5,12
+11900,"athens, oh",5,5
+11940,"athens, tn",5,139
+11980,"athens, tx",5,263
+12020,"athens-clarke county, ga",2,1836
+12060,"atlanta-sandy springs-roswell, ga",2,40700
+12100,"atlantic city-hammonton, nj",2,1549
+12140,"auburn, in",5,116
+12180,"auburn, ny",5,161
+12220,"auburn-opelika, al",2,1863
+12260,"augusta-richmond county, ga-sc",4,4658
+12300,"augusta-waterville, me",5,460
+12380,"austin, mn",5,53
+12420,"austin-round rock-san marcos, tx",4,32304
+12460,"bainbridge, ga",5,138
+12520,"baker city, or",5,28
+12540,"bakersfield-delano, ca",4,3244
+12580,"baltimore-columbia-towson, md",2,6247
+12620,"bangor, me",4,440
+12660,"baraboo, wi",5,527
+12700,"barnstable town, ma",2,657
+12740,"barre, vt",5,185
+12780,"bartlesville, ok",5,46
+12860,"batavia, ny",5,55
+12900,"batesville, ar",5,33
+12940,"baton rouge, la",2,4078
+12980,"battle creek, mi",2,132
+13020,"bay city, mi",2,39
+13060,"bay city, tx",5,153
+13100,"beatrice, ne",5,41
+13140,"beaumont-port arthur, tx",4,936
+13180,"beaver dam, wi",5,229
+13220,"beckley, wv",4,67
+13260,"bedford, in",5,8
+13300,"beeville, tx",5,15
+13340,"bellefontaine, oh",5,121
+13380,"bellingham, wa",4,1190
+13420,"bemidji, mn",5,165
+13460,"bend, or",4,1874
+13540,"bennington, vt",5,59
+13660,"big rapids, mi",5,116
+13700,"big spring, tx",5,69
+13740,"billings, mt",4,1452
+13780,"binghamton, ny",4,479
+13820,"birmingham, al",2,3748
+13860,"bishop, ca",5,18
+13900,"bismarck, nd",4,354
+13940,"blackfoot, id",5,251
+13980,"blacksburg-christiansburg-radford, va",4,484
+14010,"bloomington, il",2,247
+14020,"bloomington, in",2,992
+14100,"bloomsburg-berwick, pa",5,82
+14140,"bluefield, wv-va",5,8
+14180,"blytheville, ar",5,69
+14220,"bogalusa, la",5,10
+14260,"boise city, id",2,9069
+14300,"bonham, tx",5,82
+14380,"boone, nc",5,296
+14420,"borger, tx",5,2
+14460,"boston-cambridge-newton, ma-nh",2,11349
+14500,"boulder, co",2,1688
+14540,"bowling green, ky",2,2296
+14580,"bozeman, mt",4,1706
+14620,"bradford, pa",5,29
+14660,"brainerd, mn",5,705
+14700,"branson, mo",5,331
+14710,"brattleboro, vt",5,188
+14720,"breckenridge, co",5,363
+14740,"bremerton-silverdale-port orchard, wa",2,1294
+14780,"brenham, tx",5,111
+14820,"brevard, nc",5,217
+14860,"bridgeport-stamford-danbury, ct",2,2003
+14940,"brigham city, ut-id",5,501
+15020,"brookhaven, ms",5,10
+15060,"brookings, or",5,52
+15100,"brookings, sd",5,224
+15180,"brownsville-harlingen, tx",2,2326
+15220,"brownwood, tx",5,142
+15260,"brunswick-st.simons, ga",4,910
+15340,"bucyrus, oh",5,8
+15380,"buffalo-cheektowaga, ny",2,1411
+15420,"burley, id",5,284
+15460,"burlington, ia-il",5,58
+15500,"burlington, nc",2,2466
+15540,"burlington-south burlington, vt",2,1120
+15580,"butte-silver bow, mt",5,109
+15620,"cadillac, mi",5,165
+15660,"calhoun, ga",5,414
+15700,"cambridge, md",5,81
+15740,"cambridge, oh",5,37
+15780,"camden, ar",5,18
+15820,"campbellsville, ky",5,13
+15860,"cañon city, co",5,139
+15900,"canton, il",5,14
+15940,"canton-massillon, oh",2,530
+15980,"cape coral-fort myers, fl",2,15411
+16020,"cape girardeau, mo-il",2,81
+16060,"carbondale, il",5,5
+16100,"carlsbad-artesia, nm",5,156
+16140,"carroll, ia",5,32
+16180,"carson city, nv",2,264
+16220,"casper, wy",4,310
+16260,"cedar city, ut",5,655
+16300,"cedar rapids, ia",2,1082
+16340,"cedartown, ga",5,128
+16380,"celina, oh",5,92
+16460,"centralia, il",5,2
+16500,"centralia, wa",5,265
+16540,"chambersburg, pa",2,633
+16580,"champaign-urbana, il",2,617
+16620,"charleston, wv",2,118
+16660,"charleston-mattoon, il",5,34
+16700,"charleston-north charleston, sc",4,8538
+16740,"charlotte-concord-gastonia, nc-sc",2,25952
+16820,"charlottesville, va",4,1252
+16860,"chattanooga, tn-ga",2,3599
+16940,"cheyenne, wy",4,485
+16980,"chicago-naperville-elgin, il-in",2,17516
+17020,"chico, ca",4,946
+17060,"chillicothe, oh",5,24
+17140,"cincinnati, oh-ky-in",2,7055
+17220,"clarksburg, wv",5,84
+17260,"clarksdale, ms",5,26
+17300,"clarksville, tn-ky",4,2801
+17340,"clearlake, ca",5,107
+17380,"cleveland, ms",5,10
+17410,"cleveland, oh",2,3833
+17420,"cleveland, tn",2,979
+17500,"clewiston, fl",5,622
+17540,"clinton, ia",5,116
+17580,"clovis, nm",5,200
+17650,"cody, wy",5,203
+17660,"coeur dalene, id",2,1606
+17740,"coldwater, mi",5,43
+17780,"college station-bryan, tx",4,2296
+17820,"colorado springs, co",4,4054
+17860,"columbia, mo",2,1322
+17900,"columbia, sc",2,5866
+17980,"columbus, ga-al",2,681
+18020,"columbus, in",2,195
+18060,"columbus, ms",5,131
+18100,"columbus, ne",5,138
+18140,"columbus, oh",2,13521
+18180,"concord, nh",5,380
+18220,"connersville, in",5,20
+18260,"cookeville, tn",5,926
+18300,"coos bay-north bend, or",5,122
+18340,"corbin, ky",5,81
+18380,"cordele, ga",5,21
+18420,"corinth, ms",5,13
+18460,"cornelia, ga",5,215
+18500,"corning, ny",5,196
+18580,"corpus christi, tx",2,1945
+18620,"corsicana, tx",5,522
+18660,"cortland, ny",5,45
+18700,"corvallis, or",2,116
+18740,"coshocton, oh",5,7
+18820,"crawfordsville, in",5,52
+18860,"crescent city, ca",5,55
+18880,"crestview-fort walton beach-destin, fl",4,4151
+18900,"crossville, tn",5,114
+18980,"cullman, al",5,180
+19060,"cumberland, md-wv",5,88
+19100,"dallas-fort worth-arlington, tx",2,72151
+19140,"dalton, ga",2,499
+19180,"danville, il",5,8
+19220,"danville, ky",5,176
+19260,"danville, va",5,126
+19300,"daphne-fairhope-foley, al",2,3883
+19340,"davenport-moline-rock island, ia-il",2,968
+19430,"dayton-kettering-beavercreek, oh",2,2030
+19460,"decatur, al",2,236
+19500,"decatur, il",4,63
+19540,"decatur, in",5,78
+19580,"defiance, oh",5,41
+19620,"del rio, tx",5,85
+19660,"deltona-daytona beach-ormond beach, fl",2,5990
+19700,"deming, nm",5,7
+19740,"denver-aurora-centennial, co",2,15897
+19760,"deridder, la",5,83
+19780,"des moines-west des moines, ia",2,5057
+19810,"detroit lakes, mn",5,156
+19820,"detroit-warren-dearborn, mi",2,7446
+19860,"dickinson, nd",5,48
+19940,"dixon, il",5,43
+19980,"dodge city, ks",5,134
+20020,"dothan, al",2,573
+20060,"douglas, ga",5,128
+20100,"dover, de",2,1201
+20140,"dublin, ga",5,55
+20180,"dubois, pa",5,99
+20220,"dubuque, ia",4,473
+20260,"duluth, mn-wi",2,875
+20300,"dumas, tx",5,27
+20340,"duncan, ok",5,17
+20420,"durango, co",5,306
+20460,"durant, ok",5,176
+20500,"durham-chapel hill, nc",2,3851
+20540,"dyersburg, tn",5,74
+20580,"eagle pass, tx",4,66
+20700,"east stroudsburg, pa",5,278
+20660,"easton, md",5,158
+20740,"eau claire, wi",2,951
+20780,"edwards, co",5,387
+20820,"effingham, il",5,27
+20900,"el campo, tx",5,191
+20940,"el centro, ca",4,271
+20980,"el dorado, ar",5,20
+21340,"el paso, tx",2,2196
+21020,"elizabeth city, nc",5,153
+21060,"elizabethtown, ky",2,1011
+21120,"elk city, ok",5,16
+21140,"elkhart-goshen, in",2,484
+21180,"elkins, wv",5,3
+21220,"elko, nv",5,120
+21260,"ellensburg, wa",5,433
+21300,"elmira, ny",2,91
+21380,"emporia, ks",5,34
+21420,"enid, ok",4,19
+21460,"enterprise, al",5,137
+21500,"erie, pa",2,364
+21540,"escanaba, mi",5,38
+21640,"eufaula, al-ga",5,46
+21660,"eugene-springfield, or",4,1808
+21700,"eureka-arcata, ca",5,188
+21740,"evanston, wy-ut",5,147
+21780,"evansville, in",2,801
+21820,"fairbanks-college, ak",4,1
+21860,"fairmont, mn",5,19
+21900,"fairmont, wv",5,3
+21980,"fallon, nv",5,45
+22020,"fargo, nd-mn",2,1487
+22060,"faribault-northfield, mn",5,93
+22100,"farmington, mo",5,134
+22140,"farmington, nm",4,78
+22180,"fayetteville, nc",2,1810
+22190,"fayetteville, tn",5,173
+22220,"fayetteville-springdale-rogers, ar",4,7882
+22260,"fergus falls, mn",5,140
+22300,"findlay, oh",5,257
+22340,"fitzgerald, ga",5,6
+22380,"flagstaff, az",4,698
+22420,"flint, mi",2,419
+22500,"florence, sc",4,852
+22520,"florence-muscle shoals, al",2,255
+22540,"fond du lac, wi",4,154
+22580,"forest city, nc",5,193
+22620,"forrest city, ar",5,3
+22660,"fort collins, co",4,1786
+22700,"fort dodge, ia",5,25
+22780,"fort leonard wood, mo",5,62
+22800,"fort madison, ia",5,15
+22820,"fort morgan, co",5,204
+22840,"fort payne, al",5,49
+22900,"fort smith, ar-ok",4,560
+23060,"fort wayne, in",2,2032
+23140,"frankfort, in",5,59
+23180,"frankfort, ky",5,195
+23190,"franklin, ky",5,204
+23240,"fredericksburg, tx",5,52
+23300,"freeport, il",5,7
+23340,"fremont, ne",5,82
+23380,"fremont, oh",5,23
+23420,"fresno, ca",2,3772
+23460,"gadsden, al",4,119
+23500,"gaffney, sc",5,200
+23540,"gainesville, fl",2,2067
+23580,"gainesville, ga",2,2274
+23620,"gainesville, tx",5,190
+23660,"galesburg, il",5,0
+23680,"gallipolis, oh",5,10
+23700,"gallup, nm",5,1
+23780,"garden city, ks",5,47
+23820,"gardnerville ranchos, nv-ca",5,317
+23900,"gettysburg, pa",2,403
+23940,"gillette, wy",5,32
+23980,"glasgow, ky",5,283
+24020,"glens falls, ny",2,286
+24100,"gloversville, ny",5,112
+24140,"goldsboro, nc",4,605
+24180,"granbury, tx",5,125
+24220,"grand forks, nd-mn",4,175
+24260,"grand island, ne",4,310
+24300,"grand junction, co",4,1014
+24330,"grand rapids, mn",5,121
+24340,"grand rapids-wyoming-kentwood, mi",2,4028
+24420,"grants pass, or",2,223
+24460,"great bend, ks",5,19
+24500,"great falls, mt",4,223
+24540,"greeley, co",2,3170
+24580,"green bay, wi",2,1775
+24600,"greencastle, in",5,166
+24620,"greeneville, tn",5,333
+24640,"greenfield, ma",5,89
+24660,"greensboro-high point, nc",2,4976
+24700,"greensburg, in",5,66
+24740,"greenville, ms",5,10
+24780,"greenville, nc",2,1300
+24820,"greenville, oh",5,43
+24860,"greenville-anderson-greer, sc",2,8911
+24900,"greenwood, ms",5,9
+24940,"greenwood, sc",5,338
+24980,"grenada, ms",5,93
+25060,"gulfport-biloxi, ms",4,3018
+25100,"guymon, ok",5,4
+25180,"hagerstown-martinsburg, md-wv",2,1794
+25200,"hailey, id",5,148
+25220,"hammond, la",2,1085
+25260,"hanford-corcoran, ca",2,741
+25300,"hannibal, mo",5,46
+25420,"harrisburg-carlisle, pa",2,1699
+25460,"harrison, ar",5,92
+25500,"harrisonburg, va",2,770
+25540,"hartford-west hartford-east hartford, ct",2,2145
+25580,"hastings, ne",5,225
+25620,"hattiesburg, ms",2,166
+25700,"hays, ks",5,34
+25720,"heber, ut",5,1752
+25740,"helena, mt",4,471
+25770,"hemlock farms, pa",5,213
+25775,"henderson, ky",5,98
+25780,"henderson, nc",5,73
+25820,"hereford, tx",5,23
+25840,"hermiston-pendleton, or",5,262
+25850,"hermitage, pa",5,62
+25860,"hickory-lenoir-morganton, nc",2,2768
+25880,"hillsdale, mi",5,72
+25900,"hilo-kailua, hi",5,982
+25940,"hilton head island-bluffton-port royal, sc",4,3209
+25980,"hinesville, ga",2,769
+26020,"hobbs, nm",5,172
+26090,"holland, mi",5,419
+26140,"homosassa springs, fl",4,2443
+26220,"hood river, or",5,36
+26300,"hot springs, ar",2,117
+26340,"houghton, mi",5,136
+26380,"houma-bayou cane-thibodaux, la",4,619
+26420,"houston-pasadena-the woodlands, tx",2,65871
+26460,"hudson, ny",5,136
+26500,"huntingdon, pa",5,70
+26540,"huntington, in",5,79
+26580,"huntington-ashland, wv-ky-oh",2,280
+26620,"huntsville, al",2,5203
+26660,"huntsville, tx",5,527
+26700,"huron, sd",5,30
+26740,"hutchinson, ks",5,40
+26780,"hutchinson, mn",5,57
+26820,"idaho falls, id",2,2545
+26860,"indiana, pa",5,44
+26900,"indianapolis-carmel-greenwood, in",2,11890
+26980,"iowa city, ia",2,756
+27020,"iron mountain, mi-wi",5,80
+27060,"ithaca, ny",2,382
+27100,"jackson, mi",4,317
+27140,"jackson, ms",2,1126
+27180,"jackson, tn",4,446
+27220,"jackson, wy-id",5,482
+27260,"jacksonville, fl",2,15006
+27300,"jacksonville, il",5,3
+27340,"jacksonville, nc",4,1246
+27380,"jacksonville, tx",5,39
+27420,"jamestown, nd",5,19
+27460,"jamestown-dunkirk, ny",5,127
+27500,"janesville-beloit, wi",2,629
+27540,"jasper, in",5,197
+27620,"jefferson city, mo",2,219
+27600,"jefferson, ga",5,2167
+27700,"jesup, ga",5,163
+27740,"johnson city, tn",2,1363
+27780,"johnstown, pa",2,64
+27860,"jonesboro, ar",2,993
+27900,"joplin, mo-ks",2,729
+27940,"juneau, ak",5,114
+27980,"kahului-wailuku, hi",4,906
+28020,"kalamazoo-portage, mi",2,339
+28060,"kalispell, mt",5,281
+28100,"kankakee, il",2,145
+28140,"kansas city, mo-ks",2,9337
+28180,"kapaa, hi",5,141
+28260,"kearney, ne",5,135
+28300,"keene, nh",5,166
+28340,"kendallville, in",5,131
+28380,"kennett, mo",5,30
+28420,"kennewick-richland, wa",2,2513
+28450,"kenosha, wi",2,259
+28500,"kerrville, tx",5,422
+28540,"ketchikan, ak",5,73
+28580,"key west-key largo, fl",5,332
+28620,"kill devil hills, nc",5,371
+28660,"killeen-temple, tx",4,3626
+28680,"kingsland, ga",5,383
+28700,"kingsport-bristol, tn-va",2,740
+28740,"kingston, ny",2,464
+28780,"kingsville, tx",5,24
+28820,"kinston, nc",5,148
+28860,"kirksville, mo",5,26
+28880,"kiryas joel-poughkeepsie-newburgh, ny",2,2366
+28900,"klamath falls, or",5,232
+28940,"knoxville, tn",2,7001
+29020,"kokomo, in",2,194
+29100,"la crosse-onalaska, wi-mn",2,433
+29260,"la grande, or",5,38
+29060,"laconia, nh",5,301
+29180,"lafayette, la",2,2004
+29200,"lafayette-west lafayette, in",2,1400
+29300,"lagrange, ga-al",5,517
+29340,"lake charles, la",2,1394
+29380,"lake city, fl",5,178
+29420,"lake havasu city-kingman, az",4,2543
+29470,"lake of the woods, va",5,412
+29460,"lakeland-winter haven, fl",2,10384
+29540,"lancaster, pa",4,1093
+29620,"lansing-east lansing, mi",2,602
+29660,"laramie, wy",5,99
+29700,"laredo, tx",4,1448
+29740,"las cruces, nm",2,964
+29780,"las vegas, nm",5,0
+29820,"las vegas-henderson-north las vegas, nv",2,14754
+29860,"laurel, ms",5,26
+29900,"laurinburg, nc",5,70
+29940,"lawrence, ks",2,246
+29980,"lawrenceburg, tn",5,27
+30020,"lawton, ok",2,133
+30180,"le mars, ia",5,147
+30060,"lebanon, mo",5,61
+30140,"lebanon, pa",2,315
+30150,"lebanon-claremont, nh-vt",5,998
+30260,"lewisburg, pa",5,49
+30280,"lewisburg, tn",5,400
+30300,"lewiston, id-wa",4,226
+30340,"lewiston-auburn, me",2,358
+30380,"lewistown, pa",5,58
+30500,"lexington park, md",2,366
+30420,"lexington, ne",5,69
+30460,"lexington-fayette, ky",2,2201
+30580,"liberal, ks",5,23
+30620,"lima, oh",2,88
+30660,"lincoln, il",5,10
+30700,"lincoln, ne",2,2034
+30780,"little rock-north little rock-conway, ar",2,2530
+30820,"lock haven, pa",5,44
+30860,"logan, ut-id",4,1111
+30900,"logansport, in",5,22
+30980,"longview, tx",4,316
+31020,"longview-kelso, wa",2,348
+31060,"los alamos, nm",5,14
+31080,"los angeles-long beach-anaheim, ca",2,26671
+31140,"louisville-jefferson county, ky-in",2,5771
+31180,"lubbock, tx",2,2231
+31220,"ludington, mi",5,177
+31260,"lufkin, tx",5,120
+31300,"lumberton, nc",5,337
+31340,"lynchburg, va",4,1404
+31380,"macomb, il",5,0
+31420,"macon-bibb county, ga",2,591
+31500,"madison, in",5,94
+31540,"madison, wi",2,5872
+31580,"madisonville, ky",5,122
+31620,"magnolia, ar",5,14
+31680,"malvern, ar",5,4
+31700,"manchester-nashua, nh",2,981
+31740,"manhattan, ks",4,339
+31820,"manitowoc, wi",5,100
+31860,"mankato, mn",2,378
+31900,"mansfield, oh",2,145
+31930,"marietta, oh",5,3
+31940,"marinette, wi-mi",5,171
+31980,"marion, in",5,52
+32000,"marion, nc",5,175
+32020,"marion, oh",5,53
+32060,"marion-herrin, il",5,130
+32100,"marquette, mi",5,91
+32140,"marshall, mn",5,91
+32180,"marshall, mo",5,11
+32260,"marshalltown, ia",5,35
+32280,"martin, tn",5,69
+32300,"martinsville, va",5,38
+32340,"maryville, mo",5,49
+32380,"mason city, ia",5,54
+32390,"massena-ogdensburg, ny",5,215
+32460,"mayfield, ky",5,9
+32540,"mcalester, ok",5,46
+32580,"mcallen-edinburg-mission, tx",2,7378
+32620,"mccomb, ms",5,10
+32660,"mcminnville, tn",5,282
+32700,"mcpherson, ks",5,102
+32740,"meadville, pa",5,83
+32780,"medford, or",2,904
+32820,"memphis, tn-ms-ar",2,4205
+32860,"menomonie, wi",5,151
+32900,"merced, ca",2,459
+32940,"meridian, ms",5,18
+33020,"mexico, mo",5,27
+33060,"miami, ok",5,3
+33100,"miami-fort lauderdale-west palm beach, fl",2,16136
+33140,"michigan city-la porte, in",2,216
+33180,"middlesborough, ky",5,44
+33220,"midland, mi",2,320
+33260,"midland, tx",2,1509
+33300,"milledgeville, ga",5,202
+33340,"milwaukee-waukesha, wi",2,3930
+33380,"minden, la",5,36
+33420,"mineral wells, tx",5,27
+33460,"minneapolis-st. paul-bloomington, mn-wi",2,14828
+33500,"minot, nd",4,135
+33540,"missoula, mt",4,777
+33580,"mitchell, sd",5,74
+33620,"moberly, mo",5,25
+33660,"mobile, al",2,1678
+33700,"modesto, ca",2,923
+33740,"monroe, la",2,385
+33780,"monroe, mi",2,264
+33860,"montgomery, al",2,773
+33900,"monticello, in",5,47
+33910,"monticello, ny",5,739
+33940,"montrose, co",5,271
+33980,"morehead city, nc",5,935
+34020,"morgan city, la",5,37
+34060,"morgantown, wv",4,25
+34100,"morristown, tn",2,552
+34140,"moscow, id",5,199
+34180,"moses lake, wa",5,559
+34220,"moultrie, ga",5,94
+34340,"mount airy, nc",5,243
+34380,"mount pleasant, mi",5,72
+34420,"mount pleasant, tx",5,53
+34460,"mount sterling, ky",5,56
+34500,"mount vernon, il",5,6
+34540,"mount vernon, oh",5,195
+34580,"mount vernon-anacortes, wa",2,561
+34260,"mountain home, ar",5,47
+34300,"mountain home, id",5,129
+34620,"muncie, in",2,171
+34660,"murray, ky",5,81
+34680,"murrells inlet, sc",5,323
+34700,"muscatine, ia",5,65
+34740,"muskegon-norton shores, mi",2,438
+34780,"muskogee, ok",5,58
+34820,"myrtle beach-conway-north myrtle beach, sc",2,7369
+34860,"nacogdoches, tx",5,35
+34880,"nantucket, ma",5,262
+34900,"napa, ca",2,427
+34940,"naples-marco island, fl",2,3520
+34980,"nashville-davidson--murfreesboro--franklin, tn",2,19947
+35020,"natchez, ms-la",5,33
+35060,"natchitoches, la",5,95
+35100,"new bern, nc",5,631
+35220,"new castle, in",5,47
+35300,"new haven, ct",2,1059
+35340,"new iberia, la",5,94
+35380,"new orleans-metairie, la",2,1627
+35420,"new philadelphia-dover, oh",5,244
+35580,"new ulm, mn",5,41
+35620,"new york-newark-jersey city, ny-nj",2,58580
+35140,"newberry, sc",5,155
+35440,"newport, or",5,287
+35460,"newport, tn",5,13
+35660,"niles, mi",2,397
+35700,"nogales, az",5,340
+35740,"norfolk, ne",5,293
+35820,"north platte, ne",5,69
+35840,"north port-bradenton-sarasota, fl",2,14938
+35900,"north wilkesboro, nc",5,134
+35940,"norwalk, oh",5,40
+35980,"norwich-new london-willimantic, ct",2,487
+36020,"oak harbor, wa",5,402
+36100,"ocala, fl",4,7071
+36180,"ocean pines, md",5,354
+36220,"odessa, tx",2,1004
+36260,"ogden, ut",2,3287
+36340,"oil city, pa",5,42
+36380,"okeechobee, fl",5,18
+36420,"oklahoma city, ok",2,6896
+36460,"olean, ny",5,128
+36500,"olympia-lacey-tumwater, wa",2,1222
+36540,"omaha, ne-ia",2,7214
+36580,"oneonta, ny",5,133
+36620,"ontario, or-id",5,274
+36660,"opelousas, la",5,142
+36700,"orangeburg, sc",5,87
+36740,"orlando-kissimmee-sanford, fl",2,23644
+36780,"oshkosh-neenah, wi",2,652
+36820,"oskaloosa, ia",5,13
+36830,"othello, wa",5,49
+36837,"ottawa, il",5,109
+36840,"ottawa, ks",5,85
+36900,"ottumwa, ia",5,44
+36940,"owatonna, mn",5,28
+36980,"owensboro, ky",4,227
+37020,"owosso, mi",5,74
+37060,"oxford, ms",5,527
+37100,"oxnard-thousand oaks-ventura, ca",2,1759
+37120,"ozark, al",5,38
+37140,"paducah, ky-il",2,192
+37260,"palatka, fl",5,113
+37300,"palestine, tx",5,29
+37340,"palm bay-melbourne-titusville, fl",4,4602
+37420,"pampa, tx",5,7
+37460,"panama city-panama city beach, fl",4,2690
+37500,"paragould, ar",5,265
+37540,"paris, tn",5,19
+37580,"paris, tx",5,133
+37620,"parkersburg-vienna, wv",2,138
+37740,"payson, az",5,217
+37800,"pella, ia",5,122
+37860,"pensacola-ferry pass-brent, fl",4,3462
+37900,"peoria, il",2,196
+37940,"peru, in",5,35
+37950,"petoskey, mi",5,161
+37980,"philadelphia-camden-wilmington, pa-nj-de-md",2,13624
+38060,"phoenix-mesa-chandler, az",2,45515
+38100,"picayune, ms",5,326
+38180,"pierre, sd",5,147
+38210,"pikeville, ky",5,9
+38220,"pine bluff, ar",5,62
+38240,"pinehurst-southern pines, nc",2,941
+38260,"pittsburg, ks",5,65
+38300,"pittsburgh, pa",2,5469
+38340,"pittsfield, ma",4,130
+38380,"plainview, tx",5,13
+38420,"platteville, wi",5,120
+38460,"plattsburgh, ny",5,192
+38500,"plymouth, in",5,147
+38540,"pocatello, id",4,325
+38620,"ponca city, ok",5,11
+38700,"pontiac, il",5,35
+38740,"poplar bluff, mo",5,63
+38820,"port angeles, wa",5,166
+38920,"port lavaca, tx",5,95
+38940,"port st. lucie, fl",2,5605
+39040,"port townsend, wa",5,147
+38860,"portland-south portland, me",2,2984
+38900,"portland-vancouver-hillsboro, or-wa",2,9129
+39020,"portsmouth, oh",5,8
+39060,"pottsville, pa",5,169
+39150,"prescott valley-prescott, az",4,2062
+39220,"price, ut",5,196
+39300,"providence-warwick, ri-ma",2,2441
+39340,"provo-orem-lehi, ut",2,6433
+39380,"pueblo, co",2,269
+39420,"pullman, wa",5,49
+39460,"punta gorda, fl",2,4585
+39480,"putnam, ct",5,149
+39500,"quincy, il-mo",5,68
+39540,"racine-mount pleasant, wi",2,505
+39580,"raleigh-cary, nc",2,18980
+39660,"rapid city, sd",2,1551
+39700,"raymondville, tx",5,36
+39740,"reading, pa",2,258
+39780,"red bluff, ca",5,186
+39860,"red wing, mn",5,86
+39820,"redding, ca",2,246
+39900,"reno, nv",2,4391
+39940,"rexburg, id",5,409
+39960,"rice lake, wi",5,156
+39980,"richmond, in",5,38
+40060,"richmond, va",4,8625
+40080,"richmond-berea, ky",5,453
+40090,"rifle, co",5,316
+40100,"rio grande city-roma, tx",5,0
+40140,"riverside-san bernardino-ontario, ca",2,14653
+40180,"riverton, wy",5,22
+40260,"roanoke rapids, nc",5,72
+40220,"roanoke, va",4,1054
+40300,"rochelle, il",5,113
+40340,"rochester, mn",2,1521
+40380,"rochester, ny",2,1826
+40540,"rock springs, wy",5,47
+40420,"rockford, il",2,341
+40460,"rockingham, nc",5,54
+40580,"rocky mount, nc",2,550
+40620,"rolla, mo",5,162
+40660,"rome, ga",2,355
+40700,"roseburg, or",5,190
+40740,"roswell, nm",5,88
+40760,"ruidoso, nm",5,92
+40770,"russellville, al",5,15
+40780,"russellville, ar",5,65
+40820,"ruston, la",5,171
+40860,"rutland, vt",5,90
+40900,"sacramento-roseville-folsom, ca",2,11518
+40940,"safford, az",5,137
+40980,"saginaw, mi",2,154
+41400,"salem, oh",5,49
+41420,"salem, or",2,1768
+41460,"salina, ks",5,305
+41500,"salinas, ca",4,530
+41540,"salisbury, md",2,327
+41620,"salt lake city-murray, ut",2,5837
+41660,"san angelo, tx",4,233
+41700,"san antonio-new braunfels, tx",2,14776
+41740,"san diego-chula vista-carlsbad, ca",4,11759
+41860,"san francisco-oakland-fremont, ca",2,5829
+41940,"san jose-sunnyvale-santa clara, ca",2,4119
+42020,"san luis obispo-paso robles, ca",4,1104
+41760,"sandpoint, id",5,147
+41780,"sandusky, oh",2,256
+41820,"sanford, nc",5,602
+42100,"santa cruz-watsonville, ca",2,224
+42140,"santa fe, nm",2,244
+42200,"santa maria-santa barbara, ca",4,719
+42220,"santa rosa-petaluma, ca",4,1039
+42300,"sault ste. marie, mi",5,92
+42340,"savannah, ga",2,4040
+42380,"sayre, pa",5,66
+42420,"scottsbluff, ne",5,33
+42460,"scottsboro, al",5,46
+42540,"scranton--wilkes-barre, pa",4,633
+42580,"seaford, de",5,4354
+42620,"searcy, ar",5,219
+42660,"seattle-tacoma-bellevue, wa",2,17746
+42680,"sebastian-vero beach-west vero corridor, fl",2,564
+42700,"sebring-, fl",4,980
+42740,"sedalia, mo",5,109
+42780,"selinsgrove, pa",5,48
+42820,"selma, al",5,7
+42900,"seneca falls, ny",5,48
+42860,"seneca, sc",5,648
+42940,"sevierville, tn",5,1594
+42980,"seymour, in",5,101
+43020,"shawano, wi",5,91
+43060,"shawnee, ok",5,183
+43100,"sheboygan, wi",4,383
+43140,"shelby-kings mountain, nc",5,461
+43180,"shelbyville, tn",5,630
+43220,"shelton, wa",5,299
+43260,"sheridan, wy",5,309
+43300,"sherman-denison, tx",2,2272
+43320,"show low, az",5,485
+43340,"shreveport-bossier city, la",2,1050
+43380,"sidney, oh",5,337
+43420,"sierra vista-douglas, az",4,437
+43460,"sikeston, mo",5,130
+43580,"sioux city, ia-ne-sd",2,253
+43620,"sioux falls, sd-mn",4,2774
+43640,"slidell-mandeville-covington, la",2,1064
+43660,"snyder, tx",5,32
+43700,"somerset, ky",5,117
+43740,"somerset, pa",5,78
+43760,"sonora, ca",5,60
+43780,"south bend-mishawaka, in-mi",2,882
+43890,"sparta, wi",5,93
+43900,"spartanburg, sc",2,3186
+43940,"spearfish, sd",5,217
+43980,"spencer, ia",5,11
+44020,"spirit lake, ia",5,295
+44060,"spokane-spokane valley, wa",2,3949
+44100,"springfield, il",2,234
+44140,"springfield, ma",2,453
+44180,"springfield, mo",4,2203
+44220,"springfield, oh",2,232
+41060,"st. cloud, mn",2,743
+41100,"st. george, ut",4,3140
+41140,"st. joseph, mo-ks",2,79
+41180,"st. louis, mo-il",2,6691
+41260,"st. marys, pa",5,53
+44260,"starkville, ms",5,74
+44300,"state college, pa",2,399
+44340,"statesboro, ga",5,694
+44420,"staunton-stuarts draft, va",2,566
+44460,"steamboat springs, co",5,615
+44500,"stephenville, tx",5,110
+44540,"sterling, co",5,11
+44580,"sterling, il",5,19
+44620,"stevens point-plover, wi",5,255
+44660,"stillwater, ok",5,182
+44700,"stockton-lodi, ca",2,3779
+44740,"storm lake, ia",5,164
+44780,"sturgis, mi",5,125
+44860,"sulphur springs, tx",5,66
+44900,"summerville, ga",5,2
+44940,"sumter, sc",2,386
+44980,"sunbury, pa",5,108
+45000,"susanville, ca",5,6
+45020,"sweetwater, tx",5,15
+45060,"syracuse, ny",2,925
+45140,"tahlequah, ok",5,48
+45180,"talladega-sylacauga, al",5,189
+45220,"tallahassee, fl",2,2404
+45300,"tampa-st. petersburg-clearwater, fl",4,20999
+45340,"taos, nm",5,127
+45380,"taylorville, il",5,26
+45460,"terre haute, in",4,162
+45500,"texarkana, tx-ar",4,162
+45520,"the dalles, or",5,48
+45580,"thomaston, ga",5,111
+45620,"thomasville, ga",5,268
+45660,"tiffin, oh",5,45
+45700,"tifton, ga",5,185
+45740,"toccoa, ga",5,52
+45780,"toledo, oh",4,932
+45820,"topeka, ks",4,387
+45860,"torrington, ct",5,154
+45880,"town of pecos, tx",5,22
+45900,"traverse city, mi",4,1232
+45940,"trenton-princeton, nj",2,2256
+45980,"troy, al",5,42
+46020,"truckee-grass valley, ca",5,215
+46060,"tucson, az",2,5268
+46100,"tullahoma-manchester, tn",5,420
+46140,"tulsa, ok",2,4304
+46180,"tupelo, ms",5,169
+46220,"tuscaloosa, al",4,639
+46300,"twin falls, id",4,735
+46340,"tyler, tx",2,595
+46380,"ukiah, ca",5,8
+46460,"union city, tn",5,21
+46520,"urban honolulu, hi",4,1638
+46500,"urbana, oh",5,42
+46540,"utica-rome, ny",4,258
+46620,"uvalde, tx",5,17
+46660,"valdosta, ga",4,983
+46700,"vallejo, ca",2,1472
+46780,"van wert, oh",5,44
+46820,"vermillion, sd",5,28
+46860,"vernal, ut",5,85
+46900,"vernon, tx",5,19
+46980,"vicksburg, ms",5,12
+47020,"victoria, tx",2,53
+47080,"vidalia, ga",5,56
+47180,"vincennes, in",5,36
+47220,"vineland, nj",2,216
+47240,"vineyard haven, ma",5,97
+47260,"virginia beach-chesapeake-norfolk, va-nc",2,4912
+47300,"visalia, ca",4,1447
+47340,"wabash, in",5,42
+47380,"waco, tx",4,1033
+47420,"wahpeton, nd-mn",5,53
+47460,"walla walla, wa",2,206
+47540,"wapakoneta, oh",5,121
+47580,"warner robins, ga",2,1694
+47620,"warren, pa",5,53
+47660,"warrensburg, mo",5,80
+47700,"warsaw, in",5,261
+47920,"washington court house, oh",5,71
+47780,"washington, in",5,71
+47820,"washington, nc",5,216
+47900,"washington-arlington-alexandria, dc-va-md-wv",2,21931
+47930,"waterbury-shelton, ct",2,502
+47940,"waterloo-cedar falls, ia",4,335
+47980,"watertown, sd",5,160
+48020,"watertown-fort atkinson, wi",5,145
+48060,"watertown-fort drum, ny",4,196
+48140,"wausau, wi",2,298
+48180,"waycross, ga",5,133
+48200,"waynesville, nc",5,537
+48220,"weatherford, ok",5,29
+48260,"weirton-steubenville, wv-oh",2,19
+48300,"wenatchee-east wenatchee, wa",4,1025
+48460,"west plains, mo",5,53
+48540,"wheeling, wv-oh",4,12
+48580,"whitewater-elkhorn, wi",5,474
+48660,"wichita falls, tx",4,269
+48620,"wichita, ks",2,3010
+48680,"wildwood-the villages, fl",2,3961
+48700,"williamsport, pa",2,73
+48780,"williston, nd",5,90
+48820,"willmar, mn",5,196
+48900,"wilmington, nc",4,9636
+48940,"wilmington, oh",5,119
+48980,"wilson, nc",5,580
+49010,"winchester, tn",5,422
+49020,"winchester, va-wv",2,1087
+49080,"winnemucca, nv",5,37
+49100,"winona, mn",5,37
+49180,"winston-salem, nc",2,5536
+49220,"wisconsin rapids-marshfield, wi",5,122
+49260,"woodward, ok",5,2
+49300,"wooster, oh",5,284
+49340,"worcester, ma",2,2293
+49380,"worthington, mn",5,19
+49420,"yakima, wa",4,468
+49460,"yankton, sd",5,179
+49620,"york-hanover, pa",2,1328
+49660,"youngstown-warren, oh",2,276
+49700,"yuba city, ca",2,823
+49740,"yuma, az",4,1399
+49780,"zanesville, oh",5,140

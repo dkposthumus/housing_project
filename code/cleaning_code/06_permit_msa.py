@@ -16,7 +16,8 @@ prelim_2024.columns = prelim_2024.columns.str.lower()
 
 prelim_2024.rename(
     columns = {
-        'name': 'msa_name',
+        'cbsa': 'cbsa23',
+        'name': 'cbsaname23',
         'metro /micro code': 'metro_micro_code',
         'total': 'new_permits_total',
         '1 unit': 'new_permits_1',
@@ -28,7 +29,8 @@ prelim_2024.rename(
 
 # now make all string columns lowercase values
 prelim_2024 = prelim_2024.apply(lambda col: col.str.lower() if col.dtype == "object" or pd.api.types.is_string_dtype(col) else col)
-prelim_2024['msa_name'] = prelim_2024['msa_name'].str.rstrip()
+prelim_2024['cbsaname23'] = prelim_2024['cbsaname23'].str.rstrip()
+prelim_2024 = prelim_2024[['cbsa23', 'cbsaname23', 'metro_micro_code', 'new_permits_total']]
 
 # export the data
-prelim_2024.to_csv(f'{clean_data}/prelim_2024_permitting.csv', index=False)
+prelim_2024.to_csv(f'{clean_data}/prelim_2023_permitting.csv', index=False)
