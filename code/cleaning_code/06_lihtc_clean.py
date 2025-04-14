@@ -16,13 +16,9 @@ df = df_raw.copy()
 df = df[['hud_id', 'project', 'proj_cty', 'proj_st', 'proj_zip', 'fips2020',
          'yr_pis', 'n_units', 'li_units', 'credit']]
 
-# now filter according to yr_pris (only 2021)
-df = df[df['yr_pis'] == 2021]
+df = df[df['yr_pis'].isin([2020, 2021, 2022])]
 # now only filter according to credit (only 1, corresponding to the 30% credit subsidy)
 df = df[df['credit'] == 1]
-df.drop(columns = {'yr_pis', 'credit'}, inplace=True)
-
-# now we need to manipulate the fips2020 code a little to get exactly what we want 
-
+df.drop(columns = {'credit'}, inplace=True)
 
 df.to_csv(f'{clean_data}/2021_lihtc_projects.csv', index=False)
