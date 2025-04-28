@@ -29,7 +29,9 @@ wharton_2020.rename(
         'osi18': 'open_space_2018',
         'ei18': 'exactions_2018',
         'ahi18': 'affordable_housing_2018',
-        'adi18': 'approval_delay_2018'
+        'adi18': 'approval_delay_2018',
+        'cbsacode18': 'cbsa', 
+        'cbsatitle18': 'cbsa_name'
     }, inplace=True
 )
 wharton_2020['year'] = 2018
@@ -53,13 +55,27 @@ state_mapping = {
     'SC': 'south carolina', 'SD': 'south dakota', 'TN': 'tennessee', 
     'TX': 'texas', 'UT': 'utah',
     'VT': 'vermont', 'VA': 'virginia', 'WA': 'washington', 
-    'WV': 'west virginia', 'WI': 'wisconsin', 'WY': 'wyoming'
+    'WV': 'west virginia', 'WI': 'wisconsin', 'WY': 'wyoming',
 }
 wharton_2020['state'] = wharton_2020['state'].str.strip().str.upper()
 wharton_2020['state'] = wharton_2020['state'].map(state_mapping)
 # replace all string values in dataset with lowercase 
 wharton_2020 = wharton_2020.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-wharton_2020['county_name'] = wharton_2020['countyname18'].str.replace(" county", "", regex=False)
+
+# wharton_2020['county_name'] = wharton_2020['countyname18'].str.replace(" county", "", regex=False)
+
+wharton_2020 = wharton_2020[[
+    'statecode', 'countycode18',
+    'fipsplacecode18', 'communityname18',
+    'cbsa', 'cbsa_name',
+    'local_political_pressure_2018', 'state_involvement_2018',
+    'court_involvement_2018', 'local_project_2018',
+    'local_zoning_2018', 'local_assembly_2018',
+    'supply_restrictions_2018', 'density_restriction_2018',
+    'open_space_2018', 'exactions_2018',
+    'affordable_housing_2018', 'approval_delay_2018',
+    'wrluri18', 'weight_full', 'weight_metro', 'weight_cbsa',
+]]
 
 # export
 wharton_2020.to_csv(f'{clean_data}/wharton_land_2020.csv', index=False)
