@@ -18,7 +18,7 @@ wharton_2020 = pd.read_stata(f'{raw_data}/WRLURI_01_15_2020.dta')
 wharton_2020.columns = wharton_2020.columns.str.lower()
 wharton_2020.rename(
     columns = {
-        'lppi18': 'local_involvement_2018',
+        'lppi18': 'local_political_pressure_2018',
         'spii18': 'state_involvement_2018',
         'cii18': 'court_involvement_2018',
         'lpai18': 'local_project_2018',
@@ -63,7 +63,6 @@ wharton_2020['county_name'] = wharton_2020['countyname18'].str.replace(" county"
 
 # export
 wharton_2020.to_csv(f'{clean_data}/wharton_land_2020.csv', index=False)
-
 
 # pull wharton_2008 data
 wharton_2008 = pd.read_stata(f'{raw_data}/WHARTON LAND REGULATION DATA_1_24_2008.dta')
