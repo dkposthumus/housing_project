@@ -134,7 +134,7 @@ for llm_var, var_label in zip(['overall_index', 'first_pc',
     plt.axvline(x=0)
     plt.axhline(y=0)
 
-    plt.title('Scatterplot of Normalized Overall Housing Regulatory Indices')
+    plt.title('Scatterplot of Normalized Housing Regulatory Indices')
     plt.xlabel(f'LLM {var_label} Index (Z-Score)')
     plt.ylabel('Wharton Land Use Survey (2018) (Z-Score)')
     plt.legend()
