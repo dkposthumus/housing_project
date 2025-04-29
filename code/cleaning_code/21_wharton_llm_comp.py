@@ -140,3 +140,31 @@ for llm_var, var_label in zip(['overall_index', 'first_pc',
     plt.tight_layout()
     plt.show()
 
+############################################################################################################
+# Scatter of housing affordability and regulations
+############################################################################################################
+cbsa_characteristics = pd.read_csv(f'{clean_data}/cbsa_characteristics.csv')
+cbsa_characteristics['cbsa'] = cbsa_characteristics['cbsa'].astype(str)
+master = pd.merge(master, cbsa_characteristics, on=['cbsa'], how='left')
+
+for var in ['overall_index', 'affordability_index']:
+    master[f'{var}_z'] = (master[var] - master[var].mean()) / master[var].std()
+
+x = master['overall_index_z']
+y = master['affordability_index_z']
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
+
+plt.axvline(x=0)
+plt.axhline(y=0)
+
+plt.title('Scatterplot of Normalized Housing Affordability and Regulation Indices')
+plt.xlabel(f'LLM {var_label} Index (Z-Score)')
+plt.ylabel('Housing Affordability Index (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
