@@ -111,6 +111,7 @@ plt.show()
 # Scatter of normalized overall index 
 ############################################################################################################
 master = master[master['_merge'] == 'both']
+master.drop(columns={'_merge'}, inplace=True)
 
 for llm_var, var_label in zip(['overall_index', 'first_pc',
                                'second_pc'],
@@ -141,30 +142,158 @@ for llm_var, var_label in zip(['overall_index', 'first_pc',
     plt.show()
 
 ############################################################################################################
-# Scatter of housing affordability and regulations
+# Scatter of regulations and housing affordability
 ############################################################################################################
 cbsa_characteristics = pd.read_csv(f'{clean_data}/cbsa_characteristics.csv')
 cbsa_characteristics['cbsa'] = cbsa_characteristics['cbsa'].astype(str)
-master = pd.merge(master, cbsa_characteristics, on=['cbsa'], how='left')
 
-for var in ['overall_index', 'affordability_index']:
+# now keep only the affordability index and year 
+cbsa_characteristics = cbsa_characteristics[['year', 'cbsa', 'affordability_index']]
+# now reshape wide so we have columns, corersponding to each year's affordability index
+cbsa_wide = cbsa_characteristics.pivot(index='cbsa', columns='year', values='affordability_index').reset_index()
+cbsa_wide.rename(
+    columns = {
+        2010: 'affordability_index_2010',
+        2023: 'affordability_index_2023'
+    }, inplace=True
+)
+master = pd.merge(master, cbsa_wide, on=['cbsa'], how='left')
+
+master.to_csv(f'{clean_data}/check.csv')
+
+for var in ['overall_index', 'affordability_index_2023', 'wrluri18']:
     master[f'{var}_z'] = (master[var] - master[var].mean()) / master[var].std()
 
-x = master['overall_index_z']
-y = master['affordability_index_z']
+temp = master.dropna(subset=['overall_index_z', 'affordability_index_2023_z'])
+x = temp['overall_index_z']
+y = temp['affordability_index_2023_z']
+cbsa_names = temp['cbsa_name']  # Assuming you have this column
 
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-'''for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
+for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
 
 plt.axvline(x=0)
 plt.axhline(y=0)
 
-plt.title('Scatterplot of Normalized Housing Affordability and Regulation Indices')
-plt.xlabel(f'LLM {var_label} Index (Z-Score)')
-plt.ylabel('Housing Affordability Index (Z-Score)')
+plt.title('Scatterplot of Normalized Housing Affordability and LLM Regulation Index')
+plt.xlabel('LLM Regulation Index (Z-Score)')
+plt.ylabel('Housing Affordability Index (2023) (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+# now let's look at the 2010-2023 CHANGE (%) in affordability
+temp['affordability_pct_chg'] = (temp['affordability_index_2023'] 
+                               - temp['affordability_index_2010']) / temp['affordability_index_2010']
+temp['affordability_pct_chg_z'] = (temp['affordability_pct_chg'] 
+                                   - temp['affordability_pct_chg'].mean()) / temp['affordability_pct_chg'].std()
+temp = temp.dropna(subset=['affordability_pct_chg_z'])
+x = temp['overall_index_z']
+y = temp['affordability_pct_chg_z']
+cbsa_names = temp['cbsa_name']  # Assuming you have this column
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+
+plt.axvline(x=0)
+plt.axhline(y=0)
+
+plt.title('Scatterplot of Normalized Housing Affordability % Change and LLM Regulation Index')
+plt.xlabel('LLM Regulation Index (Z-Score)')
+plt.ylabel('Housing Affordability Index % Change (2010 - 2023) (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+temp = master.dropna(subset=['wrluri18_z', 'affordability_index_2023_z'])
+x = temp['wrluri18_z']
+y = temp['affordability_index_2023_z']
+cbsa_names = temp['cbsa_name']  # Assuming you have this column
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+
+plt.axvline(x=0)
+plt.axhline(y=0)
+
+plt.title('Scatterplot of Normalized Housing Affordability and Wharton Regulation Index')
+plt.xlabel('Wharton Regulation Index (Z-Score)')
+plt.ylabel('Housing Affordability Index (2023) (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+############################################################################################################
+# Scatter of regulations/affordability and permits 
+############################################################################################################
+permit = pd.read_csv(f'{clean_data}/prelim_2023_permitting.csv')
+permit.rename(
+    columns = {
+          'cbsa23': 'cbsa'
+    }, inplace=True
+)
+permit['cbsa'] = permit['cbsa'].astype(str)
+permit = permit[['cbsa', 'new_permits_total']]
+master = pd.merge(master, permit, on=['cbsa'], how='left')
+
+cbsa_characteristics = pd.read_csv(f'{clean_data}/cbsa_characteristics.csv')
+cbsa_characteristics['cbsa'] = cbsa_characteristics['cbsa'].astype(str)
+cbsa_characteristics = cbsa_characteristics[cbsa_characteristics['year'] == 2023]
+# now keep only the affordability index and year 
+cbsa_characteristics = cbsa_characteristics[['cbsa', 'total_housing_units']]
+master = pd.merge(master, cbsa_characteristics, on=['cbsa'], how='left')
+
+# now construct permit as share of housing stock variable 
+master['permits_share'] = master['new_permits_total'] / master['total_housing_units']
+
+for var in ['overall_index', 'affordability_index_2023', 'permits_share']:
+    master[f'{var}_z'] = (master[var] - master[var].mean()) / master[var].std()
+
+temp = master.dropna(subset=['overall_index_z', 'affordability_index_2023_z', 'permits_share_z'])
+x = temp['overall_index_z']
+y = temp['permits_share_z']
+cbsa_names = temp['cbsa_name']  # Assuming you have this column
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+
+plt.axvline(x=0)
+plt.axhline(y=0)
+
+plt.title('Scatterplot of Normalized New Permit Issuance and LLM Regulation Index')
+plt.xlabel('LLM Regulation Index (Z-Score)')
+plt.ylabel('New Permits (Share of Housing Stock) (2024) (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+x = temp['permits_share_z']
+y = temp['affordability_index_2023_z']
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+
+plt.axvline(x=0)
+plt.axhline(y=0)
+
+plt.title('Scatterplot of Normalized New Permit Issuance and Housing Affordability')
+plt.xlabel('New Permits (Share of Housing Stock) (2024) (Z-Score)')
+plt.ylabel('Housing Affordability (Z-Score)')
 plt.legend()
 plt.tight_layout()
 plt.show()

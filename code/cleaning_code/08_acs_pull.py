@@ -23,7 +23,7 @@ variables = {
     'B25003_002E': 'Owner_Occupied_Housing_Units'
 }
 # 📌 List of years (ACS 1-year)
-years = [2010, 2024]
+years = [2010, 2023]
 # 📌 Base URL pattern
 BASE_URL_PATTERN = 'https://api.census.gov/data/{year}/acs/acs1'
 # 📌 Collect all years into a list
