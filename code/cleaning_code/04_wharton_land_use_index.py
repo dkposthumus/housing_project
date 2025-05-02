@@ -21,10 +21,11 @@ place_cbsa_crosswalk = pd.read_csv(f'{crosswalks}/place_cbsa_crosswalk.csv',
 place_cbsa_crosswalk.columns = place_cbsa_crosswalk.columns.str.lower()
 # we're only interested in a few of these columns
 place_cbsa_crosswalk = place_cbsa_crosswalk[['county subdivision (2014)',
-                                             'population (2010)']]
+                                             'population (2010)', 'cbsa (current)']]
 place_cbsa_crosswalk.rename(
     columns = {
-        'county subdivision (2014)': 'fipsplacecode18'
+        'county subdivision (2014)': 'fipsplacecode18',
+        'cbsa (current)': 'cbsa'
     }, inplace=True
 )
 
@@ -73,11 +74,16 @@ state_mapping = {
 }
 wharton_2020['state'] = wharton_2020['state'].str.strip().str.upper()
 wharton_2020['state'] = wharton_2020['state'].map(state_mapping)
+
+# let's drop instances where cbsa is null 
+wharton_2020 = wharton_2020.dropna(subset=['cbsa'])
+wharton_2020['cbsa'] = wharton_2020['cbsa'].astype(int)
+wharton_2020['cbsa'] = wharton_2020['cbsa'].astype(str)
 # replace all string values in dataset with lowercase 
 wharton_2020 = wharton_2020.applymap(lambda x: x.lower() if isinstance(x, str) else x)
 
 # we want to pull in the subdivision population numbers
-wharton_2020 = pd.merge(wharton_2020, place_cbsa_crosswalk, on=['fipsplacecode18'], how='left')
+wharton_2020 = pd.merge(wharton_2020, place_cbsa_crosswalk, on=['fipsplacecode18', 'cbsa'], how='left')
 # now we want to create a population weight variable 
 # first create a cbsa_total population variable 
 cbsa_pop = wharton_2020.groupby(['cbsa'])['population (2010)'].sum().reset_index()
