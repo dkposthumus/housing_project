@@ -9,11 +9,25 @@ work_dir = (home_dir / 'housing_project')
 data = (work_dir / 'data')
 raw_data = (data / 'raw')
 clean_data = (data / 'clean')
+crosswalks = (data / 'crosswalks')
 cleaning_code = Path.cwd() 
 output = (work_dir / 'output')
 
 # pull wharton_2020 data
 wharton_2020 = pd.read_stata(f'{raw_data}/WRLURI_01_15_2020.dta')
+# pull place_cbsa_crosswalk 
+place_cbsa_crosswalk = pd.read_csv(f'{crosswalks}/place_cbsa_crosswalk.csv', 
+                                   encoding='latin-1')
+place_cbsa_crosswalk.columns = place_cbsa_crosswalk.columns.str.lower()
+# we're only interested in a few of these columns
+place_cbsa_crosswalk = place_cbsa_crosswalk[['county subdivision (2014)',
+                                             'population (2010)']]
+place_cbsa_crosswalk.rename(
+    columns = {
+        'county subdivision (2014)': 'fipsplacecode18'
+    }, inplace=True
+)
+
 # let's rename key variables 
 wharton_2020.columns = wharton_2020.columns.str.lower()
 wharton_2020.rename(
@@ -62,19 +76,26 @@ wharton_2020['state'] = wharton_2020['state'].map(state_mapping)
 # replace all string values in dataset with lowercase 
 wharton_2020 = wharton_2020.applymap(lambda x: x.lower() if isinstance(x, str) else x)
 
-# wharton_2020['county_name'] = wharton_2020['countyname18'].str.replace(" county", "", regex=False)
+# we want to pull in the subdivision population numbers
+wharton_2020 = pd.merge(wharton_2020, place_cbsa_crosswalk, on=['fipsplacecode18'], how='left')
+# now we want to create a population weight variable 
+# first create a cbsa_total population variable 
+cbsa_pop = wharton_2020.groupby(['cbsa'])['population (2010)'].sum().reset_index()
+cbsa_pop.rename(columns={'population (2010)': 'cbsa_pop'}, inplace=True)
+wharton_2020 = pd.merge(wharton_2020, cbsa_pop, on='cbsa', how='left')
+wharton_2020['cbsa_weight'] = (wharton_2020['population (2010)']
+                               / wharton_2020['cbsa_pop'])
 
 wharton_2020 = wharton_2020[[
-    'statecode', 'countycode18',
-    'fipsplacecode18', 'communityname18',
-    'cbsa', 'cbsa_name',
+    'statecode', 'cbsa', 'cbsa_weight',
+    'fipsplacecode18',
     'local_political_pressure_2018', 'state_involvement_2018',
     'court_involvement_2018', 'local_project_2018',
     'local_zoning_2018', 'local_assembly_2018',
     'supply_restrictions_2018', 'density_restriction_2018',
     'open_space_2018', 'exactions_2018',
     'affordable_housing_2018', 'approval_delay_2018',
-    'wrluri18', 'weight_full', 'weight_metro', 'weight_cbsa',
+    'wrluri18'
 ]]
 
 # export

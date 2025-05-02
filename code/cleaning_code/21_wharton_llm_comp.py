@@ -26,12 +26,12 @@ vars_to_aggregate = [
     'wrluri18'
 ]
 # Step 2: Subset and drop missing weight_cbsa or cbsacode18
-df_cbsa = wharton[['cbsa', 'weight_cbsa'] + vars_to_aggregate].dropna(subset=['cbsa', 'weight_cbsa'])
+df_cbsa = wharton[['cbsa', 'cbsa_weight'] + vars_to_aggregate].dropna(subset=['cbsa', 'cbsa_weight'])
 # Step 3: For safety, also drop rows where all vars_to_aggregate are missing
 df_cbsa = df_cbsa.dropna(subset=vars_to_aggregate, how='all')
 # Step 4: Define a function to compute weighted averages
 def weighted_avg(group):
-    w = group['weight_cbsa']
+    w = group['cbsa_weight']
     return (group[vars_to_aggregate].multiply(w, axis=0)).sum() / w.sum()
 # Step 5: Group by CBSA and apply
 cbsa_aggregated = df_cbsa.groupby('cbsa').apply(weighted_avg).reset_index()
@@ -172,8 +172,8 @@ cbsa_names = temp['cbsa_name']  # Assuming you have this column
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
 
 plt.axvline(x=0)
 plt.axhline(y=0)
@@ -198,8 +198,8 @@ cbsa_names = temp['cbsa_name']  # Assuming you have this column
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
 
 plt.axvline(x=0)
 plt.axhline(y=0)
@@ -219,8 +219,8 @@ cbsa_names = temp['cbsa_name']  # Assuming you have this column
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
 
 plt.axvline(x=0)
 plt.axhline(y=0)
@@ -266,8 +266,8 @@ cbsa_names = temp['cbsa_name']  # Assuming you have this column
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
 
 plt.axvline(x=0)
 plt.axhline(y=0)
@@ -285,8 +285,8 @@ y = temp['affordability_index_2023_z']
 plt.scatter(x, y)
 m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
 plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
-for xi, yi, label in zip(x, y, cbsa_names):
-        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')
+'''for xi, yi, label in zip(x, y, cbsa_names):
+        plt.text(xi, yi, label, fontsize=6, ha='right', va='bottom')'''
 
 plt.axvline(x=0)
 plt.axhline(y=0)
