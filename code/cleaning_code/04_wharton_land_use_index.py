@@ -29,6 +29,19 @@ place_cbsa_crosswalk.rename(
     }, inplace=True
 )
 
+# pull in 2008 place_cbsa_crosswalk
+place_cbsa_crosswalk_2008 = pd.read_csv(f'{crosswalks}/place_cbsa_crosswalk_2008.csv', 
+                                   encoding='latin-1')
+place_cbsa_crosswalk_2008.columns = place_cbsa_crosswalk_2008.columns.str.lower()
+place_cbsa_crosswalk_2008 = place_cbsa_crosswalk_2008[['placefp', 'cbsa', 'stab', 'pop2k', 'cbsaname']]
+place_cbsa_crosswalk_2008.rename(
+    columns = {
+        'placefp': 'ufips',
+        'stab': 'statename'
+    }, inplace=True
+)
+
+
 # let's rename key variables 
 wharton_2020.columns = wharton_2020.columns.str.lower()
 wharton_2020.rename(
@@ -93,7 +106,7 @@ wharton_2020['cbsa_weight'] = (wharton_2020['population (2010)']
                                / wharton_2020['cbsa_pop'])
 
 wharton_2020 = wharton_2020[[
-    'statecode', 'cbsa', 'cbsa_weight',
+    'statecode', 'cbsa', 'cbsa_weight', 'communityname18',
     'fipsplacecode18',
     'local_political_pressure_2018', 'state_involvement_2018',
     'court_involvement_2018', 'local_project_2018',
@@ -111,6 +124,28 @@ wharton_2020.to_csv(f'{clean_data}/wharton_land_2020.csv', index=False)
 wharton_2008 = pd.read_stata(f'{raw_data}/WHARTON LAND REGULATION DATA_1_24_2008.dta')
 wharton_2008.columns = wharton_2008.columns.str.lower()
 wharton_2008['year'] = 2008
+
+# now merge in place population numbers 
+wharton_2008 = pd.merge(wharton_2008, place_cbsa_crosswalk_2008, on=['ufips', 'statename'], how='left')
+
+# now we want to create a population weight variable 
+# first create a cbsa_total population variable 
+cbsa_pop = wharton_2008.groupby(['cbsa'])['pop2k'].sum().reset_index()
+cbsa_pop.rename(columns={'pop2k': 'cbsa_pop'}, inplace=True)
+wharton_2008 = pd.merge(wharton_2008, cbsa_pop, on='cbsa', how='left')
+wharton_2008['cbsa_weight'] = (wharton_2008['pop2k']
+                               / wharton_2008['cbsa_pop'])
+
+wharton_2008.rename(
+    columns = {
+        'wrluri': 'wrluri08',
+    }, inplace=True
+)
+
+wharton_2008 = wharton_2008[[
+    'ufips', 'name', 'cbsa', 'cbsaname',
+    'cbsa_weight', 'wrluri08'
+]]
 
 # export
 wharton_2008.to_csv(f'{clean_data}/wharton_land_2008.csv', index=False)
