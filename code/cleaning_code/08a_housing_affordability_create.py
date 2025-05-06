@@ -33,4 +33,10 @@ master['necessary_income'] = ((master['monthly_payment'] * 12) / master['median_
 master['qualifying_income'] = master['monthly_payment'] * 4 * 12
 master['affordability_index'] = (master['median_household_income'] / master['qualifying_income']) * 100
 
+master = master[[
+    'total_population', 'median_household_income', 
+    'median_gross_rent', 'cbsa', 'year', 'affordability_index',
+    'total_housing_units'
+]]
+
 master.to_csv(f'{clean_data}/cbsa_characteristics.csv', index=False)

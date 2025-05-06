@@ -148,9 +148,9 @@ cbsa_characteristics = pd.read_csv(f'{clean_data}/cbsa_characteristics.csv')
 cbsa_characteristics['cbsa'] = cbsa_characteristics['cbsa'].astype(str)
 
 # now keep only the affordability index and year 
-cbsa_characteristics = cbsa_characteristics[['year', 'cbsa', 'affordability_index']]
+cbsa_filtered = cbsa_characteristics[['year', 'cbsa', 'affordability_index']]
 # now reshape wide so we have columns, corersponding to each year's affordability index
-cbsa_wide = cbsa_characteristics.pivot(index='cbsa', columns='year', values='affordability_index').reset_index()
+cbsa_wide = cbsa_filtered.pivot(index='cbsa', columns='year', values='affordability_index').reset_index()
 cbsa_wide.rename(
     columns = {
         2010: 'affordability_index_2010',
@@ -228,6 +228,40 @@ plt.axhline(y=0)
 plt.title('Scatterplot of Normalized Housing Affordability and Wharton Regulation Index')
 plt.xlabel('Wharton Regulation Index (Z-Score)')
 plt.ylabel('Housing Affordability Index (2023) (Z-Score)')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+# then, let's get an idea of the difference in the estimate 
+temp['index_gap'] = temp['overall_index_z'] - temp['wrluri18_z']
+cbsa_filtered = cbsa_characteristics[['year', 'cbsa', 'total_population']]
+# now reshape wide so we have columns, corersponding to each year's affordability index
+cbsa_wide = cbsa_filtered.pivot(index='cbsa', columns='year', values='total_population').reset_index()
+cbsa_wide.rename(
+    columns = {
+        2010: 'population_2010',
+        2023: 'population_2023'
+    }, inplace=True
+)
+temp = pd.merge(temp, cbsa_wide, on=['cbsa'], how='left')
+
+# now make z-score version of population variable 
+temp['population_2023_z'] = (temp['population_2023'] - temp['population_2023'].mean()) / temp['population_2023'].std()
+
+# now plot a scatterplot of population and gap in index
+x = temp['population_2023_z']
+y = temp['index_gap']
+
+plt.scatter(x, y)
+m, b = np.polyfit(x, y, 1)  # 1 = degree of polynomial -> linear fit
+plt.plot(x, m*x + b, color='red', label=f'Best Fit: y = {m:.2f}x + {b:.2f}', linestyle='--')
+
+plt.axvline(x = 0)
+plt.axhline(y = 0)
+
+plt.title('Scatterplot of CBSA Population (2023) and Gap in Housing Regulatory Indices')
+plt.xlabel('CBSA Population (2023) (Z-Score)')
+plt.ylabel('Gap in Housing Regulatory Indices (LLM - Wharton) (Z-Score)')
 plt.legend()
 plt.tight_layout()
 plt.show()
