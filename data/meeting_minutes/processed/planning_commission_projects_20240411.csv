@@ -1,0 +1,6 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1,2023-010016CUA,3225 Fillmore Street,"Continued to May 9, 2024","Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-04-11
+2,2022-000438DRP,322 Frederick Street,"Continued to May 23, 2024","Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-04-11
+3,2023-011307DRP,1234 Francisco Street,Withdrawn,,,,0,continuance,2024-04-11
+8,2022-009383CUA,4000 21St Street,"Approved with Conditions as amended by the Sponsor, reducing the level of the","Braun, Imperial, Koppel, Diamond",Moore,21545,9,regular_calendar,2024-04-11
+9,2023-011051OFA,350 Rhode Island Street,"After hearing and closing PC; Continued to May 23, 2024 with direction from the","Williams, Braun, Imperial, Koppel, Moore, Diamond",None,,4,regular_calendar,2024-04-11

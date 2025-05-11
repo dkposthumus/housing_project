@@ -1,0 +1,8 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+2a,2024-002517DRP,246 Bocana Street,Withdrawn,,,,0,continuance,2024-11-21
+2b,2024-002517VAR,246 Bocana Street,"Acting ZA Continued to Variance Hearing on December 4, 2024",,,,0,continuance,2024-11-21
+10,2024-008952PCA,,"Continued to December 12, 2024","Campbell, Williams, Braun, Imperial, So",None,,0,continuance,2024-11-21
+11,2024-005689OTH,,"Continued to January 9, 2025","Campbell, Williams, Braun, Imperial, So",None,,0,continuance,2024-11-21
+14,2023-011348DRP,1934 Jefferson Street,"Continued to January 9, 2025","Campbell, Williams, Braun, Imperial, So",None,,0,continuance,2024-11-21
+12,2024-009286PPS,5172 Mission Street,Reviewed and Commented,,,,4,regular_calendar,2024-11-21
+13,2023-007106CUA,1126 Shafter Avenue,Approved with Conditions,"Campbell, Williams, Braun, Imperial, So",None,21653,1,regular_calendar,2024-11-21

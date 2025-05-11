@@ -1,0 +1,14 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1a,2022-009794DRP,1153 Guerrero Street,"Continued to April 4, 2024","Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-02-29
+1b,2022-009794VAR,1153 Guerrero Street,"ZA Continued to April 4, 2024",,,,0,continuance,2024-02-29
+2,2023-011051CUA,350 Rhode Island Street,Continued Indefinitely,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-02-29
+3,2023-009000PCA,,Withdrawn,,,,0,continuance,2024-02-29
+4,2023-007037CUA,2275 Market Street,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,21523,0,consent_calendar,2024-02-29
+5,2021-012389CUA,1400 Van Ness Avenue,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore",,21524,0,consent_calendar,2024-02-29
+6,2024-000035CUA,507 Clement Street,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,21525,0,consent_calendar,2024-02-29
+7,2023-007244CUA,2175 Market Street,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,21526,0,consent_calendar,2024-02-29
+8,2023-003061PCA,,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,21527,0,consent_calendar,2024-02-29
+9,2023-003893CUA,2245 Post Street,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore",,21528,0,consent_calendar,2024-02-29
+15,2023-001197CWP,,Reviewed and Commented,,,,4,regular_calendar,2024-02-29
+16,2020-007806CUA,1314 Page Street,"After hearing and closing PC; Continued to April 25, 2024","Braun, Ruiz, Koppel, Diamond","Imperial, Moore",,5,regular_calendar,2024-02-29
+17,2023-006990DRP,1846 Grove Street,No DR,"Braun, Ruiz, Imperial, Koppel, Moore, Diamond",,,10,regular_calendar,2024-02-29

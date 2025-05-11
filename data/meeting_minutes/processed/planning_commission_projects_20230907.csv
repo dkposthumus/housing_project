@@ -1,0 +1,13 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1,2023-005549PCA,,"Continued to November 2, 2023","Braun, Diamond, Imperial,  Koppel, Moore, Tanner",,,0,continuance,2023-09-07
+2,2023-005567PCA,,Continued Indefinitely,"Braun, Ruiz, Diamond, Imperial,  Koppel, Moore, Tanner",,,0,continuance,2023-09-07
+3,2022-011807CUA,51 Prosper Street,Withdrawn,,,,0,continuance,2023-09-07
+4,2022-008162CUA,3995 Alemany Boulevard,Approved with Conditions,"Braun, Ruiz, Diamond, Imperial,  Koppel, Moore, Tanner",None,,0,consent_calendar,2023-09-07
+5,2023-004249CUA,225 Gough Street,Approved with Conditions,"Braun, Ruiz, Diamond, Koppel, Moore, Tanner",None,,0,consent_calendar,2023-09-07
+6,2022-006017CUA,11 Franklin Street,Approved with Conditions,"Braun, Ruiz, Diamond, Koppel, Moore, Tanner",None,,0,consent_calendar,2023-09-07
+7,2020-006371CUA,2900 Franklin Street,Approved with Conditions,"Braun, Ruiz, Imperial,  Koppel, Moore, Tanner",None,,0,consent_calendar,2023-09-07
+8,2023-002723CUA,255 10Th Avenue,AYES:,NAYS :,,,1,consent_calendar,2023-09-07
+9,2023-004014CUA,815 Powell Street,AYES:,NAYS:,NAYS:,,1,consent_calendar,2023-09-07
+15,2023-005354PCA,,AYES:,NAYS:,RECUSED:,,0,regular_calendar,2023-09-07
+16,2015-012491ENV,749 Toland Street,Reviewed and commented,,,,0,regular_calendar,2023-09-07
+17,2022-012051CUA,79 28Th Street,AYES:,NAYS:,RECUSED:,,0,regular_calendar,2023-09-07

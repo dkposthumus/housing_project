@@ -1,0 +1,5 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+10,2024-010541CUA,1542 Haight Street,Approved with Conditions,"Campbell, McGarry, Williams, Braun, Imperial, Moore, So",None,21691,0,consent_calendar,2025-02-27
+11,2024-004085DRM,,Took DR and Approved with Conditions,"Campbell, McGarry, Williams, Braun, Imperial, Moore, So",None,,5,regular_calendar,2025-02-27
+17,2024-009753PCA,,Adopted a Recommendation for Approval with Staff modifications,"Campbell, McGarry, Williams, Braun, Imperial, So",Moore,21692,11,regular_calendar,2025-02-27
+18,2021-005878CWP,,Reviewed and Commented,,,,48,regular_calendar,2025-02-27

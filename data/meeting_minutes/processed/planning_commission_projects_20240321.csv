@@ -1,0 +1,9 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1,2023-007496DRP,638 Rhode Island Street,"Continued to April 4, 2024","Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-03-21
+2,2023-011307DRP,1234 Francisco Street,"Continued to April 11, 2024","Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-03-21
+3a,2019-017481DNX,530 Sansome Street,Approved with Conditions,"Williams, Braun, Imperial, Koppel, Moore, Diamond",,21533,0,consent_calendar,2024-03-21
+3b,2019-017481CUA,530 Sansome Street,Approved with Conditions,"Williams, Braun, Imperial, Koppel, Moore, Diamond",,21534,0,consent_calendar,2024-03-21
+3c,2019-017481VAR,530 Sansome Street,ZA Extended effective date,,,,0,consent_calendar,2024-03-21
+4,2024-000844CUA,1155 Pine Street,Approved with Conditions,"Williams, Braun, Imperial, Koppel, Moore, Diamond",,21535,0,consent_calendar,2024-03-21
+5,2023-008363CUA,1567 Sloat Boulevard,Approved with Conditions,"Williams, Braun, Imperial, Koppel, Moore, Diamond",,21536,0,consent_calendar,2024-03-21
+12,2022-011972CUA,557 23Rd Avenue,Approved with Conditions,"Williams, Braun, Imperial, Koppel, Moore, Diamond",,21537,2,regular_calendar,2024-03-21

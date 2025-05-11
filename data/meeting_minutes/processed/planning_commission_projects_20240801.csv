@@ -1,0 +1,6 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1a,2023-003652CUA,3901 Noriega Street,"Continued to September 19, 2024","McGarry, So, Williams, Braun, Imperial, Moore, Diamond",,,0,continuance,2024-08-01
+1b,2023-003652VAR,3901 Noriega Street,"ZA Continued to September 19, 2024",,,,0,continuance,2024-08-01
+14,2024-005624PCAMAP,,Adopted a Recommendation for Approval with Modifications 1 & 3 recommended,"Williams, Braun, Imperial, Moore","McGarry, So, Diamond",21600,7,regular_calendar,2024-08-01
+15,2024-005622PCA,,Adopted a Recommendation for Disapproval,"McGarry, So, Braun, Diamond","Williams, Imperial, Moore",21601,14,regular_calendar,2024-08-01
+16,2023-010863CUA,402 Murray Street,Approved with Conditions,"McGarry, So, Williams, Braun, Imperial, Moore, Diamond",,21602,2,regular_calendar,2024-08-01

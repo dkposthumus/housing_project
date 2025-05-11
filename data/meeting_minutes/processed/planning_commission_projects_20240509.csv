@@ -1,0 +1,18 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1a,2023-006982CUA,305 Liberty Street,"Continued to June 6, 2024","So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-05-09
+1b,2023-006982VAR,305 Liberty Street,"Acting ZA Continued to June 6, 2024",,,,0,continuance,2024-05-09
+2a,2023-003652CUA,3901 Noriega Street,"Continued to June 6, 2024","So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-05-09
+2b,2023-003652VAR,3901 Noriega Street,"Acting ZA Continued to June 6, 2024",,,,0,continuance,2024-05-09
+4,2022-006764CUA,680 Mission Street,"Continued to May 23, 2024","So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,,0,continuance,2024-05-09
+3,2023-003238CUA,1828 Egbert Avenue,Approved with Conditions,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21555,0,consent_calendar,2024-05-09
+6,2023-010016CUA,3225 Fillmore Street,Approved with Conditions,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21556,0,consent_calendar,2024-05-09
+5,2023-011615CUA,469 Stevenson Street,After being pulled off of Consent; Approved with Conditions,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21558,4,regular_calendar,2024-05-09
+16,2020-006798DRP,20 Paloma Avenue,Took DR and Approved with modifications,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,,2,regular_calendar,2024-05-09
+14,2021-012028ENV,,Certified,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21559,34,regular_calendar,2024-05-09
+15a,2021-012028ENV,,Adopted CEQA Findings and a Statement of Overriding Considerations,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21560,0,regular_calendar,2024-05-09
+15b,2021-012028SHD,,Adopted Shadow Findings as Amended by Staff,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21561,0,regular_calendar,2024-05-09
+15c,2021-012028GPA,,Approved as Amended by Staff,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21562,0,regular_calendar,2024-05-09
+15d,2021-012028PCA,,Approved as Amended by Staff,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21563,0,regular_calendar,2024-05-09
+15e,2021-012028MAP,,Approved,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21563,0,regular_calendar,2024-05-09
+15f,2021-012028DVA,,Approved,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21564,0,regular_calendar,2024-05-09
+15g,2021-012028CWP,,Approved,"So, Williams, Braun, Imperial, Koppel, Moore, Diamond",,21565,0,regular_calendar,2024-05-09

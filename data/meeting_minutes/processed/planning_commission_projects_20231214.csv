@@ -1,0 +1,18 @@
+item_num,code,address,action,aye_votes,nay_votes,motion_or_resolution,speakers_count,section,meeting_date
+1,2022-010007CUA,345 Spear Street,Continued Indefinitely,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,,0,continuance,2023-12-14
+2,2023-000711CUA,1060 Howard Street,Continued Indefinitely,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,,0,continuance,2023-12-14
+3,2023-007207CUA,615 Sansome Street,Approved with Conditions,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,21467,0,consent_calendar,2023-12-14
+4,2022-011663CUA,270 Masonic Avenue,Approved with Conditions,"Braun, Ruiz, Imperial, Koppel, Moore, Tanner",,21468,0,consent_calendar,2023-12-14
+10,2023-009168PCA,,Approved with Modifications,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,21469,1,regular_calendar,2023-12-14
+11a,2022-011490PCA,,Approved,"Braun, Ruiz, Diamond, Koppel, Moore, Tanner",Imperial,21470,8,regular_calendar,2023-12-14
+11b,2022-011490ENX,655 04Th Street,Approved with Conditions,"Braun, Ruiz, Diamond, Koppel, Moore, Tanner",Imperial,21471,0,regular_calendar,2023-12-14
+11c,2022-011490CUA,655 04Th Street,Approved with Conditions,"Braun, Ruiz, Diamond, Koppel, Moore, Tanner",Imperial,21472,0,regular_calendar,2023-12-14
+12,2023-011168CRV,,Approved as amended to include oral reports from the Director and a dedicated,"Braun, Diamond, Koppel, Tanner","Ruiz, Imperial, Moore",21473,9,regular_calendar,2023-12-14
+14,2020-006857CUA,724 Valencia Street,Approved with Conditions,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,21474,10,regular_calendar,2023-12-14
+15a,2015-009704ENX,505 Brannan Street,Approved with Conditions,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,21475,4,regular_calendar,2023-12-14
+15b,2015-009704OFA,505 Brannan Street,Approved with Conditions,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,21476,0,regular_calendar,2023-12-14
+15c,2015-009704VAR,505 Brannan Street,"ZA Closed the PH, indicated an intent to Grant",,,,0,regular_calendar,2023-12-14
+16a,2022-009794DRP,1153 Guerrero Street,"After hearing and closing PC; Continued to January 25, 2024 with direction for staff","Braun, Diamond, Imperial, Koppel, Moore, Tanner",,,4,regular_calendar,2023-12-14
+16b,2022-009794VAR,1153 Guerrero Street,"ZA Closed the PH; Continued to January 25, 2024",,,,0,regular_calendar,2023-12-14
+17a,2022-002609DRP,2475 Washington Street,No DR,"Braun, Ruiz, Diamond, Imperial, Koppel, Moore, Tanner",,,7,regular_calendar,2023-12-14
+17b,2022-002609VAR,2475 Washington Street,"ZA Closed the PH, indicated an intent to Grant",,,,0,regular_calendar,2023-12-14
