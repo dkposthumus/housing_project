@@ -9,7 +9,7 @@ home = Path.home()
 work_dir = home / "housing_project"
 data = work_dir / "data"
 minutes = data / "meeting_minutes"
-minutes_raw = minutes / "pdfs"
+minutes_raw = minutes / "raw"
 minutes_clean = minutes / "processed"
 text_dir = minutes / "text"
 text_dir.mkdir(parents=True, exist_ok=True)
@@ -72,15 +72,28 @@ def extract_projects(text):
 
     return pd.DataFrame(records)
 
-# === Process each PDF ===
-for pdf_file in minutes_raw.glob("*.pdf"):
-    try:
-        date_str = pdf_file.name[:8]  # 'YYYYMMDD'
-        meeting_date = pd.to_datetime(date_str, format='%Y%m%d', errors='coerce')
-
-        # Extract text from PDF
-        doc = fitz.open(pdf_file)
-        full_text = "\n".join(page.get_text() for page in doc)
+for year in range(1998, 2025):
+    minutes_subdir = minutes_raw / str(year)
+    
+    # PDF extraction for 1998–2000 and 2015–2024
+    if year in range(1998, 2001) or year in range(2015, 2025):
+        for pdf_file in minutes_subdir.glob("*.pdf"):
+            try:
+                doc = fitz.open(pdf_file)
+                full_text = "\n".join(page.get_text() for page in doc)
+                # Do something with full_text (e.g., save, analyze, etc.)
+            except Exception as e:
+                print(f"Failed to process {pdf_file}: {e}")
+    
+    # TXT format matching for 2001–2014
+    elif year in range(2001, 2015):
+        for txt_file in minutes_subdir.glob("*.txt"):
+            try:
+                with open(txt_file, "r", encoding="utf-8") as f:
+                    full_text = f.read()
+                    # Use full_text to compare format to PDF-extracted content
+            except Exception as e:
+                print(f"Failed to read {txt_file}: {e}")
 
         # Split into sections
         section_headers = list(re.finditer(r"\n([A-F])\.\s+([^\n]+)", full_text))
@@ -123,6 +136,3 @@ for pdf_file in minutes_raw.glob("*.pdf"):
             print(f"✓ Processed {pdf_file.name}")
         else:
             print(f"⚠ No projects found in {pdf_file.name}")
-
-    except Exception as e:
-        print(f"✗ Failed to process {pdf_file.name}: {e}")
