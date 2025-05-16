@@ -1,0 +1,24 @@
+@charset "utf-8";
+	
+.dropdownmenu > li > a:hover{color:#FF9900; text-decoration:none; border-bottom:0px;}	
+/*changed hover color - MT 06/10/14 */
+/**.dropdownrootitem11li{display:none;}**/
+.dropdownmenu > li > a:active{color:#F60; text-decoration:none; border-bottom:0px;}
+
+.dropdownrootitem1li{width:46px; /* display:none added by MT 06/10/14 */ display:none !important;}
+.dropdownrootitem2li{background:url("../_gfx/dept_images/nav_dividerf.gif") right no-repeat; width:116px; }
+.dropdownrootitem3li{background:url("../_gfx/dept_images/nav_dividerf.gif") right no-repeat; width:169px; }
+.dropdownrootitem4li{background:url("../_gfx/dept_images/nav_dividerf.gif") right no-repeat; width:166px; }
+.dropdownrootitem5li{background:url("../_gfx/dept_images/nav_dividerf.gif") right no-repeat; width:148px; }
+.dropdownrootitem6li{background:url("../_gfx/dept_images/nav_dividerf.gif") right no-repeat; width:160px; }
+.dropdownrootitem7li{width:214px;} /* changed from original 169px to compensate for having hidden graphic home item 1 above */
+
+a.dropdownrootitem1, a.dropdownrootitem2, a.dropdownrootitem3, a.dropdownrootitem4,
+a.dropdownrootitem5, a.dropdownrootitem6, a.dropdownrootitem7
+{text-align:center; padding-top:14px; margin-right:1px;height:26px; }
+
+
+a.dropdownrootitem7 {margin-right:0;}
+
+a.dropdownrootitem8, a.dropdownrootitem9, a.dropdownrootitem10
+{display:none;}

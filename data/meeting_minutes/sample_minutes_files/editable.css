@@ -1,0 +1,534 @@
+
+#indent {
+	margin-left:20px;
+}
+#a-z a {
+	margin:0;
+	font-weight:bold;
+	font-size:17px;
+}
+#a-z {
+	padding-top:15px;
+	padding-left:0px;
+	font-size:17px;
+}
+#publications {
+	width:700px;
+}
+#publications th {
+	border-bottom:1px solid #CCCCCC;
+	padding-top:20px;
+	text-align:left;
+	color: #000;
+	background-color:#FFFFFF;
+}
+#publications td {
+	padding:8px 0;
+	border-bottom:1px solid #eaeaea;
+	color:#454545;
+}
+#publications .title {
+	font-size:15px;
+}
+.pub-xsmall {
+	font-size: 8pt;
+}
+.contact-us-teams-blue {
+	background:#E4ECF0 center;
+	padding:10px;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+}
+.contact-us-teams-holder {
+	padding:10px;
+	margin-bottom:25px;
+}
+
+/*SUBPAGES*/
+
+.important {
+	/* used to be color: #dd358a; */
+	color:#F78E1E !important;
+	font-weight:bold;
+	padding-bottom:10px;
+	padding-top:5px;
+}
+.bigquote {
+	text-align:left; 
+	padding:0px 0px 20px 30px;
+	width:160px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	float:right;
+	font-size:22px;
+	font-weight:normal;
+	color:#7DAEAF;
+	line-height:27px;
+}
+.mainSpan_wrapper .container h2 {
+  	color: #454545;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+  	font-size: 22px;
+	font-weight: normal;
+ 	padding: 6px 0px 3px 0px;
+	line-height: 1.25em;
+/* 	display: inline-block; */
+	white-space: normal;
+	clear: none;
+/* 	border-left: 10px solid #b4ccd6;
+	position:relative;
+	left: -20px;  */
+}
+.mainSpan_wrapper .container h3 {
+  	color:rgb(67, 130, 163);
+  	font-size:15px;
+	font-weight: bold;
+	line-height:1.2em;
+	display: block;
+	white-space:normal;
+	clear:none;
+margin-top:3px;}
+
+.mainSpan_wrapper .container .content a.center  {
+	font-size: 13px;
+	font-weight:bold;
+}
+.sortable {width:730px; border-bottom:none; margin:0px}
+.sortable th {background:url("http://www.sfplanning.org/ftp/js/table-sorter/images/header-bg.gif"); text-align:left; color:#cfdce7; border-right:2px solid #fff; border-right:none;}
+.sortable th h3 {font-size:10px; padding:8px 8px 8px}
+.sortable td {padding:8px 6px 6px; font-size:9pt;}
+.sortable .name {font-size:10pt;}
+.sortable .head h3 {background:url("http://www.sfplanning.org/ftp/js/table-sorter/images/sort.gif") 7px center no-repeat; cursor:pointer; padding-left:18px}
+.sortable .desc, .sortable .asc {background:url("http://www.sfplanning.org/ftp/js/table-sorter/images/header-selected-bg.gif")}
+.sortable .desc h3 {background:url("http://www.sfplanning.org/ftp/js/table-sorter/images/desc.gif") 7px center no-repeat; cursor:pointer; padding-left:18px}
+.sortable .asc h3 {background:url("http://www.sfplanning.org/ftp/js/table-sorter/images/asc.gif") 7px  center no-repeat; cursor:pointer; padding-left:18px}
+.sortable .head:hover, .sortable .desc:hover, .sortable .asc:hover {color:#fff}
+.sortable .evenrow td {background:#fff}
+.sortable .oddrow td {background:#F2F1F1}
+.sortable td.evenselected {background:#F7F7F7;font-weight:bold;}
+.sortable td.oddselected {background:#EFEFEF;font-weight:bold;}
+
+.mainSpan_wrapper .container .highlight {color: #333333;display: inline-block;font-size: 16px;font-weight: bold;margin-top:4px;}
+.mainSpan_wrapper .container .content a, .mainSpan_wrapper .container .content a:visited {color:#1875B6;text-decoration:none;}
+.mainSpan_wrapper .container .content a:hover {text-decoration:underline;border-bottom: none;}
+.mainSpan_wrapper .container .content .date {font-size:11px;color:#c74284;font-family:Arial, Helvetica, sans-serif}
+.mainSpan_wrapper .container ul, .mainSpan_wrapper .container ol {margin-left:10px; padding-left: 6px;
+/* turned off 4/10/14 to provide cleaner alignments on multi-level list in tables  margin-bottom:20px;margin-top:0px;*/}
+.breadcrumb a:hover, .content a:hover {border-bottom:none;text-decoration: underline;}
+
+
+/*LIGHTBOX*/
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+.white_content {
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	padding: 16px;
+	border: 16px solid orange;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+
+/*SIDEBAR ON SUBPAGES*/
+
+#gov-delivery {
+	text-align: right;
+	width: 131px;
+	margin: 0;
+	padding-bottom: 1px;
+	float: right;
+	padding-left: 1px;
+	height:40px;
+}
+
+#gov-delivery .pagealert{
+	padding-top:0px;
+	padding-bottom:10px;
+	padding-left: 10px;
+	padding-right: 0px;
+}
+
+
+#main-sidebar {
+	text-align: left;
+	max-width: 231px; /* changed width to max-width for mobile devices MT 10/29/15 */
+	margin: 0;
+	padding-bottom: 30px;
+	float: right;
+	padding-left: 14px;
+}
+
+#main-sidebar .block {
+	padding:0;
+	margin:0 0 20px 0;
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	float: inherit; /* added to adjust layout on mobile MT 10/29/15 */
+}
+
+#main-sidebar .light .top {
+	width:221px;
+	height:29px;
+}
+
+/* LIGHT */
+#main-sidebar .light .pink {
+	background-image:url("http://sfplanning.org/ftp/files/global/light-top-pink.png");
+	background-repeat:no-repeat;
+}
+
+#main-sidebar .light .pink h2 {
+    padding: 0px 0px 0px 9px;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: rgb(128, 128, 128);
+    border-bottom: 1px dotted rgb(192, 192, 192);
+    margin: 0px 15px;
+}
+
+#main-sidebar .light .blue {
+	background-image:none;
+	background-repeat:no-repeat;
+	padding-left: 10px;
+}
+
+#main-sidebar .light .blue h2 {
+    padding: 5px; /* formerly 0px 0px 3px 0px; */
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 13px;
+	font-style: italic;
+    text-transform: uppercase;
+	letter-spacing: 0.02em;
+    color: #F60;
+    border-bottom: 3px solid #ddd;
+    margin: 0px;
+}
+
+#main-sidebar .light .mid {
+	padding-top:5px;
+	padding-bottom:0px;
+	padding-left: 12px;
+	padding-right: 0px;
+}
+
+#main-sidebar .calendar {
+	padding-bottom:14px;
+}
+
+#main-sidebar .light .mid .small {
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	 color: rgb(128, 128, 128);
+	text-transform: uppercase;
+}
+
+#main-sidebar .light .mid .video {
+	border:1px solid #00CCFF;
+	width:185px;
+	margin-bottom:8px;
+}
+
+#main-sidebar img.socialmedia {
+	padding-bottom:7px;
+	padding-right:5px;
+	float:left;
+}
+
+#main-sidebar .light .btm {
+	background-image:url("http://sfplanning.org/ftp/files/global/light-btm.png");
+	background-repeat:no-repeat;
+	width:231px;
+	height:3px;
+}
+
+.container #main-sidebar .light .mid ul, #contents #main-sidebar .light .mid ul {
+	margin:0px;
+	color:#F78E1E;
+	padding:0px;
+}
+
+.container #main-sidebar .light .mid ul li, #contents #main-sidebar .light .mid ul li {
+	list-style-image: url("../../../www.sf-planning.org/ftp/files/global/light-li-image.png");
+	font-family: Arial Narrow, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 18px !important;
+	margin: 0px 0px 0px 12px;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+.container #main-sidebar .light .mid ul.pinklist li, #contents #main-sidebar .light .mid ul.pinklist li {
+	list-style-image:url("../../../www.sf-planning.org/ftp/_gfx/sfgov/arrows.gif");
+	line-height:16px !important;
+	margin:0 5px 0 20px;
+	border-bottom:1px dotted #CCCCCC;
+}
+
+
+#main-sidebar .light .mid ul a {
+	color:#333;
+	text-decoration:none;
+}
+
+#main-sidebar .light .mid ul a:visited {
+	color:#444;
+	text-decoration:none;
+}
+
+#main-sidebar .light .mid ul a:hover {
+	color: #F78E1E;
+	text-decoration:none;
+}
+
+#main-sidebar .mid ul li {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+/*BUTTONS IN SIDEBAR*/
+#main-sidebar .button {
+  display:inline !important;
+  float:none !important;
+}
+#main-sidebar a.button-medium {
+  font-size:15px;
+  line-height:18px;
+  padding-bottom:8px;
+  padding-left:12px;
+  padding-right:12px;
+  padding-top:8px;
+}
+#main-sidebar a.second {
+  padding-top:15px;
+}
+#main-sidebar .button a {
+  text-decoration:none;
+}
+#main-sidebar a.theme-blue, #main-sidebar a.theme-blue:visited {
+	color:#FFC;
+}
+/*flattend button and made bkgd pale orange - MT*/
+#main-sidebar a.button, #main-sidebar input.input-button {
+  /* background-image:url("http://sfplanning.org/ftp/files/global/button-bg-off.png"); turned off image 01/27/16, including background-position and repeat - MT see also line 375 for hover state */
+  background-color: #fdb666;
+  /* background-position:0 50%;
+  background-repeat:repeat no-repeat; */
+  border-bottom-color:#fdb666;
+  border-bottom-left-radius:7px 7px;
+  border-bottom-right-radius:7px 7px;
+  border-bottom-style:solid;
+  border-bottom-width:2px;
+  border-left-color:#fdb666;
+  border-left-style:solid;
+  border-left-width:2px;
+  border-right-color:#fdb666;
+  border-right-style:solid;
+  border-right-width:2px;
+  border-top-color:#fdb666;
+  border-top-left-radius:7px 7px;
+  border-top-right-radius:7px 7px;
+  border-top-style:solid;
+  border-top-width:2px;
+  cursor:pointer;
+  display:block;
+  float: left;
+  font-size:1.2em;
+  font-weight:bold;
+  line-height:1.3em;
+  margin-bottom:10px;
+  margin-left:0;
+  margin-right:0;
+  margin-top:10px;
+  outline-color:initial;
+  outline-style:none;
+  outline-width:initial;
+  padding-bottom:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  text-decoration:none;
+  font-stretch:
+  letter-spacing:-0.5em;
+  color:#ffffff;
+}
+
+#main-sidebar a.button:hover, #main-sidebar input.input-button:hover {
+/* background-image: url("http://sfplanning.org/ftp/files/global/button-bg-over.png"); turned off image 01/27/16 - MT see also line 331 for landing state */
+background-color:#f78e1e;
+border-color: #f78e1e;
+}
+
+
+/* HOMEPAGE EDITABLE AREA */
+
+.clear {
+  clear:both;
+  display:block;
+}
+
+form input[type="submit"] {
+  cursor:pointer;
+}
+
+#home-wrap {
+	width:570px;
+	margin:0;
+	background:#ffffff;
+}
+
+#home-main {
+	float:left;
+	width:331px;
+	background:#fff;
+	margin-right:4px;
+}
+
+#home-main #whathapp {
+	width:331px;
+	padding:0;
+	margin:0 auto;
+}
+
+#home-main .whathappHeader {
+	/*background-image:url("http://www.sfplanning.org/ftp/files/homepage/whathapp-title-bg.png");*/
+	width:301px;
+	padding:15px 15px 0px 8px;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#ff3399;
+	font-weight:bold;
+	line-height:1.4;
+}
+
+#home-main .whathappHeader a {
+	color:#ff3399;
+	text-decoration:none;
+}
+
+#home-main .whathappMap {
+	padding-left:8px;
+	padding-right:8px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom:30px;
+}
+
+
+#home-main .plansMore a {
+	display:block;
+	float:right;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px !important;
+	text-decoration:none;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:10px;
+	margin-top:5px;
+}
+
+#home-main .plansMore a:hover {
+	text-decoration:underline;
+}
+
+*:first-child+html #home-sidebar {/* IE7 only */
+	margin:0px 0px 0px 0px;
+} 
+
+*:first-child+html #home-sidebar .box {padding: 8px 0 !important;} /* fixes stupid IE 7 */
+
+#home-footer {
+	clear:both;
+	padding:5px 10px;
+	background:#ffffff;
+}
+
+#home-footer p {
+	margin:0;
+	line-height:1.4;
+}
+
+* html #home-footer {
+	height:1px;
+}
+
+table.mappage td {
+	padding-top:17px;
+	padding-right:7px;
+	vertical-align:top;
+}
+.notonmap {
+	color:#DC3688;
+	font-size:11px;
+	font-style:italic;
+	font-family: Arial, Helvetica, sans-serif,;
+}
+
+.filesize {
+	color:#222222;
+	font-size:11px;
+	font-style:normal;
+	font-family: Arial, Helvetica, sans-serif,;
+}
+
+.filesizebig {
+	color:#222222;
+	font-size:11px;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif,;
+	font-weight: normal;
+}
+
+.filesizebig:after {
+   content: " < Large File";
+   font-weight:normal;
+   color: #666666 !important;
+}
+
+
+/* underline upcoming events */
+.cwuceeventtitle {
+background-color: #FFFFFF;padding-left: 5px;padding-right: 5px;padding-top: 0px !important;padding-bottom: 0px !important; line-height: 1.1em !important;
+}
+
+.cwuceeventtitle a { 
+text-decoration: none !important;
+	font-size:14px !important;
+	  line-height:1.1;
+	  letter-spacing: -0.3px;
+	  color:#1875B6 !important;
+ 
+}
+.cwuceeventtitle a:hover { text-decoration: underline !important; }
+
+
+#google_translate_element {
+	height: 22px;	
+	overflow: hidden;
+}

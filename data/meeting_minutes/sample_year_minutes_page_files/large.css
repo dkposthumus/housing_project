@@ -1,0 +1,12 @@
+.content p, .content ul, .content li, .content textarea, .content, td, .container td,
+.calendar_eventtime, 
+.calendar_eventlink,
+.listtable td,
+.listcomponent td,
+.filter select
+{font-size: 22px;}
+.content ul {margin:8px 0 10px 20px;}
+.content ul li {padding: 2px 0px;}
+.home_events a, .home_news a{ font-size: 18px; line-height: 22px;}
+.downloadmessage p {font-size:15px;}
+.contentheader h2, subtitle {font-size:24px;line-height:30px;}

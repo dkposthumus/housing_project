@@ -154,67 +154,51 @@ def find_minutes_links_on_page(html_content, base_url):
     return minutes_links
 
 def download_pdfs(links, output_dir):
-    """Downloads each PDF from the list of links into the specified directory."""
+    """Downloads each PDF from the list of links into year-based subfolders."""
     logger.info(f"Preparing to download {len(links)} files...")
-    
-    # Create directory if it doesn't exist
-    output_dir.mkdir(exist_ok=True, parents=True)
-    
+
     downloaded = 0
     already_exists = 0
     errors = 0
-    
+
     for idx, link in enumerate(links, start=1):
         try:
-            # Extract the filename from the URL
+            # Extract the filename and year
             parsed_url = urlparse(link)
             filename = os.path.basename(parsed_url.path)
-            
-            # Handle potential URL encoding issues in filename
             filename = requests.utils.unquote(filename)
-            
-            # Ensure filename is valid for the filesystem
             filename = re.sub(r'[\\/*?:"<>|]', "_", filename)
-            
-            # Add a prefix to avoid naming conflicts
-            if "/" in parsed_url.path:
-                # Try to extract a meaningful prefix like year or date
-                path_parts = parsed_url.path.strip('/').split('/')
-                if len(path_parts) > 1 and re.match(r'\d{4}', path_parts[-2]):
-                    # If the parent directory is a year, use it as prefix
-                    prefix = path_parts[-2] + "_"
-                    filename = prefix + filename
-            
-            file_path = output_dir / filename
-            
-            # Skip if file already exists
+
+            # Try to extract year from the link
+            year_match = re.search(r'(\d{4})', link)
+            year = year_match.group(1) if year_match else "unknown"
+
+            # Create year subfolder
+            year_folder = output_dir / year
+            year_folder.mkdir(parents=True, exist_ok=True)
+            file_path = year_folder / filename
+
             if file_path.exists():
                 logger.info(f"[{idx}/{len(links)}] Already exists: {filename}")
                 already_exists += 1
                 continue
-                
-            # Download the file
-            logger.info(f"Downloading: {link}")
+
+            logger.info(f"[{idx}/{len(links)}] Downloading: {link}")
             response = requests.get(link, headers=HEADERS, stream=True)
             response.raise_for_status()
 
-            # Verify it's actually a PDF
             content_type = response.headers.get('Content-Type', '').lower()
-            
             if 'application/pdf' not in content_type:
                 logger.warning(f"Not a PDF (content-type: {content_type}): {link}")
                 continue
-                
-            # Save the PDF content to a file
+
             with open(file_path, "wb") as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     if chunk:
                         f.write(chunk)
 
-            logger.info(f"[{idx}/{len(links)}] Downloaded: {filename}")
+            logger.info(f"Downloaded: {file_path}")
             downloaded += 1
-
-            # Be polite and avoid overwhelming the server
             time.sleep(1)
 
         except requests.exceptions.RequestException as e:
@@ -223,7 +207,7 @@ def download_pdfs(links, output_dir):
         except Exception as e:
             logger.error(f"Error processing {link}: {e}")
             errors += 1
-    
+
     return {
         "downloaded": downloaded,
         "already_exists": already_exists,

@@ -1,0 +1,258 @@
+@import url("editable.css");
+
+/*
+This is the editor style sheet,
+containing styles that will be used in the content editor tools.
+Customized for each project.
+*/
+
+/* Same as title_subtitle except without padding left */
+.subtitle
+{
+    padding:5px 0px 0px 0px;
+    margin:0px 0px 10px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:20px;
+	font-weight: normal;
+	color: #01639b;
+}
+
+table.tableData
+{
+	width: 95%;
+	border:1px solid #001c3e !important;
+	background-color:#fbfdff;
+	border-collapse:separate;
+}
+
+.tableData td
+{
+	border:0;
+	border:1px solid #c3bfa7;
+	padding:4px;
+	margin:0;
+	color: #000;
+}
+
+.tableData th, .tableDataHdr
+{
+	padding: 4px;
+	font-size: 10px;
+	font-weight: bold;
+	text-align:left;
+	color: #daebf5;
+	background-color: #001c3e;
+	text-transform:uppercase;
+}
+
+.tableDataHdr a, 
+.tableData th a
+{
+	color: #ffffff;
+}
+
+.tableBox
+{
+	border: 1px solid #001c3e;
+	font-size: 11px;
+	background: #fbfdff;
+	color: #000000;
+	padding:3px;
+}
+
+.sidebar{
+	float:right;
+	width:180px; margin:10px 0 10px 10px;
+	padding:10px 10px 40px 10px;
+	border-top:5px solid #05264c;
+}
+
+*html .sidebar {width:200px;}
+
+.pictureCaption, .pictureCaption p
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:9px !important;
+	font-weight:900 !important;
+	line-height:14px;
+	color: #6a655c;
+}
+
+/*style from planning starts here */
+
+/* GLOBAL */
+
+body, td, th, p, select, li, ul, input, blockquote, textarea {
+    font-family: Arial, Helvetica, sans-serif;  /* YES, WE WANT THIS TO BE SERIF AND ALL OTHER FONTS SANS SERIF :-) */
+	padding: 0.5 0e 0.5 0em;
+}
+a, a:visited {
+	color: #1875b6;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.contentheader h1, .contentheader_banner h1 {
+	color: #f60; /* changed from #4382A3 BY MT 06/10/14 */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	letter-spacing: -0.05em;
+	font-weight: bold;
+	line-height: 1.1em;
+}
+h1 {
+  	color:#36A5C7;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+  	font-size:26px;
+	font-weight: normal;
+	letter-spacing: -0.1em;
+  	padding:15px 0 10px 0;
+	line-height:1.25em;
+	/* display: inline-block; */
+	white-space:normal;
+}
+h2 {
+  	color:#454545;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+  	font-size:20px;
+	font-weight: normal;
+	letter-spacing: -0.05em;
+  	padding:15px 0 10px 0;
+	line-height:1.25em;
+	/* display: inline-block; */
+	white-space:normal;
+	clear:none;
+}
+h3 {
+	color: #000000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+}
+h4 {
+	color: #666666;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 20px;
+}
+h5 {
+	color: #666666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 14px;
+}
+
+/* BREADCRUMBS */
+.breadcrumb {
+    color: #517a8c;
+    font-size: 10px;
+}
+.breadcrumb a {
+    border-bottom: 0 none;
+    color: #1875B6;
+}
+.breadcrumb a:hover {
+    text-decoration: none;
+	text-decoration: underline;
+}
+
+/* HOME PAGE */
+.planningnews h1 {
+    color: #ff6600;
+    font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+    line-height: 26px;
+}
+.planningnews h2 a {
+	color: #1875b6;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.planningnews_item {
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+.planningnews_viewmore a {
+	color: #666666;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.planningnews_date {
+	color: 999999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	fontw-weight: normal;
+}
+.plansprograms h1 {
+	color: #ff3399;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.plansprograms h2 a {
+	color: #ff3399;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.plansprograms_item {
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+}
+.plansprograms_item a {
+	color: #1875b6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: underline;
+}
+.plansprograms_viewmore a {
+	color: #666666;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.mainSpan_wrapper .container .content a, .mainSpan_wrapper .container .content a:visited {color:#1875B6;text-decoration:none;}
+.mainSpan_wrapper .container .content a:hover {text-decoration:underline;border-bottom: none;}
+
+
+/* footer area */
+.footer_wrapper{display:block; margin:0 auto; padding:0; clear:both; font-family:Arial, Helvetica, sans-serif; overflow:hidden;}
+.footer1 {width: 100%; height: 34px; margin:0 auto; background-color:#454545; border-bottom: #454545 solid 2x;/* background: url("../_gfx/dept_images/footer_16_1.jpg") bottom center; hiddeb by MT 06/13/14 */}
+.footer1 ul {text-indent:10px; padding: 15px 0 0 30px;  /* hidden by MT 06/13/14 height:30px; width: 900px; */}
+.footer1 ul li {font-size:9px; color:#666; float:left; list-style:none; font-family: Arial, Helvetica, sans-serif; margin:0 0 0 0px;}
+.footer1 ul a {color:#888; /* changed by MT 06/13/14 */}
+.gotop { float: right; position:relative; top:-5px; /* top changed from -25px to -5px by MT 06/13/14 */ right:25px;}
+
+.footer2 ol li {font-size:12px; color:#CCC; line-height:1.25em; padding-bottom: 10px; font-family:Arial, Helvetica, sans-serif;}
+.footer2 {width: 974px; height: 300px; margin:auto; background:url("../_gfx/dept_images/footer_16_3.png") top center; font-family:Arial, Helvetica, sans-serif;}
+.footer2 table {padding:80px 20px 5px 20px; text-align:left; vertical-align:top;}
+.footer2 table td { vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#CCC;}
+.footer2 table img {margin:0; float:left;}
+.footer2 table a {color:#B4CBDA; text-decoration:none;}
+.footer2 .address {font-size:12px; color:#CCC; font-family:Arial, Helvetica, sans-serif; line-height:1.35em;}
+
+.footer3 ol li {font-size:12px; color:#CCC; line-height:1.25em; padding-bottom: 10px; font-family:Arial, Helvetica, sans-serif;}
+.footer3 {width: 974px; height: 200px; margin:auto; background:url("../_gfx/dept_images/footer_16_2.jpg") top center; font-family:Arial, Helvetica, sans-serif;}
+.footer3 table {padding:50px 20px 5px 20px; text-align:left; vertical-align:top;}
+.footer3 table td { vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#CCC;}
+.footer3 table img {margin:0; float:left;}
+.footer3 table a {color:#B4CBDA; text-decoration:none;}
+.footer3 .address {font-size:12px; color:#CCC; font-family:Arial, Helvetica, sans-serif; line-height:1.35em;}
+
+

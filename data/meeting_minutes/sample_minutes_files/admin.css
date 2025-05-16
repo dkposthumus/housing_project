@@ -1,0 +1,231 @@
+/********************************************
+Adminitrator Tool Box and Workflow Tool Box
+PLEASE DO NOT ALTER THE CLASSES BELOW
+*********************************************/
+.toolbox
+{
+	background-color: #fff;
+	border: solid 1px #6699CC;
+	width:180px;
+	font-family: Tahoma;
+	font-size:10px;
+	line-height:12px;
+	color:#000000;
+}
+
+.toolbox a
+{
+	color:#DA9500;
+	text-decoration:none;
+}
+
+.toolbox a:hover
+{
+	text-decoration:underline;
+}
+
+.toolboxarrow
+{
+	cursor: pointer;
+	float:right;
+}
+
+.toolboxheader
+{
+	color: #6699CC;
+	background-color: #6699CC;
+	font-weight: bold;
+	width:180px;
+	height:19px;
+	text-align:center;
+}
+
+.toolboxheadertext
+{
+	color: #fff;
+	float:left;
+	text-align:center;
+	cursor:move;
+	font-size:10px;
+	padding: 3px 0px 0px 5px;
+}
+
+.toolboxheaderclosed
+{
+	color: #E8E9F1;
+	background-color: #E8E9F1;
+	font-weight: bold;
+	padding: 2px 5px 2px 5px;
+	width:180px;
+	height:25px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.toolboxheaderclosedtext
+{
+  color: #fff;
+  float:left;
+  text-align:center;  
+  cursor: move;
+}
+
+.toolboxbody
+{
+	background-color:#fff;
+	font-weight:normal;
+	padding: 5px 0px 5px 0px;
+	width: 180px;
+}
+
+.toolboxbodyitemtitle
+{
+	font-weight:bold;
+	padding: 0px 0px 0px 0px;
+}
+
+.toolboxbodyitemcontent
+{
+	font-weight:normal;
+	padding: 5px 0px 5px 0px;	
+}
+
+.toolboxbodyitemcontent_connectedpages
+{
+	font-weight:normal;
+	padding: 0px 5px 10px 5px;	
+}
+
+.toolboxbodyitem
+{
+	background-color:#fff;
+	padding: 1px 5px 1px 5px;
+}
+
+.toolboxbodyitemalter
+{
+	background-color:#E4F1FF;
+	padding: 1px 5px 1px 5px;
+}
+
+.toolboxbodyitemover
+{
+	background-color:#E4F1FF;
+	padding: 1px 5px 1px 5px;
+}
+
+.toolboxbodyitemdetail
+{
+	padding: 0px 0px 0px 5px;			
+}
+
+.toolboxbutton
+{
+	font-size: 10px;
+	font-weight:bold;
+	font-family: tahoma;
+	padding: 1px;
+	color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7DBB2 #AD9C4D #868660 #E0C859;
+}
+
+.toolboxdropdown
+{
+	background-color:#E4F1FF;
+	padding: 2px 0px 0px 2px;
+	font-size:10px;
+}
+
+.ToolBarPagingText
+{
+	font-weight: bold;	
+}
+
+.ToolBarPaging
+{
+	font-size:9px;	
+}
+
+.admin_toolbox_textbox
+{
+	font-family: Sans-Serif;
+	font-weight: normal;
+	font-size: 10px;	
+	width:90%;	
+}
+
+/* TreeView */
+.treeview
+{
+	width:500px;
+}
+
+.treeviewnode
+{
+	padding: 3px 3px 3px 6px;
+}
+
+.treeviewnode_root
+{
+	padding: 3px 3px 3px 6px;
+	font-weight:bold;
+}
+
+.treeviewnode_about
+{
+	padding: 3px 3px 3px 6px;
+}
+
+.treeviewnode_selected
+{
+	padding: 3px 3px 3px 6px;
+}
+
+.treeviewnode_hover
+{
+	padding: 3px 3px 3px 6px;
+}
+
+/* Content review */
+.review_left
+{
+    float:left;
+    width:510px;
+    overflow:auto;
+    margin-right:10px;
+}
+
+.review_right
+{
+    float:left;
+    width:200px;
+}
+
+.review_right span
+{
+    text-align:center;
+    font-size:10px;
+    line-height:14px;
+    display:block;
+    margin-bottom:6px;
+    font-weight:bold;
+}
+
+.review_item_div
+{
+	padding: 2px 0px 2px 0px;
+}
+
+.review_item_div img
+{
+    margin-top:10px;
+}
+
+.review_title_span
+{
+	float:left;
+	width:180px;
+	font-weight: bold;	
+}
