@@ -20,6 +20,4 @@ should be N/A, if a building is sound and habitable, such as Sect.
 Controls on Demolitions”]. Another simple fix. 
 • Request the Zoning Administrator adjust “value” for Administrative 
 Approval of Demolitions in RH-1 Districts. Or eliminate it per RET draft. 
-Apparently revised upward to $1.9 million on December 15, 2017. 
-Todd David – RHNA Numbers 
-Catherine Petrin – 841 Chestnut/950 Lombard, illegal demolition
+Apparently revised upward to $1.9 million on
