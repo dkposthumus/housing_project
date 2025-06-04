@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Building a Political Economic Model of Housing}
+\author{Daniel Posthumus}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section{Introduction}
+
+Housing policy, seemingly, has taken the center stage in intra-center-left debates over the future course of the Democratic party, with \textit{Abundance}, written by journalists Ezra Klein and Derek Thompson, opening a rift between the center-left factions of `YIMBY' (Yes-In-My-Backyard) and `NIMBY' (No-In-My-Backyard). \textit{Abundance} is centered around a basic proposition: \textbf{housing markets are out of equilibrium, as onerous exclusive zoning regulations in the United States' most productive areas are keeping housing prices their too high}. There is a rich economic literature supporting this proposition. Missing from this model of disequilibrium are markets other than housing and labor, in particular the market for regulation. This is a political economic, rather than only economic, market. Local politicians, in reality, aren't the positive-valued social planner, but instead the normative-valued politician seeking to maximize their vote share. 
+
+There are no models incorporating these politics. As I will show in the subsequent section, a prominent constraint in building these models is data. There are only two large-N datasets on local regulation of housing markets. One, the Wharton Index, is survey-based and exists in two waves. The other, created by Bartik, Milo, and Gupta (2025) harnesses novel LLM methods to analyze local communities' corpus of administrative housing regulatory documents. These datasets, however, don't entirely agree--introducing a whole host of problems in how to reconcile their disagreements. Further, \textbf{regulatory outcomes are endogenous}, subject to political feedback loops that introduce reverse causality into any model which uses regulation as an input. Because of the paucity of data, we can't construct reliable panel datasets tracking local polities over time (one solution to endogenity). 
+
+\section{Literature Review}
+
+\subsection{Data Constraints}
+
+\section{A Simple Theoretical Model}
+We can construct a basic model under which the housing regime, incorporating politics, is operating and in equilibrium.
+\begin{enumerate}
+	\item Low density communities are normal goods; as incomes rise, people want to live in a low density community. This reveals people's preference for low density over high density.
+	\item In labor markets, workers with scarce skills earn economic rents for those skills.
+	\item Firms with high productivity earn economic rents for that productivity. These firms are sorted into high productivity sectors.
+	\item There is a compounding effect by which works with scarce skills working at firms with high productivity earn extraordinarily high economic rents.
+	\item Highly productive firms tend to become geographically concentrated for numerous reasons. 
+		\subitem One reason is to increase the resiliency of supply chains by reducing the distance/cost of transporting intermediate goods. 
+	\item Consequently, people with scarce skills working in the highly productive sectors become geographically concentrated in the same markets as the high-productivity firms because of the thickness of high-productivity firms in these places.
+	\item The workers conglomerating bid up the price of housing in these places.
+	\item These workers engage in the market for regulation to protect, or even appreciate, the value of their assets.
+	\item \textbf{Assuming utility monotonically increases with living low density community}, increasing density is a decrease in welfare for workers with scarce skills. 
+		\subitem It is unclear the affect on total welfare, however; increasing density lowers home prices and workers who were bid out of these premium markets may now afford to live there and have access to greater amenities and more productive jobs.
+\end{enumerate}
+
+\end{document}
