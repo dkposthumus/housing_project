@@ -2,6 +2,7 @@ from datasets import load_dataset
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
 from peft import get_peft_config, get_peft_model, LoraConfig, TaskType
 import torch
+from pathlib import Path
 
 # Step 1: Load your hand-labelled JSONL training file
 # Format: each line is {"prompt": "...raw block...", "completion": "...target JSON..."}
