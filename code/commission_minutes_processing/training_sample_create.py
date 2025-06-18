@@ -13,6 +13,7 @@ minutes_raw = minutes / "raw"
 minutes_clean = minutes / "processed"
 text_dir = minutes / "text"
 text_dir.mkdir(parents=True, exist_ok=True)
+output_jsonl  = minutes_raw / "training.jsonl"
 
 rtf = Path(f"{minutes_raw}/minutes_training_sample.rtf").read_text(encoding="utf-8", errors="ignore")
 plain = rtf_to_text(rtf)
@@ -30,7 +31,7 @@ labels = [
         'type_district': 'RH-2',
         'type_district_descr': 'house, two-family',
         'speakers': 'None',
-        'action': 'Continued as proposed',
+        'action': 'proposed for continuance to june 25, 1998',
         'ayes': ['Chinchilla', 'Theoharis', 'Antenore', 
             'Hills', 'Joe', 'Martin', 'Mills'],
         'noes': [],
@@ -45,7 +46,7 @@ labels = [
         'type_district': 'RH-2',
         'type_district_descr': 'house, two-family',
         'height_and_bulk_district': '40-x',
-        'action': 'Continued as proposed',
+        'action': 'proposed for continuance to june 11, 1998',
         'speakers': 'None',
         'ayes': ['Chinchilla', 'Theoharis', 'Antenore', 
             'Hills', 'Joe', 'Martin', 'Mills'],        
@@ -59,7 +60,7 @@ labels = [
         'assessor_block': '162',
         'project_descr': 'Request for Conditional Use authorization under Sections 812.49 and 812.20 of the Planning Code to establish a financial service of approximately 3,600 feet in the CR-NC (Chinatown Residential Neighborhood Commercial) District',
         'height_and_bulk_district': '50-N',
-        'action': 'Continued as proposed',
+        'action': 'proposed for continuance to september 3, 1998',
         'speakers': 'None',
         'ayes': ['Chinchilla', 'Theoharis', 'Antenore', 
             'Hills', 'Joe', 'Martin', 'Mills'],
@@ -68,7 +69,7 @@ labels = [
     },
     {
         'case_number': '98.238ET',
-        'project_name': 'Bridge District Amendment','
+        'project_name': 'Bridge District Amendment',
         'project_descr': 'Consideration of a proposal to amend Section 1010 of the City Planning Code to clarify that the Golden Gate Bridge Highway and Transportation District is exempt from the regulations of Article 10 of the Planning Code which authorizes the designation of landmark structures and establishes various procedures for reviewing proposals to demolish or alter landmarks',
         'speakers': ['David Bahlman', 'Gee Gee Platt'],
         'action': 'approved',
@@ -92,14 +93,14 @@ labels = [
         'action_name': 'resolution no. 14634'
     },
     {
-        'case_number': '97,470E',
+        'case_number': '97.470E',
         'project_address': '475 Brannan Street',
         'lot_number': '31',
         'assessor_block': '3787',
         'project_name': 'Public Hearing on the Draft Environmental Impact Report',
         'project_descr': 'projct would add two stories to an existing two-story-plus-basement building...the project would require a rezoning of the existing 50-foot height limit to 65 feet to permit construction of the 58-foot-tall project',
         'type_district': 'SSO (Service Secondayr Office)',
-        'speakers': ['David Bahlman', 'Judy West', 'John Paulson', 'Wendy Earl',''
+        'speakers': ['David Bahlman', 'Judy West', 'John Paulson', 'Wendy Earl',
         'Bob Meyers', 'Jerry Marker', 'Roger Geasham', 'Allison Fuller', 'David Coleen'],
         'action': 'meeting held. public hearing closed',
     },
@@ -115,6 +116,23 @@ labels = [
         'Speakers': ['Robert McCarthy'],
         'action': 'approved with conditions as drafted',
         'ayes': ['Chinchilla', 'Theoharis', 'Antenore', 
+            'Hills', 'Joe', 'Martin', 'Mills'],
+        'noes': [],
+        'vote': '7-0',
+        'action_name': 'resolution no. 14636'
+    },
+    {
+        'case_number': '98.197C',
+        'project_address': '595 Golden Gate Avenue',
+        'lot_number': '13',
+        'assessor_block': '766',
+        'project_descr': 'conditional use authorization (per planning code section 243(c)(8)(F)) to establish large fast food restaurant in Van Ness Avenue Special Use District',
+        'type_district': 'RC-4',
+        'type_district_descr': 'High Density Residential-Commercial',
+        'height_and_bulk_district': '130-V',
+        'speakers': ['Robert McCarthy'],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Antenore',
             'Hills', 'Joe', 'Martin', 'Mills'],
         'noes': [],
         'vote': '7-0',
@@ -182,6 +200,21 @@ labels = [
         'vote': '7-0',
     },
     {
+        'case_number': '98.307D',
+        'project_address': '2425 Hyde Street',
+        'lot_number': '002',
+        'assessor_block': '0047',
+        'project_descr': 'request for discretionary review of building permit application no. 9725734, to merge a four-unit builing into a single-family dwelling',
+        'type_district': 'RH-3',
+        'type_district_descr': 'house, three-family',
+        'speakers': [],
+        'action': 'without hearing, continued to 6/18/98',
+        'ayes': ['Chinchilla', 'Theoharis', 'Antenore', 
+            'Hills', 'Joe', 'Martin', 'Mills'],
+        'noes': [],
+        'vote': '7-0',
+    },
+    {
         'case_number': '98.246D',
         'project_address': '3230 Baker Street',
         'lot_number': '025',
@@ -215,7 +248,7 @@ labels = [
         'type_district': 'nc-2',
         'type_district_descr': 'small-scale neighborhood commercial',
         'height_and_bulk_district': '40-X',
-        'action': 'continued as proposed',
+        'action': 'proposed for continuance to june 18, 1998',
         'speakers': [],
         'ayes': ['Theoharis', 'Antenore', 'Hills', 'Joe', 'Mills'],
         'noes': [],
@@ -334,7 +367,7 @@ labels = [
         'type_district': 'rh-2',
         'type_district_descr': 'house, two-family',
         'height_and_bulk_district': '40-X',
-        'speakers': ['Mark Rosenbaum',' Dennis Singer'],
+        'speakers': ['Mark Rosenbaum', 'Dennis Singer'],
         'action': 'approved with conditions as drafted',
         'ayes': ['Theoharis', 'Antenore', 
             'Hills', 'Joe', 'Mills'],
@@ -468,7 +501,7 @@ labels = [
         'noes': [],
         'absent': ['Antenore'],
         'vote': '6-0'
-    }
+    },
     {
         'case_number': '97.358CV',
         'project_address': '105 Miles Street',
@@ -480,7 +513,7 @@ labels = [
         'type_district_descr': 'residential, mixed, high-density',
         'height_and_bulk_district': '65-A',
         'speakers': ["Walter O'Harie", 'Joe Brown', 'Mark Rosentein', 'Bruce Anderson',
-                     'Kevin Jernigan', 'Lynette Crane',' Ruth C. Jacobs',
+                     'Kevin Jernigan', 'Lynette Crane', 'Ruth C. Jacobs',
                      'Jack Hornor', 'Martin Vierjahan', 'Jerladine Gotera', 
                      'Colleen Hollisy', 'Victoria Archlow-Debro', 'David Ronce',
                      'Anne Ronce', 'Deboarh Blackburn', 'Carole A. Obley', 'Jim McCormick',
@@ -640,7 +673,7 @@ labels = [
         'vote': '5-0'
     },
     {
-        'case_number': '98.3509D/DD',
+        'case_number': '98.350D/DD',
         'project_address': '2646 Broderick Street',
         'lot_number': '014',
         'assessor_block': '0954',
@@ -655,5 +688,515 @@ labels = [
         'absent': ['Antenore', 'Theoharis'],
         'vote': '5-0'
     },
-    
+    {
+        'case_number': '98.252C',
+        'project_address': '445 Valencia Street',
+        'lot_number': '57',
+        'assessor_block': '3554',
+        'project_descr': 'request for conditional use authorization to allow relocation of an existing nonconforming liquor store within a retail grocery store',
+        'type_district': 'Valencia Street Neighborhood Commercial District',
+        'type_district_2': 'Mission Alcoholic Beverage Special Use District',
+        'height_and_bulk_district': '50-X',
+        'speakers': [],
+        'action': 'proposed for continuance to august 6, 1998',
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Hills', 'Martin'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+    },
+    {
+        'case_number': '97.226D',
+        'project_address': '2959 21st Avenue',
+        'lot_number': '004A',
+        'assessor_block': '7205',
+        'project_descr': 'request for discretionary review of building permit application no. 9701592, to add a new floor to existing one-story over-basement single-family dwelling and construction of interior partitions to create one social room, a laundry room, two bathrooms, and one guest room in basemenet area',
+        'type_district': 'RH-1(D)',
+        'type_district_descr': 'house, one-family, detached',
+        'spekaers': [],
+        'action': 'proposed for continuance to december 18, 1998',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Martin', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+    },
+    {
+        'case_number': '98.321C',
+        'project_address': '3178 16th Street',
+        'lot_number': '23',
+        'assessor_block': '3555',
+        'project_descr': 'request for conditional use authorization under section 726.41 of the planning code to allow full-service restaurant with a bar, defined by planning code sections 790.92 and 790.22',
+        'type_district': 'Valencia Street Neighborhood Commercial District',
+        'height_and_bulk_district': '40-X',
+        'speakers': [],
+        'action': 'proposed for continuance to july 9, 1998',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Hills', 'Martin'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0'
+    },
+    {
+        'case_number': '97.678E',
+        'project_address': '640 Battery Street',
+        'lot_number': '1, 9',
+        'assessor_block': '173',
+        'project_descr': 'add three floors and about 93,500 sq ft of office space to existing three-level office building at 640 battery street. no off-street parking or loading areas are proposed. would re-clad the existing building, constructed in 1926-37 and is L shaped',
+        'speakers': ['David Bernett', 'Tim Lawson', 'Jeffrey Shanon', 'Patt Ferrell',
+                     'Roger Bruno', 'Mike Wildeman'],
+        'action': 'meeting held. no action required at this time',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Martin', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+    },
+    {
+        'case_number': '98.335C',
+        'project_address': '1875 Alemany BLVD',
+        'lot_number': '23',
+        'assessor_block': '6956',
+        'project_descr': 'request for conditional use authorization under section 712.83 of the planning code to install up to a total of eight (8) panel atennas on penthouse of an existing Pacific Bell switching office.',
+        'type_district': 'NC-3',
+        'type_district_descr': 'neighborhood commercial, moderate-scale',
+        'height_and_bulk_district': '65-A',
+        'speakers': ['Joe Wyman'],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Martin'],
+        'noes': ['Hills'],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '4-1'
+    },
+    {
+        'case_number': '98.317C',
+        'project_address': '4516-4518 Mission Street',
+        'lot_number': '2',
+        'assessor_block': '3147',
+        'project_descr': 'request for conditional use authorization under section 712.43 of the planning code to allow a large self-service restaurant and bakery',
+        'speakers': ['Elise Tanelli'],
+        'action': 'approved with conditions as modified',
+        'modifications': [
+            'all food and other items shall be delivered before 7 a.m. in the morning',
+            'the project sponsor shall be responsible for ensuring that steam cleaners clean the area in front of 4516 mission street at least once per month'
+        ],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Martin', 'Hills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+        'action_name': 'motion no. 14648'
+    },
+    {
+        'case_number': '98.237C',
+        'project_address': '2970 25th Avenue',
+        'lot_number': '8b',
+        'assessor_block': '7208',
+        'project_descr': 'request for conditional use authorization to expand existing six-bed residential care facility to an eight-bed facility, pursuant to section 209.3(c) of planning code',
+        'type_district': 'RH-1(D)',
+        'type_district_descr': 'house, one-family, detached',
+        'speakers': ['Tom Polke', 'Philiph England', 'Elsie Tanelli', 'Mary Magee',
+                     'Mrs. Benita'],
+        'action': 'approved with conditions as modified',
+        'modifications': [
+            'plans involve no horizontal; or vertical expansion of the existing dwelling'
+        ],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Martin', 'Hills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+        'action_name': 'motion no. 14649'
+    },
+    {
+        'case_number': '98.080C',
+        'project_address': '4314 California Street',
+        'lot_number': '014',
+        'assessor_block': '1365',
+        'project_descr': 'request for conditional use authorization under section 710.48 of Planning Code to allow live entertainment at an existing full-service restaurant and bar',
+        'type_district': 'NC-1',
+        'type_district_descr': 'neighborhood commercial, cluster',
+        'height_and_bulk_district': '40-X',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Martin', 'Hills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+        'action': 'approved with conditions as drafted',
+        'action_name': 'motion no. 14650'
+    },
+    {
+        'case_number': '98.296C',
+        'project_address': '3600 16th Street',
+        'lot_number': '015',
+        'assessor_block': '3561',
+        'project_descr': 'request for conditional use authorization under section 790.91 of planning code relating to expansion of an existing small self serice retaurant by merging two existing food establishments resulting in a total interior area of 968 square feet, 30 interior seats, and 8 exterior seats',
+        'type_district': 'upper market neighborhood commercial district',
+        'speakers': ['Giancarlo Maranghi'],
+        'action': 'approved with conditions as modified',
+        'modifications': [
+            'project sponsor shall be responsible for ensuring that street sidewalk steamed cleaners clean the area in front of the 3600 16th street at least once per month'
+        ],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills', 'Martin', 'Hills'],
+        'noes': [],
+        'absent': ['Antenore', 'Joe'],
+        'vote': '5-0',
+        'action_name': 'motion no. 14651'
+    },
+    {
+        'case_number': '98.313D',
+        'project_address': '378 Diamond Street',
+        'lot_number': '014',
+        'assessor_block': '2750',
+        'project_descr': 'request for discretionary review of building permit application no. 9803972, to construct a new second-story addition to an existing single-family residence',
+        'type_district': 'RH-2',
+        'type_district_descr': 'house, two-family',
+        'speakers': ['Kay Klumba', 'Susan Southwick', 'Jon Sesspari', 
+                     'Ann Buel', 'Vessu Mak'],
+        'action': 'No D.R. Approved as Proposed',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Martin', 'Joe'],
+        'vote': '4-0'
+    },
+    {
+        'case_number': '98.226D',
+        'project_address': '571 Jersey Street',
+        'lot_number': '033',
+        'assessor_block': '6540',
+        'project_descr': 'request for discretionary review of building permit application no. 9722606, to construct third-level bedroom suite and roof deck to an existing two-story, single-family residence',
+        'type_district': 'RH-2',
+        'type_district_descr': 'house, two-family',
+        'speakers': ['Kirk Werner', 'Alex Schwed', 'Steven Antenoris'],
+        'action': 'No D.R. Approved as proposed',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Martin', 'Joe'],
+        'vote': '4-0'
+    },
+    {
+        'case_number': '98.307D',
+        'project_address': '2425 Hyde Street',
+        'lot_number': '002',
+        'assessor_block': '0047',
+        'project_descr': 'request for discretionary review of building permit application no. 9725734, to merge a four-unit building into a single-family dwelling',
+        'type_district': 'RH-3',
+        'type_district_descr': 'house, three-family',
+        'speakers': [],
+        'action': 'continued to 7/9/98',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Martin', 'Joe'],
+        'vote': '4-0'
+    },
+    {
+        'case_number': '98.222D',
+        'project_address': '135 Miguel Street',
+        'lot_number': '010',
+        'assessor_block': '6683',
+        'project_descr': 'request for discretionary review of building permit application nos. 9800270 and 9800271, to demolish two structures and construct a new three-story, single-family dwelling',
+        'type_district': 'RH-1',
+        'type_district_descr': 'house, one-family',
+        'speakers': ['Brian Forster'],
+        'action': 'take D.R. Approved with staff recommendations',
+        'modifications': [
+            'gross floor area of dwelling shall not exceed 2,300 square feet',
+            'the windows on the second and third floors of the south elevation shall be at five feet above the finished floor level',
+            'the approved plan shall include a 34 foot long, eight foot high hence along the southeast property line beginning 18 feet from the front property line'
+        ],
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Martin', 'Joe'],
+        'vote': '4-0'
+    },
+    {
+        'case_number': '98.506D/DD',
+        'project_address': '1415 Indiana Street',
+        'lot_number': '017',
+        'assessor_block': '4293',
+        'project_descr': 'request for discretionary review of building permit application no. 9724661, to construct 18 live/work units and 18 private parking spaces on a vacant lot',
+        'type_district': 'M-2',
+        'type_district_descr': 'heavy industrial',
+        'action': 'discretionary review request withdrawn'
+    },
+    {
+        'case_number': '98.377D',
+        'project_address': '1 La Avanzada Street',
+        'lot_number': '003',
+        'assessor_block': '2724',
+        'project_descr': 'request for discretionary review of building permit application no. 9805770, to construct three new concrete padas outside of existing building and new rooftop enclosures for installation of broadcasting equipment',
+        'type_district': 'RH-1(D)',
+        'type_district_descr': 'house, one-family, detached',
+        'speakers': ['Christine Linnebach', 'Brian Foster', 'Steven Williams',
+                     'Robert McCarthy'],
+        'action': 'No D.R. Approved as proposed',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills'],
+        'noes': [],
+        'absent': ['Antenore', 'Martin', 'Joe'],
+        'vote': '4-0'
+    },
+    {
+        'case_number': '98.226D',
+        'project_address': '571 Jersey Street',
+        'lot_number': '033',
+        'assessor_block': '6540',
+        'project_descr': 'request for discretionary review of building permit application no. 9722606, to construct a third-level bedroom suite and roof deck to an existing two-story, single-famiyl residence',
+        'type_district': 'RH-2',
+        'type_district_descr': 'house, two-family',
+        'action': 'proposed for continuance to june 25, 1998',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills', 'Joe', 'Martin',
+                 'Antenore'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0'
+    },
+    {
+        'case_number': '98.251C',
+        'project_address': '154 Coleridge Street',
+        'lot_number': '22',
+        'assessor_block': '5642',
+        'project_descr': 'request for authorization of a conditional use to modify a condition of approval of Commission Motion no. 11774 permitting the reduction from six to four off-street parking spaces (in order to accommodate one handicapped-accessible dwelling unit) in subject three-unit residential building',
+        'type_district': 'RH-2',
+        'type_district_descr': 'house, two-family',
+        'height_and_bulk_district': '40-X',
+        'action': 'proposed for continuance to june 11, 1998',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills', 'Joe', 'Martin',
+                 'Antenore'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+    },
+    {
+        'case_number': '97.686C',
+        'project_address': '1100 Grant Avenue',
+        'lot_number': '10',
+        'assessor_block': '162',
+        'project_descr': 'request for conditional use authorization under sections 812.49 and 812.20 of the planning code to establish a financial service of approx. 3,6000 square feet',
+        'type_district': 'CR-NC',
+        'type_district_descr': 'chinatown residential neighborhood commercial district',
+        'height_and_bulk_district': '50-N',
+        'aciton': 'proposed for continuance to september 3, 1998',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0'
+    },
+    {
+        'case_number': '98.238ET',
+        'project_name': 'Bridge District Amendment',
+        'project_descr': 'proposal to amend section 1010 of city planning code to clarify that Golden Gate Bridge Highway and Transportation District is exempt from regulations of Article 10 of the Planning Code which authorizes the designation of landmark structures and establishes various procedures for reviewing proposals to demolish or alter landmarks',
+        'speakers': ['David Bahlman', 'Gee Gee Platt'],
+        'action': 'approved',
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'excused': ['Hills'],
+        'absent': [],
+        'vote': '6-0',
+        'action_name': 'motion no. 14634'
+    },
+    {
+        'case_number': '98.341T',
+        'project_name': 'Affordable Child Care Amendment',
+        'project_descr': 'proposal to amend section 314.t of planning code to expand the sources and eligible uses of monies in the affordable child care fund. amendments would allow monies from that fund to be used to pay for any report/s required by planning code section 314.5 to demonstrate relationship between office and hotel development projects and child care demand',
+        'speakers': [],
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+        'action': 'approved',
+        'action_name': 'motion no. 14634'
+    },
+    {
+        'case_number': '97.470E',
+        'project_address': '475 Brannan Street',
+        'project_descr': 'public hearing on the draft environmental impact report -- to renovate, seismically strengthen and expand an existing office building at 473 brannan street wit haddition of parking. project would add two stories to existing two-story-plus-basement building. project would require a rezoning of existing 50-foot height limit to 65 permit construction of 58-foot-tall project. rezoning must be approved by the planning commission and board of supervisors',
+        'type_district': 'SSO',
+        'type_district_descr': 'service secondary office',
+        'speakers': ['David Bahlman', 'Judy West', 'John Paulson', 'Wendy Earl', 'Bob Meyers', 
+                     'Jerry Marker', 'Roger Geasham', 'Allison Fuller', 'David Coleen'],
+        'action': 'meeting held. public hearing closed'
+    },
+    {
+        'case_number': '98.136C',
+        'project_address': '1081 Pine Street',
+        'lot_number': '7C',
+        'assessor_block': '275',
+        'project_descr': 'request for conditional use authorization under planning code section 238 to expand an existing full-service restaurant (defined by planning code sections 790.34 and 790.92) and Bar',
+        'type_district': 'RM-4',
+        'type_district_descr': 'residential, high density',
+        'type_district_1': 'nob hill special use district',
+        'speakers': ['Shawn Willhim', 'Ally Pollick', 'Jonathan Pearlman'],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+        'action_name': 'motion no. 14635'
+    },
+    {
+        'case_number': '98.197C',
+        'project_address': '595 Golden Gate Avenue',
+        'lot_number': '13',
+        'assessor_block': '766',
+        'project_descr': 'request for conditional use authorization (per planning code section 243(c)(8)(F)) to establish large fast food restaurant in the Van Ness Avenue Special Use District',
+        'type_district': 'RC-4',
+        'type_district_descr': 'high density residential-commercial',
+        'height_and_bulk_district': '130-V',
+        'speakers': ['Robert McCarthy'],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+        'action_name': 'motion no. 14636'
+    },
+    {
+        'case_number': '98.186C',
+        'project_address': '4207 Judah Street',
+        'lot_number': '37',
+        'assessor_block': '1806',
+        'project_descr': 'request for conditional use authorization under section 303(e) of planning code to extend termination date of existing noncofmring bar from april 30, 1999 to april 30, 2009 to allow bar to continue operating until 2:00 a.m.',
+        'type_district': 'RM-1',
+        'type_district_descr': 'residential, mixed, low-density',
+        'height_and_bulk_district': '40-X',
+        'speakers': ['Patrick Than', 'Lil Palermo'],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+        'action_name': 'motion no. 14637'
+    },
+    {
+        'case_number': '98.127C',
+        'project_address': '1200 9th Avenue',
+        'lot_number': '35, 44',
+        'assessor_block': '1742',
+        'project_descr': 'request for modification of a previously approved conditional use authorization, under sections 711.11 and 711.21 of planning code for development of a lot exceeding 10,000 square feet and establishment of retail pet store, to allow general convenience retail/pharmacy use rather than previously approved retail pet store',
+        'speakers': ['Robert McCarthy', 'Steven', 'Lewens', 'Bob Planthold',
+                     'Pat Christensen', 'Pinky Kushner', 'Roth Miller', 'Lisa Orsaba',
+                     'Mary Ann Miller', 'Eric Bianco', 'Deboarh Lises',
+                     'Dr. Rob Eric', 'Dennis Quinn', 'James Hanley',
+                     'Harvey Vickens', 'John Bardis'],
+        'action': 'approved with conditions as modified',
+        'modifications': [
+            'security in parking lot to move cars out within an hour',
+            'pharmacist on site from 8 a.m. to 9 p.m.',
+            'loading/deliveries on site only',
+            'van size not to exceed 30 ft.',
+            'hours of operations 7a.m. to 11p.m.',
+            'project sponsor shall continue to work with staff on the project',
+            'sign language as read by Bob Passmore', 
+            'establish a liaison officer',
+            'loading hours developed in consultation with Planning Department and the Department of Parking and Traffic'],
+        'ayes': ['Chinchilla', 'Theoharis', 'Mills',
+                 'Martin', 'Joe'],
+        'noes': ['Antenore', 'Hills'],
+        'absent': [],
+        'vote': '5-2',
+        'action_name': 'motion no. 14638'
+    },
+    {
+        'case_number': '98.285C',
+        'project_address': '1640 Stockton Street',
+        'lot_number': '15',
+        'assessor_block': '103',
+        'project_descr': 'request for conditional use authorization under sections 722.21 and 722.81 of planning code to establish a large institution of approx. 3,000 square feet. San Francisco Italian Athletic Club is proposing to add a second floor office/meeting room above existing post office',
+        'type_district': 'North Beach Neighborhood Commercial District',
+        'height_and_bulk_district': '40-X',
+        'speakers': [],
+        'action': 'approved with conditions as drafted',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+        'action_name': 'motion no. 14639'
+    },
+    {
+        'case_number': '98.307D',
+        'project_address': '2425 Hyde Street',
+        'lot_number': '002',
+        'assessor_block': '0047',
+        'project_descr': 'request for discretionary review of building permit application no. 9725734, to merge a four-unit building into single-family dwelling',
+        'type_district': 'RH-3',
+        'type_district_descr': 'house, three-family',
+        'speakers': [],
+        'action': 'without hearing, continued to 6/18/98',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0',
+    },
+    {
+        'case_number': '98.246D',
+        'project_address': '3230 Baker Street',
+        'lot_number': '025',
+        'assessor_block': '0926',
+        'project_descr': 'request for discretionary review of building permit application no. 9725973 to construct an additional level to existing single-unit house',
+        'type_district': 'RH-1',
+        'type_district_descr': 'house, one-family',
+        'action': 'discretionary review request withdrawn'
+    },
+    {
+        'case_number': '98.254D',
+        'project_address': '41 Norfolk Street',
+        'lot_number': '051', 
+        'assessor_block': '3521',
+        'project_descr': 'request for discretionary review of building permit application no. 9713455, to construct a new three-story building with two live/work units on a vacant lot',
+        'type_district': 'SLR',
+        'type_district_descr': 'service/light/industrial/residential mixed use',
+        'speakers': [],
+        'action': 'without hearing, continued indefinitely',
+        'ayes': ['Chinchilla', 'Theoharis', 'Hills', 'Mills',
+                 'Antenore', 'Martin', 'Joe'],
+        'noes': [],
+        'absent': [],
+        'vote': '7-0'
+    }
 ]
+
+# 1) Pull out the case_number from each block via regex
+case_re = re.compile(r"(\d{2}\.\d{3,}[A-Z0-9/]*)")
+block_codes = []
+for i, blk in enumerate(blocks):
+    m = case_re.search(blk)
+    code = m.group(1) if m else None
+    block_codes.append(code)
+
+# 2) Pull your label codes
+label_codes = [lab.get("case_number") for lab in labels]
+
+# 3) Print counts
+print(f"Blocks found : {len(blocks)}")
+print(f"Labels provided: {len(labels)}")
+
+# 4) Show every pair side by side (up to the shorter length)
+for i in range(min(len(blocks), len(labels))):
+    print(f"{i:02d}  block→{block_codes[i]!r}   label→{label_codes[i]!r}")
+
+# 5) Compute mismatches
+set_blocks = set(c for c in block_codes if c)
+set_labels = set(c for c in label_codes if c)
+print("\nIn blocks but not labelled:", sorted(set_blocks - set_labels))
+print("In labels but not in blocks:", sorted(set_labels - set_blocks))
+
+# === 3) Sanity check ===
+if len(blocks) != len(labels):
+    raise ValueError(f"Block count ({len(blocks)}) != label count ({len(labels)})")
+
+# === 4) Write out JSONL ===
+with open(output_jsonl, "w", encoding="utf-8") as fout:
+    for raw_block, lab in zip(blocks, labels):
+        example = {
+            "prompt":     raw_block.strip() + "\n\n",      # raw text + two newlines
+            "completion": json.dumps(lab, ensure_ascii=False)  # your label dict as JSON string
+        }
+        fout.write(json.dumps(example, ensure_ascii=False) + "\n")
+
+print(f"Wrote {len(labels)} examples to {output_jsonl}")
