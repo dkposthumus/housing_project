@@ -1,2 +1,3 @@
-# ignore the 'scratch folder'
 .DS_Store
+# ignore everything in the minutes_extractor folder 
+data/meeting_minutes/processed/minutes_extractor/*

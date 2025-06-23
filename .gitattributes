@@ -1,3 +1,10 @@
 # Track all raw data files (csv and dta) using LFS
-*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/election_data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/election_data/2020_precinct_state/*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/2024_CES/*.csv filter=lfs diff=lfs merge=lfs -text
+
+data/clean/election_data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/clean/election_data/2020_precinct_state/*.csv filter=lfs diff=lfs merge=lfs -text
+data/clean/2024_CES/*.csv filter=lfs diff=lfs merge=lfs -text
+
 *.dta filter=lfs diff=lfs merge=lfs -text
