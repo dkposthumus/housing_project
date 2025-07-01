@@ -1,5 +1,0 @@
-/* We only change the position of the level 2 items of the SECOND last column to the left
-   IF the resolution is 800x600 or lower */
-#dropdownmenu ul.dropdownrootitem6ul ul ul {
-	left: -90%; /*to position them to the right of their containing block */
-}

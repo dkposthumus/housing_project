@@ -9,11 +9,10 @@ from transformers import (
     Seq2SeqTrainingArguments,
     Seq2SeqTrainer,
 )
-import evaluate
 
 # ── Schema-driving prompt ───────────────────────────────────────────────
 PROMPT_INSTRUCTION = """You are a strict JSON extractor. Given a block of raw meeting text, extract and return exactly one valid JSON object with the following keys (in any order). 
-
+    1`  ``  
 Only output the JSON — do not include explanations, formatting, or commentary. If a field is missing or not found, set it to an empty string ("").
 
 Required keys:
@@ -48,7 +47,7 @@ def main():
     home      = Path.home()
     work_dir  = home / "housing_project"
     data_dir  = work_dir / "data" / "meeting_minutes"
-    raw_dir   = data_dir / "raw"
+    raw_dir   = data_dir / "tagged"
     model_dir = data_dir / "processed" / "minutes_extractor"
     model_dir.mkdir(parents=True, exist_ok=True)
 
@@ -60,12 +59,13 @@ def main():
     ds = ds.train_test_split(test_size=0.1, seed=42)
 
     # ── Step 2: Tokenizer & Base Model ─────────────────────────────────────
-    MODEL_NAME = "google/flan-t5-base"
+    MODEL_NAME = "google/flan-t5-small"
     tokenizer  = T5Tokenizer.from_pretrained(MODEL_NAME)
     model      = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)
+    model.gradient_checkpointing_enable()
 
     max_input_length  = 512
-    max_target_length = 256
+    max_target_length = 512
 
     # ── Step 3: Preprocessing ───────────────────────────────────────────────
     def preprocess_fn(examples):
@@ -75,12 +75,11 @@ def main():
             max_length=max_input_length,
             truncation=True
         )
-        with tokenizer.as_target_tokenizer():
-            labels = tokenizer(
-                examples["completion"],
-                max_length=max_target_length,
-                truncation=True
-            )
+        labels = tokenizer(
+            text_target=examples["completion"],
+            max_length=max_target_length,
+            truncation=True
+        )
         model_inputs["labels"] = labels["input_ids"]
         return model_inputs
 
@@ -93,42 +92,38 @@ def main():
     # ── Step 4: Data collator ───────────────────────────────────────────────
     data_collator = DataCollatorForSeq2Seq(
         tokenizer=tokenizer,
-        model=model,
-        label_pad_token_id=tokenizer.pad_token_id,
+        model=model
     )
 
     # ── Step 5: Training arguments ─────────────────────────────────────────
     training_args = Seq2SeqTrainingArguments(
         output_dir=str(model_dir),
         learning_rate=3e-4,
-        per_device_train_batch_size=4,
-        per_device_eval_batch_size=4,
+        per_device_train_batch_size=1,            # <<< smaller physical batch
+        per_device_eval_batch_size=1,
+        gradient_accumulation_steps=4,  
         weight_decay=0.01,
         save_total_limit=3,
-        num_train_epochs=3,
+        num_train_epochs=20,
         predict_with_generate=True,
         logging_dir=str(model_dir / "logs"),
         logging_steps=100,
         fp16=False,
         metric_for_best_model="valid_json_ratio",
         greater_is_better=True,
+        eval_strategy="epoch",
+        save_strategy="epoch",
+        load_best_model_at_end=True,
+        seed = 42
     )
-
-    rouge = evaluate.load("rouge")
 
     def compute_metrics(eval_preds):
         preds, labels = eval_preds
         decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
-        # replace -100 in the labels so we can decode them
-        labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
-        decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
-
-        result = rouge.compute(predictions=decoded_preds, references=decoded_labels)
         # add our JSON-validity metric
         valid_json_count = sum(is_valid_json(p) for p in decoded_preds)
-        result["valid_json_ratio"] = valid_json_count / len(decoded_preds)
         # round everything
-        return {k: round(v, 4) for k, v in result.items()}
+        return {"valid_json_ratio": round(valid_json_count / len(decoded_preds), 4)}
 
     # ── Step 6: Trainer ────────────────────────────────────────────────────
     trainer = Seq2SeqTrainer(

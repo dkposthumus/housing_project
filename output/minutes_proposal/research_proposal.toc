@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{}%
-\contentsline {section}{\numberline {2}Literature Review}{1}{}%
-\contentsline {section}{\numberline {3}Institutional Background}{1}{}%
-\contentsline {section}{\numberline {4}Empirical Methods}{1}{}%
-\contentsline {subsection}{\numberline {4.1}Existing Data on Housing Regulations}{1}{}%
-\contentsline {subsection}{\numberline {4.2}Creation of Planning Commission Dataset}{2}{}%
