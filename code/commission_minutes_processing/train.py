@@ -1,146 +1,141 @@
-import json
-import numpy as np
+#!/usr/bin/env python3
+"""
+train.py
+"""
+
+import json, numpy as np, torch
 from pathlib import Path
 from datasets import load_dataset
 from transformers import (
-    T5Tokenizer,
-    T5ForConditionalGeneration,
+    T5Tokenizer, T5ForConditionalGeneration,
     DataCollatorForSeq2Seq,
-    Seq2SeqTrainingArguments,
-    Seq2SeqTrainer,
+    Seq2SeqTrainingArguments, Seq2SeqTrainer
 )
 
-# ── Schema-driving prompt ───────────────────────────────────────────────
-PROMPT_INSTRUCTION = """You are a strict JSON extractor. Given a block of raw meeting text, extract and return exactly one valid JSON object with the following keys (in any order). 
-    1`  ``  
-Only output the JSON — do not include explanations, formatting, or commentary. If a field is missing or not found, set it to an empty string ("").
+# ───────────────────────────────── prompt ────────────────────────────────
+PROMPT_INSTRUCTION = """You are a strict JSON extractor. Given a block of raw meeting text, extract and return exactly one valid double-quoted JSON object with the keys below (any order). 
+Only output the JSON—no commentary. Missing fields → empty string "".
 
 Required keys:
-- case_number              
-- project_address          
-- lot_number                
-- assessor_block             
-- project_descr              
-- type_district             
-- type_district_descr        
-- speakers                   
-- action                     
-- modifications              
-- ayes                       
-- noes                       
-- absent                     
-- vote                       
-- action_name  (should include 'resolution' or 'motion' if present)
+- case_number
+- project_address
+- lot_number
+- assessor_block
+- project_descr
+- type_district
+- type_district_descr
+- speakers
+- action
+- modifications
+- ayes
+- noes
+- absent
+- vote
+- action_name
 
-Below is the raw block of text, exactly as it appeared in the minutes:
+Raw block:
 """
 
-def is_valid_json(text: str) -> bool:
+EOJ_TOKEN = "<extra_id_0>"  
+# ───────────────────────────────── helpers ───────────────────────────────
+def is_valid_json(txt: str) -> bool:
     try:
-        json.loads(text)
+        json.loads(txt)
         return True
-    except:
+    except Exception:
         return False
 
+# ───────────────────────────────── main ──────────────────────────────────
 def main():
-    # ── Paths ──────────────────────────────────────────────────────────────
-    home      = Path.home()
-    work_dir  = home / "housing_project"
-    data_dir  = work_dir / "data" / "meeting_minutes"
-    raw_dir   = data_dir / "tagged"
-    model_dir = data_dir / "processed" / "minutes_extractor"
-    model_dir.mkdir(parents=True, exist_ok=True)
+    # ── paths ────────────────────────────────────────────────────────────
+    home = Path.home()
+    work = home / "housing_project"
+    data = work / "data" / "meeting_minutes"
+    raw  = data / "tagged"
+    out  = data / "processed" / "minutes_extractor"
+    out.mkdir(parents=True, exist_ok=True)
 
-    # ── Step 1: Load hand-labelled JSONL ───────────────────────────────────
-    ds = load_dataset(
-        "json",
-        data_files={ "train": str(raw_dir / "training.txt") },
-    )["train"]
+    # ── dataset ──────────────────────────────────────────────────────────
+    ds = load_dataset("json", data_files={"train": str(raw / "training.txt")})["train"]
     ds = ds.train_test_split(test_size=0.1, seed=42)
 
-    # ── Step 2: Tokenizer & Base Model ─────────────────────────────────────
+    # ── model / tokenizer ────────────────────────────────────────────────
     MODEL_NAME = "google/flan-t5-small"
     tokenizer  = T5Tokenizer.from_pretrained(MODEL_NAME)
-    model      = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)
+    model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)
     model.gradient_checkpointing_enable()
 
-    max_input_length  = 512
-    max_target_length = 512
+    max_in, max_out = 512, 256
 
-    # ── Step 3: Preprocessing ───────────────────────────────────────────────
-    def preprocess_fn(examples):
-        inputs = [PROMPT_INSTRUCTION + raw for raw in examples["prompt"]]
-        model_inputs = tokenizer(
-            inputs,
-            max_length=max_input_length,
-            truncation=True
-        )
+    # ── preprocessing ────────────────────────────────────────────────────
+    def preprocess(ex):
+        inputs = [PROMPT_INSTRUCTION + txt for txt in ex["prompt"]]
+        model_in = tokenizer(inputs, max_length=max_in, truncation=True)
         labels = tokenizer(
-            text_target=examples["completion"],
-            max_length=max_target_length,
-            truncation=True
+            text_target=ex["completion"],          # no extra token added
+            max_length=max_out,
+        truncation=True,
         )
-        model_inputs["labels"] = labels["input_ids"]
-        return model_inputs
+        model_in["labels"] = labels["input_ids"]
+        return model_in
 
-    tokenized = ds.map(
-        preprocess_fn,
-        batched=True,
-        remove_columns=["prompt", "completion"],
-    )
+    tokenized = ds.map(preprocess, batched=True, remove_columns=["prompt", "completion"])
 
-    # ── Step 4: Data collator ───────────────────────────────────────────────
-    data_collator = DataCollatorForSeq2Seq(
-        tokenizer=tokenizer,
-        model=model
-    )
+    # ── collator ─────────────────────────────────────────────────────────
+    collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-    # ── Step 5: Training arguments ─────────────────────────────────────────
-    training_args = Seq2SeqTrainingArguments(
-        output_dir=str(model_dir),
+    # ── training args ────────────────────────────────────────────────────
+    args = Seq2SeqTrainingArguments(
+        output_dir=str(out),
         learning_rate=3e-4,
-        per_device_train_batch_size=1,            # <<< smaller physical batch
+        per_device_train_batch_size=1,
         per_device_eval_batch_size=1,
-        gradient_accumulation_steps=4,  
+        gradient_accumulation_steps=4,
+        num_train_epochs=10,
         weight_decay=0.01,
-        save_total_limit=3,
-        num_train_epochs=20,
         predict_with_generate=True,
-        logging_dir=str(model_dir / "logs"),
-        logging_steps=100,
-        fp16=False,
-        metric_for_best_model="valid_json_ratio",
-        greater_is_better=True,
+        logging_strategy="epoch",
         eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
-        seed = 42
+        metric_for_best_model="valid_json_ratio",
+        greater_is_better=True,
+        generation_max_length=600,
+        generation_num_beams=1,
+        seed=42,
+        fp16=False,                              # ignored on M-series
     )
 
+    # ── metric fn ────────────────────────────────────────────────────────
     def compute_metrics(eval_preds):
-        preds, labels = eval_preds
-        decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
-        # add our JSON-validity metric
-        valid_json_count = sum(is_valid_json(p) for p in decoded_preds)
-        # round everything
-        return {"valid_json_ratio": round(valid_json_count / len(decoded_preds), 4)}
+        preds, _ = eval_preds
+        # make sure we have `int32` (some back-ends give int64 or float32)
+        preds = np.asarray(preds, dtype=np.int32)
+        # strip any IDs that are outside the SentencePiece vocab
+        vocab_size = tokenizer.vocab_size
+        cleaned = [[tok for tok in seq if 0 <= tok < vocab_size] for seq in preds]
+        decoded = tokenizer.batch_decode(cleaned, skip_special_tokens=True)        
+        #  ── DEBUG: show one sample every epoch ───────────────────────────────
+        print("\n── sample pred ─────────────────────────────────────────")
+        print(decoded[0][:500])
+        print("────────────────────────────────────────────────────────\n")
+        decoded = [d.split(EOJ_TOKEN)[0] for d in decoded]   # safety strip
+        valid   = sum(is_valid_json(d) for d in decoded)
+        return {"valid_json_ratio": valid / len(decoded)}
 
-    # ── Step 6: Trainer ────────────────────────────────────────────────────
+    # ── trainer ──────────────────────────────────────────────────────────
     trainer = Seq2SeqTrainer(
-        model=model,
-        args=training_args,
+        model=model, args=args,
         train_dataset=tokenized["train"],
         eval_dataset=tokenized["test"],
-        tokenizer=tokenizer,
-        data_collator=data_collator,
+        tokenizer=tokenizer, data_collator=collator,
         compute_metrics=compute_metrics,
     )
 
-    # ── Step 7: Train & save ───────────────────────────────────────────────
     trainer.train()
-    trainer.save_model(str(model_dir))
-    tokenizer.save_pretrained(str(model_dir))
-    print(f"✔ Training complete — model saved to {model_dir}")
+    trainer.save_model(str(out))
+    tokenizer.save_pretrained(str(out))
+    print("✓ training complete – model saved to", out)
 
 if __name__ == "__main__":
     main()

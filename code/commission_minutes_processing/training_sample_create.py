@@ -1,26 +1,28 @@
+#!/usr/bin/env python3
+"""
+build_training_txt.py – create training.jsonl for the minutes extractor
+"""
+
 from striprtf.striprtf import rtf_to_text
-import numpy as np
+import json, re
 from pathlib import Path
-import re
-import json
 
-# === Set up paths ===
-home = Path.home()
-work_dir = home / "housing_project"
-data = work_dir / "data"
-minutes = data / "meeting_minutes"
-minutes_raw = minutes / "raw"
-minutes_clean = minutes / "processed"
-text_dir = minutes / "text"
-text_dir.mkdir(parents=True, exist_ok=True)
-output_jsonl  = minutes_raw / "training.jsonl"
+# ───────────────────────────────────────────── paths ────────────────────
+home   = Path.home()
+base   = home / "housing_project" / "data" / "meeting_minutes"
+rawdir = base / "raw"
+outdir = base / "tagged"              # where your finetune script looks
+outdir.mkdir(parents=True, exist_ok=True)
+outfile = outdir / "training.txt"
 
-rtf = Path(f"{minutes_raw}/minutes_training_sample.rtf").read_text(encoding="utf-8", errors="ignore")
-plain = rtf_to_text(rtf)
-# now `plain` is the same text you see, with all the <<Project Start>> markers
-blocks = re.findall(r"<<Project Start>>(.*?)<<Project End>>", plain, flags=re.DOTALL)
+# ───────────────────────────────────────────── load RTF ─────────────────
+plain = rtf_to_text((outdir / "minutes_training_sample.rtf").read_text("utf-8"))
 
-# create a dictionary which are the labels for the training sample
+blocks = re.findall(r"<<Project Start>>(.*?)<<Project End>>", plain, re.S)
+
+print("Blocks found:", len(blocks))
+
+# ───────────────────────────────────────────── label list (your dicts) ──
 labels = [
     {"case_number": "98.226D", "project_address": "571 Jersey Street", "lot_number": "033", "assessor_block": "6540", "project_descr": "Request for Discretionary Review of Building Permit Application No. 9722606 to construct a third-level bedroom suite and roof deck to an existing two-story single-family residence", "type_district": "RH-2", "type_district_descr": "house, two-family", "speakers": "None", "action": "proposed for continuance to june 25, 1998", "ayes": "Chinchilla, Theoharis, Antenore, Hills, Joe, Martin, Mills", "noes": "", "vote": "7-0"},
     {"case_number": "98.251C", "project_address": "154 Coleridge Street", "lot_number": "22", "assessor_block": "5642", "project_descr": "Request for authorization of a conditional use to modify a condition of approval of Commission Motion No. 11774 to accommodate one handicapped-accessible dwelling unit in subject three-unit residential building", "type_district": "RH-2", "type_district_descr": "house, two-family", "height_and_bulk_district": "40-x", "action": "proposed for continuance to june 11, 1998", "speakers": "None", "ayes": "Chinchilla, Theoharis, Antenore, Hills, Joe, Martin, Mills", "noes": "", "vote": "7-0"},
@@ -93,42 +95,53 @@ labels = [
     {"case_number": "98.254D", "project_address": "41 Norfolk Street", "lot_number": "051", "assessor_block": "3521", "project_descr": "request for discretionary review of building permit application no. 9713455, to construct a new three-story building with two live/work units on a vacant lot", "type_district": "SLR", "type_district_descr": "service/light/industrial/residential mixed use", "speakers": "", "action": "without hearing, continued indefinitely", "ayes": "Chinchilla, Theoharis, Hills, Mills, Antenore, Martin, Joe", "noes": "", "absent": "", "vote": "7-0"},
 ]
 
-# 1) Pull out the case_number from each block via regex
-case_re = re.compile(r"(\d{2}\.\d{3,}[A-Z0-9/]*)")
-block_codes = []
-for i, blk in enumerate(blocks):
-    m = case_re.search(blk)
-    code = m.group(1) if m else None
-    block_codes.append(code)
+print("Labels supplied:", len(labels))
 
-# 2) Pull your label codes
-label_codes = [lab.get("case_number") for lab in labels]
+# ───────────────────────────────────────────── utilities ────────────────
+REQUIRED = [
+    "case_number","project_address","lot_number","assessor_block","project_descr",
+    "type_district","type_district_descr","speakers","action","modifications",
+    "ayes","noes","absent","vote","action_name"
+]
+EOJ = "<extra_id_0>"
+CASE_RE = re.compile(r"(\d{2}\.\d{3,}[A-Z0-9/]+)")
 
-# 3) Print counts
-print(f"Blocks found : {len(blocks)}")
-print(f"Labels provided: {len(labels)}")
+def normalise_case(code: str) -> str:
+    return code.replace(" ", "").upper() if code else ""
 
-# 4) Show every pair side by side (up to the shorter length)
-for i in range(min(len(blocks), len(labels))):
-    print(f"{i:02d}  block→{block_codes[i]!r}   label→{label_codes[i]!r}")
+# ───────────────────────────────────────────── map blocks → case code ──
+block_map = {}
+for blk in blocks:
+    m = CASE_RE.search(blk)
+    code = normalise_case(m.group(1) if m else None)
+    if code:
+        block_map[code] = blk.strip()
 
-# 5) Compute mismatches
-set_blocks = set(c for c in block_codes if c)
-set_labels = set(c for c in label_codes if c)
-print("\nIn blocks but not labelled:", sorted(set_blocks - set_labels))
-print("In labels but not in blocks:", sorted(set_labels - set_blocks))
+# ───────────────────────────────────────────── build examples ───────────
+examples = []
+for lab in labels:
+    code = normalise_case(lab.get("case_number"))
+    raw  = block_map.get(code)
 
-# === 3) Sanity check ===
-if len(blocks) != len(labels):
-    raise ValueError(f"Block count ({len(blocks)}) != label count ({len(labels)})")
+    if raw is None:
+        print("⚠  label case_number not found in blocks:", code)
+        continue
 
-# === 4) Write out JSONL ===
-with open(output_jsonl, "w", encoding="utf-8") as fout:
-    for raw_block, lab in zip(blocks, labels):
-        example = {
-            "prompt":     raw_block.strip() + "\n\n",      # raw text + two newlines
-            "completion": json.dumps(lab, ensure_ascii=False)  # your label dict as JSON string
-        }
-        fout.write(json.dumps(example, ensure_ascii=False) + "\n")
+    # ensure every required key exists
+    for k in REQUIRED:
+        if k not in lab:
+            lab[k] = "" if k not in {"ayes","noes","absent"} else []
 
-print(f"Wrote {len(labels)} examples to {output_jsonl}")
+    # serialise label JSON + terminator token
+    comp = json.dumps(lab, ensure_ascii=False) + f" {EOJ}"
+
+    examples.append({"prompt": raw + "\n\n", "completion": comp})
+
+print(f"✓ Paired {len(examples)} block/label pairs")
+
+# ───────────────────────────────────────────── write jsonl ──────────────
+with outfile.open("w", encoding="utf-8") as fout:
+    for ex in examples:
+        fout.write(json.dumps(ex, ensure_ascii=False) + "\n")
+
+print("Wrote", len(examples), "examples to", outfile)
