@@ -1,299 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 2, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ April 2, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-April 2, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 2, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 2, 2009
-
-
-2:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Moore, Olague, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 2:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Cecilia Jaroslawsky, Carrie Dovzak, Michael Smith, Diego Sanchez, Adrian Putra, Shelley Caltagirone, Elaine Forbes, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-SPEAKERS:
- 
-
-
- 
- Hiroshi Fukuda and Marilyn Amini requested that the commission continue item 10 on today's calendar
-
-
- 
-
-
- 
-
-
-B.
- 
- CONSENT CALENDAR
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
- 
- There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2009.0041C
+2009.0041C
  
  
  
@@ -406,8 +112,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -520,8 +224,6 @@ New York Times
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -943,8 +645,6 @@ None
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -953,8 +653,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 5.
- 
- 2006.0203E
+<<Project End>>
+<<Project Start>>
+2006.0203E
  
  
 (C. Dovzak: (415) 575-9030)
@@ -1006,8 +707,6 @@ AYES:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1016,8 +715,9 @@ REGULAR CALENDAR
 
 
 6.
- 
- 2009.0061C 
+<<Project End>>
+<<Project Start>>
+2009.0061C 
  
  
  
@@ -1095,8 +795,9 @@ NAYES:
 
  
  7a.
- 
- 2005.0876KE
+<<Project End>>
+<<Project Start>>
+2005.0876KE
 C
 V
  
@@ -1173,8 +874,9 @@ AYES:
 
  
  7b.
- 
- 2005.0876KEC
+<<Project End>>
+<<Project Start>>
+2005.0876KEC
 V
  
  
@@ -1204,16 +906,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance subject to the standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0733C
+<<Project End>>
+<<Project Start>>
+2008.0733C
  
  
  
@@ -1286,8 +987,9 @@ AYES:
 
 
 9a.
- 
- 2008.0359D
+<<Project End>>
+<<Project Start>>
+2008.0359D
  
  
  
@@ -1354,8 +1056,6 @@ ABSENT:
 
 
 9b.
-<<Project End>>
-<<Project Start>>
  
  2009. 0104V 
  
@@ -1392,8 +1092,9 @@ ACTION:
 
  
  10a
- 
- 2009.0227T
+<<Project End>>
+<<Project Start>>
+2009.0227T
 U
  
  
@@ -1437,8 +1138,9 @@ AYES:
 
 
 10b
- 
- 2009.0227
+<<Project End>>
+<<Project Start>>
+2009.0227
 T
 U
  

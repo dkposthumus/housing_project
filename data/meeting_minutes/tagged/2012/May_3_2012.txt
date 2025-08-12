@@ -1,290 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 3, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ May 3, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-May 3, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Notice of Meeting 
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 3, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Antonini, Borden, Miguel, Moore, Wu, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT WU AT 12:16 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez - Zoning Administrator, Kevin Guy, Corey Teague, Christina Lamorena, Tara Sullivan, Diego Sanchez, Sharon Young, Joshua Switzky, Aaron Starr, Glenn Cabreros, Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-None
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         
 2012.0009C
                                                                                   (
 K. Guy: (415) 558-6163)
@@ -318,14 +32,14 @@ Borden
 
 MOTION:           
 18605
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2012.0038C
                                                                          
 (C.Teague: (415) 575-9081)
@@ -356,14 +70,14 @@ Borden
 
 MOTION:           
 18606
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            3.         
+            3.
+<<Project End>>
+<<Project Start>>
 2012.0273C
                                                                  (C. LAMORENA: (415) 575-9085)
 
@@ -393,14 +107,14 @@ Borden
 
 MOTION:           
 18607
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0468B 
                                                                      
 (T. Sullivan: (415) 558-6257)
@@ -434,14 +148,14 @@ Borden
 
 MOTION:           
 18608
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2012.0169C 
                                                                       
  (
@@ -487,8 +201,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -567,8 +279,6 @@ The other thing I wanted to share with the Commission is that the Mayor in doing
 
 D.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -585,9 +295,7 @@ Director Rahaim:
 
 I wanted to thank the Commission for the NIA award.  And related to that, I was part of a group including Supervisor Avalos that cut the ribbon for the 27
 th 
-parklet, which is in the Excelsior District. This was actually built by a group of students, designed and built by a group of students through an organization called The Out of Sight Youth Center in the Excelsior. The students were all there and very proud of it. There are 27 parklets and there are about 40 more in the pipeline. It is really exciting.  Also, in terms of awards, I do not think I got to mention that at the conference in L.A. Last month, the Department received a National Award for the hard-won victory category. It was nice to get that recognition in a room of about 3000 people during the awards ceremony. It was gratifying.
-<<Project End>>
-<<Project Start>>
+parklet, which is in the Excelsior District. This was actually built by a group of students, designed and built by a group of students through an organization called The Out of Sight Youth Center in the Excelsior. The students were all there and very proud of it. There are 27 parklets and there are about 40 more in the pipeline. It is really exciting.  Also, in terms of awards, I do not think I got to mention that at the conference in L.A. Last month, the Department received a National Award for the hard-won victory category. It was nice to get that recognition in a room of about 3000 people during the awards ceremony. It was gratifying. 
 
 
  
@@ -719,15 +427,15 @@ None
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2012.0156C
                                                                          
  (S.Young: (415) 558-6346)
@@ -758,14 +466,14 @@ Borden
 
 MOTION:           
 18610
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-      10.        
+      10.
+<<Project End>>
+<<Project Start>>
 2012.0028C
                                                                  (C. LAMORENA: (415) 575-9085)
 
@@ -795,14 +503,14 @@ Borden
 
 MOTION:           
 18611
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2007.0558 EMTZU
                                                             
 (J. Switzky: (415) 575-6815)
@@ -932,7 +640,9 @@ RESOLUTION:  
  
 
 
-12a.      
+12a.
+<<Project End>>
+<<Project Start>>
 2011.0532T
                                                                     
 (A. STARR:  (415) 558-6362)         
@@ -983,7 +693,9 @@ RESOLUTION:  
  
 
 
-12b.      
+12b.
+<<Project End>>
+<<Project Start>>
 2011.0533Z
                                                                       
 (A. STARR:  (415) 558-6362)         
@@ -1030,14 +742,14 @@ RECUSED:       Fong
 
 RESOLUTION:   
 18616
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.1151D
                                                                            (A. STARR: (415) 558-6362)
 
@@ -1073,14 +785,14 @@ Borden
 
 DRA:                
 0276
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2012.0135DDDDD
                                                         (G. CABREROS: (415) 558-6169)
 

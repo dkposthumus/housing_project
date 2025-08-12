@@ -1,268 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ July 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-July 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 9, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 9, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1: 40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Steve Wertheim, Viktoriya Wise, Jamie Dean, Timothy Johnston, Cecilia Jaroslawsky, Tara Sullivan, Steve Smith, Britt Becker, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
- 
-
-
-The
- Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.0197E:
+2008.0197E:
  
  
  
@@ -310,8 +47,9 @@ AYES:
 
 
 2a.
- 
- 2008.0197CE
+<<Project End>>
+<<Project Start>>
+2008.0197CE
 X
  
  
@@ -352,8 +90,9 @@ AYES:
 
 
 2b.
- 
- 2008.0197
+<<Project End>>
+<<Project Start>>
+2008.0197
 C
 EX 
  
@@ -388,16 +127,15 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.1014C
+<<Project End>>
+<<Project Start>>
+2008.1014C
  
  
  
@@ -465,8 +203,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -524,8 +260,6 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -807,8 +541,6 @@ In conversation with the President of the Commission, we both felt that it was m
 I believe the Institutional Master Plan is tentatively scheduled for the September 17
 th
  Planning Commission hearing.
-<<Project End>>
-<<Project Start>>
  
  
  
@@ -910,8 +642,8 @@ None – The Commission did not meet this week
  
 8
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0205I 
  
  
@@ -947,16 +679,15 @@ ACTION:
  An informational item that did not require Commission action.
  
  However Commissioner Moore requested that we add a locational map to our files so that in the long run we can track where downtown institutional uses are.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.1073E
+<<Project End>>
+<<Project Start>>
+2006.1073E
  
 (V. WISE: (415) 575-9049)
 
@@ -1062,8 +793,6 @@ SPEAKERS on item 13 – 2009.0172C for 5898 Mission Street:
 
 
 Steven Currier – OMMRA, Alex Murillo – OMMRA, Edward Azar – son of Project Sponsor, Mrs. Azar – Project Owner
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1074,8 +803,9 @@ Steven Currier – OMMRA, Alex Murillo – OMMRA, Edward Azar – son of Project
 
 
 10.
- 
- 2006.1073E
+<<Project End>>
+<<Project Start>>
+2006.1073E
  
  
  
@@ -1128,16 +858,15 @@ AYES:
 MOTION:
  
  17916
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0118E
+<<Project End>>
+<<Project Start>>
+2007.0118E
  
  
  
@@ -1193,16 +922,15 @@ RECUSED:
 MOTION:
  
  17917
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2005.0164E
+<<Project End>>
+<<Project Start>>
+2005.0164E
  
  
  
@@ -1249,16 +977,15 @@ AYES:
 MOTION:
  
  17918
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2009.0172C
+<<Project End>>
+<<Project Start>>
+2009.0172C
  
  
  
@@ -1321,8 +1048,6 @@ EXCUSED:
 MOTION:
  
  17919
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1332,8 +1057,9 @@ MOTION:
 
 
 14.
- 
- 2009.0454T 
+<<Project End>>
+<<Project Start>>
+2009.0454T 
  
  
  
@@ -1377,16 +1103,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2008.0354
+<<Project End>>
+<<Project Start>>
+2008.0354
 T
 : 
  
@@ -1436,8 +1161,8 @@ RESOLUTION:
 
  
  16a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0788
 C
 V
@@ -1486,8 +1211,9 @@ AYES:
 
 
 16b.
- 
- 2008.0788C
+<<Project End>>
+<<Project Start>>
+2008.0788C
 V
  
  
@@ -1519,16 +1245,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed public hearing and granted the variances subject to the standard conditions of approval but stated that he would not issue them until after the Commission takes its final action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2005.0162E
+<<Project End>>
+<<Project Start>>
+2005.0162E
  
  
  
@@ -1565,16 +1290,15 @@ ACTION:
 RECUSED:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0137E
+<<Project End>>
+<<Project Start>>
+2006.0137E
  
  
  
@@ -1614,8 +1338,9 @@ ACTION:
 
 
 19a.
- 
- 2009.0555D
+<<Project End>>
+<<Project Start>>
+2009.0555D
  
  
  
@@ -1660,8 +1385,9 @@ DRA:
 
 
 19b.
- 
- 2008.1308D
+<<Project End>>
+<<Project Start>>
+2008.1308D
  
  
  

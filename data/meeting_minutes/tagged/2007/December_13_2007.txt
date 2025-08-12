@@ -1,285 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 13, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ December 13, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-December 13, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 13, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 13, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Craig Nikitas – Acting Zoning Administrator, Amit Ghosh – Chief Planner, Corey Teague, Kate Conner, Adam Light, Michelle Glueckert, Sara Vellve, Ken Rich, Johnny Jaramillo, Lily Langlois, Sue Exline, Andres Power, Jonathan Swae, Sarah Dennis, Claudia Flores, Dan DiBartolo, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.0336D
+2005.0336D
  
  
  
@@ -320,8 +40,9 @@ AYES:
 
 
 2a.
- 
- 2006.0660BE
+<<Project End>>
+<<Project Start>>
+2006.0660BE
 K
 X 
  
@@ -368,8 +89,9 @@ AYES:
 
 
 2b.
- 
- 2006.0660BEK
+<<Project End>>
+<<Project Start>>
+2006.0660BEK
 X
  
  
@@ -413,8 +135,9 @@ AYES:
 
 
 2c.
- 
- 2006.0660
+<<Project End>>
+<<Project Start>>
+2006.0660
 B
 EKX 
  
@@ -459,8 +182,9 @@ AYES:
 
  
  3a.
- 
- 2007.0448
+<<Project End>>
+<<Project Start>>
+2007.0448
 DDD
 V
  
@@ -511,8 +235,9 @@ AYES:
 
  
  3b.
- 
- 2007.0448DDD
+<<Project End>>
+<<Project Start>>
+2007.0448DDD
 V
  
  
@@ -551,16 +276,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0922C
+<<Project End>>
+<<Project Start>>
+2007.0922C
  
  
  
@@ -611,8 +335,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -620,8 +342,9 @@ AYES:
 
  
  5.
- 
- 2007.0916C
+<<Project End>>
+<<Project Start>>
+2007.0916C
  
  
  
@@ -657,16 +380,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2005.1066E:
+<<Project End>>
+<<Project Start>>
+2005.1066E:
  
  
  
@@ -715,16 +437,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2007.1111
+<<Project End>>
+<<Project Start>>
+2007.1111
 T
  
  
@@ -843,16 +564,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2007.0932D
+<<Project End>>
+<<Project Start>>
+2007.0932D
  
  
 (Tape IA)
@@ -905,16 +625,15 @@ C.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2007.1196D
+<<Project End>>
+<<Project Start>>
+2007.1196D
  
  
 (Tape IA)
@@ -991,16 +710,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2006.0847D
+<<Project End>>
+<<Project Start>>
+2006.0847D
  
  
 (Tape IA)
@@ -1139,16 +857,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0929C
+<<Project End>>
+<<Project Start>>
+2007.0929C
  
  
 ( Tape IA ; IB)
@@ -1249,8 +966,6 @@ AYES:
 MOTION:
  
  17519
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1399,8 +1114,6 @@ MOTION:
 
  
  (K. RICH (415) 558-6345)
-<<Project End>>
-<<Project Start>>
 
 
 13.
@@ -1634,8 +1347,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IIIA; IIIB)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1727,8 +1438,6 @@ E.
  DIRECTOR'S REPORT
  
  (Tape IIIB)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1770,8 +1479,6 @@ His funeral was today.
 -
  
  It is a very sad loss for the City.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1855,8 +1562,6 @@ Linda Avery, Commission Secretary
 
 
 President Alexander granted the request.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1942,8 +1647,8 @@ PLEASE NOTE
 
  
  18a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1248K
 X
 CV
@@ -2076,8 +1781,9 @@ MOTION:
 
 
 18b.
- 
- 2006.1248KX
+<<Project End>>
+<<Project Start>>
+2006.1248KX
 C
 V
  
@@ -2146,8 +1852,9 @@ MOTION:
 
 
 18c.
- 
- 2006.1248KXC
+<<Project End>>
+<<Project Start>>
+2006.1248KXC
 V
  
  

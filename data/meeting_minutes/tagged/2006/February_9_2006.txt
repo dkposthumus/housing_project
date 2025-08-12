@@ -1,234 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ February 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-February 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 9, 2006
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-Thursday, February 9, 2006
-
-1:30 PM
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:  S. Lee, D. Alexander, M. Antonini, S. Bradford-Bell, K. Hughes,
-
-C. Olague, and W. Lee.
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:46 P.M.
-
-
-STAFF IN ATTENDANCE: Dean Macris - Director of Planning, Larry Badiner - Zoning Administrator, Sharon Young, Michelle Glueckert, Michael Li, Dan Dibartolo, Rick Crawford, Jonathan Purvis, Ben Fu, Teresa Ojeda, Craig Nikitas, Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2005.0709C                            (J. IONIN: (415) 558-6309)
 
 883-899 VALENCIA STREET - Assessor's Block 3596, Lot 113 -Request under Planning Code Section 726.56 for temporary parking on an open lot.  The Proposal is to continue operating a parking lot on a vacated gas station.  The lot would provide 22 total parking spaces (one handicap space, two standard spaces approximately 8'x20' each, and 19 compact spaces approximately 8'x16' each). This open air parking lot is projected to exist only as long as it takes for the owner to gain approval of demolition and new construction permits (subject to a separate conditional use authorization, Case No. 2004.0891C) to develop a mixed-use structure with commercial on the ground floor and residential above.  The project lies within the Valencia Street Neighborhood Commercial District, the Mission Alcoholic Beverage Special Use Subdistrict, and within the 50-X Height and Bulk District.
@@ -246,9 +16,7 @@ ACTION:      Notice Only.  No Action
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-  2.  Commission Comments/Questions
+2.  Commission Comments/Questions
 
 Commissioner Antonini:
 
@@ -306,8 +74,6 @@ Commissioner Bradford-Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 3. Director's Announcements
 
 Dean Macris - Director of Planning
@@ -433,9 +199,6 @@ Commissioner Bill Lee
 - The longer we delay in figuring out how to make illegal units legal, we are going to face these same situations again.
 <<Project End>>
 <<Project Start>>
-
-
-
 4. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -455,8 +218,6 @@ Board of Supervisors - Dan Sider of Department staff reported
 Board of Appeal - None
 <<Project End>>
 <<Project Start>>
-
-
 5.                           (D. ALUMBAUGH: (415) 558-6601)
 
 REPORT FROM THE BACKSTREETS BUSINESS ADVISORY BOARD - An informational presentation on the activities, goals, and objectives of the Backstreets Business Advisory Board, an advisory board created by the Board of Supervisors.
@@ -660,8 +421,6 @@ Representative for the Project Sponsor [Unclear name]
 F. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 6. 2005.1043DD           (S. YOUNG: (415) 558-6346)
 
 3025 - 3029 SACRAMENTO STREET - south side between Baker and Broderick Streets; Lot 029B in Assessor's Block 1024 - Requests for Discretionary Review of Building Permit Application No. 2005.06.26.6107, proposing to construct a three-story horizontal extension at the rear of an existing two-story over garage, three-family dwelling in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.   
@@ -697,9 +456,7 @@ G. CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
 <<Project End>>
 <<Project Start>>
-
-
- 7. 2005.0982D (M. GLUECKERT: (415) 558-6543)
+7. 2005.0982D (M. GLUECKERT: (415) 558-6543)
 
 244 TOWNSEND STREET - northwest corner of Lusk and Townsend Streets, Assessor's Block 3787, Lot 018 - Mandatory Discretionary Review for a proposed full-service restaurant and bar (DBA "Jackrabbit Moon"), which would sell alcoholic beverages for consumption on-site. No physical expansion or increase in exterior dimensions of the existing building is proposed. Planning Commission Resolution Number 14844 requires a Discretionary Review hearing for all projects involving a new or relocated liquor license or bar within the Ballpark Vicinity Special Use District (BVSUD). The property is located in an SLI (Service / Light Industrial) District, the South End Historic District, and a 65-X Height and Bulk District.
 
@@ -713,9 +470,6 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
  AYES:  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
 8. 2005.0976C                    (M. LI: (415) 558-6396)
 
 2222 POLK STREET - east side between Green and Vallejo Streets, Lot 015 in Assessor's Block 0549 - Request for Conditional Use authorization to modify the previously-approved conditional use (Case No. 2001.1114C and Motion No. 16331).  The current application is requesting that the existing liquor store (dba "Polk & Green Produce Market") be allowed to change its Type 20 ABC license (off-sale beer and wine) to a Type 21 ABC license (off-sale general).  There will be no physical expansion of the existing building or commercial space.  The project site is within the Polk Street Neighborhood Commercial District and a 65-A Height and Bulk District.
@@ -733,8 +487,6 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
 H. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 9. 2005.1049C                                            (M. LI: (415) 558-6396)
 
 1685 SACRAMENTO STREET (AKA 1552 POLK STREET) - southeast corner at Polk Street, Lot 017 in Assessor's Block 0644 - Request for Conditional Use authorization to establish a liquor store (dba "Nob Hill Liquors No. 2") of approximately 1,850 square feet.  The subject commercial space was previously occupied by a retail gardening store.  There will be no physical expansion of the existing building or commercial space.  The project site is within the Polk Street Neighborhood Commercial District and a 65-A Height and Bulk District.
@@ -845,8 +597,6 @@ Andrew Smith
  MOTION: 17185
 <<Project End>>
 <<Project Start>>
-
-
 10. 2005.0686C                (D. DIBARTOLO: (415) 558-6291)
 
 631 O'FARRELL STREET - south side between Hyde and Leavenworth Streets; Lot 001 through 198 in Assessor's Block 0322A - Request for Conditional Use authorization pursuant to Section 209.6(b) of the Planning Code to install and operate a wireless telecommunication facility for T-Mobile within the RC-4 (North of Market Residential Special Use District) and an 80-T Height and Bulk district, upon the roof of the approximately 211 foot high structure that contains 184 condominium dwelling units over ground story commercial space. As per the City and County of San Francisco's Wireless Telecommunication Services (WTS) Facilities Siting Guidelines, the proposal is a Preferred Location Preference 2, as it is the site of previously approved antenna installations.
@@ -861,8 +611,6 @@ Andrew Smith
  ABSENT:  Alexander
 <<Project End>>
 <<Project Start>>
-
-
 11. 2005.1034D              (R. CRAWFORD: (415) 558-6358)
 
 943 CHURCH STREET  - east side between 21st and 22nd Streets.  Assessor's Block 3619 Lot 043 - Request for Discretionary Review of Building Permit Application No. 2005 0614 5053 to add a second unit and to construct a two-story addition to the existing two-story, single-family dwelling in an RM-1 (Residential Mixed, Low Density) District, and a 40-X Height and Bulk district.   
@@ -1285,9 +1033,7 @@ Preliminary Recommendation: Do not take DR and approve project as proposed.
  ABSENT:          Alexander
 <<Project End>>
 <<Project Start>>
-
-
- 14.  2005.1116ET                                   (T. OJEDA:  (415) 558-6251)
+14.  2005.1116ET                                   (T. OJEDA:  (415) 558-6251)
 
 Consideration of an ordinance initiated by Supervisor Chris Daly on November 22, 2005 which would amend Planning Code Sections 315.1, 315.2, 315.4 and 315.5 to increase inclusionary affordable housing requirements for all proposed residential developments of 10 units or more; adjust the income calculation methods to reflect City and County of San Francisco median income calculations; and make environmental findings and findings of consistency with the priority policies of Planning Code Section 101.1 and the General Plan.  The City Planning Commission held an informational hearing on this matter on December 8, 2005.  In response to Planning Commission request on January 12, 2006, Supervisor Maxwell's proposed revisions to the inclusionary affordable housing program will also be discussed as these relate to Supervisor Daly's ordinance.  No action will be taken on Supervisor Maxwell's proposed amendments. The Commission may also consider potential suggested amendments set forth in a letter to the Commission President dated January 12, 2006 sent by Supervisor Sophie Maxwell.
 
@@ -1540,8 +1286,6 @@ Alice Barkley
    RESOLUTION: 17187
 <<Project End>>
 <<Project Start>>
-
-
 15. 2006.0070T                                               (C. NIKITAS (415) 558-6306)
 
 UPDATE ON THE REVIEW OF RESIDENTIAL DEMOLITIONS  - Informational presentation regarding proposed changes to criteria for the review of applications to demolish dwelling units, including future initiation of Planning Code amendments to require Discretionary Review for those demolitions not presently subject to Conditional Use authorization.

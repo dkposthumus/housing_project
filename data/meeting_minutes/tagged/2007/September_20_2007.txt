@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ September 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-September 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 20, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-September 20, 2007
-
-
-1:30 PM
-
-
-Special Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Delvin Washington – Acting Zoning Administrator, Elizabeth Watty, Sophie Middlebrook, Aaron Starr, Ben Fu, Diana Sokolove, Tara Sullivan-Lenane, Joshua Switzky, Sarah Dennis, Stephen Shotland, Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0074TZ
+2006.0074TZ
  
  
  
@@ -317,8 +43,9 @@ AYES:
 
 
 A)
- 
- 2006.0074E
+<<Project End>>
+<<Project Start>>
+2006.0074E
 T
 Z
  
@@ -373,8 +100,9 @@ AYES:
 
 
 B)
- 
- 2006.0074ET
+<<Project End>>
+<<Project Start>>
+2006.0074ET
 Z
  
  
@@ -423,8 +151,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -434,8 +160,9 @@ AYES:
 
 
 2.
- 
- 2007.0511T
+<<Project End>>
+<<Project Start>>
+2007.0511T
  
  
  
@@ -480,16 +207,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0514T
+<<Project End>>
+<<Project Start>>
+2007.0514T
  
  
  
@@ -530,16 +256,15 @@ AYES:
  
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.1355DD
+<<Project End>>
+<<Project Start>>
+2006.1355DD
  
  
  
@@ -575,16 +300,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.0688T
+<<Project End>>
+<<Project Start>>
+2007.0688T
  
  
  
@@ -656,8 +380,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -696,8 +418,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1267,8 +987,6 @@ I think that some of our questions about things like Transbay reflect the fact t
 Until we begin to act this way, we are not going to be in the loop. 
  
 I would respectfully ask or suggest to the Department, the Mayor's Office and the Commission that we need to start acting the way we want to be treated.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1359,8 +1077,6 @@ ACTION:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1383,8 +1099,6 @@ Larry Badiner, Zoning Administrator
 Director Macris is not here because he is at a Transbay presentation with the Mayor.
  
  He sent his apologies and he will be here later, I believe.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1908,16 +1622,15 @@ F.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0965DD
+<<Project End>>
+<<Project Start>>
+2006.0965DD
  
  
  
@@ -1999,16 +1712,15 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0685C
+<<Project End>>
+<<Project Start>>
+2007.0685C
  
  
 (Tape IB)
@@ -2064,13 +1776,12 @@ MOTION:
 
 
 Item 13 was taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 13.
- 
- 2007.0633C
+<<Project End>>
+<<Project Start>>
+2007.0633C
  
  
 (Tape IB)
@@ -2177,8 +1888,6 @@ H.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2186,8 +1895,9 @@ REGULAR CALENDAR
 
 
 14.
- 
- 2007.0600L
+<<Project End>>
+<<Project Start>>
+2007.0600L
  
  
 (Tape IIA: IIB)
@@ -2507,16 +2217,15 @@ AYES:
 MOTION:
  
  17486
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.0107C
+<<Project End>>
+<<Project Start>>
+2006.0107C
  
  (Tape IIIA)
  
@@ -2602,8 +2311,9 @@ MOTION:
 
 
 16a.
- 
- 2007.0068
+<<Project End>>
+<<Project Start>>
+2007.0068
 D
 V
  
@@ -2682,8 +2392,9 @@ ABSENT:
 
 
 16b.
- 
- 2007.0068D
+<<Project End>>
+<<Project Start>>
+2007.0068D
 V
  
  
@@ -2723,13 +2434,12 @@ ACTION:
 
 
 Item 17 was take out of order and followed #14
-<<Project End>>
-<<Project Start>>
 
 
 17.
- 
- 2007.0294D
+<<Project End>>
+<<Project Start>>
+2007.0294D
  
  
 (Tape IIB; IIIA)
@@ -3091,13 +2801,12 @@ ABSENT:
 
 
 Item 18 was taken out of order followed #21
-<<Project End>>
-<<Project Start>>
 
 
 18.
- 
- 2007.0517T
+<<Project End>>
+<<Project Start>>
+2007.0517T
  
  
 (Tape IIIB)
@@ -3232,13 +2941,12 @@ RESOLUTION:
 
 
 Item 19 was taken out of order followed #13
-<<Project End>>
-<<Project Start>>
 
 
 19.
- 
- 2007.0515T
+<<Project End>>
+<<Project Start>>
+2007.0515T
  
  
 (Tape IB; IIA)
@@ -3504,13 +3212,12 @@ RESOLUTION:
 
 
 Item 20 was taken out of order followed #18
-<<Project End>>
-<<Project Start>>
 
 
 20.
- 
- 2007.0101U
+<<Project End>>
+<<Project Start>>
+2007.0101U
  
  
 (Tape IIIB)
@@ -3598,15 +3305,14 @@ MOTION:
 
 
 Item 21 was taken out of order followed #16
-<<Project End>>
-<<Project Start>>
 
 
  
  
 21.
- 
- 2005.0159E
+<<Project End>>
+<<Project Start>>
+2005.0159E
  
  
 (Tape IIIA; IIIB)
@@ -3966,8 +3672,6 @@ Hearing held to receive public comments.
 
 
 7:00 p.m.
-<<Project End>>
-<<Project Start>>
 
 
  

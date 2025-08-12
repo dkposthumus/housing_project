@@ -1,318 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 3, 2010 Joint Hearing with Redevelopment Agency Commission
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ June 3, 2010 Joint Hearing with Redevelopment Agency Commission
-
-
-
-
-
-
-
-
-
-
-
-
-June 3, 2010 Joint Hearing with Redevelopment Agency Commission
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-& 
-
-
-REDEVELOPMENT AGENCY
-
-
- 
-
-
-Special Joint Meeting Minutes
-
-
-(Showing only Planning Commission actions)
-
-
- 
-
-
-Board of Supervisors Chamber - Room 250
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 3, 2010
-
-
-1:00 P. M.
-
-
-Special Hearing
-
-
- 
-
-
-COMMISSIONERS PRESENT
-:
-
-
-PLANNING
-
-
-COMMISSION:
-                       President:            Ron Miguel
-
-
-                                             Vice-President:     Christina R. Olague
-
-
-                                             Commissioners:   Michael J. Antonini; Gwyneth Borden; 
-
-
-                                                                        William L. Lee; Kathrin Moore; Hisashi Sugaya
-
-
-COMMISSIONERS ABSENT
-:  None                             
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT
-:
-
-
-REDEVELOPMENT
-
-
-AGENCY:                               
-President:            Rick Swig
-
-
-                                             Vice-President:     Darshan Singh
-
-
-                                             Commissioners:    London Breed; Miguel Bustos; France Covington; 
-
-
-                                                                        Leroy King
-
-
-COMMISSIONERS ABSENT
-:  None
-       
-
-
- 
-
-
-THE JOINT MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:10 p.m.
-
-
- 
-
-
-A.
-                 
-SPECIAL CALENDAR:
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.        
-2007.0946e
-      
 2007.0946E
 errata
                                                     (l. gibson: (415) 575-9032)
@@ -381,14 +67,14 @@ MOTION:          
 
 
 *The Following items will be heard by the Planning Commission no earlier than 5:00 PM and will be called together*
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.        
+2.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
      
 2007.0946BEMRTUZerrata
@@ -443,14 +129,14 @@ NAYES:            Moore, Sugaya, and Olague
 
 MOTION:           
 18097
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
                                                                   (M.  SNYDER: (415) 575-6891)
 
@@ -494,14 +180,14 @@ NAYES:            Olague
 
 RESOLUTION:   
 18098
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.        
+4.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
     
                                                               
@@ -547,14 +233,14 @@ NAYES:            Olague
 
 RESOLUTION:   
 18099
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
                                                                   (M.  SNYDER: (415) 575-6891)
 
@@ -599,14 +285,14 @@ NAYES:            Olague
 
 RESOLUTION:   
 18100
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-6.        
+6.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
       
                                                             
@@ -653,14 +339,14 @@ NAYES:            Moore, Sugaya, and Olague
 
 RESOLUTION:   
 18101
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-7.        
+7.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
       
                                                             
@@ -707,14 +393,14 @@ NAYES:            Olague
 
 RESOLUTION:   
 18102
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-8.        
+8.
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
                                                       (M. SNYDER: (415) 575-6891)
 
@@ -764,7 +450,9 @@ RESOLUTION:  
  
 
 
-9)        
+9)
+<<Project End>>
+<<Project Start>>
 2007.0946BEMRTUZ
                                                                   (M. SNYDER: (415) 575-6891)
 

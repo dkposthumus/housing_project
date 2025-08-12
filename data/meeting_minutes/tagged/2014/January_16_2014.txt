@@ -1,300 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 16, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ January 16, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-January 16, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, January 16, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Borden, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:
-     
-Antonini, Hillis
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 12 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Omar Masry, Rich Sucre, Keith DeMartini, Kei Zushi, Sharon Lai, Christina LaMorena, Michael E. Smith, Adrian Putra, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2011.1146C
                                                                                           
           
@@ -339,15 +43,14 @@ Fong, Wu, Borden, Moore, Sugaya
 ABSENT:
                 
 Antonini, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1695T 
                                                                                          
             
@@ -411,7 +114,8 @@ Antonini, Hillis
 
 
 3a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0628EHUV
 X
                     
@@ -478,7 +182,8 @@ Antonini, Hillis
 
 
 3b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0628EHU
 V
 X                       
@@ -521,8 +226,6 @@ Continued to 2/6
 ACTION:
                                 
 Zoning Administrator Continued the item to February 6, 2014
-<<Project End>>
-<<Project Start>>
 
 
         
@@ -585,15 +288,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2011.1146C
                                                                                           
           
@@ -643,15 +345,14 @@ Antonini, Hillis
 MOTION:
                
 19061
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0544B
                                                                                                   
   
@@ -708,8 +409,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -749,8 +448,6 @@ None
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -778,9 +475,7 @@ is the Housing Task Force, that was created as a result of the Mayor's Executive
   
 The goal is to kind of
   
-develop a series of short-term recommendations that we can implement without legislation that would help housing protection especially for low and moderate income housing recommendations, that secondly would require legislation and thirdly to also develop some longer-term policy recommendations around the production of low- moderate to low income housing. That task force is meeting again tomorrow with some initial thoughts from the staffs of both departments who will go over those. The Mayor has asked that we respond at least to the Directive initially by the end of the month. The task force will continue to meet afterwards to talk about these longer-term policy questions as well. That concludes my report and I'm happy to answer any questions. Thank you.
-<<Project End>>
-<<Project Start>>
+develop a series of short-term recommendations that we can implement without legislation that would help housing protection especially for low and moderate income housing recommendations, that secondly would require legislation and thirdly to also develop some longer-term policy recommendations around the production of low- moderate to low income housing. That task force is meeting again tomorrow with some initial thoughts from the staffs of both departments who will go over those. The Mayor has asked that we respond at least to the Directive initially by the end of the month. The task force will continue to meet afterwards to talk about these longer-term policy questions as well. That concludes my report and I'm happy to answer any questions. Thank you. 
 
 
 9.
@@ -980,8 +675,6 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1019,15 +712,14 @@ None
 ACTION:
                                 
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2012.1427E
  
          
@@ -1152,15 +844,14 @@ Antonini, Hillis
 MOTION:
                
 19063
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1329C
                                                                                                           
    
@@ -1209,7 +900,8 @@ MOTION:
 
 
 13a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV 
  
                                                                 
@@ -1285,7 +977,8 @@ MOTION:
 
 
 13b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV 
                                                                                  
   
@@ -1348,15 +1041,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2013.0740D
                                                                                          
            
@@ -1429,8 +1121,6 @@ Michael Zamporini – Loss light, air and privacy
 ACTION:
                                 
 Took DR and Approved with Modifications:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1438,15 +1128,11 @@ Took DR and Approved with Modifications:
 Four foot reduction in 3
 rd
  FL deck depth;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 6:12 roof slope; and
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1469,15 +1155,14 @@ Borden, Hillis
 DRA No:
                                 
 0348
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0886D
                                                                          
                             

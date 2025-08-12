@@ -1,301 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 8, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ August 8, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-August 8, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, August 8, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
- 
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:04 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, 
- 
-Omar Masry, Scott Edmonson, Don Lewis, Ben Fu, Corey Teague, Sharon Lai, Sharon Young, Sara Vellve, and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.0564C
              
                                                                              
@@ -337,15 +40,14 @@ Continued as proposed
 AYES:
                                   
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2012.0648C
                                                           
             
@@ -395,15 +97,14 @@ Continued as proposed
 AYES:
                                   
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2011.0544C
                                                                                           
                 
@@ -465,15 +166,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2012.1400C
                                                                                           
                 
@@ -517,15 +217,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                                 
 18941
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2012.1370C
                                                                                           
                 
@@ -572,15 +271,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                                 
 18942
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0440C
                                                                                           
                 
@@ -635,8 +333,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -679,8 +375,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -820,8 +514,6 @@ Commissioner Sugaya’s comment triggered an ongoing frustration that particular
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -841,8 +533,6 @@ Director Rahaim:
 Commissioners just a couple of notes to make, regarding Commissioner Moore, your comment about the guidelines, Jeff Joslin, who is the Director of Current Planning is actually taking a fresh look at all of the Department's guidelines right now and we are looking at the Residential Design Guidelines as well as guidelines for the commercial districts and so I am hoping that the roof top equipment, I will make sure that the rooftop equipment is part of that whole discussion of guidelines and I know and you and other Commissioners have raised that before. Secondly, I just wanted to remind you all about and it’s in your written Director's report today about the map of the CEQA exempt project that is now available on our website.
   
 This was a result of the recent discussion that you had here, as well as, with the Board of Supervisors on the new CEQA legislation and the map is now intended to very easily, map based GIS based system, you are able to click on projects and get, and find out the exemptions that are issued in any particular week and that actually refers you and links you to the actual exemption, and so that is available on the website, right now. And we are glad to have improved that service from what it was before, which was not very user friendly, that concludes my presentation, thank you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -918,8 +608,6 @@ SPEAKERS: John Elberling, TODCO Group – 333 Brannan, Eastern Neighborhoods ope
 F.
              
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -953,8 +641,6 @@ None
 ACTION:
                  
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -996,7 +682,8 @@ None - Informational
 
 
 13a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0430E 
  
                                                                                         
@@ -1135,7 +822,8 @@ MOTION:
 
 
 13b.
-        
+<<Project End>>
+<<Project Start>>
 2011.0430XE 
  
                                                                                                       
@@ -1256,22 +944,16 @@ Sue Hestor - Posting
 ACTION:
  
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
           
 Project Sponsor erect a temporary protective barrier between the Project and the Verdi Club property;
-<<Project End>>
-<<Project Start>>
 
 
 2.
           
 Training for construction workers and operators of heavy machinery on the significance of the Verdi Club;
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1288,15 +970,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                                 
 18945
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-                
+<<Project End>>
+<<Project Start>>
 2005.0408X 
                                                                                          
               
@@ -1366,15 +1047,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                                 
 18946
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0530C
                                                                                           
                          
@@ -1429,15 +1109,14 @@ Antonini
 MOTION:
                                 
 18947
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-                
+<<Project End>>
+<<Project Start>>
 2013.0434D 
                     
                                                                      
@@ -1502,15 +1181,14 @@ DRA:
 
 
 4:00 PM
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-                
+<<Project End>>
+<<Project Start>>
 2013.0128C 
  
                                                                         

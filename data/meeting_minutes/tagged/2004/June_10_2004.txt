@@ -1,262 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 10, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ June 10, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-June 10, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 10, 2004
- 
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 
-      400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-      Place
-
-
-Thursday, June 10, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley 
-      Bradford Bell, Edgar E. Boyd, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD 
-      BELL AT 1:32 p.m.
-
-
-STAFF IN ATTENDANCE:
- Larry Badiner - Acting Director 
-      of Planning; Jim Nixon - Zoning Administrator; Susan Cleveland -Knowles 
-      - Deputy City Attorney; Diane Lim; Kate McGee; Mary Woods; Jim Miller; Paul 
-      Lord; Elaine Tope; Nora Priego - Transcription Secretary; Linda Avery - 
-      Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-
-
-The Commission will consider a request for continuance 
-          to a later date. The Commission may choose to continue the item to the 
-          date proposed below, to continue the item to another date, or to hear 
-          the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
 1. 2003.1110T (C. NIKITAS:(415) 558-6306)
 
 
@@ -304,8 +46,6 @@ ACTION: Without hearing, item continued to June
 AYES: Antonini, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2004.0365DD (G. CABREROS: 
             (415) 558-6169)
 
@@ -339,8 +79,6 @@ ACTION: Without hearing, item continued to July
 AYES: Antonini, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.1177C (E. TOPE: 
             (415) 558-6316)
 
@@ -393,8 +131,6 @@ ACTION: Without hearing, item continued to July
 AYES: Antonini, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 4. 2004.0151D (M. WOODS: 
             (415) 558-6315)
 
@@ -448,8 +184,6 @@ ACTION: Without hearing, item continued to September
 AYES: Antonini, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2004.0180D (G. CABREROS: 
             (415) 558-6169)
 
@@ -494,8 +228,6 @@ SPEAKER(S): None
 ACTION: None. Building Permit Application Withdrawn
 <<Project End>>
 <<Project Start>>
-
-
 6. 2004.0058D (D. SIROIS: (415) 558-6313)
 
 
@@ -537,13 +269,6 @@ ACTION: None. Building Permit Application Withdrawn
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 7. Consideration of Adoption of Draft Minutes of 
           May 20 and May 27, 2004
 
@@ -559,10 +284,6 @@ ACTION: Approved
 AYES: Antonini, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 8. Commission Comments/Questions
 
 
@@ -571,8 +292,6 @@ AYES: Antonini, Hughes, S. Lee, W. Lee
 None
 <<Project End>>
 <<Project Start>>
-
-
 9.
  ALTERNATING CASE TYPES
  - 
@@ -620,12 +339,6 @@ ACTION: Commission directed that cases continue
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 10. Director's Announcements
 
 
@@ -725,10 +438,6 @@ ACTION: Director Badiner has taken the matter
             hearing.
 <<Project End>>
 <<Project Start>>
-
-
-
-
 11. Review of Past Week's Events at the Board of 
           Supervisors and Board of Appeals
 
@@ -795,12 +504,6 @@ SPEAKER(S): None
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 12. (D. LIM: (415) 558-6547)
 
 
@@ -1544,8 +1247,6 @@ ACTION: Zoning Administrator closed the public hearing and granted the
         variances.
 <<Project End>>
 <<Project Start>>
-
-
 16. 2004.0306C (T. WANG: (415) 558-6335) 
 
 
@@ -1640,8 +1341,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S.
 MOTION: 16815
 <<Project End>>
 <<Project Start>>
-
-
 17. 2004.0302T (P. LORD: (415) 558-6311)
 
 
@@ -1728,10 +1427,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S.
 MOTION: 16816
 <<Project End>>
 <<Project Start>>
-
-
-
-
 18. 2003.1254D (E. TOPE: (415) 558-6316)
 
 
@@ -1844,8 +1539,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S.
             Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 19. 2004.0071D (B. FU: (415) 558-6613)
 
 
@@ -1932,8 +1625,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, W.
 NAYES: S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 20. 2004.0164D (W. HASTIE: (415) 
             558-6381)
 

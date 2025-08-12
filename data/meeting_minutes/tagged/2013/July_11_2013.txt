@@ -1,322 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 11, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ July 11, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-July 11, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, July 11, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-               
-Fong, Wu, Antonini, Borden, Moore, Sugaya
-
-
-COMMISSINER ABSENT: 
-                      
-Hillis
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:10 PM.
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Christine LaMorena, Elizabeth Watty, Brittany Bendix, Glen Cabreros, Casey Noel, Corey Teague, Kevin Guy, Sharon Lai, Sharon Young, and Jonas P. Ionin - Acting Commission Secretary.
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-
-
- 
-
-
-1.
-                   
 2013.0211C
                                                                                           
                       
@@ -364,7 +46,8 @@ Hillis, Fong
 
 
 2a.
-           
+<<Project End>>
+<<Project Start>>
 2009.0753CV
                                                                         
                                
@@ -417,7 +100,8 @@ Hillis, Fong
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2009.0753CV
                                                                         
                               
@@ -474,15 +158,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.0822C
                                                                           
                           
@@ -593,15 +276,14 @@ Hillis, Fong
 MOTION:
                                 
 18919
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2013.0023C 
                                                                                          
       
@@ -652,7 +334,8 @@ MOTION:
 
 
 5a.
-           
+<<Project End>>
+<<Project Start>>
 2013.0209CV
  
                                                                                        
@@ -703,7 +386,8 @@ MOTION:
 
                 
 5b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0209CV
  
                                                                                        
@@ -721,15 +405,14 @@ Request for a Variance
 
 
 ZONING ADMINISTRATOR INDICATED AN INTENT TO GRANT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2012.1446C
                                                                           
                                   
@@ -773,15 +456,14 @@ Hillis, Fong
 MOTION:
                                 
 18917
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0242C
                                                           
                                              
@@ -831,8 +513,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -885,8 +565,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -973,8 +651,6 @@ I do have one request and sad to report that Jazzie Collins passed away early th
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1034,8 +710,6 @@ Director Rahaim:
 
 
 If I can just slip in one more announcements, I recently made an appointment in the Department that I think you would be interested to know about. Dan Sider is now Senior Advisor for Special Projects in the Department. We've been working on several special projects, helping on some high level work in the Department and will be a member of the Senior Management Team in that new role that he has. So we welcome him and congratulate him on his new appointment.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1283,8 +957,6 @@ Lorraine Lucas - In Support of Linda Chapman’s comments
 F.
              
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1292,7 +964,8 @@ REGULAR CALENDAR
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.0292C
                                           
                                                                          
@@ -1359,15 +1032,14 @@ Hillis
 MOTION:
                                 
 18920
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0477C 
                                                                                          
               
@@ -1445,8 +1117,6 @@ Mica Ringel - Owners vs. Occupant notification, RCN – fibertoptics company, In
 ACTION:
                  
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1479,7 +1149,8 @@ MOTION:
 
 
 14a.
-        
+<<Project End>>
+<<Project Start>>
 2012.0081CV 
                                                                                        
                       
@@ -1577,7 +1248,8 @@ MOTION:
 
 
 14b.
-        
+<<Project End>>
+<<Project Start>>
 2012.0081CV 
  
                                                       
@@ -1595,15 +1267,14 @@ Request for Rear Yard Modification
 
 
 ZONING ADMINISTRATOR INDICATED AN INTENT TO GRANT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0266C 
  
                                                                                                         
@@ -1669,15 +1340,14 @@ Hillis
 MOTION:
                                 
 18923
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2012.0397D 
                                                   
                                        
@@ -1812,22 +1482,16 @@ location, smells from other establishments
 ACTION:
                  
 Took DR and Approved the Project as proposed with the following:
-<<Project End>>
-<<Project Start>>
 
 
 1.
                    
 Install an exhaust with filtration system equivalent to or better than a “Molitron” odor abatement system;
-<<Project End>>
-<<Project Start>>
 
 
 2.
                    
 Kitchen may not be used as the commissary to the food truck(s); and
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1850,15 +1514,14 @@ Borden, Hillis
 DRA-#:
                     
 0326
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.0434D 
                     
                                                                      
@@ -1916,7 +1579,8 @@ Borden, Hillis
 
 
 18a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0896DV 
  
                                                                                      
@@ -1965,7 +1629,8 @@ Hillis, Fong
 
 
 18b.
-        
+<<Project End>>
+<<Project Start>>
 2011.0896DV 
  
                                                                      

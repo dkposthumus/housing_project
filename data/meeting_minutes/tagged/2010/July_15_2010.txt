@@ -1,301 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 15, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ July 15, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-July 15, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 15, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Brett Bollinger, Kevin Guy, Diego Sanchez, Corey Teague, Sara Vellve, Jonas Ionin â Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-1.         2010.0335TZ                                                                  (T. SULLIVAN: (415) 558-6257)
-
-
-Ordinance Amending the Planning Code by adding Section 787 to establish the 1800 Market Street Community Center Project Special Use District for the property located on B/L: 0871/014; amending Zoning Map SU07 to reflect this new SUD.  
-Ordinance introduced by Supervisor Dufty that would create the 1800 Market Street Community Center Project Special Use District and associated Zoning Map amendments for the property located at the northwest corner of Market Street & Octavia Boulevard, (aka Landmark No. 223, the Carmel Fallon Building); adopting findings, including environmental findings, Planning Code Section 302 findings, and findings of consistency with the General Plan and the priority policies of Planning Code Section 101.
-
-
-Preliminary Recommendation: Approval of Proposed Ordinance to Board of Supervisors.
-
-
-                        (Proposed for Continuance to July 22, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              Antonini, Lee,  Miguel, Moore, Sugaya
-
-
-ABSENT:          Borden, Olague
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.
-           
 2010.0236DDD                                                                 (C. TEAGUE: (415) 575-9081)
 
 
@@ -328,14 +31,14 @@ AYES:              Antonini, Lee,  Miguel, Moore, Sugaya
 
 
 ABSENT:          Borden, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.        
+3.
+<<Project End>>
+<<Project Start>>
 2009.1095CV                                                                 (E. OROPEZA: (415) 558-6381)
 
 
@@ -369,8 +72,6 @@ ABSENT:          Borden, Olague
 B.
         
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -463,16 +164,12 @@ Vice-President Olague
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.         Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -598,14 +295,14 @@ At this time, members of the public who wish to address the Commission on agenda
 F.
                  
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-7.        
+7.
+<<Project End>>
+<<Project Start>>
 2006.0954E
                                                                    (B. BOLLINGER: (415) 575-9024)
 
@@ -647,7 +344,9 @@ G.         REGULAR CALENDAR 
  
 
 
-8a.       
+8a.
+<<Project End>>
+<<Project Start>>
 2008.1234CV
                                                                            (K. GUY: (415) 558-6163)
 
@@ -684,7 +383,9 @@ ABSENT:          Borden
  
 
 
-8b.       
+8b.
+<<Project End>>
+<<Project Start>>
 2008.1234CV
                                                                              
 (K. GUY: (415) 558-6163)
@@ -712,7 +413,9 @@ ACTION:           Acting Zoning Administrator Rahaim granted the varia
  
 
 
-9a.       
+9a.
+<<Project End>>
+<<Project Start>>
 2004.0946EKC
                                                                
 (D. Sanchez: (415) 575-9082)
@@ -757,7 +460,9 @@ ABSENT:          Borden
  
 
 
-9b.       
+9b.
+<<Project End>>
+<<Project Start>>
 2004.0946EKC
                                                                     
 (
@@ -798,14 +503,14 @@ ABSENT:          Borden
 
             MOTION:           
 18144
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.       
+10.
+<<Project End>>
+<<Project Start>>
 2010.0265C
                                                               
     (D. SÃ¡nchez:  (415) 575-9082)
@@ -844,14 +549,14 @@ ABSENT:          Borden
 
             MOTION:           
 18145
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.       
+11.
+<<Project End>>
+<<Project Start>>
 2010.0211C
                                                                  
  (D. SÃ¡nchez:  (4
@@ -891,14 +596,14 @@ ABSENT:          Borden
 
             MOTION:           
 18146
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.       
+12.
+<<Project End>>
+<<Project Start>>
 2009.1062C
                                                         
             (D. SÃ¡nchez:  (415) 575-9082)
@@ -932,14 +637,14 @@ ABSENT:          Borden
 
             MOTION:           
 18147
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2009.0047C
                                                                     
 (D. SÃ¡nchez:  (415) 575-9082)
@@ -971,14 +676,14 @@ ABSENT:          Borden
 
             MOTION:           
 18148
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.       
+14.
+<<Project End>>
+<<Project Start>>
 2009.1004D
                                                                  
  (D. SÃ¡nchez:  (415) 575-9082)
@@ -1013,14 +718,14 @@ ABSENT:          Borden
 
             DRA:                
 0161
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2010.0134D
                                                                         (S. VELLVE: (415) 558-6263)
 

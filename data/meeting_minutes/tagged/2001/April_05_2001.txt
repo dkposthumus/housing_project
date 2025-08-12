@@ -1,338 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 05, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ April 05, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-April 05, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 05, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-Minutes 
-      of Meeting
-
-
-&
-
-
-Calendar
-
-
-Commission 
-      Chambers - Room 400
-
-
-City Hall, 
-      1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, 
-      April 5, 2001
-
-
-1:30 PM
-
-
-Regular 
-      Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
- 
-Theoharis; 
-      Baltimore; Chinchilla; Joe, Salinas
-
-
-ABSENT:
- 
-Fay
-
-
-
-
-
-       
-      
-
-
-
-
-THE MEETING WAS 
-      CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 PM
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
-
-
-Gerald G. Green – Director of Planning; Larry 
-      Badiner – Zoning Administrator; David Alumbaugh; Jasper Rubin; Kelly LeBlanc; 
-      Alison Borden; Jonathan Lau; Tim Blomgren; Jonathan Purvis; Adam Light; 
-      Ricardo Bressanutti; Tim Woloshyn; Sailesh Mehra;
- 
-Frank Jones; Paul Lord; Patricia Gerber – Transcription 
-      Secretary; Linda D. Avery – Commission Secretary
-
-
-
-
-
-       
-      
-
-
-
-
-A.
- 
-ITEMS 
-      PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-1.
- 
 2001.006DD
  
 (DiBARTOLO: 558-6291)
@@ -406,8 +72,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -421,7 +85,8 @@ Fay
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.1165B
  
 (BRESSANUTTI: 558-6892)
@@ -509,7 +174,8 @@ Fay
 
  
 3a.
- 
+<<Project End>>
+<<Project Start>>
 2000.863
 B
 V
@@ -594,7 +260,8 @@ Fay
 
  
 3b.
- 
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
  
@@ -605,9 +272,7 @@ V
 
 2712 MISSION STREET 
 - 
-west side, between 23rd and 24th Streets, lot 003 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+west side, between 23rd and 24th Streets, lot 003 in Assessor’s Block 
       3643. 
 The subject property seeks a parking 
       variance for the reduction of required off-street parking, pursuant to Planning 
@@ -675,7 +340,8 @@ Fay
 
  
 4a.
- 
+<<Project End>>
+<<Project Start>>
 2000.190
 B
 X
@@ -774,7 +440,8 @@ Fay
 
  
 4b.
- 
+<<Project End>>
+<<Project Start>>
 2000.190B
 X
  
@@ -848,8 +515,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -863,7 +528,8 @@ Fay
 
  
 5.
- 
+<<Project End>>
+<<Project Start>>
 2000.1310C
  
 (DiBARTOLO:
@@ -925,8 +591,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -940,7 +604,8 @@ Fay
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.765E
  
 (PULON: 
@@ -1009,8 +674,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1024,7 +687,8 @@ Fay
 
  
 7.
- 
+<<Project End>>
+<<Project Start>>
 2001.0141D
  
 (CABREROS: 
@@ -1033,9 +697,7 @@ Fay
 
 1041 LAKE STREET
  - 
-between 11th and 12th Avenues, Lot 043 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+between 11th and 12th Avenues, Lot 043 in Assessor’s Block 
       1371.
  
 Request for Discretionary 
@@ -1087,8 +749,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1102,7 +762,8 @@ Fay
 
  
 8.
- 
+<<Project End>>
+<<Project Start>>
 2001.0102C
  
 (WOLOSHYN: 
@@ -1137,8 +798,6 @@ B.
  
 COMMISSIONERS' QUESTIONS 
       AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1185,8 +844,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1265,8 +922,6 @@ C.
 
 
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1325,9 +980,7 @@ from Sup.
 -
  
 Doggie Dinner Head City will be responsible 
-      for the repair/restoring
-<<Project End>>
-<<Project Start>>
+      for the repair/restoring 
 
 
 
@@ -1366,8 +1019,6 @@ and
       Review - Upheld Commission decision
  
 by +3 –1.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1399,8 +1050,6 @@ SPEAKER(S):
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1474,7 +1123,8 @@ None
 
  
 15a.
- 
+<<Project End>>
+<<Project Start>>
 1999.603B
 X 
  
@@ -1593,7 +1243,8 @@ MOTION NO
 
 
 15b.
- 
+<<Project End>>
+<<Project Start>>
 1999.603
 B
 X 
@@ -1706,8 +1357,6 @@ MOTION NO.:
 
 
       REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2431,7 +2080,8 @@ MOTION NO
  
 17
 .
- 
+<<Project End>>
+<<Project Start>>
 2000.407Z
 
 
@@ -2497,8 +2147,6 @@ Fay
 MOTION NO.:
  
 16131
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2512,7 +2160,8 @@ MOTION NO.:
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 1999.210E
  
 (BLOMGREN:
@@ -3331,8 +2980,6 @@ Fay
 MOTION NO.:
  
 16132
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3340,7 +2987,8 @@ MOTION NO.:
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 1999.210C
  
 (PURVIS:
@@ -4165,7 +3813,8 @@ MOTION NO
 
 
 20a.
- 
+<<Project End>>
+<<Project Start>>
 2000.1268
 X
 CV
@@ -4379,7 +4028,8 @@ MOTION NO
 
  
 20b.
- 
+<<Project End>>
+<<Project Start>>
 2000.1268X
 C
 V
@@ -4390,9 +4040,7 @@ V
  
 663-665 SUTTER STREET
  
-      - south side between Mason and Taylor Streets, Lot 11 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      - south side between Mason and Taylor Streets, Lot 11 in Assessor’s Block 
       297.
  
 Request for a Conditional-Use 
@@ -4477,7 +4125,8 @@ MOTION NO
 
 
 20c.
- 
+<<Project End>>
+<<Project Start>>
 2000.1268XC
 V
  
@@ -4487,9 +4136,7 @@ V
  
 663-665 SUTTER STREET
  
-      - south side between Mason and Taylor Streets, Lot 11 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      - south side between Mason and Taylor Streets, Lot 11 in Assessor’s Block 
       297. Request for a variance from the open space requirements for a new building 
       in a C-3-G District (Section 138).
  
@@ -4571,8 +4218,6 @@ ITEM # 21 TAKEN OUT OF ORDER FOLLOWED
 
 
 ITEM #13
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4585,7 +4230,8 @@ ITEM #13
 
 
 21.
- 
+<<Project End>>
+<<Project Start>>
 2000.1179C
  
  
@@ -4662,8 +4308,6 @@ Fay
 MOTION NO.:
  
 16128
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4677,7 +4321,8 @@ MOTION NO.:
 
  
 22.
- 
+<<Project End>>
+<<Project Start>>
 2001.0034C 
  
  
@@ -4942,7 +4587,8 @@ MOTION NO.
 
 
 23a.
- 
+<<Project End>>
+<<Project Start>>
 2000.264
 C
 D
@@ -4961,9 +4607,7 @@ MARTIN:
 1087 
       MISSISSIPPI STREET
  
-      - east side, between 23rd and 25th Streets, Lot 049 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      - east side, between 23rd and 25th Streets, Lot 049 in Assessor’s Block 
       4224. Request for a Conditional-Use Authorization to allow the construction 
       of two dwelling units in an M-1 (Light Industrial) Zoning District and the 
       Industrial Protection Zone Buffer, per Planning Code Section 215(a) and 
@@ -5040,7 +4684,8 @@ At Approximately
 
  
 23b.
- 
+<<Project End>>
+<<Project Start>>
 2000.264C
 D
  
@@ -5109,8 +4754,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -5124,7 +4767,8 @@ Fay
 
  
 24.
- 
+<<Project End>>
+<<Project Start>>
 2000.1047D
  
 (SMITH: 558-6322)
@@ -5135,9 +4779,7 @@ Fay
 TH
  STREET
  - south side 
-      of the street between Noe and Sanchez Streets, Lot 040 in Assessor's Block
-<<Project End>>
-<<Project Start>>
+      of the street between Noe and Sanchez Streets, Lot 040 in Assessor's Block 
       6548.
  
 R
@@ -5235,8 +4877,6 @@ NAYES:
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -5244,7 +4884,8 @@ Fay
 
  
 25.
- 
+<<Project End>>
+<<Project Start>>
 1999.811D
  
 (PUTRA: 
@@ -5307,8 +4948,6 @@ Theoharis,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -5322,7 +4961,8 @@ Fay
 
  
 26.
- 
+<<Project End>>
+<<Project Start>>
 2000.657D
  
 (MEHRA: 
@@ -5418,8 +5058,6 @@ Salinas
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -5433,7 +5071,8 @@ Fay
 
  
 27.
- 
+<<Project End>>
+<<Project Start>>
 2001.0153D
  
 (JONES:

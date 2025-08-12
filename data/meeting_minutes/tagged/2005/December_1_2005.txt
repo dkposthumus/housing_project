@@ -1,281 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ December 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-December 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 1, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 1, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- 
-Sue Lee;
-Michael J. Antonini; Kevin Hughes; Christina Olague
-
-
- 
-
-
-COMMISSIONERS ABSENT:
-    
-  Dwight S. Alexander; Shelley Bradford-Bell; William Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1: 42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Rick Crawford; Michael Li; Mary Woods; Ben Fu; Diana Sokolove; Isolde Wilson; Tom Wang; Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-                       
-
-
-           
- 1a.
-       
- 2005.0148
+2005.0148
 DD
 V
              
@@ -335,8 +59,9 @@ ABSENT:
 
            
  1b.
-       
- 2005.0148DD
+<<Project End>>
+<<Project Start>>
+2005.0148DD
 V
  
             
@@ -388,16 +113,15 @@ AYES:
 ABSENT:
          
  Alexander, Bradford-Bell, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-        
- 2005.0456EC
+<<Project End>>
+<<Project Start>>
+2005.0456EC
                                                     
  
                 
@@ -464,8 +188,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -531,8 +253,6 @@ It’s kind of been sitting there for a long time without a real enforcement mec
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -613,8 +333,6 @@ The Superior Court validated that transfer and found that because long-range pla
 
 
 Any time the City has to issue a building permit, it needs to find that it is consistent with the zoning and the general plan.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -684,8 +402,6 @@ The third and fourth and last items that I would like to talk about relate to Te
            
  
 BoA: None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -889,16 +605,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-        
- 2005.0281C
+<<Project End>>
+<<Project Start>>
+2005.0281C
                                                       
  
         
@@ -947,8 +662,6 @@ ABSENT:
  MOTION:
         
  17150
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -956,8 +669,8 @@ ABSENT:
 
            
  8.
-        
- 
+<<Project End>>
+<<Project Start>>
 2004.0563EKC
  
  
@@ -1026,16 +739,15 @@ MOTION:
 
            
  ITEM #9 WAS TAKEN OFF CONSENT CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-        
- 2005.0564C
+<<Project End>>
+<<Project Start>>
+2005.0564C
                                                       
  
                
@@ -1140,8 +852,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1151,8 +861,9 @@ REGULAR CALENDAR
 
 
 10.
-       
- 2004.0546
+<<Project End>>
+<<Project Start>>
+2004.0546
 C
                
  
@@ -1253,8 +964,6 @@ ABSENT:
 MOTION:
           
  17153
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1263,8 +972,9 @@ MOTION:
            
  
 11.
-       
- 2001.1149E
+<<Project End>>
+<<Project Start>>
+2001.1149E
                                                       
  
           
@@ -1321,8 +1031,6 @@ ACTION:
  Meeting held to receive public comment only.
  
  No Action Required.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1332,8 +1040,8 @@ ACTION:
 
 
 12.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0881D
                                                                               
  (i.WILSON (415) 558-6163
@@ -1360,16 +1068,15 @@ reliminary Recommendation: Take Discretionary Review and approve the project wit
            
  
 DISCRETIONRY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-       
- 2005.0528DDD
+<<Project End>>
+<<Project Start>>
+2005.0528DDD
                          
  
                                              

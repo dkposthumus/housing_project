@@ -1,241 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 4, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ March 4, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-March 4, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 4, 2004
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 4, 2004
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Shelley Bradford Bell
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT SUE LEE AT 1:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Craig Nikitas - Acting Zoning Administrator; Nora Priego - Transcription Secretary; Jonas Ionin - Acting Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2001.1039E!KBMZX (M. LUELLEN: (415) 558-6478)
 
 
@@ -264,8 +27,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.1091C (D. DiBARTOLO: (415) 558-6291)
 
 
@@ -366,8 +127,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 4. 2003.1254D (E. TOPE: (415) 558-6316)
 
 
@@ -396,8 +155,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.1220I (K. RICH (415) 558-6345)
 
 
@@ -423,8 +180,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 6. 2003.1177C (E. TOPE: (415) 558-6316)
 
 
@@ -450,8 +205,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 7. 2003.0657C (G. CABREROS: (415) 558-6169)
 
 
@@ -480,8 +233,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 8. 2003.1299Z (P. LORD: (415) 558-6311)
 
 
@@ -520,9 +271,6 @@ ABSENT: Bradford Bell
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 9.  Commission Comments/Questions
 
 
@@ -649,8 +397,6 @@ Re: Relating Income Levels to Housing Prices in Terms of Housing for Purchase
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 10. Director's Announcements
 
 
@@ -705,8 +451,6 @@ Re:  Director Green
 - He will be in town next week and will be in attendance at the Planning Commission.
 <<Project End>>
 <<Project Start>>
-
-
 11. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -743,8 +487,6 @@ Re:  293 Downey Street
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12. 2001.1039E                   (A. AGUILAR: (415) 558-5973)
 
 
@@ -775,8 +517,6 @@ ABSENT: Bradford Bell
 MOTION: 16735
 <<Project End>>
 <<Project Start>>
-
-
 13.   (M. FUNG: (415) 558-6364)
 
 
@@ -897,8 +637,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 14. 2004.0005L (W. HASTIE: (415) 558-6381)
 
 
@@ -1108,8 +846,6 @@ ABSENT: Bradford Bell
 MOTION: 16736
 <<Project End>>
 <<Project Start>>
-
-
 15. 2003.0607C (T. TAM: (415) 558-6325)
 
 
@@ -1234,8 +970,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 16. 1999.0233E (B. WYCKO: (415) 558-5972)
 
 
@@ -1620,8 +1354,6 @@ NAYES: Feldstein
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 17. 1999.0233C                                                   (J. PURVIS:  (415) 558-6354)
 
 

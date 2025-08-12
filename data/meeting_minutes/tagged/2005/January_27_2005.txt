@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ January 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-January 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 27, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 27, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander;
- 
-Michael J. Antonini,
-Kevin Hughes, Sue Lee;
-
-William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  Bradford Bell
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 3:00 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Judy Boyajian – Deputy City Attorney; Amit Ghosh; Marshall Foster; Joshua Switzky; Michael Smith; Carol Roos; Ben Fu; Dan DiBartolo; Mary Woods; Michael Li; Nora Priego – Transcription Secretary; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-           
-  1a.
-       
- 2004.0885D
+2004.0885D
                                          
  
                              
@@ -328,8 +47,9 @@ ABSENT:
 
            
   1b.
-       
- 2004.0884D
+<<Project End>>
+<<Project Start>>
+2004.0884D
                               
  
                                          
@@ -439,8 +159,9 @@ ABSENT:
  
 2
 b.
-       
- 2004.0682D
+<<Project End>>
+<<Project Start>>
+2004.0682D
                                                                          
  (G. NELSON: (415) 558-6257)
 
@@ -500,8 +221,8 @@ ABSENT:
 
 3
 .
-        
- 
+<<Project End>>
+<<Project Start>>
 2003.1185C
                                           
  
@@ -592,8 +313,6 @@ AYES:
 ABSENT:
         
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -601,8 +320,9 @@ ABSENT:
 
      
   4.
-        
- 2004.0800D
+<<Project End>>
+<<Project Start>>
+2004.0800D
                               
  
                          
@@ -636,8 +356,6 @@ SPEAKER(S):
 ACTION:
           
   Discretionary Review Application Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -645,8 +363,9 @@ ACTION:
 
                
  5.
-            
- 2004.1258D
+<<Project End>>
+<<Project Start>>
+2004.1258D
                                                                                                  
  (S. VELLVE: (415)-558-6263)
 
@@ -687,8 +406,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -720,8 +437,6 @@ AYES:
 ABSENT:
         
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -787,8 +502,6 @@ Re:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -814,8 +527,6 @@ Re:
 
 
 - The Mayor has asked that no Commission be televised.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -930,8 +641,6 @@ ABSENT:
 RESOLUTION:
  
  16934
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1566,8 +1275,6 @@ Yvonne Ho – Daughter of Project Sponsor
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1636,8 +1343,6 @@ ABSENT:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1690,8 +1395,6 @@ ACTION:
   This item is on this calendar in error.
  
  The item was continued last week to February 17, 2005
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1699,8 +1402,9 @@ ACTION:
 
            
   13.
-       
- 1999.0414E
+<<Project End>>
+<<Project Start>>
+1999.0414E
                                                                            
  (C. ROOS: (415) 558-5981)
 
@@ -1886,8 +1590,6 @@ SPEAKER(S):
 ACTION:
           
   The acting Zoning Administrator closed the public hearing and has taken the matter under advisement
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1895,8 +1597,9 @@ ACTION:
 
            
   15.
-       
- 2001.0772C
+<<Project End>>
+<<Project Start>>
+2001.0772C
                   
  
                                                                  
@@ -1962,8 +1665,9 @@ ABSENT:
 
            
   16a.
-     
- 2004.0049A
+<<Project End>>
+<<Project Start>>
+2004.0049A
 C
 EV
                                    
@@ -2022,8 +1726,9 @@ MOTION:
 
              
   16b.
-     
- 2004.0049ACE
+<<Project End>>
+<<Project Start>>
+2004.0049ACE
 V
                      
  
@@ -2053,8 +1758,6 @@ SPEAKER(S):
 ACTION:
           
   Acting Zoning Administrator has closed the public hearing and stated that he will grant the variance.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2180,8 +1883,6 @@ ABSENT:
 MOTION:
          
   16937
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2189,8 +1890,9 @@ MOTION:
 
            
   18.
-       
- 2004.0305C
+<<Project End>>
+<<Project Start>>
+2004.0305C
                               
  
                                            
@@ -2272,8 +1974,6 @@ AYES:
 ABSENT:
         
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2281,8 +1981,9 @@ ABSENT:
 
            
   19.
-       
- 2004.1019C
+<<Project End>>
+<<Project Start>>
+2004.1019C
                               
  
             
@@ -2407,8 +2108,6 @@ ABSENT:
 MOTION:
          
   16939
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2416,8 +2115,9 @@ MOTION:
 
            
   21.
-       
- 2004.0656C
+<<Project End>>
+<<Project Start>>
+2004.0656C
                               
  
                                         
@@ -2465,8 +2165,9 @@ ABSENT:
 
            
   22a.
-     
- 2004.0420
+<<Project End>>
+<<Project Start>>
+2004.0420
 M
 R
                                         
@@ -2549,8 +2250,9 @@ ABSENT:
 
            
   22b.
-     
- 2004.0420M
+<<Project End>>
+<<Project Start>>
+2004.0420M
 R
                                         
  
@@ -2599,8 +2301,6 @@ AYES:
 ABSENT:
         
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2608,8 +2308,9 @@ ABSENT:
 
            
   23.
-       
- 2004.0875D
+<<Project End>>
+<<Project Start>>
+2004.0875D
                                                                      
  
  
@@ -2683,8 +2384,6 @@ NAYES:
 ABSENT:
          
   Bradford Bell and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2692,8 +2391,9 @@ ABSENT:
 
            
   24.
-       
- 2004.1239DDDD
+<<Project End>>
+<<Project Start>>
+2004.1239DDDD
                                                
  
          
@@ -2729,8 +2429,6 @@ SPEAKER(S):
 ACTION:
           
   Discretionary Review Applications Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2738,8 +2436,9 @@ ACTION:
 
            
   25.
-       
- 2004.1263D
+<<Project End>>
+<<Project Start>>
+2004.1263D
                                                                   
  
     
@@ -2788,8 +2487,6 @@ ACTION:
 
 
 Item 26 is taken from an Addendum
-<<Project End>>
-<<Project Start>>
 
 
  

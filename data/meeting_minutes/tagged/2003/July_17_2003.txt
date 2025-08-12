@@ -1,243 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 17, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ July 17, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-July 17, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 17, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-  City Hall, 1 Dr. Carlton B. Goodlett Plac
-
-
-Thursday, July 17, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Kevin Hughes, Lisa Feldstein, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:35 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director; Larry Badiner -Zoning Administrator; Susan Cleveland-Knowles, Deputy City Attorney; Amit Ghosh; David Alumbaugh; Joy Navarrete; Jim Miller, Mat Snyder; Jonas Ionin; Geoffrey Nelson; Mary Woods; Glenn Cabreros; Kate McGee; Rick Crawford; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2002.0277C (A. LIGHT:  (415) 558-6254)
 
 
@@ -328,8 +89,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 2. 2001.0637D (B. FU: (415) 558-6313)
 
 
@@ -369,8 +128,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0457D (T.TAM: (415) 558-6325)
 
 
@@ -404,8 +161,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review Application Withdrawn
 <<Project End>>
 <<Project Start>>
-
-
 4. 2002.0723C (G. NELSON: (415) 558-6257)
 
 
@@ -587,9 +342,6 @@ ABSENT: Boyd
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 6. Commission Comments/Questions
 
 
@@ -608,8 +360,6 @@ Commissioner Bradford Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 7. Director's Announcements
 
 
@@ -625,8 +375,6 @@ Re:  Results of the Budget Process
 - The department is still going through the process of trying to find a way to get the work done given the budget decisions that were made.
 <<Project End>>
 <<Project Start>>
-
-
 8. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -692,8 +440,6 @@ BOA -
 None
 <<Project End>>
 <<Project Start>>
-
-
 9. Rincon Hill Planning Overview and informational presentation.               (GREEN)
 
 
@@ -1366,9 +1112,6 @@ Gloria Tulanowski
 E. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-
 10. 2001.911E (J. NAVARRETE: (415) 558-5975)
 
 
@@ -1397,8 +1140,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0446Q (J. MILLER: (415) 558-6344)
 
 
@@ -1445,8 +1186,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0606C (M. SNYDER:  (415) 575-6891)
 
 
@@ -1480,8 +1219,6 @@ ABSENT: Bradford Bell and Boyd
 MOTION: 16613
 <<Project End>>
 <<Project Start>>
-
-
 13. 2002.0430C (J. IONIN: (415) 558-6309)
 
 
@@ -1596,8 +1333,6 @@ ABSENT: Boyd
 MOTION: 16614
 <<Project End>>
 <<Project Start>>
-
-
 14. 2002.1144C (G. NELSON: (415) 558-6257)
 
 
@@ -1668,8 +1403,6 @@ ABSENT: Boyd and Feldstein
 NOTE: Director Green exited the room at the call of this item.
 <<Project End>>
 <<Project Start>>
-
-
 15. 2003.0223C                              (M. WOODS: (415) 558-6315)
 
 
@@ -1966,8 +1699,6 @@ At approximately
 Item 16 was taken out of order and followed item 11.
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0588D (G. CABREROS: (415) 558-6169)
 
 
@@ -2017,8 +1748,6 @@ NAYES: Feldstein and Hughes
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0227D                                (G. CABREROS: (415) 558-6169)
 
 
@@ -2070,8 +1799,6 @@ NAYES: W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.0412D (K. McGEE: (415) 558-6367)
 
 
@@ -2277,8 +2004,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 19. 2003.0183D (G. NELSON: (415) 558-6257)
 
 
@@ -2383,8 +2108,6 @@ SPEAKER(S): Same as those listed for Item 20a.
 ACTION: Zoning Administrator closed public hearing and granted the variances.
 <<Project End>>
 <<Project Start>>
-
-
 21. 2003.0195D (R. CRAWFORD:  (415) 558-6358)
 
 

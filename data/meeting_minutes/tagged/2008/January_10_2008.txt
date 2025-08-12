@@ -1,285 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ January 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-January 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 10, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 10, 2008
-
-
-1:30 P.M.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:34 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Mathew Snyder, Jonas Ionin, Mary Woods, Scott Sanchez, Tara Sullivan-Lenane, Edgar Oropeza, Rich Crawford, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0718C
+2007.0718C
  
  
  
@@ -326,16 +46,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
  
@@ -384,8 +103,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -393,8 +110,9 @@ ABSENT:
 
  
  3.
- 
- 2007.1245
+<<Project End>>
+<<Project Start>>
+2007.1245
 T
  
  
@@ -440,16 +158,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2004.1245E
+<<Project End>>
+<<Project Start>>
+2004.1245E
  
  
  
@@ -528,8 +245,6 @@ ABSENT:
 
 
 5a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -585,8 +300,9 @@ ABSENT:
 
 
 5b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -641,8 +357,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -651,8 +365,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
 6.
  
  Proposed adoption of Planning Commission hearing schedule for
-<<Project End>>
-<<Project Start>>
  
 2008.
 
@@ -678,8 +390,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -940,8 +650,6 @@ Commissioner Sugaya
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -974,8 +682,6 @@ John Rahaim, New Director of the Planning Department
 -
  
  I look forward to working with staff, the Commission and the community on how to make the City even better over the next few years.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1083,8 +789,6 @@ Board of Appeals
 
 
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1339,8 +1043,6 @@ ACTION:
  No action is required of the Commission.
  
  Information presentation only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1420,8 +1122,6 @@ None
 E.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1429,8 +1129,9 @@ E.
 
 
 12.
- 
- 2007.0536D
+<<Project End>>
+<<Project Start>>
+2007.0536D
  
  
  
@@ -1522,16 +1223,14 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0336D
  
  
@@ -1575,16 +1274,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2005.0490E
+<<Project End>>
+<<Project Start>>
+2005.0490E
  
  
  
@@ -1643,16 +1341,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2005.0490C 
+<<Project End>>
+<<Project Start>>
+2005.0490C 
  
  
  
@@ -1701,8 +1398,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1888,16 +1583,15 @@ RESOLUTION:
  
  
 17525
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1346T
+<<Project End>>
+<<Project Start>>
+2007.1346T
  
  
  
@@ -2044,8 +1738,6 @@ RESOLUTION:
  
  
 17526
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2053,8 +1745,9 @@ RESOLUTION:
 
  
  18.
- 
- 2007.1246
+<<Project End>>
+<<Project Start>>
+2007.1246
 T
  
  
@@ -2106,8 +1799,6 @@ RESOLUTION:
  
  
 17527
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2115,8 +1806,8 @@ RESOLUTION:
 
  
  19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0725C
  
  
@@ -2279,8 +1970,6 @@ MOTION:
  
  
 17528
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2288,8 +1977,9 @@ MOTION:
 
  
  20.
- 
- 2007.1019C
+<<Project End>>
+<<Project Start>>
+2007.1019C
  
  
 (Tape IIIA)

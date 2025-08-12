@@ -1,325 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ April 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-April 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 12, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-Minutes 
-      of Meeting
-
-
-&
-
-
-Calendar
-
-
-
-
-
-       
-      
-
-
-
-
-Commission 
-      Chambers - Room 400
-
-
-City Hall, 
-      1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, 
-      April 12, 2001
-
-
-1:30 PM
-
-
-Regular 
-      Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
- 
-Theoharis; Baltimore; 
-      Chinchilla; Salinas
-
-
-ABSENT:
-
-
-Fay, Joe 
-
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER 
-      BY PRESIDENT THEOHARS AT 1:37 P.M.
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
-
-
-Gerald G. Green – Director of Planning; Larry Badiner – Zoning Administrator; 
-      Rana Ahmadi; Judy Martin; Rick Crawford; Lisa Gibson; Mathew Snyder; Dan 
-      DiBartolo; Dan Sider; Nora Priego – Transcription Secretary; Linda D. Avery 
-      – Commission Secretary
-
-
- 
-
-
-
-
-A.
- 
-ITEMS 
-      PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-1.
-
-
 2001.0035E
 
 
@@ -381,8 +60,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -391,7 +68,8 @@ Fay and Joe
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.1061E
 
 
@@ -460,8 +138,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -475,7 +151,8 @@ Fay and Joe
 
  
 3.
- 
+<<Project End>>
+<<Project Start>>
 2000.1061C 
       
 
@@ -532,8 +209,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -541,7 +216,8 @@ Fay and Joe
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1058E
 
 
@@ -634,7 +310,8 @@ Fay and Joe
 
 
 5
- 
+<<Project End>>
+<<Project Start>>
 2000.1058C 
 
 
@@ -696,8 +373,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -711,8 +386,8 @@ Fay and Joe
 
  
 6.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1324C
 
 
@@ -782,8 +457,6 @@ B.
  
 COMMISSIONERS' 
       QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -808,8 +481,6 @@ COMMISSIONERS'
 
 Consideration of adoption - draft 
       minutes of March 8, 2001
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -843,8 +514,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay, Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -877,8 +546,6 @@ departments that a representative from those departments attend the
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -909,8 +576,6 @@ Director's Announcements
 
 Zoning Administrator is on 
       vacation
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -965,8 +630,6 @@ Land Use Committee is holding
 D.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -980,7 +643,8 @@ REGULAR CALENDAR
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 2000.173E
 
 
@@ -1163,8 +827,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1178,7 +840,8 @@ Fay and Joe
 
  
 12.
- 
+<<Project End>>
+<<Project Start>>
 2000.1251C
 
 
@@ -1401,14 +1064,13 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
 
 13.
- 
+<<Project End>>
+<<Project Start>>
 2000.613
 E
 XCK
@@ -1513,8 +1175,6 @@ MOTION NO
 .
  
 16138
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1528,8 +1188,8 @@ MOTION NO
 
  
 14.
-
-
+<<Project End>>
+<<Project Start>>
 2000.613
 X
 C
@@ -1701,8 +1361,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1725,8 +1383,8 @@ Fay and Joe
 
  
 15.
-
-
+<<Project End>>
+<<Project Start>>
 2000.277X
 C
 
@@ -1789,8 +1447,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2076,8 +1732,6 @@ p.m.
  the Planning Commission convened 
       into a Special Discretionary Review (DR) Hearing to hear and act on Discretionary 
       Review matters.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2119,7 +1773,8 @@ p.m.
 
  
 17.
- 
+<<Project End>>
+<<Project Start>>
 2001.0194D
 
 
@@ -2254,8 +1909,6 @@ Baltimore
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2269,7 +1922,8 @@ Fay and Joe
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 2000.1193D
 
 
@@ -2763,8 +2417,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2778,7 +2430,8 @@ Fay and Joe
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.375D
 
 
@@ -2826,8 +2479,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2841,7 +2492,8 @@ Fay and Joe
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.360D
 
 
@@ -2886,8 +2538,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2919,7 +2569,8 @@ Fay and Joe
 
  
 21.
- 
+<<Project End>>
+<<Project Start>>
 2001.006DD
 
 
@@ -3326,8 +2977,6 @@ Theoharis, Baltimore, Chinchilla,
 ABSENT:
  
 Fay and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3341,8 +2990,8 @@ Fay and Joe
 
  
 22.
-
-
+<<Project End>>
+<<Project Start>>
 2001.0095D
  
 

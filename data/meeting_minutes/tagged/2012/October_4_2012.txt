@@ -1,263 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 4, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ October 4, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-October 4, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 4, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-                        
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:12 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Anmarie Rodgers, Steve Wertheim, Don Lewis, Sara Vellve, Aaron Starr, Michael E Smith,  and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                       
 2012.0847D                                                          (G. CABREROS: (415) 558-6159)  
 
 
@@ -312,8 +53,6 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 B.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -358,8 +97,6 @@ I want to announce that this Saturday is affordable housing day in San Francisco
 
 C.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -375,8 +112,6 @@ Director Rahaim:
 
 
 A couple of quick announcements: we sent electronically the current status of the Japantown planning effort. We are happy to answer questions and schedule an upcoming hearing in the next few weeks. And similarly, just as a heads-up, you will hear a couple of informational hearings on Western SOMA. The Department has taken over the planning effort after Paul Lord’s retirement. I want to remind everyone that Columbus Day holiday is Monday so the offices will be closed. I will be out of town Monday and Tuesday as well will be but back on Wednesday.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -503,8 +238,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 The Commission heard public testimony and discussed with staff the Mayor's Office of Economic and Workforce Development's decision not to fund the request by the Mission Dolores Neighborhood Association, not to develop a Mission Dolores National Registration. The Mayor raised two issues: 1) Funding the level of outreach; 2), concerns raised by the Planning Department when the Neighborhood Association surveyed the neighborhood a couple of years ago. The Department specifically had questions about integrity and the boundary justification. Like I said, after public testimony and discussing with staff, the HPC wrote a letter to the funding committee. There is a project that could be funded that could 1) expand the level of community outreach which we are happy to provide assistance with, and 2) would be to expand the methodology - raised from concerns by the Planning Department staff; and we will work with Historic Preservation Commission to outline those items that should be included in that methodology for when the nomination is completed. We are reviewing it as part of the local government responsibilities. The second item at the HPC is a confirmation of the nomination of the building located in the Sunset District. In my last report the building was occupied by Henry Dolger for over 40 years; significant not only by the association with Mr. Dolger but also by the deco design. HPC unanimously approved a nomination. It is scheduled for a final vote by the Board of Supervisors sometimes before the end of this year.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -592,14 +325,14 @@ None
 F.
             
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-6.         
+6.
+<<Project End>>
+<<Project Start>>
 2012.0206C
                                                                             (M. SMITH: (415) 558-6322)
 
@@ -645,9 +378,7 @@ MOTION:          
 
 G.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -673,8 +404,6 @@ SPEAKERS:     Jonathan Sharp
 
 
 ACTION:            Information only. No action required. To come back 11/1/12
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -696,8 +425,6 @@ SPEAKERS:     None
 
 
 ACTION:            Information only. No action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -722,8 +449,6 @@ SPEAKERS:     None
 
 
 ACTION:            Information only. No action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -769,7 +494,9 @@ MOTION:          
  
 
 
-11a.      
+11a.
+<<Project End>>
+<<Project Start>>
 2012.0110CEV
                                                                       (M. SMITH: (415) 558-6322)
 
@@ -812,7 +539,9 @@ MOTION:          
  
 
 
-11b.      
+11b.
+<<Project End>>
+<<Project Start>>
 2012.0110CEV    
                                                                  
 (
@@ -840,14 +569,14 @@ SPEAKERS:     Same as those listed for item 11a
 
 
 ACTION:            Acting Zoning Administrator Dan Sider closed the public hearing and stated his inclination to grant the variances
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2012.0145C
                                                                           (
 S. VELLVE: (415) 558-6263)
@@ -887,14 +616,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
             
 MOTION:           
 18716
-<<Project End>>
-<<Project Start>>
 
 
                      
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.1050DD
                                                                         (A. STARR: (415) 558-6362)
 
@@ -916,20 +645,20 @@ Preliminary Recommendation:  Do not take Discretionary Review and approve
 
             
 DISCRETIONARY REVIEW APPLICATIONS WITHDRAWN
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+14.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
- 
-
-
- 
-
-
-14.        
 2012.0662D
                                                                           (A.STARR: (415) 558-6362)
 

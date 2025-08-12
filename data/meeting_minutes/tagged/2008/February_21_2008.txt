@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 21, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ February 21, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-February 21, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 21, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 21, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Scott Sanchez, Alicia John-Baptiste, David Alumbaugh, Brittany Bendix, Michael Jacinto, Joy Navarrete, Tim Frye, Aaron Hollister, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-Commissioner Olague announced that President Alexander has resigned and his resignation has been accepted by Mayor Newsom as of February 15, 2008
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1362X
+2007.1362X
  
  
  
@@ -325,16 +42,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0781D
+<<Project End>>
+<<Project Start>>
+2007.0781D
  
  
  
@@ -389,16 +105,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.1233C
+<<Project End>>
+<<Project Start>>
+2007.1233C
  
  
  
@@ -446,16 +161,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2004.1245E
+<<Project End>>
+<<Project Start>>
+2004.1245E
  
  
  
@@ -538,8 +252,6 @@ AYES:
 
 
 5a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -592,8 +304,9 @@ AYES:
 
 
 5b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -643,8 +356,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -765,8 +476,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -798,8 +507,6 @@ Of course that appointment would have to be confirmed by the Board of Supervisor
 -
  
  I am planning on taking two tours of the Mission within the next couple of weeks: (1) at the invitation of the Mission Economic Development Organization, and (2) with a group of property owners in northeast Mission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -903,8 +610,6 @@ A building permit was issued to legalize the use when the interim controls for I
  
 Upheld the appeal and denied the permit
 .
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1116,16 +821,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.0879C
+<<Project End>>
+<<Project Start>>
+2007.0879C
  
  
  
@@ -1179,8 +883,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1255,16 +957,15 @@ MOTION:
 
 
 Item 12 taken out of order and followed item 15
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.0131T
+<<Project End>>
+<<Project Start>>
+2008.0131T
  
  
 (Tape IIA)
@@ -1318,16 +1019,15 @@ RESOLUTION:
  
  
 17557
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.0134T
+<<Project End>>
+<<Project Start>>
+2008.0134T
  
  
 (Tape IIA)
@@ -1368,14 +1068,13 @@ RESOLUTION:
  
  
 17558
-<<Project End>>
-<<Project Start>>
 
 
  
  14.
- 
- 2008.0014G
+<<Project End>>
+<<Project Start>>
+2008.0014G
  
  
 (Tape IA)
@@ -1430,16 +1129,15 @@ ABSENT:
 
 
 Item 15 was taken out of order and followed item 11
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.1373D
+<<Project End>>
+<<Project Start>>
+2007.1373D
  
  
 (Tapes IB; IIA)
@@ -1646,16 +1344,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.1427D
+<<Project End>>
+<<Project Start>>
+2007.1427D
  
  
 (Tape IIA)
@@ -1703,16 +1400,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2003.0527E 
+<<Project End>>
+<<Project Start>>
+2003.0527E 
  
  (Tape IIA)
  
@@ -1757,16 +1453,15 @@ ACTION:
  Public hearing to receive public comment only.
  
  No Action is required of the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2005.0490E
+<<Project End>>
+<<Project Start>>
+2005.0490E
  
  
  
@@ -1928,16 +1623,15 @@ MOTION:
  
  
 17559
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2005.0490C 
+<<Project End>>
+<<Project Start>>
+2005.0490C 
  
  
 (Tapes IIB; IIIA)
@@ -2150,8 +1844,6 @@ MOTION:
  
  
 17560
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2159,8 +1851,9 @@ MOTION:
 
  
  20.
- 
- 2007.0305C
+<<Project End>>
+<<Project Start>>
+2007.0305C
  
  
 (Tape IIIA)

@@ -110,13 +110,21 @@ DATE_RE       = re.compile(
                         r"\b(?:January|February|March|April|May|June|July|August|"
                         r"September|October|November|December)\s+\d{1,2},\s+\d{4}\b",
                         re.I,
-                )   
+                )
 MEET_TYPE_RE  = re.compile(r"(Regular|Special|Joint) Meeting", re.I)
 PRESENT_RE    = re.compile(r"PRESENT:\s*(.+?)(?:\n|$)", re.I | re.S)
 ABSENT_RE     = re.compile(r"ABSENT:\s*(.+?)(?:\n|$)",  re.I | re.S)
 STAFF_RE      = re.compile(r"STAFF IN ATTENDANCE:\s*(.+?)(?:\n|$)", re.I | re.S)
 ANCHOR_RE     = re.compile(r"^\d+_\d{1,2}_\d{2}$")
 AGENDA_ITEM_RE = re.compile(r"^\s*\d+\.\s", re.M)
+
+# NEW: Flexible case code/header support: 2-digit or 4-digit years.
+# Example matches: "98.226D", "1999.668B", "2000.271E", "99.123"
+CASE_CODE_RE   = re.compile(r"\b(?:\d{2}|\d{4})\.\d{3,}(?:[A-Z0-9/]+)?\b")
+CASE_HEADER_RE = re.compile(
+    r"(?m)^[ \t]*(?P<code>(?:\d{2}|\d{4})\.\d{3,}(?:[A-Z0-9/]+)?)"
+    r"(?:\s*[–-]\s*|\s*:\s*|\s+)"
+)
 
 def _clean(val: str, multiline=False) -> str:
     if not val:
@@ -141,17 +149,53 @@ def chop_into_meetings(soup: BeautifulSoup) -> list[tuple[str, str]]:
         sections.append((a["name"], "".join(bits)))
     return sections
 
+def _split_by_headers(text: str, header_re: re.Pattern) -> list[str]:
+    """Split text into blocks using header_re as the boundary marker."""
+    matches = list(header_re.finditer(text))
+    if not matches:
+        return []
+    spans = [m.start() for m in matches] + [len(text)]
+    blocks = []
+    for i in range(len(spans) - 1):
+        start = spans[i]
+        end   = spans[i+1]
+        block = text[start:end].strip()
+        if block:
+            blocks.append(block)
+    return blocks
+
 def add_project_tags(text: str) -> str:
-    """Wrap every numbered agenda item in <<Project Start>> / End>> markers."""
-    tagged = ["<<Project Start>>"]
-    pos = 0
-    for m in AGENDA_ITEM_RE.finditer(text):
-        prev = text[pos:m.start()]
-        if prev.strip():
-            tagged.extend([prev.rstrip(), "<<Project End>>", "<<Project Start>>"])
-        pos = m.start()
-    tagged.extend([text[pos:].rstrip(), "<<Project End>>"])
-    return "\n".join(tagged)
+    """
+    Wrap project sections with <<Project Start>> / <<Project End>>.
+
+    Preference order for boundaries:
+      1) Case headers like "1999.668B – ..." or "98.226D: ..."
+      2) Numbered agenda items ("1. ...", "2. ...")
+      3) Whole document as one block
+    """
+    # 1) Try flexible case headers first (works for both 2- and 4-digit years)
+    blocks = _split_by_headers(text, CASE_HEADER_RE)
+    if len(blocks) < 2:
+        # 2) Fallback: numbered agenda items
+        positions = [m.start() for m in AGENDA_ITEM_RE.finditer(text)]
+        if positions:
+            positions.append(len(text))
+            blocks = []
+            for i in range(len(positions) - 1):
+                seg = text[positions[i]:positions[i+1]].strip()
+                if seg:
+                    blocks.append(seg)
+        else:
+            # 3) Fallback: single block
+            blocks = [text.strip()]
+
+    # Emit with tags
+    tagged_chunks = []
+    for b in blocks:
+        tagged_chunks.append("<<Project Start>>")
+        tagged_chunks.append(b.rstrip())
+        tagged_chunks.append("<<Project End>>")
+    return "\n".join(tagged_chunks)
 
 def extract_header(text: str) -> dict:
     day        = _clean(next(iter(DAY_RE.findall(text)), ""), False)
@@ -200,7 +244,7 @@ def parse_minutes_page(html: str,
         meta_rows.append(meta)
 
         # save tagged text
-        date_for_file = meta["date"].replace(",", "").replace("/", "-").replace(" ", "_")
+        date_for_file = meta["date"].replace(",", "").replace("/", "-").replace(" ", "_") or f"{year}_{slug}_{i}"
         txt_path = TAG_DIR / year / f"{date_for_file}.txt"
         txt_path.parent.mkdir(parents=True, exist_ok=True)
         txt_path.write_text(add_project_tags(text), encoding="utf-8")

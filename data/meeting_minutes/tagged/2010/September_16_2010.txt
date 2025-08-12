@@ -1,363 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 16, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ September 16, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-September 16, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 16, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, and Sugaya
-
-
-COMMISSIONERS ABSENT:     Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Aaron Hollister, Erika Jackson, Corey Teague, AnMarie Rodgers, Paul Lord, Kearstin Dischinger, Rick Crawford, Michael Smith, Sara Vellve, Pilar LaValley, Aaron Starr, Shelley Caltagirone, Tim Frye, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.         2009.0288c 
-                                                                                   
-       (A. HOLLISTER: (415) 575-9078)
-
-
-235 OâFarrell Street
- - south side between Powell and Mason Streets, Lot 018 in Assessorâs Block 0326 â Request for Conditional Use Authorization to convert an existing tourist/residential hotel containing 68 tourist hotel rooms and 23 hotel residential rooms to a full tourist hotel containing approximately 59 tourist hotel rooms within the subject building.  No physical expansion of the existing building is proposed.  As provided under the Residential Hotel Conversion and Demolition Ordinance (San Francisco Administrative Code, Chapter 41), the 23 residential rooms currently found at the project site must be replaced, and would be replaced at 374 5
-th
- Street.
-  
-This site is within a C-3-G (Downtown General Commercial) District and an 80-130-F Height and Bulk District.  
- 
-
-
-P
-reliminary Recommendation:  Approval with Conditions
-
-
-(Proposed for Continuance to September 30, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Without hearing, continued as proposed
-
-
-AYES:              Antonini, Sugaya, Olague, and Miguel
-
-
-ABSENT:          Moore
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-
-
- 
-
-
-2.         2010.0054u                                                                               
-(j. ionin: (415) 558-6309)
-
-
-Personal Wireless Service Facility Site Permits Ordinance [Board File No. 10-0041]
- - 
-Ordinance introduced by Supervisor Avalos would amend the San Francisco Public Works Code by adding Article 25, Sections 1500 through 1528, to establish new requirements for Personal Wireless Service Facility Site Permits and to increase certain fees for obtaining such permits, amending the San Francisco Administrative Code by amending Chapter 11, Article 1, Section 11.9, to eliminate obsolete provisions related to such permits, making the provisions of the ordinance retroactive, and making environmental findings.
-  
-
-
-Preliminary Recommendation: Approval
-
-
-            (Continued from Regular Meeting of September 2, 2010)
-
-
-                                
-(Proposed for Continuance to October 7, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Without hearing, continued as proposed
-
-
-AYES:              Antonini, Sugaya, Olague, and Miguel
-
-
-ABSENT:          Moore
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-3.        
 2010.0377C
                                                                          (A. HOLLISTER: (415) 575-9078)
 
@@ -389,14 +30,14 @@ ABSENT:          Moore
 
 
 MOTION:           18172
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.        
+4.
+<<Project End>>
+<<Project Start>>
 2010.0442C
                                                                             (E. JACKSON: (415) 558-6363)
 
@@ -434,14 +75,14 @@ ABSENT:          Moore
 
 
 MOTION:           18173
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.        
+5.
+<<Project End>>
+<<Project Start>>
 2010.0620Z
                                                                             (C. TEAGUE: (415) 575-9081)
 
@@ -534,8 +175,6 @@ I just want to add that I have met with project sponsors on Lloyd and spoke with
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -551,8 +190,6 @@ Director Rahaim:
 
 
 The only announcement I have is to welcome you back from the Summer Hiatus, although we did have a short meeting in there along the way.  Fall is already hitting with a vengeance.  Your schedules are pretty intense for the next few weeks.  We will do our best to balance your calendars in the coming months.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -685,8 +322,6 @@ Ray Hartz
 
 
                                                                                                                           (P. LORD: (415) 558-6311)
-<<Project End>>
-<<Project Start>>
 
 
 8.         
@@ -746,15 +381,15 @@ Marilyn Amini â Re:  She is dismayed with President Miguel closing the pub
 
 F.
            
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.        
+9.
+<<Project End>>
+<<Project Start>>
 2010.0790U
                                                                          
 (
@@ -784,15 +419,14 @@ ABSENT:          Moore
 
 
 MOTION:           18175
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-       
+<<Project End>>
+<<Project Start>>
 2010.0767U
                                                                       
 (K. DISCHINGER: (415) 558-6284)
@@ -821,14 +455,14 @@ ABSENT:          Moore
 
 
 MOTION:           18176
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.       
+11.
+<<Project End>>
+<<Project Start>>
 2010.0464C
                                                                            (E. JACKSON: (415) 558-6363)
 
@@ -864,14 +498,14 @@ ABSENT:          Moore
 
 
 MOTION:           18177
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.       
+12.
+<<Project End>>
+<<Project Start>>
 2010.0072C
                                                                         (R. CRAWFORD: (415) 558-6358)
 
@@ -915,14 +549,14 @@ ACTION:           In the absence of a successful substitute motion, th
 
 
 MOTION:           18178
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.       
+13.
+<<Project End>>
+<<Project Start>>
 2010.0366C
                                                                                 (M. SMITH: (415) 558-6322)
 
@@ -954,14 +588,14 @@ ABSENT:          Moore
 
 
 MOTION:           18179
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.       
+14.
+<<Project End>>
+<<Project Start>>
 2010.0255C
                                                                                (S. VELLVE: (415) 558-6263)
 
@@ -995,14 +629,14 @@ ABSENT:          Moore
 
 
 MOTION:           18180
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.       
+15.
+<<Project End>>
+<<Project Start>>
 2010.0392D
                                                                          (P. LAVALLEY: (415) 575-9084)
 
@@ -1055,7 +689,9 @@ DRA:                0167
  
 
 
-16a.     
+16a.
+<<Project End>>
+<<Project Start>>
 2009.1170DDD
                                                                             (A. STARR: (415) 558-6362)
 
@@ -1097,7 +733,9 @@ ABSENT:          Moore
  
 
 
-16b.     
+16b.
+<<Project End>>
+<<Project Start>>
 2009.1170DDDV
                                                                         
 (A. STARR: (415) 558-6362)
@@ -1123,14 +761,14 @@ AYES:              Antonini, Sugaya, Olague, and Miguel
 
 
 ABSENT:          Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.       
+17.
+<<Project End>>
+<<Project Start>>
 2010.0490D
                                                                                (S. CALTAGIRONE: (415) 558-6625)
 
@@ -1171,14 +809,14 @@ ABSENT:          Moore
 
 
 DRA:                0168
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.       
+18.
+<<Project End>>
+<<Project Start>>
 2010.0097D
                    
                                                                 

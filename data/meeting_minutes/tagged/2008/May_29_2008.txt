@@ -1,282 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 29, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ May 29, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-May 29, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 29, 2008  Special
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 29, 2008
-
-
-1:30 PM
-
-
-Special Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:39 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Larry Badiner â Zoning Administrator, Amit Ghosh â Chief Planner, Corey Teague, Kevin Guy, David Alumbaugh, Brittany Bendix, Mary Woods, Glenn Cabreros, Aaron Hollister, Tina Tam, Tara Sullivan-Lenane, Christine Lamorena, and AnMarie Rodgers â Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2008.0095T
  
  
@@ -321,16 +43,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0441E
+<<Project End>>
+<<Project Start>>
+2006.0441E
  
  
  
@@ -368,16 +89,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.0132C
+<<Project End>>
+<<Project Start>>
+2008.0132C
  
  (A. HOLLISTER: (415) 575-9078)
 
@@ -420,16 +140,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1268D
+<<Project End>>
+<<Project Start>>
+2007.1268D
  
  
  
@@ -486,13 +205,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item 5 was taken off the consent calendar
-<<Project End>>
-<<Project Start>>
 
 
 5.
- 
- 2007.1034C
+<<Project End>>
+<<Project Start>>
+2007.1034C
  
  
  
@@ -541,16 +259,15 @@ MOTION:
  
  
 17602
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0308C
+<<Project End>>
+<<Project Start>>
+2008.0308C
  
  
  
@@ -611,8 +328,9 @@ Item 7 was taken off the consent calendar
 
 
 7a.
- 
- 2006.1419
+<<Project End>>
+<<Project Start>>
+2006.1419
 V
 X
  
@@ -678,8 +396,9 @@ ACTION:
 
 
 7b.
- 
- 2006.1419V
+<<Project End>>
+<<Project Start>>
+2006.1419V
 X
  
  
@@ -726,16 +445,15 @@ MOTION:
  
  
 17603
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.0391C
+<<Project End>>
+<<Project Start>>
+2006.0391C
  
  
  
@@ -800,8 +518,6 @@ Adoption of Commission Minutes
 â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -864,8 +580,6 @@ The other award winner was Sue Hestor for saving the Flower Mart
 AYES:
  
  Olague, Miguel, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -905,8 +619,6 @@ Marilyn Amini
 -
  
  If there is no quorum, it would be important to continue the Eastern Neighborhoods instead.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1155,8 +867,6 @@ Kate Stacey, City Attorney's Office
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1261,8 +971,6 @@ We had 71 illegal billboards removed and I think that is an outrageously high nu
  I have to commend Jonathan Purvis, Kimberly Durandet, and Dan Sider who is the team leader.
  
  Also, I'd like to thank Elaine Forbes, who has been very instrumental as a leader on that program for awhile.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1286,8 +994,6 @@ Board of Appeals
 
 
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1371,8 +1077,6 @@ ACTION:
  No Action is required of the Commission.
  
  Informational presentation
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1822,16 +1526,15 @@ F.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.1064C
+<<Project End>>
+<<Project Start>>
+2007.1064C
  
  
  
@@ -1878,16 +1581,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2008.0271DD
+<<Project End>>
+<<Project Start>>
+2008.0271DD
  
  
  
@@ -2077,8 +1779,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2086,8 +1786,9 @@ REGULAR CALENDAR
 
 
 18.
- 
- 2007.1256C
+<<Project End>>
+<<Project Start>>
+2007.1256C
  
  
  
@@ -2141,8 +1842,9 @@ AYES:
  
  19
 a.
- 
- 2006.0828
+<<Project End>>
+<<Project Start>>
+2006.0828
 C
 V
  
@@ -2268,8 +1970,9 @@ MOTION:
 
 
 19b.
- 
- 2006.0828C
+<<Project End>>
+<<Project Start>>
+2006.0828C
 V
  
  
@@ -2310,16 +2013,15 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variances.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2007.1280C
+<<Project End>>
+<<Project Start>>
+2007.1280C
  
  
  
@@ -2422,16 +2124,15 @@ MOTION:
  
  
 17605
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2007.1326C
+<<Project End>>
+<<Project Start>>
+2007.1326C
  
  
  
@@ -2541,16 +2242,15 @@ MOTION:
  
  
 17606
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2008.0291T
+<<Project End>>
+<<Project Start>>
+2008.0291T
  
  
  
@@ -2620,16 +2320,15 @@ ABSENT:
 RESOLUTION:
  
 17607
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2008.0245D
+<<Project End>>
+<<Project Start>>
+2008.0245D
  
  
  

@@ -1,167 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-San Francisco Planning Commission Minutes April 2000
-
-
-
-
-
-
-Minutes of Planning 
-    Commission Calendars
-
-
-April 2000
-
-
-
-
-Presented below are Minutes of the Planning 
-    Commission. The top of the this page lists Commission meeting dates for the 
-    month. 
-Click on the date and you will reach the minutes for that that 
-    week. The minutes present a summary of actions taken at the Planning Commission 
-    hearing and provides a Motion or Resolution number for that action.
-
-
-With most browsers you will be able to search for any text item 
-    by using the Ctrl-F keys. It is recommended you search by case number and 
-    suffix, if you know it, as that will always be a unique item. You may search 
-    by any identifying phrase, including project addresses. 
-
-
-(Please note, commission minutes generally are approved and 
-    finalized two weeks following the hearing date.) 
-
-
-
-
-
-
-
-
- 
-April 6, 2000
- 
-
-
-April 13, 2000
-
-
-April 20, 2000 Cancelled
-
-
- 
-April 27, 2000
- 
-
-
-
-
-
-
-
-
-SAN
- FRANCISCO
-
-
-PLANNING
- COMMISSION
-
-
-
-
-Meeting
- Minutes
-
-
-
-
-Commission
- Chamber - Room 400
-
-
-City
- Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday,
- April 6, 2000
-
-
-1:30
- PM
-
-
-
-
-Regular
- Meeting
-
-
-
-
-
-
-
-
-PRESENT:
-       Mills, Antenore, Chinchilla,
- Joe, Martin, Richardson
-
-
-ABSENT:
-  Theoharis
-
-
-
-
-THE
- MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 P.M.
-
-
-
-
-STAFF
- IN ATTENDANCE: Gerald G. Green - Director of Planning, Susana Montana,
- Tim Blomgren, Paul Rosetter, Kelly LeBlanc, Jana Beatty, Mathew Snyder,
- Ricardo Bressanutti, Pedro Arce, Alison Borden, Edy Zwierzycki, Mary
- Koonts, Ellen Miramontes, Tom Wang, Linda D. Avery - Commission Secretary.
-
-
-
-
-
-
-A. 
-ITEMS PROPOSED 
-    FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-
-
-
-1. 
-      1999.829C (BRESSANUTTI: 575-6892)
+1999.829C (BRESSANUTTI: 575-6892)
 
 
 540 
@@ -211,8 +49,6 @@ Martin, Mills, Antenore, Chinchilla, Joe, Richardson
 
 ABSENT:
            Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -286,14 +122,14 @@ Martin, Mills, Antenore, Chinchilla, Joe, Richardson
 
 ABSENT:
            Theoharis
+
+
+
+
+3.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-3. 
-      1999.571C                           (ZWIERZYCKI: 
+1999.571C                           (ZWIERZYCKI: 
       558-6263)
 
 
@@ -352,16 +188,16 @@ Martin,
 
 ABSENT:
                Theoharis
+
+
+
+
+
+
+4.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-4. 
-      1999.154E (KUGLER: 558-5983)
+1999.154E (KUGLER: 558-5983)
 
 
 992 
@@ -415,14 +251,14 @@ Martin, Mills, Antenore, Chinchilla, Joe, Richardson
 
 ABSENT:
            Theoharis
+
+
+
+
+5.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-5. 
-      98.770E (MALTZER: 558-6391)
+98.770E (MALTZER: 558-6391)
 
 
 1738-9TH 
@@ -470,20 +306,20 @@ Martin, Mills, Antenore, Chinchilla, Joe, Richardson
 
 ABSENT:
            Theoharis
+
+
+
+
+
+
+
+
+
+
+6.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-6. 
-      1999.040C (WILSON: 558-6602)
+1999.040C (WILSON: 558-6602)
 
 
  
@@ -689,8 +525,6 @@ SPEAKER(S):
 C.
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -726,8 +560,6 @@ Martin, Mills, Antenore, Chinchilla, Joe, Richardson
  
       ABSENT:
            Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -756,8 +588,6 @@ Antenore: Would like to have the calendar mailed in the standard mailing
 D.
  
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -791,8 +621,6 @@ D.
 
  
     - there were changes that were made by the owner during construction
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -826,8 +654,6 @@ BOA:
 E.
  
  CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -914,8 +740,6 @@ MOTION No.:
  
  
 15015
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1033,8 +857,6 @@ MOTION No.:
  
  
 15016
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1176,8 +998,6 @@ MOTION No.:
 F.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1259,8 +1079,6 @@ ABSENT:
  
       MOTION No.: 
 15018
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1369,8 +1187,6 @@ Chinchilla
  
       RESOLUTION No.: 
 15019
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1985,8 +1801,6 @@ Martin
  
         RESOLUTION No.: 
 15020
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2374,8 +2188,6 @@ Martin
  ABSENT: 
               Theoharis, 
         Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2395,8 +2207,10 @@ Martin
 
 
 
-17. 
-      1999.486C                           (BEATTY: 
+17.
+<<Project End>>
+<<Project Start>>
+1999.486C                           (BEATTY: 
       558-6163)
 
 
@@ -2440,28 +2254,28 @@ Martin
       ABSENT: 
               Theoharis, 
       Chinchilla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18. 
-      1999.677C (LeBLANC: 558-6351)
+1999.677C (LeBLANC: 558-6351)
 
 
 
@@ -2600,22 +2414,22 @@ Martin
  
       MOTION No.: 
 15021
+
+
+
+
+
+
+
+
+
+
+
+
+19.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-19. 
-      1999.902C (SNYDER: 575-6891)
+1999.902C (SNYDER: 575-6891)
 
 
 
@@ -2870,30 +2684,30 @@ Martin
       ABSENT: 
               Theoharis, 
       Chinchilla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20. 
-      98.703C      (BRESSANUTTI: 575-6892)
+98.703C      (BRESSANUTTI: 575-6892)
 
 
 
@@ -3097,21 +2911,21 @@ Martin
 
 AT 
   APPROXIMATELY 4:30 P.M. THE PLANNING COMMISSION CONVENED INTO A SPECIAL DISCRETIONARY 
-  REVIEW (DR) HEARING.
+  REVIEW (DR) HEARING. 
+
+
+
+
+
+
+
+
+
+
+21.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-21. 
-      1999.639D (ARCE: 558-5986)
+1999.639D (ARCE: 558-5986)
 
 
 
@@ -3203,30 +3017,30 @@ Martin
       ABSENT:           
 Theoharis, 
       Chinchilla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22. 
-      2000.222D (BRESSANUTTI: 575-5892 )
+2000.222D (BRESSANUTTI: 575-5892 )
 
 
 
@@ -3506,30 +3320,30 @@ Mills
       ABSENT:             
 Theoharis, 
       Chinchilla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23. 
-      2000.164D (BORDEN: 558-6321)
+2000.164D (BORDEN: 558-6321)
 
 
 
@@ -4323,14 +4137,14 @@ STAFF
 A. 
     
 ITEMS PROPOSED FOR CONTINUANCE
+
+
+
+
+1.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-1. 
-    1999.578C         (LeBLANC: 558-6351) 
+1999.578C         (LeBLANC: 558-6351) 
     
 
 
@@ -4390,14 +4204,14 @@ Theoharis, Mills, Antenore, Richardson, Joe
 ABSENT:
  
     Chinchilla, Martin
+
+
+
+
+2.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-2. 
-    2000.006C (KEYLON: 558-6613)
+2000.006C (KEYLON: 558-6613)
 
 
 3445 
@@ -4438,21 +4252,19 @@ Theoharis, Mills, Antenore, Richardson, Joe
 ABSENT:
  
     Chinchilla, Martin
+
+
+
+
+3.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-3. 
-    1999.310E (NAVARRETE: 558-5975)
+1999.310E (NAVARRETE: 558-5975)
 
 
 322-6TH 
     STREET
-, Appeal of Negative Declaration - Assessor’s Block 3754 Lot
-<<Project End>>
-<<Project Start>>
+, Appeal of Negative Declaration - Assessor’s Block 3754 Lot 
     3. The proposal is to demolish one existing industrial/commercial warehouse 
     building on the site and construct one building containing 15 live/work units 
     and 15 off-street parking spaces within a 3-story structure (including mezzanine 
@@ -4490,16 +4302,16 @@ Theoharis, Mills, Antenore, Richardson, Joe
 ABSENT:
  
     Chinchilla, Martin
+
+
+
+
+
+
+4.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-4. 
-    2000.249D                     (MARTIN: 
+2000.249D                     (MARTIN: 
     558-6616)
 
 
@@ -4544,14 +4356,14 @@ Theoharis, Mills, Antenore, Richardson, Joe
 ABSENT:
  
     Chinchilla, Martin
+
+
+
+
+5.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-5. 
-    98.635ECB (BADINER: 558-6350) 
+98.635ECB (BADINER: 558-6350) 
 
 
 2101 
@@ -4717,8 +4529,6 @@ Dan
 C. 
     
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4760,8 +4570,6 @@ Theoharis, Mills, Antenore, Richardson, Joe
                
 Chinchilla, 
     Martin
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4833,8 +4641,6 @@ Commissioner
 D. 
     
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4865,8 +4671,6 @@ systems arise.
  
     4) On 4/27/00 the director will be available and prepared to give information 
     on business services.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4888,14 +4692,14 @@ BOA:
 E. 
     
 CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
+
+
+
+
+10.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-10. 
-    2000.222D (BRESSANUTTI: 575-5892 )
+2000.222D (BRESSANUTTI: 575-5892 )
 
 
 1363 
@@ -4965,14 +4769,14 @@ ABSENT:
 F. 
     
 REGULAR CALENDAR
+
+
+
+
+11.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-11. 
-    1999.902C (SNYDER: 575-6891)
+1999.902C (SNYDER: 575-6891)
 
 
 880 
@@ -5036,14 +4840,14 @@ ABSENT:
  
     MOTION No.: 
 15024
+
+
+
+
+12.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-12. 
-    1999.867H                                              
+1999.867H                                              
                                           (KOMETANI: 
     558: 6478)
 
@@ -5130,14 +4934,14 @@ ABSENT:
 MOTION 
     No.:           
 15025
+
+
+
+
+13.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-13. 
-    1998.604M                           (MONTANA: 
+1998.604M                           (MONTANA: 
     (558-5984)
 
 
@@ -5372,14 +5176,14 @@ Approval to initiate
  
     ABSENT:
  Chinchilla, Martin
+
+
+
+
+14.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-14. 
-    1998.604Z                           (MONTANA: 
+1998.604Z                           (MONTANA: 
     (558-5984) 
 
 
@@ -5425,8 +5229,6 @@ Theoharis, Mills, Antenore, Richardson, Joe
 MOTION 
       No.: 
 15026
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -5434,8 +5236,10 @@ MOTION
 
 
 
-15. 
-    98.766X (LeBLANC 558-6351)
+15.
+<<Project End>>
+<<Project Start>>
+98.766X (LeBLANC 558-6351)
 
 
 535 
@@ -5689,14 +5493,14 @@ Theoharis, Mills, Antenore, Richardson, Joe
 
 MOTION No.: 
 15027
+
+
+
+
+16.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-16. 
-    98.766B                           (LeBLANC 
+98.766B                           (LeBLANC 
     558-6351)
 
 
@@ -5741,8 +5545,6 @@ Theoharis, Mills, Antenore, Richardson, Joe
 MOTION 
       No.: 
 15028
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -5754,8 +5556,10 @@ MOTION
 
 
 
-17. 
-    1999.897C                           (CHIN: 
+17.
+<<Project End>>
+<<Project Start>>
+1999.897C                           (CHIN: 
     575-6897)
 
 
@@ -5839,8 +5643,6 @@ Theoharis, Mills, Antenore, Richardson, Joe
  
     MOTION No.: 
 15029
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -6519,14 +6321,14 @@ Theoharis, Mills, Antenore, Richardson, Joe
  
     MOTION No.: 
 15031
+
+
+
+
+19.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-19. 
-    2000.131C                           (SNYDER: 
+2000.131C                           (SNYDER: 
     575-6891)
 
 
@@ -6685,15 +6487,15 @@ AYES:
 
  
     MOTION No.: 
-15032
+15032 
+
+
+
+
+20.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-20. 
-    2000.182C                           (SNYDER: 
+2000.182C                           (SNYDER: 
     575-6891) 
 
 
@@ -6739,14 +6541,14 @@ Continued
     ABSENT:
             Chinchilla, 
     Martin
+
+
+
+
+21.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-21. 
-    2000.069C       (BORDEN: 558-6321)
+2000.069C       (BORDEN: 558-6321)
 
 
  
@@ -6885,8 +6687,6 @@ AYES:
 MOTION 
       No.: 
  15033
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6894,8 +6694,10 @@ MOTION
 
 
 
-22. 
-    2000.258C (DiBARTOLO: 558-6291) 
+22.
+<<Project End>>
+<<Project Start>>
+2000.258C (DiBARTOLO: 558-6291) 
 
 
 1548 
@@ -6960,9 +6762,7 @@ AT
 7:45 
       
 P.M. THE 
-      PLANNING COMMISSION CONVENED INTO A SPECIAL DISCRETIONARY REVIEW (DR) HEARING.
-<<Project End>>
-<<Project Start>>
+      PLANNING COMMISSION CONVENED INTO A SPECIAL DISCRETIONARY REVIEW (DR) HEARING. 
       
 
 
@@ -7068,14 +6868,14 @@ Theoharis,
  
                 Chinchilla, 
     Martin
+
+
+
+
+ 24.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 24. 
-    1999.243D (BANALES: 558-6339)
+1999.243D (BANALES: 558-6339)
 
 
  
@@ -7123,14 +6923,14 @@ Theoharis,
  
                 Chinchilla, 
     Martin
+
+
+
+
+ 25.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 25. 
-    2000.205D (KIM: 558-6290)
+2000.205D (KIM: 558-6290)
 
 
  
@@ -7153,14 +6953,14 @@ Theoharis,
  
 WITHDRAWN 
     DISCRETIONARY REVIEW APPLICATION
+
+
+
+
+ 26.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 26. 
-    2000.220D (WILSON: 558-6602)
+2000.220D (WILSON: 558-6602)
 
 
  
@@ -7181,14 +6981,14 @@ WITHDRAWN
 
  
     WITHDRAWN DISCRETIONARY REVIEW APPLICATION
+
+
+
+
+ 27.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 27. 
-    2000.247D (WILSON: 558-6602)
+2000.247D (WILSON: 558-6602)
 
 
 1415 
@@ -7332,14 +7132,14 @@ Theoharis,
  
                 Chinchilla, 
     Martin
+
+
+
+
+ 28.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 28. 
-    1999.741D (MARTIN: 558-6616)
+1999.741D (MARTIN: 558-6616)
 
 
  
@@ -7466,14 +7266,14 @@ Approve project
  ABSENT:
  
               Chinchilla, Martin
+
+
+
+
+29.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-29. 
-    2000.250D               (MARTIN: 
+2000.250D               (MARTIN: 
     558-6616)
 
 
@@ -7517,14 +7317,14 @@ Theoharis,
  
                 Chinchilla, 
     Martin
+
+
+
+
+30.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-30. 
-    2000.261D          (CHIN: 575-6897)
+2000.261D          (CHIN: 575-6897)
 
 
  
@@ -7886,24 +7686,24 @@ STAFF
 A. 
     
 ITEMS PROPOSED FOR CONTINUANCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. 
-          2000.002C       (MIRAMONTES: 558-6348)
+2000.002C       (MIRAMONTES: 558-6348)
 
 
 1415 
@@ -7941,20 +7741,20 @@ AYES:
 
 ABSENT: 
           Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+
+
+2.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-2. 
-          98.635ECBD       (BADINER: 558-6350)
+98.635ECBD       (BADINER: 558-6350)
 
 
 2101-2125 
@@ -8029,14 +7829,14 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+3.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-3. 
-          1999.668E (BLOMGREN: 558-5979)
+1999.668E (BLOMGREN: 558-5979)
 
 
 38-44 
@@ -8085,16 +7885,16 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+
+
+4.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-4. 
-          1999.583E       (CHAN: 558-5982)
+1999.583E       (CHAN: 558-5982)
 
 
 881-899 
@@ -8153,14 +7953,14 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+5.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-5. 
-          1999.684D (WILSON: 558-6602)
+1999.684D (WILSON: 558-6602)
 
 
 129 
@@ -8204,20 +8004,20 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+
+
+6.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-6. 
-          1999.738D           (CHIN: 
+1999.738D           (CHIN: 
           575-6897)
 
 
@@ -8264,14 +8064,14 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+7.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-7. 
-          2000.246D (WILSON: 558-6602)
+2000.246D (WILSON: 558-6602)
 
 
 511 
@@ -8450,8 +8250,6 @@ Gerald
 C. 
     
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -8490,8 +8288,6 @@ AYES:
 
 ABSENT: 
           Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
 9. 
@@ -8516,8 +8312,6 @@ None
 D. 
     
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -8558,8 +8352,6 @@ On
 
 Mr. 
           Green honored Ms. Susana Montana with a Resolution because of her retirement.
-<<Project End>>
-<<Project Start>>
 
 
 11. 
@@ -8591,9 +8383,7 @@ Mr.
 
 
 - 
-          127 Moffet Street (Case No. 1999.667) - Board overruled the DR 5 to
-<<Project End>>
-<<Project Start>>
+          127 Moffet Street (Case No. 1999.667) - Board overruled the DR 5 to 
           0.
 
 
@@ -8610,8 +8400,6 @@ Mr.
 E. 
     
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -8661,8 +8449,6 @@ N/A
 ABSENT: 
           
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -8739,18 +8525,18 @@ N/A
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+14.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-14. 
-          2000.213C (SNYDER: 575-6891)
+2000.213C (SNYDER: 575-6891)
 
 
 301-8TH 
@@ -8792,8 +8578,6 @@ N/A
 ABSENT: 
             
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -8801,8 +8585,10 @@ Theoharis, Joe, Martin
 
 
 
-15. 
-          2000.252C         (BORDEN: 558-6321)
+15.
+<<Project End>>
+<<Project Start>>
+2000.252C         (BORDEN: 558-6321)
 
 
 
@@ -8864,18 +8650,18 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+16.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-16. 
-          2000.144C (MIRAMONTES: 558-6348)
+2000.144C (MIRAMONTES: 558-6348)
 
 
 1000 
@@ -8947,8 +8733,6 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
             
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -8960,8 +8744,10 @@ Theoharis, Joe, Martin
 
 
 
-17. 
-          1999.829C (BRESSANUTTI: 575-6892)
+17.
+<<Project End>>
+<<Project Start>>
+1999.829C (BRESSANUTTI: 575-6892)
 
 
 540 
@@ -9007,8 +8793,6 @@ N/A
  ABSENT: 
             
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -9020,8 +8804,10 @@ Theoharis, Joe, Martin
 
 
 
-18. 
-          1999.746C (BRESSANUTTI: 575-6892)               
+18.
+<<Project End>>
+<<Project Start>>
+1999.746C (BRESSANUTTI: 575-6892)               
 
 
 
@@ -9289,18 +9075,18 @@ Antenore (specifically because he believes that the Mayor’s
 ABSENT: 
           
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+19.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-19. 
-          1999.624C                 (WILSON: 
+1999.624C                 (WILSON: 
           558-6602) 
 
 
@@ -9629,22 +9415,22 @@ Mills, Antenore, Chinchilla, Richardson
 ABSENT: 
             
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+
+
+
+
+20.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-20. 
-          1999.558C (BRESSANUTTI: 575-6892)
+1999.558C (BRESSANUTTI: 575-6892)
 
 
 
@@ -9836,8 +9622,6 @@ Mills, Antenore, Chinchilla, Richardson
  
           ABSENT: 
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -9854,8 +9638,9 @@ Theoharis, Joe, Martin
 
 
 
-21. 
-          
+21.
+<<Project End>>
+<<Project Start>>
 1999.829C
  98.922C (KEYLON: 558-6613)
 
@@ -9954,18 +9739,18 @@ Mills, Antenore, Chinchilla, Richardson
  
           ABSENT: 
 Theoharis, Joe, Martin
+
+
+
+
+
+
+
+
+22.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-22. 
-          1999.832C (ZWIERZYCKI: 558-6263)
+1999.832C (ZWIERZYCKI: 558-6263)
 
 
 
@@ -10071,9 +9856,7 @@ Theoharis, Joe, Martin
 
 AT APPROXIMATELY 
             4:30 P.M. THE PLANNING COMMISSION CONVENED INTO A SPECIAL DISCRETIONARY 
-            REVIEW (DR) HEARING.
-<<Project End>>
-<<Project Start>>
+            REVIEW (DR) HEARING. 
 
 
  
@@ -10081,8 +9864,10 @@ AT APPROXIMATELY
 
 
 
-23. 
-          2000.109D (ZWIERZYCKI: 558-6263)
+23.
+<<Project End>>
+<<Project Start>>
+2000.109D (ZWIERZYCKI: 558-6263)
 
 
 
@@ -10127,8 +9912,6 @@ N/A
  ABSENT: 
             
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -10136,8 +9919,10 @@ Theoharis, Joe, Martin
 
 
 
-24. 
-          2000.590D (KEYLON: 558-6613)
+24.
+<<Project End>>
+<<Project Start>>
+2000.590D (KEYLON: 558-6613)
 
 
 
@@ -10420,9 +10205,7 @@ Jerry Braud - Agent for Mr. Robert Gray
  
             - When they reported the violation to the building department, DBI 
             sent an inspector and it was classified as satisfactory but suggested 
-            to get the proper permits. Mr. Cray has been trying to do that since
-<<Project End>>
-<<Project Start>>
+            to get the proper permits. Mr. Cray has been trying to do that since 
             1996. He would have had it, but Mr. Borsick found that Mr. Cray was 
             off by 5 or 6 inches on the set back. Mr. Borsick although he as been 
             complaining about the deck not having a permit, he has been making 
@@ -10535,8 +10318,6 @@ Mills, Antenore, Chinchilla, Richardson
  NEUTRAL: 
             
 Theoharis, Joe, Martin
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -10547,8 +10328,10 @@ Theoharis, Joe, Martin
 
 
 
-25. 
-          2000.072DD (CHIN: 575-6897)
+25.
+<<Project End>>
+<<Project Start>>
+2000.072DD (CHIN: 575-6897)
 
 
 

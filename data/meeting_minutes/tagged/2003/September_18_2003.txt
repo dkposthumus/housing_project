@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 18, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ September 18, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-September 18, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 18, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 18, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Lisa Feldstein, Kevin Hughes, Sue Lee William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Edgar E. Boyd
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 2:08 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Jim Nixon - Acting Zoning Administrator; Judy Boyajian - Deputy City Attorney; Amit Ghosh; Delvin Washington; Craig Nikitas; Kelley Amdur; Adam Light; Matt Snyder; Rick Crawford; Dan Sirois; Jim Miller; Patricia Gerber; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0253D  (G. NELSON: (415) 558-6257)
 
 
@@ -271,8 +31,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0183D (G. NELSON: (415) 558-6257)
 
 
@@ -302,8 +60,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 3. 2002.0658C                               (M. WOODS:  (415) 558-6315)
 
 
@@ -355,8 +111,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 4. 2003.0611C                                                    (K. AMDUR: (415) 558-6351)
 
 
@@ -386,8 +140,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.0277E                   (N. TURRELL: (415) 558-5994)
 
 
@@ -418,9 +170,6 @@ ABSENT: Boyd
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 6. Consideration of Adoption - June 12 and 19, 2003 (Continued from Regular Meeting
 
 of September 11, 2003); July 31, 2003 and August 21, 2003
@@ -495,8 +244,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 7.  Commission Comments/Questions
 
 
@@ -584,8 +331,6 @@ Acting Zoning Administrator Responded to Commissioner Bill Lee's Comment:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 8. Director's Announcements
 
 
@@ -642,8 +387,6 @@ Chris Zelieg
 - She requested that public comment be closed on the Housing Element because it needs to move forward and it should be approved by November 6, 2003.
 <<Project End>>
 <<Project Start>>
-
-
 9. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -734,8 +477,6 @@ None
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 10. 2002.0277C (A. LIGHT:  (415) 558-6254)
 
 
@@ -1368,8 +1109,6 @@ ABSENT: Boyd
 MOTION: 16658
 <<Project End>>
 <<Project Start>>
-
-
 11. 2002.1105C (T. TAM: (415) 558-6325)
 
 
@@ -1401,8 +1140,6 @@ ABSENT: Boyd
 E. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12.  (L. AVERY: (415) 558-6407)
 
 
@@ -1447,8 +1184,6 @@ ABSENT: Boyd
 RESOLUTION: 16659
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0932I             (K. AMDUR: (415) 558-6351)
 
 
@@ -1473,8 +1208,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0244C                                 (M. SNYDER: (415) 558-6891)
 
 
@@ -1611,14 +1344,10 @@ SPEAKER(S):
 ACTION: Approved with Conditions as Amended:
 <<Project End>>
 <<Project Start>>
-
-
 1. Add an additional condition to read:  
 At least 3 of the 160 parking spaces shall be offered for exclusive use by City CarShare or similar car sharing organization for shared vehicle use, unless the Planning Department finds that car sharing is infeasible at this project.
 <<Project End>>
 <<Project Start>>
-
-
 2.
  Remove all references to the units being available for rent in all conditions of approval.
 
@@ -1632,8 +1361,6 @@ ABSENT: Boyd
 MOTION: 16660
 <<Project End>>
 <<Project Start>>
-
-
 15. 2002.0447C                    (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1686,8 +1413,6 @@ ABSENT: Boyd
 MOTION: 16661
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0653C                    (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1807,8 +1532,6 @@ ABSENT: Boyd
 MOTION: 16662
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0830C                          (D. SIROIS: (415) 558-6313)
 
 
@@ -1858,8 +1581,6 @@ ABSENT: Boyd
 MOTION: 16663
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.0411E
 X
                         (J. MILLER: (415) 558-6344)

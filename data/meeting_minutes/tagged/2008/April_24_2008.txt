@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ April 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-April 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 24, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 24, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee and Moore
-
-
-COMMISSIONER ABSENT:
- 
- Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Sharon Young, Brittany Bendix, Thomas Wang, Steve Wertheim, Scott Sanchez, Scott Dowdee, Mary Woods, Cecilia Jaroslawsky, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1233C
+2007.1233C
  
  
  
@@ -333,16 +52,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.0095T
+<<Project End>>
+<<Project Start>>
+2008.0095T
  
  
  
@@ -386,16 +104,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.1267X
+<<Project End>>
+<<Project Start>>
+2007.1267X
  
  
  
@@ -460,16 +177,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.1066E
+<<Project End>>
+<<Project Start>>
+2005.1066E
  
  
  
@@ -535,8 +251,9 @@ ABSENT:
  
 5
 a.
- 
- 2007.1163C
+<<Project End>>
+<<Project Start>>
+2007.1163C
  
  
  
@@ -598,8 +315,9 @@ ABSENT:
 
 
 5b.
- 
- 2007.1164V
+<<Project End>>
+<<Project Start>>
+2007.1164V
  
  
  
@@ -646,16 +364,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.1355T
+<<Project End>>
+<<Project Start>>
+2007.1355T
  
  
  
@@ -698,8 +415,6 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -707,8 +422,9 @@ ABSENT:
 
  
  7.
- 
- 2007.0945DD
+<<Project End>>
+<<Project Start>>
+2007.0945DD
  
  
  
@@ -762,16 +478,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0024C         
+<<Project End>>
+<<Project Start>>
+2008.0024C         
 (Tape IA)
                                                    (S. YOUNG: (415) 558-6346)
 
@@ -837,8 +552,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1042,8 +755,6 @@ D.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1089,8 +800,6 @@ The initial study was published on March 15 and the comment period for that phas
 -
  
  We expect that the Draft Environmental Impact Report will be published in the fall of this year and the current schedule calls for certification in spring 2009.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1208,8 +917,6 @@ Board of Appeals
 
 
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1297,8 +1004,6 @@ ACTION:
 
 
 Item 13 was taken out of order followed item 14
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1344,8 +1049,6 @@ ACTION:
 
 
 Item 14 was taken out of order followed item 15
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1458,8 +1161,6 @@ ACTION:
 
 
 Item 15 was taken out of order followed item 12
-<<Project End>>
-<<Project Start>>
 
 
 15. 
@@ -1621,8 +1322,6 @@ Institutions need to get their Master Plans first and then proceed according to 
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1631,8 +1330,9 @@ REGULAR CALENDAR
 
 
 16.
- 
- 2007.1072C
+<<Project End>>
+<<Project Start>>
+2007.1072C
  
  
 (Tape IIA; IIB)
@@ -1759,16 +1459,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1064C
+<<Project End>>
+<<Project Start>>
+2007.1064C
  
  
 (Tape IIB)
@@ -1862,16 +1561,15 @@ ABSENT:
 
 
 4:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1467DD
+<<Project End>>
+<<Project Start>>
+2007.1467DD
  
  
 (Tape IIB)
@@ -1921,16 +1619,14 @@ AYES:
 ABSENT:
  
  Sugaya and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1268D
  
  

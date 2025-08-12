@@ -1,269 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 19, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ February 19, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-February 19, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 19, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 19, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Alicia John-Baptiste, Ted Egan – Office of the Controller, Michael Yarnie – Mayor's Office, Joshua Switzky, Elizabeth Watty, Pilar Lavalley, Tara Sullivan-Lenane, Scott Sanchez, Sara Vellve, Moses Corrette, Sharon Lai, Sophie Middlebrook, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1. 
- 
- 2008.1296P
+2008.1296P
  
  
  
@@ -318,8 +54,9 @@ ABSENT:
 
 
 2a.
- 
- 2006.1065DDDD
+<<Project End>>
+<<Project Start>>
+2006.1065DDDD
  
  
  
@@ -376,8 +113,9 @@ ABSENT:
 
 
 2b.
- 
- 2006.1065V
+<<Project End>>
+<<Project Start>>
+2006.1065V
  
  
  
@@ -440,8 +178,6 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -449,8 +185,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  3.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1250T
  
  
@@ -496,17 +232,16 @@ ABSENT:
 RESOLUTION:
  
  17825
+ 
+
+
+ 
+
+
+4.
 <<Project End>>
 <<Project Start>>
- 
-
-
- 
-
-
-4. 
- 
- 2008.1356C
+2008.1356C
  
  
 (E. Watty
@@ -563,8 +298,6 @@ ABSENT:
 MOTION:
  
  17826
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -572,8 +305,9 @@ MOTION:
 
 
 5.
- 
- 2008.1347C 
+<<Project End>>
+<<Project Start>>
+2008.1347C 
  
  
  
@@ -633,8 +367,9 @@ RESOLUTION:
 
 
 6a.
- 
- 2006.1460D
+<<Project End>>
+<<Project Start>>
+2006.1460D
  
  
  
@@ -685,8 +420,9 @@ ABSENT:
 
 
 6b.
- 
- 2008.1203D
+<<Project End>>
+<<Project Start>>
+2008.1203D
  
  
  
@@ -734,8 +470,9 @@ ABSENT:
 
 
 6c.
- 
- 2008.1382D
+<<Project End>>
+<<Project Start>>
+2008.1382D
  
  
  
@@ -783,8 +520,9 @@ ABSENT:
 
 
 7a.
- 
- 2006.1102D
+<<Project End>>
+<<Project Start>>
+2006.1102D
  
  
  
@@ -842,8 +580,9 @@ DRA#:
 
 
 7b.
- 
- 2008.1209D
+<<Project End>>
+<<Project Start>>
+2008.1209D
  
  
  
@@ -901,8 +640,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -968,8 +705,6 @@ Potrero View
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -999,8 +734,6 @@ There is a memo in your packet from planner Dan Sider regarding the details on p
  If you are interested, please let Linda know and we can make those arrangements.
  
  I have asked Tara Sullivan to come today to talk to you about our proposed process for how we are going to address the re-write of Articles 10 & 11.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1233,8 +966,6 @@ NONE
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1243,8 +974,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 11.
- 
- 2008.0720C
+<<Project End>>
+<<Project Start>>
+2008.0720C
  
  
  
@@ -1320,8 +1052,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1357,8 +1087,6 @@ ACTION:
  Informational only.
  
  No Commission action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1388,8 +1116,6 @@ ACTION:
  Informational only.
  
  No Commission action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1401,8 +1127,9 @@ ACTION:
 
 
 14.
- 
- 2008.1326T
+<<Project End>>
+<<Project Start>>
+2008.1326T
  
  (T. SULLIVAN-LENANE: (415) 558-6257)
 
@@ -1447,8 +1174,6 @@ NAYES:
  FL:
  
  2/26/09
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1484,8 +1209,9 @@ ACTION:
 
 
 16a.
- 
- 2007.1259EK
+<<Project End>>
+<<Project Start>>
+2007.1259EK
 T
 ZC
  
@@ -1541,8 +1267,9 @@ RESOLUTION:
 
 
 16b.
- 
- 2007.1259EKT
+<<Project End>>
+<<Project Start>>
+2007.1259EKT
 Z
 C
  
@@ -1596,8 +1323,9 @@ RESOLUTION:
 
 
 16c.
- 
- 2007.1259EK
+<<Project End>>
+<<Project Start>>
+2007.1259EK
 C
 TZ
  
@@ -1645,8 +1373,6 @@ AYES:
 MOTION:
  
  17830
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1726,16 +1452,15 @@ MOTION:
 --
  
 [Although the following items may be called after the listed time, they will not be called before.]
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2008.0971D
+<<Project End>>
+<<Project Start>>
+2008.0971D
  
  
  
@@ -1770,16 +1495,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2008.1287D
+<<Project End>>
+<<Project Start>>
+2008.1287D
  
  
  

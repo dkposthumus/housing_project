@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 19, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ July 19, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-July 19, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 19, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 19, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Delvin Washington & Julian Banales – Acting Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Craig Nikitas, Tim Frye, Mary Woods, Ericka Jackson, Kate Connor, Ken Rich, Susan Exline, Tim Frye, Moses Corrette, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0052D
+2007.0052D
  
  
  
@@ -318,16 +43,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0212D
+<<Project End>>
+<<Project Start>>
+2007.0212D
  
  
  
@@ -380,16 +104,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0514T
+<<Project End>>
+<<Project Start>>
+2007.0514T
  
  
  
@@ -454,8 +177,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -511,8 +232,6 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -549,8 +268,6 @@ NAYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -829,8 +546,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -842,8 +557,6 @@ C.
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -948,8 +661,6 @@ C- 121 Brighten Avenue.
  
  
 The appeal was denied and the permit was upheld.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1137,16 +848,15 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2006.1356C
+<<Project End>>
+<<Project Start>>
+2006.1356C
  
  
 (Tape IB)
@@ -1207,8 +917,8 @@ Item 11 was removed from the Consent Calendar
 
 11
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0572C
  
  
@@ -1358,8 +1068,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1367,8 +1075,8 @@ REGULAR CALENDAR
 
 
 12.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0219C
  
  
@@ -1963,16 +1671,15 @@ ABSENT:
 MOTION:
  
  17463
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0469C
+<<Project End>>
+<<Project Start>>
+2007.0469C
  
  
 (Tape IIA; IIB)
@@ -2438,8 +2145,9 @@ MOTION:
 
 
 14a.
- 
- 2006.1273EKB
+<<Project End>>
+<<Project Start>>
+2006.1273EKB
 X
  
  
@@ -2501,8 +2209,9 @@ ABSENT:
 
 
 14b.
- 
- 2006.1273EK
+<<Project End>>
+<<Project Start>>
+2006.1273EK
 B
 X
  
@@ -2544,14 +2253,13 @@ NAYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
  15.
- 
- 2006.1476D
+<<Project End>>
+<<Project Start>>
+2006.1476D
  
  
 (Tape IIB; IIIA)
@@ -2669,8 +2377,6 @@ ABSENT:
 6:00 P.M.
  
  (7:00 P.M.)
-<<Project End>>
-<<Project Start>>
 
 
  

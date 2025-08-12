@@ -1,321 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 10, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ October 10, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-October 10, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, October 10, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, 
- 
-Borden, Hillis, Moore, Sugaya 
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 06 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Planning Director,
-  
-Sharon Lai, Kanishka Burns, Corey Teague, Danielle Harris, Diego Sanchez, Rich Sucre, Erika Jackson and Jonas P. Ionin - Acting Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-None
-
-
- 
-
-
-B.
-         
-CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
-  
-There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.1225C
                                                                                                                (S. LAI:  415.575.9087)
 
@@ -354,15 +37,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18993
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1105Q
  
                                                                                         
@@ -402,15 +84,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18994
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1273Q
  
           
@@ -450,15 +131,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18995
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1174Q
   
          
@@ -505,8 +185,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -548,8 +226,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -686,8 +362,6 @@ In regards to the item raised by Commissioner Moore, I would be supportive of he
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -717,8 +391,6 @@ And with that, that closes my presentation, Thank you. Oh oh, no, no! I am sorry
 One more item, we are very pleased to announce, and I think this was in the paper that the American Planning Association and their Annual Great Places Program has chosen Chinatown as one of the ten great neighborhoods in the Country. This announcement was made last week. There's a press release. This is a program that the APA does every year. It selects several great places and great neighborhoods and Chinatown was selected this year on the basis of its integrity, about its history and the great work that has been happening in the neighborhood over the last decade. So, our congratulations to the neighborhood and particularly to Commissioner Wu and all her great work there.
   
 And thanks to the APA for designating one of our great neighborhoods.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -915,8 +587,6 @@ Linda Chapman – 1601 Larkin Street
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -924,7 +594,8 @@ REGULAR CALENDAR
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2013.0617MZ
                                                                       
                          
@@ -965,15 +636,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 18997
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2013.0224C
  
                                                                                          
@@ -1089,22 +759,16 @@ James Howard – Beer drinkers are difficult to control, lives next door to a be
 ACTION: 
                
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
           
 That all required permits are obtained;
-<<Project End>>
-<<Project Start>>
 
 
 2.
           
 An acoustical report provided prior to BPA issuance;
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1120,22 +784,16 @@ a.
 b.
     
 9 pm close for the outdoor area;
-<<Project End>>
-<<Project Start>>
 
 
 4.
           
 Hours to be reviewed by the ZA and possibly extended after the trial period;
-<<Project End>>
-<<Project Start>>
 
 
 5.
           
-No outdoor music; and
-<<Project End>>
-<<Project Start>>
+No outdoor music; and 
 
 
 6.
@@ -1156,8 +814,9 @@ MOTION:
  
 
 
-11a. 
-       
+11a.
+<<Project End>>
+<<Project Start>>
 2007.0385EBKX
                                                                   
                       
@@ -1216,9 +875,9 @@ MOTION:
  
 
 
-11b. 
-  
-     
+11b.
+<<Project End>>
+<<Project Start>>
 2007.0385EBKX
                                                                                   
       
@@ -1280,7 +939,8 @@ MOTION:
 
 
 11c.
-        
+<<Project End>>
+<<Project Start>>
 2007.0385EBKX
                                                                   
                       
@@ -1340,7 +1000,8 @@ MOTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2010.0101CV
                                                                                              
   
@@ -1466,7 +1127,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2010.0101C
 V
                                                                                                    (R. SUCRÉ:  (415) 575-9108)
@@ -1488,15 +1150,14 @@ Request for Rear Yard and Open Space Variances
 ACTION:
         
 ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND INDICATED AN INTENT TO DENY
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0407C
                                                                                           
        

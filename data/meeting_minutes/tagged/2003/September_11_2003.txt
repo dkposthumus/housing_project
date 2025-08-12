@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ September 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-September 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 11, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 11, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Lisa Feldstein
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:35 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director; Jim Nixon - Acting Zoning Administrator; Elaine Warren - Deputy City Attorney; Ben Helber; Matt Snyder; Rick Crawford; Geoffrey Nelson; Glenn Cabreros; Michael Smith; Ben Fu; Kate McGee; Michael Lee; Paul Maltzer; Joan Kugler; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2002.0277C (A. LIGHT:  (415) 558-6254)
 
 
@@ -270,8 +30,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Boyd and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 2. 2002.1105C (T. TAM: (415) 558-6325)
 
 
@@ -303,8 +61,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Boyd and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0844D                                                                    (G. CABREROS: (415) 558-6169)
 
 
@@ -327,9 +83,6 @@ ACTION: Discretionary Review Withdrawn
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 4. Consideration of Adoption - Draft Minutes of 6/12; 6/19, 7/24 (continued from 9/4/03),  2003.
 
 
@@ -366,8 +119,6 @@ ABSENT: Boyd and Feldstein
 EXCUSED: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 5.  Commission Comments/Questions
 
 
@@ -476,8 +227,6 @@ Re:  Item 9 - Discretionary Review Policy
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 6. Director's Announcements
 
 
@@ -511,8 +260,6 @@ Re:  Transit First Policy
 Craig Nikitas of Staff gave a Review of Interim Policy on Mandatory Discretionary Reviews of Residential Demolitions.
 <<Project End>>
 <<Project Start>>
-
-
 7. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -560,8 +307,6 @@ Jeremy Paul - Representing Project Sponsor
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 8. 2002.1268D (G. NELSON: (415) 558-6257)
 
 
@@ -610,8 +355,6 @@ RECUSED: Bradford Bell (She had not been given the material from the last hearin
  F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 9.  (J. IONIN: (415) 558-6309)
 
 
@@ -813,8 +556,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 ABSENT: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 10. 2003.0389D                                                                              (T. WANG: (415) 558-6335)
 
 
@@ -870,8 +611,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 ABSENT: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0383D               (D. SIROIS: (415) 558-6313)
 
 
@@ -945,8 +684,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 ABSENT: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0662D                                                                             (D. SIROIS: (415) 558-6313)
 
 
@@ -975,8 +712,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 ABSENT: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0190D (G. CABREROS: (415) 558-6169)
 
 
@@ -1025,8 +760,6 @@ NAYES: S. Lee
 ABSENT: Bradford Bell and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0636D                                        (T. TAM: (415) 558-6325)
 
 
@@ -1151,8 +884,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Boyd and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 15. 2003.0110DD                       (K. McGEE: (415) 558-6367)
 
 
@@ -1205,8 +936,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Boyd and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0435DD              (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1216,8 +945,6 @@ ABSENT: Boyd and Feldstein
 2001 0904 7432, 2001 0904 7434, and 2002 0510 6251, to respond to Department of Building Inspection enforcement actions relating to illegal occupancy and construction without permits in an RH-1 (Residential House, One Family) District, and a 40-X Height and Bulk District.  In particular, the Project will:
 <<Project End>>
 <<Project Start>>
-
-
 1. In the building at 231 Delano Street;
 
 
@@ -1230,8 +957,6 @@ b) Eliminate an illegal third floor dwelling unit.
 c) Legalize a second story deck constructed on the rear 5 feet from the south side property line.
 <<Project End>>
 <<Project Start>>
-
-
 2. In the building at 231 A&B Delano Street; 
 
 
@@ -1244,8 +969,6 @@ b) Legalize the reconstructed and repaired rear stairs.
 c) Legalize four bedrooms in each of the two dwelling units in the building.
 <<Project End>>
 <<Project Start>>
-
-
 3. In the building at 231 C Delano Street;
 
 
@@ -1255,8 +978,6 @@ a) Eliminate an illegal dwelling unit in the building.
 b) Legalize a deck constructed on the northeast corner of the building.
 <<Project End>>
 <<Project Start>>
-
-
 4. Demolish the existing detached garage between the 231 and the 231 A&B Buildings,
 
 
@@ -1386,8 +1107,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Boyd and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0700DD              (R. CRAWFORD: (415) 558-6358)
 
 

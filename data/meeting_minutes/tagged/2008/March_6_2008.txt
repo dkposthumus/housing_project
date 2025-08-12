@@ -1,285 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 6, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ March 6, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-March 6, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 6, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 6, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Craig Nikitas – Acting Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Scott Sanchez, Elaine Forbes, Jonathan Purvis, Kimberly Durandet, Amnon Ben-Pazi, Adrian Putra, Christina Lamorena, Rick Crawford, Corey Teague, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1447T
+2007.1447T
  
  
  
@@ -324,8 +44,6 @@ AYES:
 NAYES:
  
  Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -333,8 +51,9 @@ NAYES:
 
  
  2.
- 
- 2007.1019C
+<<Project End>>
+<<Project Start>>
+2007.1019C
  
  
  
@@ -387,16 +106,15 @@ AYES:
 NAYES:
  
  Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0703D
+<<Project End>>
+<<Project Start>>
+2007.0703D
  
  
  
@@ -444,16 +162,15 @@ AYES:
 NAYES:
  
  Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1113E
+<<Project End>>
+<<Project Start>>
+2007.1113E
 T
  
  
@@ -508,8 +225,8 @@ NAYES:
 
 
 5a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -566,8 +283,9 @@ NAYES:
 
 
 5b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -614,16 +332,15 @@ AYES:
 NAYES:
  
  Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.1267X:
+<<Project End>>
+<<Project Start>>
+2007.1267X:
  
  
  
@@ -677,8 +394,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -893,8 +608,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -948,8 +661,6 @@ That is a personal interest of mine.
 -
  
  Finally, my congratulations on behalf of staff to Commissioner Olague for her reconfirmation.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1146,8 +857,6 @@ Appeal of 722 Columbus
  
 Upheld
  this Commission's decision to deny the use.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1205,8 +914,6 @@ ACTION:
  
  
  (J. PURVIS (415) 558-6354
-<<Project End>>
-<<Project Start>>
 
 
 11.
@@ -1378,16 +1085,15 @@ F.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.1095C
+<<Project End>>
+<<Project Start>>
+2007.1095C
  
  
  
@@ -1477,8 +1183,6 @@ G.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1486,8 +1190,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2008.0101D
+<<Project End>>
+<<Project Start>>
+2008.0101D
  
  
 (Tape IB)
@@ -1639,8 +1344,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1649,8 +1352,9 @@ AYES:
 
 
 14.
- 
- 2007.1167D
+<<Project End>>
+<<Project Start>>
+2007.1167D
  
  
 (Tapes IB; IIA)
@@ -1821,16 +1525,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.1432D
+<<Project End>>
+<<Project Start>>
+2007.1432D
  
  
 (Tape IIA)
@@ -1903,8 +1606,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1913,8 +1614,8 @@ AYES:
  
  
 16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0109D
  
  
@@ -2014,8 +1715,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2023,8 +1722,9 @@ AYES:
 
  
  17.
- 
- 2005.1044D
+<<Project End>>
+<<Project Start>>
+2005.1044D
  
  
  
@@ -2050,16 +1750,15 @@ Preliminary Recommendation: Do Not Take Discretionary Review and Approve the Pro
 
 
 DISCRETIONARY REVIEW WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1385D
+<<Project End>>
+<<Project Start>>
+2007.1385D
  
  
  
@@ -2080,16 +1779,15 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
 
 
 DISCRETIONARY REVIEW WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.0973DDD
+<<Project End>>
+<<Project Start>>
+2007.0973DDD
  
  
 (Tape IIA; IIB)

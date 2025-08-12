@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 8, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ November 8, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-November 8, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 8, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 8, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Sophie Middlebrook, Aaron Hollister, Edgar Oropeza, Dan DiBartolo, Craig Nikitas, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0971C
+2007.0971C
  
  
  
@@ -328,16 +51,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
  
@@ -394,16 +116,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0847D
+<<Project End>>
+<<Project Start>>
+2006.0847D
  
  
  
@@ -453,16 +174,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2004.0548E
+<<Project End>>
+<<Project Start>>
+2004.0548E
  
  
  
@@ -525,16 +245,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2005.0937D
+<<Project End>>
+<<Project Start>>
+2005.0937D
  
  
  
@@ -583,16 +302,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.0936T
+<<Project End>>
+<<Project Start>>
+2007.0936T
  
  
  
@@ -631,8 +349,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -681,8 +397,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -955,8 +669,6 @@ Commissioner Olague
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -970,8 +682,6 @@ C.
  
  
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1205,16 +915,15 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2001.0565L
+<<Project End>>
+<<Project Start>>
+2001.0565L
  
  
 (Tape IA)
@@ -1258,16 +967,15 @@ AYES:
 MOTION:
  
  17508
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0701C
+<<Project End>>
+<<Project Start>>
+2007.0701C
  
  
 (
@@ -1515,16 +1223,15 @@ NAYES:
 MOTION:
  
  17509
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.0056C
+<<Project End>>
+<<Project Start>>
+2006.0056C
  
  
 (Tape IIA)
@@ -1690,16 +1397,15 @@ AYES:
 MOTION:
  
  17510
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2007.0922C
+<<Project End>>
+<<Project Start>>
+2007.0922C
  
  
  
@@ -1758,8 +1464,8 @@ ABSENT:
 
 
 15a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1248K
 X
 CV
@@ -2200,8 +1906,9 @@ ABSENT:
 
 
 15b.
- 
- 2006.1248KX
+<<Project End>>
+<<Project Start>>
+2006.1248KX
 C
 V
  
@@ -2256,8 +1963,9 @@ ABSENT:
 
 
 15c.
- 
- 2006.1248KXC
+<<Project End>>
+<<Project Start>>
+2006.1248KXC
 V
  
  
@@ -2298,12 +2006,11 @@ December 13, 2007.
 
 
 15
-<<Project End>>
-<<Project Start>>
  
 16.
- 
- 2007.0952C
+<<Project End>>
+<<Project Start>>
+2007.0952C
  
  
 (Tape IIIB)
@@ -2449,16 +2156,15 @@ ABSENT:
 MOTION:
  
  17511
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1012D
+<<Project End>>
+<<Project Start>>
+2007.1012D
  
  
 (Tape IIIB)
@@ -2566,8 +2272,8 @@ ABSENT:
 
  
  18a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1355
 DD
 V
@@ -2719,8 +2425,9 @@ ABSENT:
 
 
 18b.
- 
- 2006.1355DD
+<<Project End>>
+<<Project Start>>
+2006.1355DD
 V
  
  
@@ -2748,8 +2455,6 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator granted the variance with the same condition imposed from the Discretionary Review.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2757,8 +2462,8 @@ ACTION:
 
  
  19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0696D
  
  
@@ -2790,8 +2495,6 @@ SPEAKERS:
 
 
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2799,8 +2502,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
  
  20.
- 
- 2007.1108D
+<<Project End>>
+<<Project Start>>
+2007.1108D
  
  
 (Tape IIIB; IVA)

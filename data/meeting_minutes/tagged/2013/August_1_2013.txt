@@ -1,306 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 1, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ August 1, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-August 1, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, August 1, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
- 
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12:04 PM.
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, 
- 
-AnMarie Rodgers, Omar Masry, Christine LaMorena, David Alumbaugh, Joy Navarrete, Aaron Starr, Rachel Schuett, Corey Teague, Thomas Wang, Sara Vellve, Sharon Lai, and Jonas P. Ionin - Acting Commission Secretary.
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.0224C
                                                                                           
              
@@ -343,9 +41,8 @@ Fong, Wu, Antonini, Borden, Moore, Sugaya
 ABSENT:
                  
 Hillis
-
-
-                                
+<<Project End>>
+<<Project Start>>
 2010.0222E
                                                                      
                                      
@@ -408,15 +105,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2011.0730C
                                                                                           
                 
@@ -461,15 +157,14 @@ Hillis
 MOTION:
                                 
 18933
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2012.1480C
                                                           
                                            
@@ -517,15 +212,14 @@ Hillis
 MOTION:
                                 
 18934
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0859T
  
                                                                                          
@@ -580,8 +274,6 @@ RESOLUTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -631,8 +323,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -813,8 +503,6 @@ The one comment I would make is that the Director of the New York City Planning 
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -843,8 +531,6 @@ Commissioner Moore:
 
 
 No, I am not searching for my replacement; I am searching for a new Director of Citywide Planning.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1113,8 +799,6 @@ Anonymous (F) Speaker – Raman Hotel conditions, safety, demolition
 F.
              
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1144,9 +828,7 @@ Joe D'Alessandro, President of SF Travel - Presentation
 
 ACTION:
                  
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
@@ -1190,8 +872,6 @@ Sue Hestor – Sea level rise
 ACTION:
                  
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1229,15 +909,14 @@ Sue Hestor – Sea level rise
 ACTION:
                  
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0860T
           
            
@@ -1318,7 +997,8 @@ Borden, Hillis, Sugaya
 
 14
 .
-          
+<<Project End>>
+<<Project Start>>
 2011.0119E
                                                                           
                                
@@ -1384,7 +1064,8 @@ MOTION:
 
 
 15a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0119ECV 
                                                                                      
               
@@ -1443,7 +1124,8 @@ MOTION:
 
 
 15b.
-        
+<<Project End>>
+<<Project Start>>
 2011.0119ECV 
  
                                                                                     
@@ -1501,7 +1183,8 @@ MOTION:
 
 
 15c.
-        
+<<Project End>>
+<<Project Start>>
 2011.0119ECV 
  
                                                                                     
@@ -1524,15 +1207,14 @@ Request for Variances and Zoning Administrator Modification
 ACTION:
                  
 ZONING ADMINISTRATOR CLOSED THE PH AND INDICATED AND INTENT TO GRANT THE VARIANCES AND ZONING ADMINISTRATOR MODIFICATIONS
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2013.0290C
                                                                           
                                    
@@ -1597,15 +1279,14 @@ Borden
 MOTION:
                                 
 18939
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.0659C
                                                                                           
                 
@@ -1682,15 +1363,14 @@ Moore
 MOTION:
                                 
 18940
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-        
+<<Project End>>
+<<Project Start>>
 2011.0924EC
  
                                                                                          
@@ -1744,12 +1424,11 @@ Continued to September 19, 2013
 AYES:
                       
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 19.
-          
+<<Project End>>
+<<Project Start>>
 2013.0825D
                                                                                           
                          

@@ -1,327 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 3, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ April 3, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-April 3, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, April 3, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:07
-  
-P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, 
-
-        Keith DeMartini, Casey Noel, Tina Chang, Susan Exline, Aaron Starr, Jessica Look, Britany Bendix and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2014.0252C
                                                                                           
            
@@ -370,7 +47,8 @@ Borden
 
 
 2a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627
 B
 C
@@ -425,7 +103,8 @@ Borden
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627B
 C
  
@@ -489,15 +168,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2014.0442T
                                                                                           
   
@@ -536,15 +214,14 @@ Wu, Fong, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0239Q
                                                                                          
              
@@ -582,15 +259,14 @@ Wu, Fong, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1585Q
                                          
                                 
@@ -631,15 +307,14 @@ Wu, Fong, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0066C
  
                                                                                          
@@ -690,8 +365,6 @@ Borden
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -738,8 +411,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -801,8 +472,6 @@ No it is a Code change and the Board has to approve it, but only you can initiat
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -819,9 +488,7 @@ Director’s Announcements
 Director Rahaim:
 
 
-Commissioners, I just wanted to give you a brief update on some personnel changes with some folks that are in the room. I think last week I made mention that Diego Sanchez has moved into a legislative role. I think I neglected to mention AnMarie Rodgers has become the new Senior Policy Advisor for the Department, will be a member of the Senior Management Team, will continue to oversee legislative work, but in a different capacity and Aaron Starr who you’ll hear from shortly is taking over AnMarie’s role as Manager of Legislative Affairs in an acting capacity. So we do have more changes in the Department, so I just wanted to make you aware of those. That concludes my report.
-<<Project End>>
-<<Project Start>>
+Commissioners, I just wanted to give you a brief update on some personnel changes with some folks that are in the room. I think last week I made mention that Diego Sanchez has moved into a legislative role. I think I neglected to mention AnMarie Rodgers has become the new Senior Policy Advisor for the Department, will be a member of the Senior Management Team, will continue to oversee legislative work, but in a different capacity and Aaron Starr who you’ll hear from shortly is taking over AnMarie’s role as Manager of Legislative Affairs in an acting capacity. So we do have more changes in the Department, so I just wanted to make you aware of those. That concludes my report. 
 
 
                                 
@@ -1044,15 +711,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2010.0641M
  
                                              
@@ -1097,8 +763,6 @@ Antonini, Moore
 ABSENT:
                 
 Borden
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1106,7 +770,8 @@ Borden
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2014.0306T
                                                                                           
             
@@ -1159,15 +824,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0314D
                                                                                          
                
@@ -1217,7 +881,8 @@ Hillis
 
 
 14a.
-        
+<<Project End>>
+<<Project Start>>
 2012.0747DV
                                                                                        
           
@@ -1255,7 +920,8 @@ Withdrawn
 
 
 14b.
-        
+<<Project End>>
+<<Project Start>>
 2012.0747DV
  
                                                                       

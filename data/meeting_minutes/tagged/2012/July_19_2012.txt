@@ -1,271 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ July 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-July 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 19, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Wu, Antonini, Borden, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:     Fong
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12:15 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Kevin Guy, Alicia John-Baptiste, Sharon Young, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-                
-1.
-            
 2012.0206C                                                                         
 (
 M. Smith: (415) 558-6322)
@@ -327,14 +60,14 @@ B.            CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2012.0457C  
                                                                              (K. GUY: (415) 558-6163)
 
@@ -367,14 +100,14 @@ ABSENT:          Fong
 
 MOTION:           
 18665
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2012.0509C 
                                                                              (K. GUY: (415) 558-6163)
 
@@ -425,8 +158,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -496,8 +227,6 @@ Borden
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -520,8 +249,6 @@ SPEAKERS:     None
 
 
 ACTION:           Meeting held. Continued to 8/26/12
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -628,8 +355,6 @@ There are some members of the audience today from a program that my employer is 
 
 D.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -648,8 +373,6 @@ If I may stretch the conversation for one more minute on the Regional Plan:
 
 
 We have been working with ABAG on the Sustainable Community Strategy required under SB 3
-<<Project End>>
-<<Project Start>>
 
         75. The numbers mentioned were the numbers allocated to San Francisco and were based on a very extensive process. They originally were higher. Then they dropped. They went back and forth for several months. They have finalized those numbers and are entering the EIR phase of that Sustainable Community Synergy. So I think it would be a good time to have a hearing at the Planning Commission. I will ask staff to get organized and will try to get folks from ABAG, and I think SPUR has been heavily involved in that. 
 
@@ -658,8 +381,6 @@ Secondly, I just want to call your attention to the Director's report today. The
 
 
 Finally, we have had a week of public meetings related to the Better Market Street Project. The first one was on Tuesday where we had over 200 people attend. It was an incredible attendance. The second one is Saturday, July 21, at One South Van Ness.  We also have published today, I guess, a public webinar at noon. We're getting very good responses on the Market Street work. I know Commissioner Miguel is continuing to be on the Committee that is overseeing work as well. That concludes my presentation unless there are questions.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -850,9 +571,7 @@ SPEAKERS:     Leo Worsley
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -891,14 +610,14 @@ ABSENT:          Fong
 
 RESOLUTION:   
 18667
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.0540C
                                                                         
 (S. Young: (415) 558-6346
@@ -934,14 +653,14 @@ ABSENT:          Fong
 
 MOTION:           
 18668
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2012.0547C
                                                                               (K. GUY: (415) 558-6163)
 

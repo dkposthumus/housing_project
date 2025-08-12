@@ -1,240 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ April 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-April 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 10, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 10, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Shelley Bradford Bell, Michael J. Antonini; Rev. Edgar E. Boyd,
-
-Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:30 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director; Larry Badiner -Zoning Administrator; Susan Cleveland-Knowles, Deputy City Attorney; Carol Roos; Adam Light; Jonas Ionin; Matt Snyder; Kay Simonson; Geoffrey Nelson; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0162C (K. AMDUR:  (415) 558-6351)
 
 
@@ -257,8 +21,6 @@ ACTION: Continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0028XCV (A. LIGHT:  (415) 558-6254)
 
 
@@ -281,8 +43,6 @@ ACTION: Continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2002.1065DD (K. McGEE: (415) 558-6367)
 
 
@@ -308,8 +68,6 @@ ACTION: Continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 4. 2002.0277C                                                                         (A. LIGHT:  (415) 558-6254)
 
 
@@ -329,8 +87,6 @@ ACTION: Continued to May 1, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.0042T (P. LORD: (415) 558-6311)
 
 
@@ -352,8 +108,6 @@ ACTION: Continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 6. 2002.1305C (M. SNYDER:  (415) 575-6891)
 
 
@@ -386,9 +140,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 7. Consideration of Adoption - draft minutes March 6, 2003.
 
 
@@ -404,8 +155,6 @@ AYES: Antonini, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 EXCUSED: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 8.  Commission Comments/Questions
 
 
@@ -478,16 +227,12 @@ Director responded:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 9. Director's Announcements
 
 
 None
 <<Project End>>
 <<Project Start>>
-
-
 10. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -577,8 +322,6 @@ Re:  725 Carolina Street - Discretionary Review
 - The Board upheld the Commission's decision.
 <<Project End>>
 <<Project Start>>
-
-
 11.     
  PLANNING CODE FEE AMENDMENT ARTICLE 3.5, ADMINISTRATIVE CODE SECTION 31.21
 .  Consideration of Resolution of Intent to initiate an amendment to Article 3.5 of the Planning Code and Section 31.21 of the Administrative Code.  The purpose of this hearing is to set a future hearing date to initiate an adjustment and increase in various application fees consistent with the Department's 2003/2004 Fiscal Year Work Program.
@@ -608,8 +351,6 @@ None
 E.   CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 12. 2002.1120C (D. SIROIS: (415) 558-6313)
 
 
@@ -644,8 +385,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 13. 2001.0862E                         (C. ROOS: (415) 558-5981)
 
 
@@ -829,8 +568,6 @@ ACTION: Without hearing, item continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 16. 2002.0333C (M. SNYDER:  (415) 575-6891)
 
 
@@ -853,8 +590,6 @@ ACTION: Without hearing, item continued to April 24, 2003
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 17. 2002.0657C (J. IONIN: (415) 558-6309)
 
 
@@ -1063,8 +798,6 @@ Approximately
  the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-
-
 18. 2002.1067D (M. SNYDER:  (415) 575-6891)
 
 
@@ -1087,8 +820,6 @@ AYES: Bradford Bell, Hughes, Feldstein, S. Lee, W. Lee
 ABSENT: Antonini and Boyd
 <<Project End>>
 <<Project Start>>
-
-
 19. 2003.0052D (K. SIMONSON: 415-558-6321)
 
 
@@ -1200,8 +931,6 @@ AYES: Bradford Bell, Hughes, Feldstein, S. Lee, W. Lee
 ABSENT: Antonini and Boyd
 <<Project End>>
 <<Project Start>>
-
-
 20. 2003.0033DD (G. NELSON: (415) 558-6257)
 
 

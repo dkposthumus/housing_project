@@ -1,291 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ November 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-November 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 3, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:10 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Sara Vellve, Aaron Starr, Corey Teague, Joshua Switzky, Steve Wertheim, Sara Jones, and Jonas Ionin – Acting Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.          
-
-
-None
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-            1.
-            
 2011.0803Q
                                                                            (B. BENDIX:  (415) 575-9114) 
 
@@ -325,14 +38,14 @@ MOTION:          
 
 
 ITEMS 2-4 WERE TAKEN OFF CONSENT CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2011.0750C
                                                                            
 (
@@ -365,14 +78,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18479
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            3.         
+            3.
+<<Project End>>
+<<Project Start>>
 2011.0648C
                                                                          
 (S. Vellve: (415) 558-6263)
@@ -402,14 +115,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18480
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            4.         
+            4.
+<<Project End>>
+<<Project Start>>
 2011.0288C
                                                                          
 (S. Vellve: (415) 558-6263)
@@ -464,8 +177,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -498,8 +209,6 @@ ACTION:           Approved adoption
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -570,8 +279,6 @@ I received a couple of the mails from members of the public who have consulted w
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -586,9 +293,7 @@ D.         DIRECTOR’S REPORT
 Director Rahaim:
 
 
-I wanted to mention that SPUR is opening a branch for the first time in San Jose. I bring that up because I think it is good for the region to have a planning organization located in a different part of their region discussing regional issues.
-<<Project End>>
-<<Project Start>>
+I wanted to mention that SPUR is opening a branch for the first time in San Jose. I bring that up because I think it is good for the region to have a planning organization located in a different part of their region discussing regional issues. 
 
 
  
@@ -716,15 +421,15 @@ SPEAKERS:     Tamara Wakasug
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-            9.         
+            9.
+<<Project End>>
+<<Project Start>>
 2011.0198C
                                                                       
   (S. Vellve: (415) 558-6263)
@@ -757,14 +462,14 @@ ACTION:           Continued to 12/8/11.  The public hearing remains o
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            10.        
+            10.
+<<Project End>>
+<<Project Start>>
 2011.0291C 
                                                                       
 (S. Vellve: (415) 558-6263)
@@ -794,14 +499,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18482
-<<Project End>>
-<<Project Start>>
 
 
             
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2010.1136D
                                                                        (S. VELLVE: (415) 558-6263)
 
@@ -841,14 +546,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0238
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            12.        
+            12.
+<<Project End>>
+<<Project Start>>
 2011.0891DDDD
                                                                    (A. STARR: (415) 558-6362)
 
@@ -892,7 +597,9 @@ DRA:               
  
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2010.0860D
                                                                       (C. TEAGUE: (415) 575-9081)
 
@@ -925,7 +632,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2010.0858D
                                                                          (C. TEAGUE: (415) 575-9081)
 
@@ -958,7 +667,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-13c.      
+13c.
+<<Project End>>
+<<Project Start>>
 2010.0801D
                                                                       (C. TEAGUE: (415) 575-9081)
 
@@ -992,8 +703,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 
 5:30 PM
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1018,8 +727,6 @@ SPEAKERS:     Sue Hestor
 
 
 ACTION:           Informational only – no action required
-<<Project End>>
-<<Project Start>>
 
 
  

@@ -1,284 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ September 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-September 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 11, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 11, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Miguel
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Tim Frye, Tim Frye, AnMarie Rodgers, Bill Wycko, Tara Sullivan-Lenane, Sharon Lai, Diego Sanchez, Brittany Bendix, Amnon Ben-Pazi, Cecilia Jaroslawsky, Rick Crawford, 
- 
-Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2007.1426C
  
  
@@ -351,8 +71,8 @@ ABSENT:
 
 
 2a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0667V
 DDD
  
@@ -415,8 +135,9 @@ ABSENT:
 
 
 2b.
- 
- 2007.0667
+<<Project End>>
+<<Project Start>>
+2007.0667
 V
 DDD
  
@@ -456,16 +177,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.0847D
+<<Project End>>
+<<Project Start>>
+2008.0847D
  
  
  
@@ -530,8 +250,9 @@ ABSENT:
 
 
 4a.
- 
- 2008.0614D
+<<Project End>>
+<<Project Start>>
+2008.0614D
  
  
  
@@ -590,8 +311,9 @@ ABSENT:
 
 
 4b.
- 
- 2007.0040
+<<Project End>>
+<<Project Start>>
+2007.0040
 D
 V
  
@@ -654,8 +376,9 @@ ABSENT:
 
 
 4c.
- 
- 2007.0040D
+<<Project End>>
+<<Project Start>>
+2007.0040D
 V
  
  
@@ -713,16 +436,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2006.0864C
+<<Project End>>
+<<Project Start>>
+2006.0864C
  
  
  
@@ -772,8 +494,6 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -833,16 +553,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2008.0475C
+<<Project End>>
+<<Project Start>>
+2008.0475C
  
  
  
@@ -879,16 +598,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0852C
+<<Project End>>
+<<Project Start>>
+2008.0852C
  
  
  
@@ -942,16 +660,15 @@ MOTION:
  
  
 17690
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2007.1142C
+<<Project End>>
+<<Project Start>>
+2007.1142C
  
  
  
@@ -998,16 +715,15 @@ MOTION:
  
  
 17691
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2008.0616C
+<<Project End>>
+<<Project Start>>
+2008.0616C
  
  
  
@@ -1068,8 +784,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1284,8 +998,6 @@ Larry Banider, Zoning Administrator
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1320,8 +1032,6 @@ Director Rahaim
  That letter was primarily on design issues and it was sent to the district.
  
  It was not a position of the Mayor and it was simply a condition of the department at this point.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1382,8 +1092,6 @@ C-
  
  
 Introductions:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1547,8 +1255,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1604,16 +1310,15 @@ ACTION:
  No Action is required of the Commission.
  
  Informational item
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2008.0911
+<<Project End>>
+<<Project Start>>
+2008.0911
 T
  
  (Tape IB)
@@ -1679,16 +1384,15 @@ ABSENT:
 MOTION:
  
  17693
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2008.0685C
+<<Project End>>
+<<Project Start>>
+2008.0685C
  
  
 (Tape IIA)
@@ -1767,16 +1471,15 @@ MOTION:
  
  
 17694
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2008.0717C
+<<Project End>>
+<<Project Start>>
+2008.0717C
  
  
 (Tape IIA)
@@ -1850,16 +1553,15 @@ MOTION:
  
  
 17695
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1233C
+<<Project End>>
+<<Project Start>>
+2007.1233C
  
  (Tape IIA)
  
@@ -1999,8 +1701,9 @@ MOTION:
 
 
 19a.
- 
- 2008.1224
+<<Project End>>
+<<Project Start>>
+2008.1224
 D
 V
  
@@ -2210,8 +1913,9 @@ DRA:
 
 
 19b.
- 
- 2008.1224D
+<<Project End>>
+<<Project Start>>
+2008.1224D
 V
  
  
@@ -2241,16 +1945,14 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance subject to standard conditional of approval with the asbestos tile shingle removal.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0724D
  
  
@@ -2367,16 +2069,15 @@ ABSENT:
 DRA:
  
  0019
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2008.0478D
+<<Project End>>
+<<Project Start>>
+2008.0478D
  
  
 (Tapes IIB; IIIA)
@@ -2495,16 +2196,15 @@ ABSENT:
 DRA:
  
  0020
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2006.0400D
+<<Project End>>
+<<Project Start>>
+2006.0400D
  
  
  
@@ -2661,16 +2361,14 @@ ACTION:
 DRA:
  
  0021
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0804D
  
  

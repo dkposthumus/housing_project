@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 31, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ January 31, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-January 31, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 31, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 31, 2008
-
-
-1:30 PM
-
-
-Special Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Elaine Forbes, Rick Crawford, Aaron Hollister, Sara Vellve, Sarah Jones, Craig Nikitas, Jim Miller, Dario Jones, Joshua Switzky, Erika Jackson, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0348C
+2007.0348C
  
  
  
@@ -330,16 +53,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.1095C
+<<Project End>>
+<<Project Start>>
+2007.1095C
  
  
  
@@ -393,16 +115,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2005.0490E
+<<Project End>>
+<<Project Start>>
+2005.0490E
  
  
  
@@ -456,8 +177,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -467,8 +186,9 @@ ABSENT:
 
 
 4.
- 
- 2005.0490C 
+<<Project End>>
+<<Project Start>>
+2005.0490C 
  
  
  
@@ -539,8 +259,6 @@ Adoption of Commission Minutes
 - Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -581,8 +299,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -767,8 +483,6 @@ in keeping businesses in San Francisco, we have payroll tax that has to be weigh
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -871,8 +585,6 @@ Larry Badiner, Zoning Administrator
 -
  
  As I understand it, an NCT is an NC-3 that would reduce parking requirements.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1132,8 +844,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1168,16 +878,14 @@ ACTION:
  No Action is required of the Commission.
  
  Information only
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1218C
  
  
@@ -1221,8 +929,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1233,8 +939,9 @@ ABSENT:
 
  
  11.
- 
- 2007.1019C
+<<Project End>>
+<<Project Start>>
+2007.1019C
  
  
 (Tapes IB; IIA)
@@ -1493,16 +1200,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0718C
+<<Project End>>
+<<Project Start>>
+2007.0718C
  
  
 (Tape IIA)
@@ -1572,8 +1278,8 @@ ABSENT:
 
 
 13a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -1745,8 +1451,9 @@ ABSENT:
 
 
 13b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -1781,16 +1488,14 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator continued this to February 28, 2008
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0470E
  
  
@@ -1855,16 +1560,14 @@ ACTION:
 
 
 Item 15 was taken out of order and followed item 16
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1444E
 T
  
@@ -1933,8 +1636,9 @@ Item 16 was taken out of order and followed item 14
 16
 a
 .
- 
- 2006.0660BE
+<<Project End>>
+<<Project Start>>
+2006.0660BE
 K
 X 
  
@@ -2060,8 +1764,9 @@ MOTION:
 
 
 16b.
- 
- 2006.0660BEK
+<<Project End>>
+<<Project Start>>
+2006.0660BEK
 X
  
  
@@ -2122,8 +1827,9 @@ MOTION:
 
 
 16c.
- 
- 2006.0660
+<<Project End>>
+<<Project Start>>
+2006.0660
 B
 EKX 
  
@@ -2185,16 +1891,15 @@ MOTION:
 
 
 Item 17 was taken out of order and followed item 15
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.0689D
+<<Project End>>
+<<Project Start>>
+2006.0689D
  
  
 (Tape IIIA)
@@ -2268,8 +1973,6 @@ AYES:
 ABSENT:
  
  Alexander, S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2278,8 +1981,8 @@ ABSENT:
  
  
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1211D
  
  

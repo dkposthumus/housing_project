@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 5, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ August 5, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-August 5, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 5, 2004
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 5, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Kevin Hughes, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- Shelley Bradford Bell
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT SUE LEE AT 1:32 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner- Acting Director of Planning and Zoning Administrator; Susan Cleveland-Knowles - Deputy City Attorney; Elaine Tope; Geoffrey Nelson; Adam Light; Glenn Cabreros; Dan DiBartolo; Matt Snyder; Nora Priego - Transcription Secretary; Jonas Ionin - Acting Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2004.0243D              (E. TOPE: (415) 558-6316)
 
 
@@ -323,9 +83,6 @@ ABSENT: Bradford Bell
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 3. Consideration of Adoption - Draft minutes from June 10, 2004.
 
 
@@ -341,8 +98,6 @@ AYES: Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 4.  Commission Comments/Questions
 
 
@@ -421,8 +176,6 @@ Acting Director Larry Badiner Responded:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 5. Director's Announcements
 
 
@@ -441,8 +194,6 @@ Re:  Discretionary Reviews
 - In the next two or three months, the Commission will start seeing some simple DRs that will have gone through the process.
 <<Project End>>
 <<Project Start>>
-
-
 6. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -520,10 +271,6 @@ E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC
     HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
-
-
 7. 2004.0409D (E. TOPE: (415) 558-6316)
 
 
@@ -585,10 +332,6 @@ RESULT: Motion Failed. No substitute motion was offered, therefore,
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
 8. 2003.1164D (M. WOODS: (415) 558-6315)
 
 
@@ -1100,8 +843,6 @@ ABSENT: Bradford Bell
 MOTION: 16845
 <<Project End>>
 <<Project Start>>
-
-
 11. 2004.0422D                   (D. DiBARTOLO: (415) 558-6291)
 
 
@@ -1413,53 +1154,33 @@ Wed to sun 12 to 1:30 a.m. Monday and Tuesday entertainment will stop at midnigh
 ACTION: Take Discretionary Review and Approve the Project with the Following Conditions:
 <<Project End>>
 <<Project Start>>
-
-
 1. The Project Sponsor shall comply with any requirements for sound-proofing imposed by the Police Department prior to the commencement of the authorized entertainment.
 <<Project End>>
 <<Project Start>>
-
-
 2. The Project shall comply with all conditions imposed by the Police Department's Noise Abatement Unit on the Place of Entertainment Police Permit.  Per Police Department report, sound shall not be audible from outside of the premises.
 <<Project End>>
 <<Project Start>>
-
-
 3. The operator of the bar shall maintain the main entrance and all sidewalks abutting the subject property in a clean condition.  Such maintenance shall include, at minimum, daily sweeping and litter pickup and disposal and washing or steam/pressure cleaning of the main entrance and abutting sidewalks at least once every two weeks.
 <<Project End>>
 <<Project Start>>
-
-
 4. The entertainment shall be permitted as authorized by Police Department approval:  Monday/Tuesday, 12:00 p.m. (noon) to 12:00 a.m. (midnight);  Wednesday through Sunday, 12:00 p.m. (noon) to 1:30 a.m.
 <<Project End>>
 <<Project Start>>
-
-
 5. All windows and doors shall remain closed for the duration of the live entertainment.
 <<Project End>>
 <<Project Start>>
-
-
 6. The Project shall comply with all City Codes.
 <<Project End>>
 <<Project Start>>
-
-
 7. A Notice shall be placed upon the door at the entrance of the establishment urging patrons to leave the establishment and neighborhood in a quiet, peaceful, and orderly fashion.  This Notice shall be well lit and have clearly readable lettering at least 1 inch in height.
 <<Project End>>
 <<Project Start>>
-
-
 8. The Project Sponsor shall appoint a Community Liaison to address issues and matters of concern to nearby residents or commercial lessees.  This liaison or a designated representative shall be available at the establishment at all times during business hours.  The Project Sponsor shall report the name and telephone number of this liaison to the Zoning Administrator for reference.
 <<Project End>>
 <<Project Start>>
-
-
 9. The Project Sponsor or its successors shall comply fully with all conditions specified in this approval.  Failure to comply with any condition shall constitute grounds for revocation of this building permit.
 <<Project End>>
 <<Project Start>>
-
-
 10. The Project Sponsor shall assure the execution and recordation of the specified conditions as a Notice of Special Restrictions at the Office of the County Recorder/County Clerk.
 
 
@@ -1560,8 +1281,6 @@ AYES: Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 13. 2004.0604D                                (M. SNYDER; (415) 575-6891)
 
 
@@ -1634,8 +1353,6 @@ ABSENT: Bradford Bell
 Items 14 and 15 were taken out of order.
 <<Project End>>
 <<Project Start>>
-
-
 14. 2004.0088C                                (M. SNYDER: (415) 575-6891)
 
 
@@ -1723,8 +1440,6 @@ AYES: Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 15. 2004.0483C                                 (M. LI:  (415) 558-6396)
 
 
@@ -1761,8 +1476,6 @@ ABSENT: Bradford Bell
 G. COMMISSION MATTERS
 <<Project End>>
 <<Project Start>>
-
-
 16. Discussion of a potential process for the Commission to (1) review the position of Director of Planning; (2) determine the qualifications for the position; and (3) recruit and consider potential candidates for the position.
 
 

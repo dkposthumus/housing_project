@@ -1,323 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 2, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ October 2, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-October 2, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, October 2, 2014
-
-
-2:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 3:17 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Planning Director, Tina Chang, Omar Masry, Michael Jacinto, Sharon Lai, Rich Sucre, Corey Teague, Steve
-  
-Wertheim, Kearstin Dischinger, Eiliesh Tuffy, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2014.0668D                                                                          
                            
 (T. CHANG: (415) 575-9197)
@@ -367,8 +48,6 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -376,7 +55,8 @@ There will be no separate discussion of these items unless a member of the Commi
 
                 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2014.0633C
                                                                                                      (O. MASRY: (415) 575-9115)
 
@@ -440,29 +120,21 @@ Curtis Chan – Disapprove disfavored site
 ACTION:
                 
 After being pulled off consent; hearing and closing public comment; Approved with Conditions including:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Equipment moved and painted;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Wrapped antennas or faux vents at staff discretion, with an additional foot away from the building edge;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
-Contingent on a Variance being granted; and
-<<Project End>>
-<<Project Start>>
+Contingent on a Variance being granted; and 
 
 
 4.
@@ -492,8 +164,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -545,8 +215,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -616,8 +284,6 @@ I second the field trip. Go Giants and I appreciate Commissioner Antonini wearin
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -626,8 +292,6 @@ DEPARTMENT MATTERS
 5.
              
 Director’s Announcements - None
-<<Project End>>
-<<Project Start>>
              
 
 
@@ -844,15 +508,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2006.0383E
                                                                                           
       
@@ -904,7 +567,8 @@ MOTION:
 
 
 8a.
-          
+<<Project End>>
+<<Project Start>>
 2006.0383CEKV 
  
                                                                 
@@ -989,7 +653,8 @@ MOTION:
 
 
 8b.
-          
+<<Project End>>
+<<Project Start>>
 2006.0383CEKV 
  
                                                                 
@@ -1037,7 +702,8 @@ MOTION:
 
 
 8c.
-           
+<<Project End>>
+<<Project Start>>
 2006.0383CEKV 
  
                                                                                 
@@ -1066,8 +732,6 @@ Same as Item 8a
 ACTION:
                 
 ZA Closed the PH and indicated an intent to Grant
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1116,16 +780,15 @@ Jim Ruben – Prop M
 
 ACTION:
                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2014.1249T
                                                                           
                     
@@ -1176,15 +839,14 @@ Wu
 RESOLUTION:
       
 19251
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2014.0966T
                                           
               
@@ -1234,15 +896,14 @@ Wu
 RESOLUTION:
       
 19252
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2010.0043X
                                                                                           
             
@@ -1365,15 +1026,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2014.1018D 
                                                                                         
              
@@ -1429,15 +1089,14 @@ Wu
 DRA No:
                 
 0382
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2014.1119D
                                                                                          
            
@@ -1555,23 +1214,17 @@ October 16, 2014
 
 
 [1]
-<<Project End>>
-<<Project Start>>
  
 
 
 1.
                     
 Place short-term rental controls in the Planning Code so that the Planning Department is the agency responsible for enforcing on short-term rentals.
-<<Project End>>
-<<Project Start>>
 
 
 2.
                     
 Modify the Ordinance so that the proposed city-run registry tracks the number of nights a unit has been rented.
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1580,93 +1233,67 @@ Modify the Ordinance so that the proposed city-run registry tracks the number of
 Require any short-term rental platform or company doing business in San Francisco to provide information on the number of nights a property was rented.
   
 Information should be reported back to the city on a quarterly basis at a minimum.
-<<Project End>>
-<<Project Start>>
   
 
 
 4.
                     
 Identify units that are on the proposed short-term registry in the Department’s Property Information Map.
-<<Project End>>
-<<Project Start>>
 
 
 5.
                     
 Amend the Ordinance so that a posting on a short-term rental site without first registering with the City constitutes a violation that can be assessed a penalty, even if the unit was not rented.
-<<Project End>>
-<<Project Start>>
 
 
 6.
                     
 Require the registration number from the City-run registry to accompany all short-term rental postings.
-<<Project End>>
-<<Project Start>>
 
 
 7.
                     
 Grant citation authority to the Planning Department if it is chosen to be the enforcement agency for short-term rentals, and provide for increased penalties for repeat violators.
-<<Project End>>
-<<Project Start>>
 
 
 8.
                     
 Limit hosted rentals by nights rented, similar to the restrictions placed on non-hosted rentals, or by limiting the number of rooms that can be rented at any one time.
-<<Project End>>
-<<Project Start>>
 
 
 9.
                     
-Limit single-family homes to the same restrictions as multi-unit buildings.
-<<Project End>>
-<<Project Start>>
+Limit single-family homes to the same restrictions as multi-unit buildings. 
 
 
 10.
                  
-Require the property owner’s consent in tenant occupied units and/or a 30-day notification by the Department to the owner prior to listing a unit on the short-term rental registry.
-<<Project End>>
-<<Project Start>>
+Require the property owner’s consent in tenant occupied units and/or a 30-day notification by the Department to the owner prior to listing a unit on the short-term rental registry. 
 
 
 11.
                  
 Prohibit SROs from being used as short-term rentals.
-<<Project End>>
-<<Project Start>>
 
 
 12.
                  
 If the Planning Department is chosen as the enforcement agency, provide increased funding to the Planning Department for more enforcement staff to monitor short-term rentals.
-<<Project End>>
-<<Project Start>>
 
 
 13.
                  
 Consider placing limits on allowing BMR (Below Market Rate) units to be used as short-term rentals.
-<<Project End>>
-<<Project Start>>
 
 
 14.
                  
 Require the Planning Department to maintain a list of registered hosting platforms.
-<<Project End>>
-<<Project Start>>
 
 
 15.
                  
 Prohibit units with outstanding Planning or Building Code violations from being listed on the short-term rental registry until those violations have been abated.
-<<Project End>>
-<<Project Start>>
   
 
 

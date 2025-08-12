@@ -1,256 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 18, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ May 18, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-May 18, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 18, 2006
-CANCELLATION NOTICE
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Regular Meeting
-
-
-Thursday, May 18, 2006
-
-
- 
-
-
-President:
- 
-Sue Lee
-
-
-Vice-President:
- 
- Dwight S. Alexander
-
-
- 
- Commissioners:
- 
-Michael J. Antonini; Shelley Bradford Bell; Kevin Hughes;
-
-
-William L. Lee; Christina Olague
-
-
- 
-
-
-Notice is hereby given that Regular Meeting of the San Francisco Planning Commission for Thursday, May 18, 2006 is cancelled.
- 
- The following items are continued as shown.
- 
- The next Regular Meeting of the Planning Commission will be on Thursday, May 25, 2006.
- 
- For information on the items listed below please contact the planners as indicated in parenthesis
-.
-
-
- 
-
-
-1a.
- 
- 2004.0664
+2004.0664
 EX
 CV
  
@@ -277,8 +26,9 @@ Request for (1) Findings of Compliance with CEQA, and (2) Determinations of Comp
 
 
 1b.
- 
- 2004.0664EX
+<<Project End>>
+<<Project Start>>
+2004.0664EX
 C
 V
  
@@ -327,8 +77,9 @@ before the Zoning Administrator because approximately 17 of the 104 dwelling uni
 
 
 1c.
- 
- 2004.0664EXC
+<<Project End>>
+<<Project Start>>
+2004.0664EXC
 V
  
  
@@ -346,16 +97,15 @@ Request for a Variance
 
 
 (Continued to June 1, 2006)
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0109Z 
+<<Project End>>
+<<Project Start>>
+2006.0109Z 
  
  
  
@@ -377,16 +127,15 @@ Request for an Amendment to the Zoning Map
  
  
 (Continued to June 8, 2006)
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2005.0749D
+<<Project End>>
+<<Project Start>>
+2005.0749D
  
  
  
@@ -415,8 +164,6 @@ Preliminary Recommendation:
  
  
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -424,8 +171,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
  
  4.
- 
- 2006.0056C
+<<Project End>>
+<<Project Start>>
+2006.0056C
  
  
  
@@ -459,8 +207,6 @@ Request for Conditional Use authorization
  
  
 (Continued Indefinitely)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -484,8 +230,6 @@ Status report presented by the Chair of Western SOMA Citizens Planning Task Forc
 
 
 (Continued to May 25, 2006)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -511,8 +255,8 @@ Preliminary Recommendation: Approval
 
 
 7a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1084
 C
 V
@@ -546,8 +290,9 @@ Preliminary Recommendation:
 
 
 7b.
- 
- 2005.1084C
+<<Project End>>
+<<Project Start>>
+2005.1084C
 V
  
  
@@ -574,16 +319,15 @@ Preliminary Recommendation:
 
  
  (Continued to May 25, 2006)
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.0092E
+<<Project End>>
+<<Project Start>>
+2006.0092E
 T
  
  
@@ -616,8 +360,9 @@ Preliminary Recommendation: Adoption
 
  
  9a.
- 
- 2005.1081D
+<<Project End>>
+<<Project Start>>
+2005.1081D
  
  
  
@@ -643,8 +388,9 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the dem
 
  
  9b.
- 
- 2006.0057D
+<<Project End>>
+<<Project Start>>
+2006.0057D
  
  
  
@@ -668,8 +414,9 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
 
  
  9c.
- 
- 2005.1080V
+<<Project End>>
+<<Project Start>>
+2005.1080V
  
  (E. TOPE: (415) 558-6316)
 
@@ -682,8 +429,6 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
 
 
 (Continued to June 15, 2006)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -691,8 +436,9 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
 
  
  10.
- 
- 2005.1208D
+<<Project End>>
+<<Project Start>>
+2005.1208D
  
  
  

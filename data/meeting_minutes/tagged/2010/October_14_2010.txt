@@ -1,319 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 14, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ October 14, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-October 14, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 14, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Borden, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, AnMarie Rodgers, Sharon Young, Diego Sanchez, Timothy Johnston, Adam Varat, Amnon Ben-Pazi, Ilaria Salvadori, Kearstin Dischinger, Kevin Guy, Tim Frye, Julian Banales, Delvin Washington, Mark Luellen, David Lindsay, Aaron Starr, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-           
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-            
-
-
-            1.         2010.0788
-U
-                                                        (A. RODGERS: (415) 558-6395) 
-
-
-Amendments to Administrative Code Concerning a Child Care Feasibility Study  [BOS File No. 10-1094
-]
- - 
-Hearing of a proposed Ordinance that would amend the San Francisco Administrative Code by adding Chapter 29B to require a City agency, or a private developer that receives City funds for a development project,
- as defined, to prepare a feasibility study for providing an on-site child care center whenever it plans to construct or purchase a building, lease more than 50 percent of space in a private building for an initial term of more than one year, or alter more than 50 percent of the space in an existing building; adopting findings, including environmental findings. The Commission will consider an Ordinance introduced by Supervisors Dufty and Alioto-Pier that would amend the Administrative Code as described in the Ordinance with additional modifications as recommended by the Planning Department and making environmental findings.
-
-
-                        Preliminary Recommendation: Approval with Modifications
-
-
-                        
-(Proposed for Continuance to October 28, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              Antonini, Borden, Moore, Sugaya, and Miguel
-
-
-ABSENT:          Olague
-
-
- 
-
-
- 
-
-
- 
-
-
-E.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.        
 2010.0519C
                                                       
 (D. SÃ¡nchez:  (415) 575-9082)
@@ -345,14 +30,14 @@ ABSENT:          Olague
 
 
 MOTION:           18195
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.        
+3.
+<<Project End>>
+<<Project Start>>
 2010.0414C
                                                      
       
@@ -400,8 +85,6 @@ COMMISSIONERSâ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -438,8 +121,6 @@ AYES:              Antonini, Borden, Moore, Sugaya, and Miguel
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -554,8 +235,6 @@ I think that would be a procedural matter and I have personally talked to Commis
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -571,8 +250,6 @@ Director Rahaim:
 
 
 I would also like to mention the APA Award.  I attended the ceremony and spoke on behalf of the Department and the Commission.  I thanked the APA for that award.  There were 10 awards given this year for great places in America and that ceremony took place in front of the Ferry Building yesterday with the CEO of APA, Paul Farmer, who also happened to be my boss for some years.  It was very nice to receive that award on behalf of the city.  Because there were concerns about early public release, they didnât let me know until the end of last week that this was even happening.  So I had very little time to let any of you know.  But it was a very nice event.
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -671,14 +348,14 @@ Carole Bottarini â re:  Harry Tracy Water Treatment Plant Improvement Proj
 F.
            
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-8.        
+8.
+<<Project End>>
+<<Project Start>>
 2007.1202E
                                                         (T. JOHNSTON:  (415) 575-9035)
 
@@ -718,15 +395,15 @@ MOTION:           18197
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.        
+9.
+<<Project End>>
+<<Project Start>>
 2010.0878U 
                                                     (I. SALVADORI:  (415) 575-9086)
 
@@ -736,8 +413,6 @@ Mission District Streetscape Plan
  
 The Mission District Streetscape Plan is a community-based plan that identifies innovative strategies to improve streets, sidewalks and potential for new public spaces at underutilized right-of-way locations in the Mission District.  The projectâs boundaries are Division Street on the North, US Highway 101 on the east, Precita Avenue, Mission Street and San Jose Avenue on the south and Dolores Street on the west. The project conducted 5 public workshops between March 2008 and April 2010 and identified 28 specific projects throughout the plan area.  The draft plan will be released on October 7
 th
-<<Project End>>
-<<Project Start>>
  2010. A Preliminary Mitigated Negative Declaration was published on June 10, 2010. 
 
 
@@ -751,14 +426,14 @@ SPEAKERS:     None
 
 
 ACTION:           Informational only â no action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            10.        
+            10.
+<<Project End>>
+<<Project Start>>
 2010.0182U
                                                         (A. RODGERS: (415) 558- 6395)
 
@@ -791,14 +466,14 @@ In support
 
 
 ACTION:           Informational only â no action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.       
+11.
+<<Project End>>
+<<Project Start>>
 2007.1275M
                                                   (K. DISCHINGER: (415) 558-6284)
 
@@ -823,14 +498,14 @@ In opposition
 
 
 ACTION:           Informational only â no action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2010.0436C
                                                                    (
 K. Guy: (415) 558-6163)
@@ -859,14 +534,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, Olague and Migu
 
 
 MOTION:           18198
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.       
+13.
+<<Project End>>
+<<Project Start>>
 2009.1100CH
                                                                  (T. FRYE 415/575-6822)
 
@@ -899,14 +574,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, Olague and Migu
 
 
 MOTION:           18199
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.       
+14.
+<<Project End>>
+<<Project Start>>
 2010.0556D
                                           
           (A. Hollister: (415) 575-9078) 
@@ -943,14 +618,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, and Miguel
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.       
+15.
+<<Project End>>
+<<Project Start>>
 2010.0557D
                                                     
  (A. Hollister: (415) 575-9078)  
@@ -987,14 +662,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, and Miguel
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.       
+16.
+<<Project End>>
+<<Project Start>>
 2010.0558D
                                                     
 (A. Hollister: (415) 575-9078)   
@@ -1031,14 +706,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, and Miguel
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2010.0482D                                                             (M. SMITH: (415) 558-6322)  
 
 
@@ -1074,14 +749,14 @@ NAYES:            Antonini
 
 
 DRA No.:          0178
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.       
+18.
+<<Project End>>
+<<Project Start>>
 2010.0507C
                                                            
    (S.
@@ -1116,14 +791,14 @@ AYES:              Antonini, Borden, Moore, Sugaya, Olague and Migu
 
 
 MOTION:           18200
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.       
+19.
+<<Project End>>
+<<Project Start>>
 2009.0909D
                                                              (A. STARR: (415) 558-6362)
 
@@ -1166,7 +841,9 @@ DRA No.:          0179
  
 
 
-20a.     
+20a.
+<<Project End>>
+<<Project Start>>
 2009.1170DDD   
                                                            (A. STARR: (415) 558-6362)
 
@@ -1211,7 +888,9 @@ AYES:              Antonini, Borden, Moore, Sugaya, Olague and Migu
  
 
 
-20b.     
+20b.
+<<Project End>>
+<<Project Start>>
 2009.1170DDDV
                                                         
 (A. STARR: (415) 558-6362)

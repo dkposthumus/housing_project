@@ -1,283 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 20, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ June 20, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-June 20, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 
-1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 20, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:15 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Omar Masry, Michael E. Smith, Joshua Switzky, Aaron Starr, Jessica Look, Doug Vu, Adrian Putra, Sharon Lai, Thomas Wang and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                        
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
-            
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The 
-Commission
- will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-1a.
-        
 2011.0430E                                                                              (D. LEWIS: (415) 575-9095)
 
 
@@ -331,7 +52,8 @@ Fong
 
 
 1b.
-       
+<<Project End>>
+<<Project Start>>
 2011.0430
 X
 E                                                                              (B. FU: (415) 558-6613)
@@ -385,15 +107,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-     
+<<Project End>>
+<<Project Start>>
 2012.0603C
                                                              
      
@@ -441,15 +162,14 @@ Fong
 MOTION:
            
 18909
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.1473C
                                                                    
       
@@ -506,8 +226,6 @@ MOTION:
 C.
          
 COMMISSIONS MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -561,8 +279,6 @@ Wu, Antonini, Borden, Hillis, Moore, Sugaya
 ABSENT:
           
 Fong
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -606,8 +322,6 @@ Wu, Antonini, Borden, Hillis, Moore, Sugaya
 ABSENT:
           
 Fong
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -710,8 +424,6 @@ I wanted to thank the Director, the Zoning Administrator and Staff for including
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -730,9 +442,7 @@ Director Rahaim:
 
 Just a couple of announcements. I think as you know, the Board approved the designation of our first historic district since 2003. Finally, the Duboce Park District was designated last week and the Mayor, I think, had signed or will shortly sign the legislation. Secondly, the Department is starting its kind of more robust public outreach program, and the first will be – we will be attending the Sunday Streets on the Great Highway at Golden Gate Park, that will happen Sunday, July 7th from 11:00 AM to 4:00 PM on the Great Highway and we will be having staff at a booth with plans and activities that we are doing in that part of town. So, that staff will be able to answer questions of the public in that part of town. And we will be attending several of those over the next few months as well. And as a reminder, we will also be doing a number of kind of educational seminars and webinars on different planning topics in the coming months. So, they're still being organized. Thirdly, I wanted to let you know about a series of workshops we're doing with the Market-Octavia Neighborhood related to the adoption of that plan which called for what are called living alleys. These are workshops to design some of the alleys in that neighborhood.
 
-The first of those will be a workshop on July 9th from 6:00 PM to 8:00 PM at the Hayes Valley Playground Recreation Center, 699 Hayes Street. This is a two-year community based program to design and implement a network of living alleys in the Market-Octavia area which was called for in the plan. We are doing this in concert with the neighborhood, with MTA, DPW and we -- the idea is to get to a point where we design concepts for three alley ways in that neighborhood which then could then be implemented over time. Again, that's July 9th from 6:00 PM to 9:00 PM at the Hayes Valley Playground Recreation Center. That concludes my report.
-<<Project End>>
-<<Project Start>>
+The first of those will be a workshop on July 9th from 6:00 PM to 8:00 PM at the Hayes Valley Playground Recreation Center, 699 Hayes Street. This is a two-year community based program to design and implement a network of living alleys in the Market-Octavia area which was called for in the plan. We are doing this in concert with the neighborhood, with MTA, DPW and we -- the idea is to get to a point where we design concepts for three alley ways in that neighborhood which then could then be implemented over time. Again, that's July 9th from 6:00 PM to 9:00 PM at the Hayes Valley Playground Recreation Center. That concludes my report. 
 
 
  
@@ -1011,15 +721,14 @@ HISTORIC PRESERVATION COMMISSION:
 Tim Frye, Department staff, here to share with you the results of yesterday's Historic Preservation Commission hearing. I did have two small announcements just to follow-up on Commissioner Sugaya’s comments regarding Saturday's San Francisco Architectural Heritage Summit. The Department was a partner in that summit and preservation staff presented on the City's current landmark designation work program with a focus on the recently designated Sam Jordan's Bar, as well as our current work in the Japantown and West Soma communities to document social and cultural heritage in those neighborhoods. And we felt it was a great opportunity to continue a conversation that started at this Commission at the end at the Historic Preservation Commission last winter and certainly when the JCHESS comes to you and the HPC.
   
 We would like to continue that conversation about how the City can better respond to documenting that heritage throughout the City. One other small announcement was on July 11th, the Department hosted a Mills Act Clinic within the Duboce Park Landmark District. This clinic was to provide technical assistance and an overview of the Mills Act for property owners within the newly designated district. There was a great turnout, over 25 property owners showed up, lots of questions and a lot of interest in participating in the program. Those applications will go to the Historic Preservation Commission and the Board of Supervisors this fall, once they're submitted. And we hope to carry that Mills Act Clinic on to the other existing landmark districts in the City over the next year. In regards to yesterday's hearing, the Architectural Review Committee met before the HPC hearing to review the design and provide feedback on two items. One is a new office development in the South End Landmark District of 272 Brannan Street. Overall the ARC was very supportive of the contemporary design and gave the architects some minor design feedback to improve the project. The ARC also reviewed some design modifications to the Belli Buildings at 722 and 728 Montgomery Street. As you know, these buildings have been in a partial state of construction for almost two decades. So, it was good to see some movement on the project and the overall proposal will be before the Historic Preservation Commission, hopefully by the end of this summer, early fall, and naturally there is a lot of interest in that project. And that project will be noticed to the community and the local neighborhood organizations. Once we have an application formally submitted. The full HPC had a very short calendar. They reviewed the EIR for the Ferry Terminal Expansion, but I think most importantly, they provided review and comment on a National Register nomination for 630 Samsone Street. This is the U.S. Appraiser Stores and Immigration Station. The National Register nomination is being initiated by the GSA. The Commission was very supportive of the nomination, but felt the documentation could benefit from a little more information about San Francisco's role as a gateway city to immigration, especially on the Pacific. And asked the preparer of the nomination to expand that documentation. So, with that, that concludes my comments unless you have any questions.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-         
+<<Project End>>
+<<Project Start>>
 2011.1356E
                                                                    
    
@@ -1093,8 +802,6 @@ Tedone-Deanna Gage – Various
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1102,7 +809,8 @@ REGULAR CALENDAR
 
 
 10.
-        
+<<Project End>>
+<<Project Start>>
 2011.0558E
                                                                    
    
@@ -1135,15 +843,14 @@ SPEAKERS:
 ACTION:
            
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-        
+<<Project End>>
+<<Project Start>>
 2013.0647T
                                                        
                     
@@ -1176,15 +883,14 @@ SPEAKERS:
 ACTION:
            
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-        
+<<Project End>>
+<<Project Start>>
 2013.0160T
                                            
                                   
@@ -1250,7 +956,8 @@ RESOLUTION:
 
 
 13a.
-      
+<<Project End>>
+<<Project Start>>
 2011.0099C
                                            
            
@@ -1349,15 +1056,11 @@ Flo Kimmerly, Mid-Sunset Neighborhood Association – Congestion, Safety, Qualit
 ACTION:
            
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Limit the car wash hours of operation to 9 pm; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1381,7 +1084,8 @@ MOTION:
 
 
 13b.
-      
+<<Project End>>
+<<Project Start>>
 2011.0099V
                                            
            
@@ -1407,15 +1111,14 @@ within a RM-2 (Residential – Mixed, Moderate Density) Zoning District, and 40-
 
 
 ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND INDICATED AN INTENT TO GRANT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-        
+<<Project End>>
+<<Project Start>>
 2012.1356C
                                                                    
      
@@ -1598,15 +1301,14 @@ Wu
 MOTION:
            
 18913
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-        
+<<Project End>>
+<<Project Start>>
 2013.0479C
                                                                    
              
@@ -1668,7 +1370,8 @@ MOTION:
 
 
 16a.
-      
+<<Project End>>
+<<Project Start>>
 2013.0573D
                                                        
           
@@ -1697,7 +1400,8 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
 
 16b.
-      
+<<Project End>>
+<<Project Start>>
 2013.0574D
                                                        
           
@@ -1720,15 +1424,14 @@ Preliminary Recommendation: Do not take Discretionary Review and Approve
 
 
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-        
+<<Project End>>
+<<Project Start>>
 2012.0112D
                                                                    
        

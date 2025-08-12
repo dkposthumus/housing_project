@@ -1,274 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 28, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ May 28, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-May 28, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 28, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 28, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, AnMarie Rodgers, Steve Wertheim, Tara Sullivan, Rosemary Dudley, Diego Sanchez, Mary Woods, Don Lewis, Rick Crawford, Ben Fu, Sara Vellve, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 
-1.
- 
- 
 2009.0319X
  
  
@@ -312,8 +42,6 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -321,8 +49,9 @@ AYES:
 
  
  2.
- 
- 2009.0237X
+<<Project End>>
+<<Project Start>>
+2009.0237X
  
  
  
@@ -367,8 +96,6 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -376,8 +103,9 @@ AYES:
 
  
  3.
- 
- 2009.0191X
+<<Project End>>
+<<Project Start>>
+2009.0191X
  
  
  
@@ -429,8 +157,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -504,8 +230,6 @@ I was at the opening of the SPUR Urban Center last night.
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -543,8 +267,6 @@ On Tuesday evening, we held the fourth in a series of public workshops on the Tr
  We are working with the Port and Supervisors Chiu's office.
  
  The second of those meetings is not yet scheduled, but is likely to happen in early July.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -594,8 +316,6 @@ HISTORIC PRESERVATION COMMISSION
 
  
  The Commission did not have a scheduled meeting this week
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -665,8 +385,6 @@ None
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -675,8 +393,9 @@ REGULAR CALENDAR
 
 
 8.
- 
- 2009.0381U
+<<Project End>>
+<<Project Start>>
+2009.0381U
  
  
  
@@ -726,16 +445,15 @@ NAYES:
 RESOLUTION:
  
  17887
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.1008T
+<<Project End>>
+<<Project Start>>
+2008.1008T
  
  (T. SULLIVAN: (415) 558-6257)
 
@@ -781,16 +499,15 @@ ABSENT:
 RESOLUTION:
  
  17888
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2009.0268T
+<<Project End>>
+<<Project Start>>
+2009.0268T
  
  
  
@@ -840,8 +557,6 @@ ABSENT:
 RESOLUTION:
  
  17889
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -887,8 +602,6 @@ ACTION:
  Informational only – There was no Commission action.
  
  The second presentation was moved to June 18, 2009
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -896,8 +609,9 @@ ACTION:
 
  
  12.
- 
- 2009.0126C
+<<Project End>>
+<<Project Start>>
+2009.0126C
  
  
  
@@ -945,16 +659,15 @@ AYES:
 MOTION:
  
  17890
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2009.0029C
+<<Project End>>
+<<Project Start>>
+2009.0029C
  
  
  
@@ -1007,16 +720,14 @@ ABSENT:
 MOTION:
  
  17891
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0979E
  
  
@@ -1067,8 +778,6 @@ NAYES:
 MOTION:
  
  17892
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1077,8 +786,9 @@ MOTION:
 
 
 15.
- 
- 2005.0979
+<<Project End>>
+<<Project Start>>
+2005.0979
 X
 E 
  
@@ -1174,8 +884,9 @@ MOTION:
 
 16a
 .
- 
- 2006.1287D
+<<Project End>>
+<<Project Start>>
+2006.1287D
  
  
  
@@ -1235,8 +946,8 @@ DRA #:
 
 
 16b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0228D
  
  
@@ -1283,8 +994,6 @@ AYES:
 DRA #:
  
  0084
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1292,8 +1001,9 @@ DRA #:
 
  
  17.
- 
- 2009.0256D
+<<Project End>>
+<<Project Start>>
+2009.0256D
  
  
  
@@ -1350,8 +1060,9 @@ DRA #:
 
 
 18a.
- 
- 2009.0048
+<<Project End>>
+<<Project Start>>
+2009.0048
 D
 V
  
@@ -1407,8 +1118,9 @@ DRA #:
 
 
 18b.
- 
- 2009.0048D
+<<Project End>>
+<<Project Start>>
+2009.0048D
 V
  
  

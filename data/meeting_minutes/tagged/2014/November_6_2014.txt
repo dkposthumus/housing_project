@@ -1,316 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ November 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-November 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, November 6, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 06P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Planning Director,
-  
-Alexandra Kirby, Mary Woods, Carly Grob, Tim Frye, John Swae, Marcelle Boudreaux, Glenn Cabreros, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2014.0966T
                                           
               
@@ -356,15 +44,14 @@ Continued to December 4, 2014
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0156T
                                                                                           
         
@@ -397,15 +84,14 @@ Continued to November 20, 2014
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0799C                                                                                                    (L. AJELLO:  (415) 575-9142)
 
 
@@ -438,15 +124,14 @@ Continued to November 20, 2014
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2014.1237Z
                                                                                           
       
@@ -487,7 +172,8 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 
 
 5a.
-          
+<<Project End>>
+<<Project Start>>
 2014.0567B
 C
                                                                                                 
@@ -529,7 +215,8 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 
 
 5b.
-          
+<<Project End>>
+<<Project Start>>
 2014.0567
 B
 C                                                                                       
@@ -566,15 +253,14 @@ Continued Indefinitely
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                      
+<<Project End>>
+<<Project Start>>
 2014.0786D
                                                                                          
            
@@ -623,15 +309,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-                      
+<<Project End>>
+<<Project Start>>
 2014.1308Q
                                                                          
                              
@@ -671,15 +356,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19268
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0552CE 
  
                                                                                      
@@ -718,15 +402,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19269
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0255C
                                                                           
                               
@@ -767,15 +450,11 @@ ACTION:
                 
 After being pulled off of Consent, hearing and closing public comment; 
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 More soundproofing research for improved methodologies of reducing noise; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -801,8 +480,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -835,8 +512,6 @@ Adopted
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -878,8 +553,6 @@ I can’t go, let the day pass without making some positive remarks about the Gi
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -909,8 +582,6 @@ Building Department will come on probably sometime after the first of the year.
 SPEAKER: 
             
 Allen Grossman – Availability of PPTS on the Department’s website
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1268,8 +939,6 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1311,8 +980,6 @@ SPEAKERS:
 ACTION:
                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1322,7 +989,8 @@ None - Informational
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.1517ME
  
                                                                      
@@ -1382,15 +1050,11 @@ Anastacia Glickstein – In agreement with previous speakers
 ACTION:
                 
 After hearing and closing public comment, Continued to November 20, 2014 with direction to staff to:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Develop a Glossary with definitions of terms related to trees and foliage throughout the document; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1406,15 +1070,14 @@ Wu, Antonini, Johnson, Moore, Richards
 NAYES:
                   
 Fong, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2014.0206C
                                           
                                                
@@ -1535,36 +1198,26 @@ Yetta Gage – 250 signatures, next time
 ACTION:
                                 
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 An ID reader and signage at the front entry;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 No outdoor tasting and/or loitering;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 Limiting the hours of operation to 10 pm;
-<<Project End>>
-<<Project Start>>
 
 
 4.
        
 A Community Liaison; and
-<<Project End>>
-<<Project Start>>
 
 
 5.
@@ -1602,15 +1255,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.1799D
                                          
                                                
@@ -1643,8 +1295,6 @@ Continued Indefinitely
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
                           
 
 
@@ -1652,7 +1302,8 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 
 
 18.
-          
+<<Project End>>
+<<Project Start>>
 2013.0423D 
  
                                                                        

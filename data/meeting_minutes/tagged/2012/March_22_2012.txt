@@ -1,286 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 22, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ March 22, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-March 22, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-Meeting Minutes
-
-
-Board of Supervisors’ Chambers - Room 250
-
-
-City Hall, 
-1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 22, 2012
-
-
-4:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-Fong, Wu, Antonini, Borden, Miguel, Sugaya
-
-
-COMMISSIONER ABSENT: 
-Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 5:50 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Director of Planning, Scott Sanchez - Zoning Administrator, Doug Vu, Glenn Cabreros, AnMarie Rodgers, Adrian Putra, Jeremy Battis, Aaron Starr -
-  
-Linda Avery - Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The 
-Commission
- will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.
-         
 2011.1239C
                                                                      
   
@@ -325,15 +43,14 @@ Fong, Wu, Antonini, Miguel, Borden, Sugaya
 ABSENT:
           
 Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-         
+<<Project End>>
+<<Project Start>>
 2012.0084DDD
                                                               
    
@@ -384,15 +101,14 @@ Fong, Wu, Antonini, Miguel, Borden, Sugaya
 ABSENT:
           
 Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-         
+<<Project End>>
+<<Project Start>>
 2011.0148E 
       
                                                 
@@ -463,15 +179,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-         
+<<Project End>>
+<<Project Start>>
 2011.1281C
                                                                    
             
@@ -520,8 +235,6 @@ Moore
 MOTION:
            
 18568
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -529,7 +242,8 @@ MOTION:
 
             
 5.
-         
+<<Project End>>
+<<Project Start>>
 2012.0186T 
  
                                                        
@@ -594,8 +308,6 @@ RESOLUTION:
 C.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -603,7 +315,8 @@ REGULAR CALENDAR
 
 
 6.
-         
+<<Project End>>
+<<Project Start>>
 2011.0189D
                                                        
           
@@ -660,15 +373,14 @@ Moore
 DRA:
                 
 0267
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-         
+<<Project End>>
+<<Project Start>>
 2011.1406D
                                                                    
      
@@ -727,15 +439,14 @@ Moore
 DRA:
                 
 0268
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-         
+<<Project End>>
+<<Project Start>>
 2012.0111D
                                                                    
      
@@ -783,8 +494,6 @@ Moore
 DRA:
                 
 0269
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -792,7 +501,8 @@ DRA:
 
             
 9.
-         
+<<Project End>>
+<<Project Start>>
 2009.0156E
                                                        
                   
@@ -847,15 +557,14 @@ Moore
 MOTION:
            
 18570
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-        
+<<Project End>>
+<<Project Start>>
 2009.0156V
                                                                            
 (A. STARR: (415) 558-6362)
@@ -903,8 +612,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -953,8 +660,6 @@ Fong, Antonini, Miguel, Borden, Sugaya
 ABSENT:
           
 Moore, Wu
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -995,8 +700,6 @@ None
 E.
          
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1034,9 +737,7 @@ In the proposal that is currently under consideration, it can exist there but un
   
 There was a public meeting about that Tuesday night.
   
-The final disposition would have to go to the Board, and the Board will be considering the new contract with the sign company in the coming weeks.
-<<Project End>>
-<<Project Start>>
+The final disposition would have to go to the Board, and the Board will be considering the new contract with the sign company in the coming weeks. 
 
 
  

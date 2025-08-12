@@ -1,273 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ April 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-April 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 17, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 17, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Alicia John-Baptiste, Mary Woods, Amnon Ben-Pazi, Corey Teague, Angela Heitter, Ken Rich, Claudia Flores, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-The
- Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1280C
+2007.1280C
  
  
  
@@ -323,8 +55,8 @@ ABSENT:
 
 
 2a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -381,8 +113,9 @@ ABSENT:
 
 
 2b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -429,8 +162,6 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -438,8 +169,9 @@ ABSENT:
 
  
  3.
- 
- 2007.1019C
+<<Project End>>
+<<Project Start>>
+2007.1019C
  
  
  
@@ -492,16 +224,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1326C
+<<Project End>>
+<<Project Start>>
+2007.1326C
  
  
  
@@ -547,16 +278,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.1362X
+<<Project End>>
+<<Project Start>>
+2007.1362X
  
  
  
@@ -607,16 +337,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.1112
+<<Project End>>
+<<Project Start>>
+2007.1112
 T
  
  
@@ -685,8 +414,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -742,8 +469,6 @@ ABSENT:
 
 
 (Tape IA; IB)
-<<Project End>>
-<<Project Start>>
 
 
 8.
@@ -821,8 +546,6 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -960,8 +683,6 @@ Commissioner Sugaya
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1144,8 +865,6 @@ NONE
 (Tape IB)
  
  (A. JOHN-BAPTISTE: (415) 558-6547)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1169,8 +888,6 @@ ACTION:
  Informational/discussion.
  
  No action is required of the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1311,13 +1028,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 2007.0430C
+<<Project End>>
+<<Project Start>>
+2007.0430C
  
  
 (Tape IIA)
@@ -1410,13 +1126,12 @@ MOTION:
  
  
 17581
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2008.0287U
+<<Project End>>
+<<Project Start>>
+2008.0287U
  
  
 (Tape IIA)
@@ -1469,16 +1184,14 @@ MOTION:
  
  
 17582
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0651
 C
 EK
@@ -1553,8 +1266,6 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1562,8 +1273,8 @@ ABSENT:
 
  
  17.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0810
 C
 K
@@ -1666,8 +1377,9 @@ MOTION:
 
 
 18a.
- 
- 2005.0762E
+<<Project End>>
+<<Project Start>>
+2005.0762E
 C
 V
  
@@ -1764,8 +1476,9 @@ MOTION:
 
 
 18b.
- 
- 2005.0762EC
+<<Project End>>
+<<Project Start>>
+2005.0762EC
 V
  
  
@@ -1827,16 +1540,15 @@ of the Eastern Neighborhoods proposals by the Planning Commission will begin wit
 By initiating the following items on April 17th, the Commission will not make any final decision regarding the content of the Eastern Neighborhoods proposals.
  
  Initiation allows the Department to advertise for public hearings expected in mid-May to take public comment on the proposed Eastern Neighborhood Proposals.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2004.0160EM
+<<Project End>>
+<<Project Start>>
+2004.0160EM
 T
 ZU
  

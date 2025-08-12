@@ -1,289 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 9, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ June 9, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-June 9, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 9, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 9, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander,
- 
-Michael J. Antonini,
-Shelley Bradford Bell,
-
-William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  
-Kevin Hughes and S. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:45 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Susan Cleveland-Knowles – Deputy City Attorney; Ben Fu; Jonathan Purvis; Sara Vellve; Dan Sirois; Michael Smith; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar
-.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-           
-  1.
-        
- 
 2004.1078D 
                              
  
@@ -337,8 +52,6 @@ AYES:
 ABSENT:
          
   Hughes and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -346,8 +59,9 @@ ABSENT:
 
  
   2.
-       
- 2003.0672CE
+<<Project End>>
+<<Project Start>>
+2003.0672CE
                                                                 
  (I. NISHIMURA: (415) 558-5967)
 
@@ -400,8 +114,6 @@ AYES:
 ABSENT:
          
   Hughes and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -459,8 +171,6 @@ AYES:
 ABSENT:
          
   Hughes and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -468,8 +178,9 @@ ABSENT:
 
            
   4.
-        
- 2005.0148D
+<<Project End>>
+<<Project Start>>
+2005.0148D
 D
  
                
@@ -531,8 +242,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -603,8 +312,6 @@ Zoning Administrator responded:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -618,8 +325,6 @@ C.
            
   
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -886,8 +591,6 @@ Commissioner W. Lee
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -897,8 +600,8 @@ REGULAR CALENDAR
 
 
 8.
-        
-  
+<<Project End>>
+<<Project Start>>
 2004.1339C
  
                                          
@@ -986,8 +689,6 @@ ABSENT:
 MOTION:
           
   17032
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -996,8 +697,9 @@ MOTION:
            
   
 9.
-        
- 2004.1254C
+<<Project End>>
+<<Project Start>>
+2004.1254C
                                                                               
  (B. FU:
  
@@ -1101,8 +803,9 @@ ABSENT:
 
            
   10b.
-     
- 2004.0033D 
+<<Project End>>
+<<Project Start>>
+2004.0033D 
                              
  
    
@@ -1150,8 +853,6 @@ AYES:
 ABSENT:
          
   Hughes and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1159,8 +860,8 @@ ABSENT:
 
            
   11.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.1204D
                                                       
  
@@ -1384,8 +1085,6 @@ SPEAKER(S):
 ACTION:
           
   No Motion to Rehear
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1395,8 +1094,6 @@ ACTION:
 
 
 12.
-<<Project End>>
-<<Project Start>>
        
  2005. 
 0263
@@ -1472,8 +1169,9 @@ ABSENT:
 
 
 13a.
-     
- 2004.0874D
+<<Project End>>
+<<Project Start>>
+2004.0874D
                                           
  
                                
@@ -1553,8 +1251,9 @@ ABSENT:
 
 
 13b.
-     
- 2004.1265D
+<<Project End>>
+<<Project Start>>
+2004.1265D
                                           
  
                                 
@@ -1594,16 +1293,15 @@ AYES:
 ABSENT:
          
   Hughes and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 2004.1305D
+<<Project End>>
+<<Project Start>>
+2004.1305D
                                           
  
                                 

@@ -1,337 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 24, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ April 24, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-April 24, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, April 24, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore
-
-
-COMMISSIONERS ABSENT:
-     
-Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:09
-  
-P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez –
-  
-Zoning Administrator, 
-
-        Sarah Vellve, Christine Lamorena, Aaron Starr, Michael Smith, Menaka Mohan,
-  
-Kanishka Burns, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.1651Q
                                                                                          
              
@@ -374,15 +41,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore
 ABSENT:
                 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0363Q
                                                                                          
              
@@ -429,7 +95,8 @@ Sugaya
 
 
 3a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV
   
                                                 
@@ -493,7 +160,8 @@ Sugaya
 
 
 3b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV 
                                                                                  
   
@@ -540,15 +208,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore
 ABSENT:
                 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1529Z
                                                           
                                              
@@ -615,15 +282,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1654C
                                                                                           
            
@@ -669,15 +335,14 @@ Sugaya
 MOTION:
                
 19119
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1693C
                                                                           
                   
@@ -727,8 +392,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -781,8 +444,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -878,8 +539,6 @@ how, in these very active times, to flag the things, where to ask questions, etc
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -967,8 +626,6 @@ Director Rahaim:
 Commissioners, the way that Mission Bay works is that you approve the design only --I don't understand the history of the site, but you approve design only on office uses, the office component, because of the Prop M allocation.
    
 Having said that, the Department will be at the table and we will be happy to come here as often as need be to actually update you and get your comments on the project.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1166,8 +823,6 @@ Bernie Choden – Waterfront Federal review
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1175,7 +830,8 @@ REGULAR CALENDAR
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2007.1275E
           
     
@@ -1270,7 +926,8 @@ MOTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2007.1275EM
                                                                                                (M. MOHAN: (415) 558-6284)
 
@@ -1321,7 +978,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2007.1275EM
                                                                                                (M. MOHAN: (415) 558-6284)
 
@@ -1366,15 +1024,14 @@ Sugaya
 RESOLUTION:
       
 19123
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0963U
                                                                                          
            
@@ -1456,16 +1113,15 @@ Adminstrative over kill
 
 ACTION:
                                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2013.1610C
                                                                                           
            
@@ -1539,7 +1195,8 @@ MOTION:
 
 
 15a.
-        
+<<Project End>>
+<<Project Start>>
 2012.1362CEV
                                                                                      
            
@@ -1632,7 +1289,8 @@ MOTION:
 
 
 15b.
-        
+<<Project End>>
+<<Project Start>>
 2012.1362CEV
                                                                                      
            
@@ -1720,15 +1378,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2013.1765D
                                                                          
                   
@@ -1843,15 +1500,14 @@ DRA No:
                 
                 
 0361
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.1009D
                                                                                                          
   

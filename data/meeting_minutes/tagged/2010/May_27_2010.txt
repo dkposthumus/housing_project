@@ -1,309 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 27, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ May 27, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-May 27, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 27, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Antonini, Lee, and Sugaya
-
-
-COMMISSIONERS ABSENT:  Olague, Borden and Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Julian Banales, Edgar Oropeza, Aaron Hollister, Diego Sanchez, AnMarie Rodgers, Ben Fu, Corey Teague, Sophie Hayward, Rick Crawford, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-           
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-            1.         2007.1457E                                                                          (J. BATTIS: (415) 575-9022)
-
-
-1050 Valencia Street
- -  west side between 21
-st
- and 22
-nd
- Streets at the southwest corner of Valencia Street and Hill Street; Lot 008 of Assessorâs Block 3617 
-- 
-Appeal of Preliminary Mitigated Negative Declaration
- for the construction of a mixed-use development with restaurant and residential uses.
-The proposed project would also include the demolition of an existing 1,670-square foot (sq ft), one-story restaurant building constructed in 1970. The new proposed five-story building would have 16 dwelling units over a 3,500-sq ft ground-floor and basement level full-service restaurant.
-The existing building has one off-street parking/loading space, which would not change. 
-The 3,315-sq ft project site is within the Valencia Street Neighborhood Commercial Transit (NCT) zoning district and a 55-X height and bulk district in the Mission District neighborhood. 
-
-
-Preliminary Recommendation: Uphold Preliminary Negative Declaration
-
-
-            
-(Continued from Regular Meeting of April 8, 2010)
-
-
-            
-(Proposed for Continuance to July 8, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              Antonini, Lee, Sugaya and Miguel
-
-
-ABSENT:          Borden, Moore and Olague
-
-
- 
-
-
-2a.       
 2010.0165DD
                                                          
 (S. Caltagirone:  (415) 558-6625)
@@ -343,7 +38,9 @@ ABSENT:          Borden, Moore and Olague
  
 
 
-2b.      
+2b.
+<<Project End>>
+<<Project Start>>
 2009.0443V
                                                              
 (S. Caltagirone:  (415) 558-6625)
@@ -376,15 +73,14 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
+<<Project End>>
+<<Project Start>>
 2009.0562C
                                                                                
  (S. Lai: (415) 575-9087)
@@ -420,15 +116,14 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-         
+<<Project End>>
+<<Project Start>>
 2005.1074E
                                                                          (D. DWYER: (415) 575-9031)
 
@@ -581,14 +276,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-7.        
+7.
+<<Project End>>
+<<Project Start>>
 2010.0168C
                                                                      (E. OROPEZA: (415) 558-6381)
 
@@ -624,14 +319,14 @@ ABSENT:          Borden, Moore and Olague
 
 MOTION:          
 18093
-<<Project End>>
-<<Project Start>>
 
 
             
 
 
-8.        
+8.
+<<Project End>>
+<<Project Start>>
 2009.0620C
                                                                     (A. HOLLISTER:  (415) 575-9078)
 
@@ -690,8 +385,6 @@ COMMISSIONERSâ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -720,8 +413,6 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -793,8 +484,6 @@ Because of the extent of the project and neighborhood involvement -- 45 to 60 is
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -812,8 +501,6 @@ Director Rahaim:
 -
   
 I think the continuances today were to offer you a shorter meeting to make up for last week.  The only thing I wanted to report on today was the position of acting zoning administrator, I wanted to let you know that I have asked Scott Sanchez of the Department to be Acting Zoning Administrator for the time being, however, because Scott is on a long-planned vacation this week and next week, Kelly Amdur will be filling in for him this week and next, then Scott will take over. And about that same time, I will be posting for the position of Zoning Administrator. I am working on the job description right now. So when that is prepared, I will certainly pass that onto you, the staff and the public as well.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -904,9 +591,7 @@ Rose Hillson
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
             
@@ -944,14 +629,14 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
             
 
 
-14.       
+14.
+<<Project End>>
+<<Project Start>>
 2010.0336U 
                                                                   (A. RODGERS: (415) 558-6395)
 
@@ -977,8 +662,6 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1017,8 +700,6 @@ ABSENT:          Borden, Moore and Olague
 
 MOTION:           
 18094
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -1061,8 +742,6 @@ ABSENT:          Borden, Moore and Olague
 
 MOTION:           
 18095
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -1113,7 +792,9 @@ DRA#:             
             
 
 
-18a.     
+18a.
+<<Project End>>
+<<Project Start>>
 2009.1124DDV
                                                                  (S. HAYWARD: (415) 558-6372)
 
@@ -1149,7 +830,9 @@ ABSENT:          Borden, Moore and Olague
  
 
 
-18b.     
+18b.
+<<Project End>>
+<<Project Start>>
 2009.1124DDV
                                                                  (S. HAYWARD: (415) 558-6372)
 
@@ -1176,14 +859,14 @@ AYES:              Antonini, Lee, Sugaya and Miguel
 
 
 ABSENT:          Borden, Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.       
+19.
+<<Project End>>
+<<Project Start>>
 2010.0205D
                                                                  (R.CRAWFORD: (415) 558-6358)
 
@@ -1214,8 +897,6 @@ ABSENT:          Borden, Moore and Olague
 
 DRA#:              
 0151
-<<Project End>>
-<<Project Start>>
 
 
             

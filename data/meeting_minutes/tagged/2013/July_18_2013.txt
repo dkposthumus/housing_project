@@ -1,316 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 18, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ July 18, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-July 18, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, July 18, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-      
-Fong, Wu, Antonini, Borden, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: 
-         
-Hillis
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:04 PM.
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, 
- 
-Claudia Flores, Steve Wertheim, AnMarie Rodgers, Sophie Hayward, Corey Teague, Don Lewis, Ben Fu, Michael Smith, Thomas Wang, and Jonas P. Ionin - Acting Commission Secretary.
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2010.0222E
                                                                           
                                      
@@ -359,15 +47,14 @@ Fong, Wu, Antonini, Moore, Sugaya
 ABSENT:
                  
 Borden, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.0030D
                                                                                           
                          
@@ -406,8 +93,6 @@ DISCRETIONARY REVIEW REQUEST WITHDRAWN
 B.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -489,8 +174,6 @@ And also I met with Project Sponsors in regards to an issue that's coming before
 C.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -512,8 +195,6 @@ Good afternoon, Commissioners. A couple of items in your packet today are a memo
 It's a summary of the study that we had conducted with Seifel Consulting looking at that program, looking at potential market analysis of possible sale of TDRs from City-owned properties. This was a result of discussions with several City departments and we did -- I think Dan just yesterday had a presentation of this to the Historic Preservation Commission and we're happy to answer any questions or have a future hearing on it, if you so desire. We don't know yet if there's -- I don't believe we are proposing any legislative changes at this point. This is more kind of a market analysis and a kind of a snapshot of where that program is right now.
   
 Secondly, I just wanted to let you know that in your packet today, that you'll get today, is a memo from me that -- regarding information that you requested about concentration and controls for restaurants. This came out of a discussion that you had on June 20th on the 443 Clement Street project. This is not related to formula retail. It is related simply to the concentration of eating and drinking establishments, and in that memo we summarize some of the current status of the General Plan and the code amendments on that issue, and the Code, Planning Code provisions on that issue and I'm proposing that we look at that in the context of the invest in neighborhoods strategy which is a strategy that a number of departments, including the Planning Department are involved in now in 25 commercial districts across the City. But again, that memo is in your packet today and we're happy to have a hearing on that at a future date if you so desire, and that concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -760,8 +441,6 @@ Dino Adelfio – 450-480 O’Farrel Street
 E.
              
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -769,7 +448,8 @@ REGULAR CALENDAR
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2013.0360U
                                                                                           
                 
@@ -829,15 +509,14 @@ reform
 ACTION:
                  
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2013.0808U
  
                                          
@@ -903,15 +582,14 @@ SPEAKERS:
 ACTION:
                  
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0911U
                                           
                          
@@ -998,15 +676,14 @@ Borden, Hillis
 RESOLUTION:
         
 18924
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0724T
                                                           
                                            
@@ -1053,15 +730,14 @@ Hillis
 RESOLUTION:
         
 18926
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-                
+<<Project End>>
+<<Project Start>>
 2013.0134T
                                                                           
                           
@@ -1131,7 +807,8 @@ RESOLUTION:
 
 
 11a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0671MZ 
  
                                                                                     
@@ -1178,8 +855,9 @@ RESOLUTION:
  
 
 
-11b.  
-      
+11b.
+<<Project End>>
+<<Project Start>>
 2013.0671MZ 
  
                                                                                                     
@@ -1226,7 +904,8 @@ RESOLUTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0430E 
  
                                                                                         
@@ -1371,7 +1050,8 @@ Fong, Hillis
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2011.0430XE 
  
                                                                                                       
@@ -1519,7 +1199,8 @@ Fong, Hillis
 
 
 13a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0259CV
                                                         
                            
@@ -1693,43 +1374,31 @@ Sylvia Somner – Object to expansion, noise, negative impacts
 ACTION:
          
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Limiting the number of students to 42;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Requiring the Project Sponsor, neighbors and staff to work on establishing the fence height(s) between 3771-3781 Cesar Chavez and neighboring properties;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 Limiting the Day Care hours of operation to 7 am to 6 pm;
-<<Project End>>
-<<Project Start>>
 
 
 4.
        
 Adopting the Acoustical Measures submitted to the Commission, sans Items 5, 6 and 7, and establishing a 14 day advance notice for Item 11;
-<<Project End>>
-<<Project Start>>
 
 
 5.
        
 A report from staff to the Commission in one year; and
-<<Project End>>
-<<Project Start>>
 
 
 6.
@@ -1758,7 +1427,8 @@ MOTION:
 
 
 13b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0259CV
                                                         
                            
@@ -1793,8 +1463,6 @@ a RH-2 (Residential, House, Two-Family) District and 40-X Height and Bulk Distri
 
 AFTER CLOSING THE PUBLIC HEARING, ZA INDICATED AN INTENT TO GRANT CITING CONDITIONS ADOPTED BY THE PLANNING COMMISSION
 .
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1804,7 +1472,8 @@ AFTER CLOSING THE PUBLIC HEARING, ZA INDICATED AN INTENT TO GRANT CITING CONDITI
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2006.0647DD
        
             
@@ -1889,15 +1558,14 @@ Moore, Hillis
 DRA:
                        
 0327
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2012.0036D 
  
                                                                                         

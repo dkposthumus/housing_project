@@ -1,318 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 28, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ February 28, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-February 28, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 28, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 28, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:46 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Scott Sanchez, David Lindsay, Sarah Jones, Adrian Putra, Corey Teague, Edgar Oropeza, Ericka Jackson, Glenn Cabreros, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
-COMMISSION'S RULES AND REGULATIONS
- - Discussion and possible action to amend the Commission's Rules and Regulations to address imposing time constraints on submittal of documents and material for review by the Commission and the public; discuss and possibly establish rules or policies that address other areas of interest of the Commission.
-
-
-(Continued from Regular Meeting of December 20, 2007)
-
-
-(Proposed for Continuance to March 6, 2008)
-
-
- 
-
-
-SPEAKER(S):
- 
- None
-
-
-ACTION:
- 
- Continued indefinitely
-
-
-AYES:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.
- 
- 
 2007.1382C
  
  
@@ -359,8 +45,8 @@ AYES:
 
 
 3a
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -411,8 +97,9 @@ AYES:
 
 
 3b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -461,8 +148,9 @@ AYES:
 
 
 4a.
- 
- 2007.0172D
+<<Project End>>
+<<Project Start>>
+2007.0172D
  
  
  
@@ -509,8 +197,9 @@ AYES:
 
 
 4b.
- 
- 2007.0177D
+<<Project End>>
+<<Project Start>>
+2007.0177D
  
  
  
@@ -551,16 +240,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.1281C
+<<Project End>>
+<<Project Start>>
+2007.1281C
  
  (A. HOLLISTER: (415) 575-9078)
 
@@ -617,8 +305,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -984,8 +670,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1018,8 +702,6 @@ We will further engaged with them in about three weeks.
  The requests made today regarding the hospitals and the Van Ness corridor seem exactly suited to the types of work that we should be doing and bringing to you.
  
  We will calendar those as quickly as possible.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1275,8 +957,6 @@ John Bardis
 -
  
  I strongly urge you to ask the Board of Supervisors to have the Market – Octavia Plan's substantial amendments referred to this Commission and to not deny proper public process.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1582,16 +1262,15 @@ F.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.1193D
+<<Project End>>
+<<Project Start>>
+2007.1193D
  
  
 (Tape IB)
@@ -1671,8 +1350,6 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1680,8 +1357,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  11.
- 
- 2007.1366C
+<<Project End>>
+<<Project Start>>
+2007.1366C
  
  
 (Tape IB)
@@ -1724,16 +1402,15 @@ MOTION:
  
  
 17562
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.1362X
+<<Project End>>
+<<Project Start>>
+2007.1362X
  
  
  
@@ -1791,8 +1468,6 @@ H.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1802,8 +1477,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2007.1355T
+<<Project End>>
+<<Project Start>>
+2007.1355T
  
  
  
@@ -1838,16 +1514,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0460E
+<<Project End>>
+<<Project Start>>
+2006.0460E
  
  
 (Tape IB; IIA)
@@ -2076,16 +1751,15 @@ ACTION:
 
 
 March 10, 2008
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.1218C
+<<Project End>>
+<<Project Start>>
+2007.1218C
  
  
 (Tape IIA)
@@ -2180,16 +1854,15 @@ MOTION:
  
  
 17563
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.1167D
+<<Project End>>
+<<Project Start>>
+2007.1167D
  
  
  
@@ -2228,8 +1901,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2237,8 +1908,9 @@ AYES:
 
  
  17.
- 
- 2007.1211D
+<<Project End>>
+<<Project Start>>
+2007.1211D
  
  
  
@@ -2572,16 +2244,15 @@ AYES:
 NAYES:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.0781D
+<<Project End>>
+<<Project Start>>
+2007.0781D
  
  
 (Tape IIIA)
@@ -2682,16 +2353,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.0434DDD
+<<Project End>>
+<<Project Start>>
+2007.0434DDD
  
  
 (Tapes IIIA; IIIB)
@@ -3073,8 +2743,8 @@ AYES:
 
 
 20a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1372D
  
  
@@ -3193,8 +2863,9 @@ ACTION:
 
 
 20b.
- 
- 2007.0475V
+<<Project End>>
+<<Project Start>>
+2007.0475V
  
  
  
@@ -3224,8 +2895,6 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3233,8 +2902,9 @@ ACTION:
 
  
  21.
- 
- 2007.1393D
+<<Project End>>
+<<Project Start>>
+2007.1393D
  
  
 (Tape IVA)

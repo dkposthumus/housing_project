@@ -1,413 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 26, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ May 26, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-May 26, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
- 
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, May 26, 2011
-
-
-
-
-12:00 PM
-
-
-Regular 
-Meeting
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, 
-Sugaya
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT: 12:10 PM  
-
-
-
-
-
-
- 
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â 
-Zoning Administrator, Adrian Putra, Rick Crawford, Sharon Lai, Aaron Starr, 
-Jeremy Battis, Ben Fu, Diego Sanchez, Aaron Hollister, Linda Avery â Commission 
-Secretary
-
-
-
-
- 
-
-
-A.
-                 
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         2010.0182
-UT
-                 
-                                                     (E. LOVEJOY: (415) 
-575-9026)
-
-
-
-
-
-
-
-Standards for Bird-Safe Buildings
- - 
-
-
-The Planning 
-Commission will consider two items: 1) a draft policy document titled "Standards 
-for Bird-Safe Buildings" and 2) a proposed Ordinance that would amend the 
-Planning Code to implement the proposed policy document
-. 
-The actions are intended to a) reduce building-related hazards for San 
-Franciscoâs resident and migrant bird species; b) establish consistent building 
-standards for creating bird-safe buildings; and c) provide certain exemptions 
-from these requirements. The proposed Ordinance would amend the Planning Code to 
-create a new Section, 139 Bird-Safe Building Standards; and would amend other 
-sections, including Section 145.1; and adopting findings, including 
-environmental findings, Section 302 findings, and findings of consistency with 
-the General Plan and priority policies of Planning Code Section 101.1.
-
-
-
-
-Preliminary Recommendatio
-n: Approve a draft Resolution recommending 
-approval of amendments to the Planning Code and adopting a Commission policy 
-document titled "Standards for Bird-Safe Buildings".
-
-
-
-
-                        (Proposed for 
-Continuance to July 14, 2011)
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-SPEAKERS:     None
-
-
-
-
-ACTION:           Continued as 
-proposed
-
-
-
-
-AYES:              Antonini, Borden, Fong, Miguel, Moore, 
-Olague
-
-
-
-
-ABSENT:          Sugaya
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-2.         
 2011.0051C                                                                  
 
      (M. Woods:  (415) 558-6315)
@@ -465,8 +56,6 @@ Olague
 
 
 ABSENT:          Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -474,7 +63,9 @@ ABSENT:          Sugaya
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2010.0517C                                                                              
 
 (S.Lai:  (415) 575.9087)
@@ -528,8 +119,6 @@ Commission.  There will be no separate discussion of these items unless a membe
 of the Commission, the public, or staff so requests, in which event the matter 
 shall be removed from the Consent Calendar and considered as a separate item at 
 this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -539,9 +128,9 @@ this or a future hearing
 
 
 
-4.        
-
-
+4.
+<<Project End>>
+<<Project Start>>
 2011.0009C
                                                                    
      (A. PUTRA:  (415) 575-9079)
@@ -596,8 +185,6 @@ ABSENT:          Sugaya
 
 
 MOTION:           18366
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -606,9 +193,9 @@ MOTION:           18366
 
 
 
-5.        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0228C
                                                              
    (R. 
@@ -676,8 +263,6 @@ NAYES:                        Moore, Sugaya and Olague
 
 
 MOTION:           18368
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -685,9 +270,9 @@ MOTION:           18368
  
 
 
-6.        
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2010.1135C
                                                                    
              
@@ -777,8 +362,6 @@ Section 4.104 requires all commissioners to vote yes or no on all matters unless
 that commissioner is excused by a vote of the Commission.  Commissioners may not 
 be automatically excluded from a vote on the minutes because they did not attend 
 the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -827,8 +410,6 @@ Borden, Fong, Miguel, Moore, Olague,
 
 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1009,8 +590,6 @@ in the neighborhood and all this other stuff.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1062,8 +641,6 @@ because those types of projects are no longer funded through the City's General
 Fund, and so I appreciate your comments.  And I want to congratulate staff for 
 winning the third award in the last month on our project. We're really pleased 
 about that.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1385,9 +962,7 @@ Dean Preston
 F
 .        
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1397,9 +972,9 @@ REGULAR CALENDAR
 
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2011.0172T
                                                                    
       (A. STARR: (415) 558-6362)
@@ -1467,8 +1042,6 @@ AYES:              Antonini,
 Borden, Fong, Miguel, Moore, Olague,
  
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1478,9 +1051,9 @@ Sugaya
 
 
 
-12.       
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2011.0093D
                                                                           
 (A. STARR: (415) 558-6362)
@@ -1516,8 +1089,6 @@ not take Discretionary Review and approve
 
 DISCRETIONARY REVIEW 
 APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1529,9 +1100,9 @@ APPLICATION WITHDRAWN
 
 
 
-13.       
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2004.0891E
                                                                    
       (J. BATTIS: (415) 575-9022)
@@ -1626,11 +1197,8 @@ MOTION:           18369
 
 
 14a.
-     
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2004.0891CK
  
                                                                             (B. 
@@ -1712,9 +1280,9 @@ MOTION:           18371
 
 
 
-14b.     
-
-
+14b.
+<<Project End>>
+<<Project Start>>
 2004.0891CK
                                                      
                         
@@ -1779,8 +1347,6 @@ Sugaya
 
 
 MOTION:           18370
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1790,9 +1356,9 @@ MOTION:           18370
 
 
 
-15.       
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2010.0628C
                                                                   
 
@@ -1869,8 +1435,6 @@ Sugaya
 
 
 MOTION:           18372
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1878,9 +1442,9 @@ MOTION:           18372
  
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2010.0872C
                                                                     
 (A. HOLLISTER:  (415) 575-9078)
@@ -1943,8 +1507,6 @@ Sugaya
 
 
 MOTION:           18373
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1954,12 +1516,9 @@ MOTION:           18373
 
 
 
-17.        
-
-
-
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2010.0987C
                                                                    
    (S. VELLVE:  (415) 558

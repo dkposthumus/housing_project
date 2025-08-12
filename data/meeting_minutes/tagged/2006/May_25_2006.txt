@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 25, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ May 25, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-May 25, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 25, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 25, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- President Sue Lee; Vice President Dwight Alexander; Shelley Bradford-Bell; Kevin Hughes; William Lee; and Christina Olague
-
-
-COMMISSIONERS ABSENT:
- 
- Michael Antonini
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Paul Lord; Michelle Glueckert; Jonathan Purvis; Ben Fu; Sara Vellve; Rick Crawford; Moses Corrette; David Alumbaugh; Ken Rich; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0100C
+2006.0100C
  
  
  
@@ -325,8 +51,6 @@ AYES:
 ABSENT:
  
  Alexander and Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -340,8 +64,8 @@ ABSENT:
 
  
  2.
- 
- 
+<<Project End>>
+<<Project Start>>
 2003.1183E
  
  
@@ -399,16 +123,15 @@ AYES:
 ABSENT:
  
  Alexander and Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2005.1145D 
+<<Project End>>
+<<Project Start>>
+2005.1145D 
  
  
  
@@ -448,8 +171,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -555,8 +276,6 @@ EXCUSED:
 ABSENT:
  
  Alexander and Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -688,8 +407,6 @@ Educational facilities and hospitals over a certain size have to have a Master P
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -698,8 +415,6 @@ C.
 6.
  
  Director's Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -708,8 +423,6 @@ C.
 7.
  
  Review of Past Week's Events at the Board of Supervisors and Board of Appeals
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -777,16 +490,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2005.1000D
+<<Project End>>
+<<Project Start>>
+2005.1000D
  
  
  
@@ -844,8 +556,9 @@ F.REGULAR CALENDAR
 
 
 10a.
- 
- 2005.0543D 
+<<Project End>>
+<<Project Start>>
+2005.0543D 
  
  
  
@@ -907,8 +620,9 @@ ABSENT:
 
 
 10b.
- 
- 2005.0971D 
+<<Project End>>
+<<Project Start>>
+2005.0971D 
  
  
  
@@ -970,8 +684,8 @@ ABSENT:
 
 
 11a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0769D 
  
  
@@ -1021,8 +735,9 @@ ABSENT:
 
 
 11b.
- 
- 2005.0775D 
+<<Project End>>
+<<Project Start>>
+2005.0775D 
  
  
  
@@ -1076,8 +791,9 @@ ABSENT:
 
  
  12a.
- 
- 2005.0857
+<<Project End>>
+<<Project Start>>
+2005.0857
 C
 D
  
@@ -1197,9 +913,10 @@ MOTION #:
 
 
  
- 12b. 
- 
- 2005.0857C
+ 12b.
+<<Project End>>
+<<Project Start>>
+2005.0857C
 D
  
  
@@ -1283,8 +1000,9 @@ ABSENT:
 
 
 13a.
- 
- 2005.1207D
+<<Project End>>
+<<Project Start>>
+2005.1207D
  
  (S. VELLVE: (415) 558-6263)
 
@@ -1332,8 +1050,9 @@ ABSENT:
 
 
 13b.
- 
- 2006.0064V
+<<Project End>>
+<<Project Start>>
+2006.0064V
  
  
  
@@ -1366,8 +1085,8 @@ ACTION:
 
 
 14a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1084
 C
 V
@@ -1433,8 +1152,9 @@ MOTION #:
 
 
 14b.
- 
- 2005.1084C
+<<Project End>>
+<<Project Start>>
+2005.1084C
 V
  
  
@@ -1483,8 +1203,9 @@ ACTION:
 
 
 15a.
- 
- 2005.0938
+<<Project End>>
+<<Project Start>>
+2005.0938
 C
 R
  
@@ -1615,8 +1336,9 @@ ABSENT:
 
 
 15b.
- 
- 2005.0938C
+<<Project End>>
+<<Project Start>>
+2005.0938C
 R
  
  (M. SMITH:
@@ -1672,8 +1394,6 @@ AYES:
 ABSENT:
  
  Alexander and Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1718,8 +1438,6 @@ ACTION:
  Informational only.
  
  No action taken
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1761,8 +1479,9 @@ ACTION:
 
  
  18a.
- 
- 2006.0373
+<<Project End>>
+<<Project Start>>
+2006.0373
 T
  
  
@@ -1840,8 +1559,9 @@ ABSENT:
 
  
  18b.
- 
- 2006.0373Z
+<<Project End>>
+<<Project Start>>
+2006.0373Z
  
  
  

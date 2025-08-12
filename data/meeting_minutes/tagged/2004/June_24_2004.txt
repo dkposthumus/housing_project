@@ -1,242 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 24, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ June 24, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-June 24, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 24, 2004
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
- Meeting Minutes
-
-
-Thursday, June 24, 2004
-
-1:30 PM
-
-
-Regular Meeting
-
-
-PRESENT: Bradford Bell; Antonini; Boyd; Hughes, S. Lee, W. Lee
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD-BELL AT 1:40 PM
- 
-
-
-STAFF IN ATTENDANCE:  Larry Badiner - Acting Director of Planning; Jim Nixon- Acting Zoning Administrator; Jean Paul Samaha; Joan Kugler; Mathew Snyder; Michael Smith; Tina Tam; Rick Crawford; Glenn Cabreros; Patricia Gerber - Transcription Secretary; Linda D. Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-
-    The Commission will consider a request for continuance to a later date. The 
-    Commission may choose to continue the item to the date proposed below, to 
-    continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-
-
-
 1. 2003.0106D (M. WOODS: (415) 558-6315)
 
 
@@ -280,12 +42,6 @@ SPEAKER(S): None
 ACTION: None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 2. 2004.0388D (T. TAM: (415) 558-6325)
 
 
@@ -330,12 +86,6 @@ SPEAKER(S): None
 ACTION: None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 3. 2002.1129E (L. GIBSON: (415) 558-5993)
 
 
@@ -394,12 +144,6 @@ SPEAKER(S): None
 ACTION: None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 4. 2003.1110T (C. NIKITAS:(415) 558-6306)
 
 
@@ -455,12 +199,6 @@ ACTION: Continued as proposed
 AYES: Bradford-Bell; Antonini; Boyd; Hughes; S. Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 5. 2004.0088C (M. SNYDER: (415) 558-6891)
 
 
@@ -497,8 +235,6 @@ ACTION: Continued as proposed
 AYES: Bradford-Bell; Antonini; Boyd; Hughes; S. Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 6. 2003.1164D (M. WOODS: (415) 558-6315)
 
 
@@ -570,10 +306,6 @@ ACTION: Continued as proposed
 AYES: Bradford-Bell; Antonini; Boyd; Hughes; S. Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 7. 2004.0399DD (G. CABREROS: (415) 558-6169)
 
 
@@ -610,7 +342,7 @@ John Henry Copa
 - Opposed the continuance of 2121 Leavenworth Street to September 9,
 <<Project End>>
 <<Project Start>>
-          2004.
+2004.
 
 
 - Requested this item be continued to September 23, 2004.
@@ -633,9 +365,6 @@ AYES: Bradford-Bell; Antonini; Boyd; Hughes; S. Lee; W. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 8.  Commission Comments/Questions
 
 
@@ -688,16 +417,12 @@ Commissioner Boyd:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
- 9. Director's Announcements
+9. Director's Announcements
 
 
 None
 <<Project End>>
 <<Project Start>>
-
-
 10. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -725,8 +450,6 @@ BoS:
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 11. 2004.0504T                                                        (J.P. SAMAHA: (415) 558-6602)
 
 
@@ -783,8 +506,6 @@ AYES:   Bradford-Bell; Antonini, Hughes, S. Lee; W. Lee
 RESOLUTION NO. 16822
 <<Project End>>
 <<Project Start>>
-
-
 12.  2003.1028E                                                                            (J.A. KUGLER: 558-5983)
 
 
@@ -900,8 +621,6 @@ AYES:   Bradford-Bell; Antonini; Hughes; S. Lee; W. Lee
 MOTION NO. 16823
 <<Project End>>
 <<Project Start>>
-
-
 13. 2004.0480C                                                         (M. LI:  (415) 558-6396)
 
 
@@ -1008,8 +727,6 @@ NAYES: Hughes
 MOTION NO. 16824
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0375C                                (M. SNYDER: (415) 575-6891)
 
 
@@ -1054,8 +771,6 @@ ABSENT Hughes
    MOTION NO. 16825
 <<Project End>>
 <<Project Start>>
-
-
 15. 2004.0438C                                (M. SNYDER: (415) 575-6891)
 
 
@@ -1082,8 +797,6 @@ Harlan Cauffman
 ACTION: Approved with conditions as amended:
 <<Project End>>
 <<Project Start>>
-
-
 2.  This authorization does not include any expansion of the restaurant use, or the establishment of any other use with the proposed ground floor addition approved under Building Permit Application No. 2004.05.20.4334.  Any expansion into that space, or any new established use in that space 
 other than retail (Other Retail and Service as defined by Planning Code Section 790.102)
  shall require separate Planning Department review and approval, including Conditional Use authorization if required by Code, and shall be subject to any notification requirements in effect at that time.  
@@ -1098,8 +811,6 @@ ABSENT: Hughes
 MOTION NO. 16826
 <<Project End>>
 <<Project Start>>
-
-
 16. 2002.1255C                        (M. SMITH: (415) 558-6322)
 
 
@@ -1224,8 +935,6 @@ AYES:   Bradford-Bell; Antonini; Hughes; S. Lee; W. Lee
 MOTION NO. 16827
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.1099C                                    (M. SMITH: (415) 558-6322)
 
 
@@ -1572,9 +1281,6 @@ NAYES: Hughes
 ITEM #19 WAS TAKEN OUT OF ORDER AND HEARD AFTER ITEM # 17
 <<Project End>>
 <<Project Start>>
- 
-
-
 19. 2003.0741D                            (T. TAM: (415) 558-6325) 
 
 
@@ -1725,8 +1431,6 @@ ACTION: Approved as amended:
 AYES:   Bradford-Bell; Antonini; Hughes; S, Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 20. 2004.0299DDD                      (S. VELLVE: (415) 558-6263)
 
 
@@ -1756,8 +1460,6 @@ ACTION:   Without a hearing, continued to July 22, 2004.
 AYES:      Bradford-Bell; Antonini; Hughes; S, Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 21. 2004.0360DD                          (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1849,8 +1551,6 @@ ACTION: The Commission stated that the top story was unacceptable and directed t
 AYES:  Bradford-Bell; Antonini; Hughes; S, Lee; W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 22. 2004.0460DDD               (G. CABREROS: (415) 558-6169)
 
 

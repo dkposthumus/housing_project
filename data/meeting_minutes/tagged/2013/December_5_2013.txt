@@ -1,295 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 5, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ December 5, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-December 5, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, December 5, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 09 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Brittany Bendix, Kanishka Burns, Christine Lamorena, Sara Vellve, Elizabeth Watty, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.1427E 
                                                                                         
                
@@ -356,15 +65,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0994C
                                                                                           
          
@@ -415,15 +123,14 @@ Hillis
 MOTION:
                
 19030
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0789C
                                                                           
                          
@@ -469,15 +176,14 @@ Hillis
 MOTION:
                
 19031
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0849C
  
                                                          
@@ -538,8 +244,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -592,8 +296,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -708,8 +410,6 @@ Commissioner Borden:
 
 
 I just wanted to recognize that last Saturday was Small Business Saturday, and I did see Regina Dick-Endrizzi out, of the Small Business Commission, Women Impacting Public Policy and the Chamber out in the neighborhoods promoting it, and raising awareness. I do want to point that out, because there was a conversation early about our neighborhood commercial corridors and supporting them.
-<<Project End>>
-<<Project Start>>
 
 
         
@@ -763,8 +463,6 @@ Reviewed and commented; placed proposed amendments on the December 19, 2013 Agen
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -794,8 +492,6 @@ And the same with parking, as you may remember, there have been some back and fo
 This finally resolved that issue by removing parking as a significant impact under CEQA and that as I understand will go into effect immediately. So, those changes, are the changes that the Governor put forward and the Senate and the Legislature passed this past year. And we will keep you up to date on the Level of Service. That's an important part of analysis.
   
 It’s probably the single most time consume aspect how we do our CEQA reviews. And a change will be welcome in looking at traffic and impacts in a more reasonable way, in the future. That concludes my report unless there are questions, thank you.
-<<Project End>>
-<<Project Start>>
 
 
 9.
@@ -869,8 +565,6 @@ Sue Hestor – Area Plan presentation information request
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -896,16 +590,15 @@ Bruce Sterns – DPW, Presentation
 
 ACTION:
                                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2012.0518I
                                                                                            
           
@@ -938,7 +631,8 @@ Reviewed and commented
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2012.0605BEKUX
                                                                                
            
@@ -1007,7 +701,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2012.0605BEKUX
                        
                                                                    

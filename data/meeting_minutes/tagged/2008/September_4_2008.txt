@@ -1,270 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 4, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ September 4, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-September 4, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 4, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 4, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Cecilia Jaroslawsky, Tim Frye, Elizabeth Watty, Amnon Ben-Pazi, Jonas Ionin, Bill Wycko, Chris Kern, Tara Sullivan-Lenane, AnMarie Rodgers, Adrian Putra, Sophie Middlebrook, Glenn Cabreros, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 
 2006.0441E
  
  
@@ -318,8 +52,9 @@ AYES:
 
 
 1b.
- 
- 2006.0441V
+<<Project End>>
+<<Project Start>>
+2006.0441V
  
  
  
@@ -372,9 +107,9 @@ AYES:
  
 
 
-2a. 
- 
- 
+2a.
+<<Project End>>
+<<Project Start>>
 2007.0676D
  
  
@@ -424,9 +159,9 @@ AYES:
  
 
 
-2b. 
- 
- 
+2b.
+<<Project End>>
+<<Project Start>>
 2008.0752D
  
  
@@ -470,8 +205,6 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -479,8 +212,9 @@ AYES:
 
  
  3.
- 
- 2008.0911
+<<Project End>>
+<<Project Start>>
+2008.0911
 T
  
  
@@ -534,8 +268,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 4a.
- 
- 2007.0188D
+<<Project End>>
+<<Project Start>>
+2007.0188D
  
  
  
@@ -583,8 +318,9 @@ DRA#:
 
 
 4b.
- 
- 2007.0189D
+<<Project End>>
+<<Project Start>>
+2007.0189D
  
  
  
@@ -629,8 +365,6 @@ AYES:
 DRA#:
  
  0014
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -638,8 +372,8 @@ DRA#:
 
  
  5.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1334A
  
  
@@ -688,16 +422,14 @@ NAYES:
 MOTION:
  
  17687
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0634C
  
  
@@ -739,16 +471,15 @@ AYES:
 MOTION:
  
  17685
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2008.0630C
+<<Project End>>
+<<Project Start>>
+2008.0630C
  
  (A. BEN-PAZI: (415) 575-9089)
 
@@ -785,16 +516,15 @@ AYES:
 MOTION:
  
  17686
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0861C
+<<Project End>>
+<<Project Start>>
+2008.0861C
  
  
  
@@ -862,8 +592,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -903,8 +631,6 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1090,8 +816,6 @@ On the 25 of September we are discussion sustainability.
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1200,8 +924,6 @@ SPEAKERS:
 ACTION:
  
  None – The item will be scheduled for a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1238,8 +960,6 @@ SPEAKERS:
 ACTION:
  
  None – Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1269,8 +989,6 @@ SPEAKERS:
 ACTION:
  
  None – Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1374,8 +1092,9 @@ REGULAR CALENDAR
 
 
 16a.
- 
- 2005.0470E
+<<Project End>>
+<<Project Start>>
+2005.0470E
  
  
  
@@ -1440,8 +1159,9 @@ MOTION:
 
 
 16b.
- 
- 2005.0470A
+<<Project End>>
+<<Project Start>>
+2005.0470A
 C
 V 
  
@@ -1495,8 +1215,9 @@ MOTION:
 
 
 16c.
- 
- 2005.0470AC
+<<Project End>>
+<<Project Start>>
+2005.0470AC
 V
  
  
@@ -1529,8 +1250,8 @@ ACTION:
 
 17
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.1008T
  
  
@@ -1583,8 +1304,6 @@ ABSENT:
 
 
 5:30 p.m.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1650,16 +1369,14 @@ ABSENT:
 DRA#:
  
  0015
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0099D
  
  
@@ -1706,16 +1423,15 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2008.0805D
+<<Project End>>
+<<Project Start>>
+2008.0805D
  
 (S. MIDDLEBROOK: (415) 558-6372)
 
@@ -1760,16 +1476,14 @@ ABSENT:
 DRA#:
  
  0016
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0492D
  
  
@@ -1825,16 +1539,15 @@ ABSENT:
 DRA#:
  
  0017
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2008.0501DDD
+<<Project End>>
+<<Project Start>>
+2008.0501DDD
  
  
  

@@ -1,285 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 1, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ October 1, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-October 1, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 1, 2009
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 1, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Olague, Antonini, Borden, Moore and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-Larry Badiner – Zoning Administrator, Tara Sullivan, Corey Teague, Mary Woods, Sophie Hayward, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2008.0787
 T
  
@@ -324,16 +43,15 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2009.0639C
+<<Project End>>
+<<Project Start>>
+2009.0639C
  
  
  
@@ -378,16 +96,15 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2009.0747C:
+<<Project End>>
+<<Project Start>>
+2009.0747C:
  
  
  
@@ -432,16 +149,14 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0424C
  
  
@@ -514,8 +229,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -578,8 +291,6 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1004,8 +715,6 @@ I just want to thank a couple of the DR Requestors for 176 Randall, which has be
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1047,8 +756,6 @@ Last week I alerted you to an emergency demolition on Laidly Street which was th
  He determined that this was not an earthquake shake; did not have the proper features; did not have the proper siding; the roof trusses were spaced differently so that is good news.
  
  It is unfortunately that it was allowed to deteriorate, but it was not an earthquake shake and I wanted to make sure the record reflected that.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1351,8 +1058,6 @@ Maybe I can do a better job of making that known to the public, but the system d
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1364,8 +1069,9 @@ REGULAR CALENDAR
 
 
 9.
- 
- 2008.0911
+<<Project End>>
+<<Project Start>>
+2008.0911
 T
  
  (T. SULLIVAN: (415) 558-6257)
@@ -1408,16 +1114,15 @@ ABSENT:
 RESOLUTION:
  
  17957
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2009.0750D 
+<<Project End>>
+<<Project Start>>
+2009.0750D 
  
  
  
@@ -1477,16 +1182,15 @@ ABSENT:
 DRA:
  
  0110
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2009.0631D
+<<Project End>>
+<<Project Start>>
+2009.0631D
  
  
  
@@ -1609,8 +1313,9 @@ ABSENT:
 
 
 12b.
- 
- 2008.0003DDDDDDD
+<<Project End>>
+<<Project Start>>
+2008.0003DDDDDDD
  
  
  

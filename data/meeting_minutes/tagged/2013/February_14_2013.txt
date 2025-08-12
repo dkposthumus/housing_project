@@ -1,276 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ February 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-February 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Notice of Meeting 
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 14, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:12 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Corey Teague, Kevin Guy, Tara Sullivan, Thomas Disanto, Keith DeMartini, and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-    
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2011.0800C                                                                          (S. VELLVE: (415) 558-6263)
 
 
@@ -319,15 +47,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2012.1296C
                                                                        (C. TEAGUE: (415) 575-9081)
 
@@ -351,15 +78,11 @@ Preliminary Recommendation: Approval with Conditions
 
 ACTION:           
 After being pulled off of Consent – Approved w/Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Project Sponsor to continue working with Staff to address the intensity of illumination for lighting and signs; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -394,8 +117,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -428,8 +149,6 @@ AYES:              Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
             ABSENT:          Wu
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -516,8 +235,6 @@ Director Rahaim, thank you for issuing a quick response to the Railroad Boulevar
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -532,9 +249,7 @@ D.         DIRECTOR’S REPORT
 Director Rahaim:
 
 
-Thank you Jonas, Commissioners, I wanted to just give you a couple of updates on the functions of the Housing Review Committee which is a committee that I sit on as part of what was -- it was created out of Prop C for the Housing Trust Fund. That Committee was charged under the Housing Trust Fund to come up with a definition of quote: “significant increase of residential development.” And to give you the background, the ballot measure that passed last year lowered the inclusionary housing requirement from 15% to 12% and capped it at 12%, but created exceptions to that cap when there is quote: “a significant increase in residential development.” It did not define what that meant and created this Housing Review Committee that would define what that meant to move forward. What that would allow, is that for sites that are larger or have a higher increase, that are up zoned, the ballot measure allows the City to require higher than 12% inclusionary. So, that Housing Review Committee is made up of myself, Olson Lee, the Director of the  Mayor's Office of Housing, and Todd Rufo, Director of the Office of Economic and Work Force Development. It's a public meeting. We had our first meeting last Thursday and we will be meeting again on a yet to be determined date to get a more specific recommendation from staff on what constitutes the exceptions that would allow us to increase the inclusionary requirements beyond 12%. So, I just wanted to report to you on that activity and as soon as we have that meeting date I will give you that information as well. And that concludes my report.
-<<Project End>>
-<<Project Start>>
+Thank you Jonas, Commissioners, I wanted to just give you a couple of updates on the functions of the Housing Review Committee which is a committee that I sit on as part of what was -- it was created out of Prop C for the Housing Trust Fund. That Committee was charged under the Housing Trust Fund to come up with a definition of quote: “significant increase of residential development.” And to give you the background, the ballot measure that passed last year lowered the inclusionary housing requirement from 15% to 12% and capped it at 12%, but created exceptions to that cap when there is quote: “a significant increase in residential development.” It did not define what that meant and created this Housing Review Committee that would define what that meant to move forward. What that would allow, is that for sites that are larger or have a higher increase, that are up zoned, the ballot measure allows the City to require higher than 12% inclusionary. So, that Housing Review Committee is made up of myself, Olson Lee, the Director of the  Mayor's Office of Housing, and Todd Rufo, Director of the Office of Economic and Work Force Development. It's a public meeting. We had our first meeting last Thursday and we will be meeting again on a yet to be determined date to get a more specific recommendation from staff on what constitutes the exceptions that would allow us to increase the inclusionary requirements beyond 12%. So, I just wanted to report to you on that activity and as soon as we have that meeting date I will give you that information as well. And that concludes my report. 
 
 
  
@@ -603,7 +318,9 @@ REGULAR CALENDAR
  
 
 
-7a.        
+7a.
+<<Project End>>
+<<Project Start>>
 2013.0050CTZ
                                                                           (K. GUY: (415) 558-6163)
 
@@ -645,7 +362,9 @@ RESOLUTION:   18805
  
 
 
-7b.       
+7b.
+<<Project End>>
+<<Project Start>>
 2013.0050CTZ
                                                                           (K. GUY: (415) 558-6163)
 
@@ -691,7 +410,9 @@ RESOLUTION:   18805
  
 
 
-7c.        
+7c.
+<<Project End>>
+<<Project Start>>
 2013.0050CTZ
                                                                          (K. GUY: (415) 558-6163)
 
@@ -728,15 +449,14 @@ NAYES:                        Moore, Sugaya
 
 
 MOTION:           18806
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2012.1482B
                                                                      (T. SULLIVAN: (415) 558-6257)
 
@@ -770,15 +490,14 @@ Approved with Conditions, instructing Staff to continue working with the “succ
 
 
             MOTION:           18807
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-     
+<<Project End>>
+<<Project Start>>
 2012.1424C
                                                                   (C. TEAGUE: (415) 575-9081)
 
@@ -810,15 +529,14 @@ Approved with Conditions
 
 
             MOTION:           18808
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2012.1353C
                                                                      (
 D. SÁNCHEZ: (415) 575-9082)
@@ -848,8 +566,6 @@ Adopted a Motion of Intent to Disapprove, and Continued to Feb. 28, 2013.
 
 
             NAYES:            Fong, Antonini
-<<Project End>>
-<<Project Start>>
 
 
             

@@ -1,324 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 23, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ June 23, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-June 23, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
- 
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, June 
-23, 2011
-
-
-
-
-
-12:00 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS PRESENT: Olague, 
-Antonini, Fong, Moore, and Sugaya
-
-
-
-
-COMMISSIONERS ABSENT:  Miguel and 
-Borden
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY 
-PRESIDENT OLAGUE AT: 12:14 PM
-
-
-
-
- 
-
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim -  Director of Planning, Dan Sider â Acting 
-Zoning Administrator, Erika Lovejoy, Corey Teague, Rick Crawford, Adrian Putra, 
-Michael Jacinto, Kevin Guy, Susan Exline, Aaron Hollister, Erika Jackson, Sharon 
-Lai, Kirsten Dischinger, and Linda D. Avery â Commission Secretary
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
- 
-
-
-
-
-
-1.         
 2011.0399C                                                                   
           
 (K. Guy: (415) 558-6163)
@@ -389,11 +69,11 @@ AYES:              Olague, Antonini, Moore, and Sugaya
 
 
 ABSENT:          Borden, Fong, and Miguel
+
+
+2.
 <<Project End>>
 <<Project Start>>
-
-
-2.         
 2011.0238C                                                                  
 
             (
@@ -487,8 +167,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -500,11 +178,9 @@ separate item at this or a future hearing
 
 
 
-3.        
-
-
-
-
+3.
+<<Project End>>
+<<Project Start>>
 2010.0182T
                    
                                                      (E. LOVEJOY: (415) 
@@ -591,16 +267,14 @@ MOTION:           18383
 
 
 Item 4 FOLLOWED #10 AND 16
+
+
+
+
+
+4.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-4.        
-
-
 2011.0250C
                                                                    
    
@@ -668,8 +342,6 @@ AYES:              Olague, Antonini, Fong, Moore, and Sugaya
 
 
 MOTION:           18391
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -680,11 +352,9 @@ MOTION:           18391
 
 
 
-5.        
-
-
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0364D
                                                              
    (R. CRAWFORD: (415) 558-6358)
@@ -754,8 +424,6 @@ AYES:              Olague, Antonini, Moore, and Sugaya
 
 
 DRA:                0220
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -766,11 +434,9 @@ DRA:                0220
 
 
 
-6.        
-
-
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2011.0212C
                                                        
                  
@@ -866,8 +532,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -928,8 +592,6 @@ AYES:              Olague, Antonini, Moore, and Sugaya
 
                                                                         ABSENT: 
          Borden, Fong, and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1074,8 +736,6 @@ out then and be counted in that time; time when we will not be physically here.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1136,8 +796,6 @@ that have come up in that neighborhood.  I intend to attend more of their
 meetings in the coming months as the plan gets close to adoption.   We are 
 tentatively scheduled to bring it to you as an informational item in early 
 September.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1505,9 +1163,7 @@ Board of Appeals:
 
 Last night, the Board of Appeals heard one case of interest to the Commission - 
 1787 Union Street (dba The Brickhouse).  The subject project (outdoor patio at 
-front of a restaurant) was before the Planning Commission as a DR on January 20,
-<<Project End>>
-<<Project Start>>
+front of a restaurant) was before the Planning Commission as a DR on January 20, 
 2011.  At this hearing the Commission unanimously approved the project with 
 conditions, including limitations on seating, hours of operation and the number 
 of doors that could remain open to the outdoor seating area. The Board of 
@@ -1592,9 +1248,7 @@ record retention policy
 F.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1687,8 +1341,6 @@ Hestor
 
 ACTION:           
 Informational presentation â no action
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1701,7 +1353,9 @@ Informational presentation â no action
 
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2010.0641M                                                                       
 (S. EXLINE; (415) 558-6332)
 
@@ -1774,11 +1428,9 @@ RESOLUTION: 
 
 
 
-13a.     
-
-
-
-
+13a.
+<<Project End>>
+<<Project Start>>
 2011.0089CVX   
 
                                                                       
@@ -1873,11 +1525,9 @@ MOTION:          
 
 
 
-13b.     
-
-
-
-
+13b.
+<<Project End>>
+<<Project Start>>
 2011.0089CVX
                                                                
          
@@ -1933,11 +1583,9 @@ three years requiring the project sponsor to draft a maintenance plan
 
 
 
-13c.     
-
-
-
-
+13c.
+<<Project End>>
+<<Project Start>>
 2011.0089CVX
                                        
                                  
@@ -2014,8 +1662,6 @@ AYES:              Olague, Antonini, Fong, Moore, and Sugaya
 
 MOTION:           
 18387
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2023,11 +1669,9 @@ MOTION:          
  
 
 
-14.       
-
-
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2011.0293C 
 
                                                                    (A. 
@@ -2104,27 +1748,23 @@ REDDDDDDDD                                   
 
 MOTION:           
 18389
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+15.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-15.       
-
-
-
-
 2011.0008C
                                            
                             
@@ -2203,8 +1843,6 @@ AYES:              Olague, Antonini, Fong, Moore, and Sugaya
 
 MOTION:           
 18388
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2215,11 +1853,9 @@ MOTION:          
 
 
 
-16.       
-
-
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2008.1218C
                                                                    
             (S. LAI:  (415) 575-9087)  
@@ -2305,8 +1941,6 @@ MOTION:          
 
 
 5:00 PM
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2318,9 +1952,9 @@ MOTION:          
 
 
 
-            17.       
-
-
+            17.
+<<Project End>>
+<<Project Start>>
 2011.0559TZ 
 
 
@@ -2400,8 +2034,6 @@ AYES:              Olague, Antonini, Fong, Moore, and Sugaya
 
 RESOLUTION:   
 18392
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2413,11 +2045,9 @@ RESOLUTION:  
 
 
 
-            18.       
-
-
-
-
+            18.
+<<Project End>>
+<<Project Start>>
 2011.0105T
                                
                                   (K. DISCHINGER: (415) 558-6284)           

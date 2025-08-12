@@ -1,350 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 10, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ May 10, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-May 10, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 10, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-       
-      
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 10, 2001
-
-
-1:30 PM
-
-
-
-
-
-       
-      
-
-
-
-
-Regular Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
-
-
-None
-
-
-
-
-
-       
-      
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS 
-      AT 1:35 p.m.
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. 
-      Green, Director of Planning; Larry Badiner, Zoning Administrator; Rick Cooper; 
-      Elizabeth Gordon; Dan Sider; Ben Fu; Andrea Wong; Scott Sanchez; Sharon 
-      Young; Craig Nikitas; Michael Smith; Tom Wang; Nora Priego, Transcription 
-      Secretary; Isolde Wilson, Acting Commission Secretary
-
-
-
-
-
-       
-      
-
-
-
-
-ADDENDUM ITEM:
-
-
-
-
-
-       
-      
-
-
-
-
- 
 2001.0253D
 
 
@@ -434,8 +88,6 @@ Baltimore,
 A.
  
 ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -450,7 +102,8 @@ ITEMS PROPOSED FOR CONTINUANCE
 
 
 1.
- 
+<<Project End>>
+<<Project Start>>
 2000.1058E
 
 
@@ -521,8 +174,6 @@ AYES:
  
 Baltimore, 
       Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -537,7 +188,8 @@ Baltimore,
 
 
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.1058C
 
 
@@ -594,8 +246,6 @@ AYES:
  
 Baltimore, 
       Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -608,7 +258,8 @@ Baltimore,
 
 
 3.
- 
+<<Project End>>
+<<Project Start>>
 2001.0005C
 
 
@@ -688,8 +339,6 @@ B.
 
 
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -759,8 +408,6 @@ C.
 
 
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -931,8 +578,6 @@ Mr. Badiner had to leave
 The department will analyze the guidelines 
       and find out the results of this meeting and report to the Commission on 
       May 17, 2001.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1051,8 +696,6 @@ The BOA decided to continue the suspension
 
 Whatever the decision the Commission makes, the board will consider 
       it.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1240,8 +883,6 @@ They
 D.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1255,7 +896,8 @@ REGULAR CALENDAR
 
  
 8.
- 
+<<Project End>>
+<<Project Start>>
 1999.423E
 
 
@@ -1323,8 +965,6 @@ None
 ACTION:
  
 No Action Required by the Commission
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1338,7 +978,8 @@ No Action Required by the Commission
 
  
 9.
- 
+<<Project End>>
+<<Project Start>>
 2000.507L
 
 
@@ -1509,8 +1150,6 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
 MOTION No.
  
 16156
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1538,9 +1177,7 @@ MOTION No.
  - 
 northeast corner of 8
 th
- Street, Lot 28 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+ Street, Lot 28 in Assessor’s Block 
       3730.
  
 Request for Conditional Use 
@@ -1918,8 +1555,6 @@ Baltimore, Chinchilla, Joe, Fay,
 MOTION No.
  
 16157
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1928,7 +1563,8 @@ MOTION No.
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 2001.0252C
 
 
@@ -2035,8 +1671,6 @@ Baltimore, Chinchilla, Joe, Fay,
 MOTION NO.
  
 16158
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2051,7 +1685,8 @@ MOTION NO.
 
 
 12.
- 
+<<Project End>>
+<<Project Start>>
 1998.927C 
 
 
@@ -2164,8 +1799,6 @@ MOTION
       NO.
  
 16159
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2188,8 +1821,8 @@ MOTION
 
  
 13.
-
-
+<<Project End>>
+<<Project Start>>
 2001.0363C
 
 
@@ -2464,8 +2097,6 @@ MOTION
       NO.
  
 16160
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2479,7 +2110,8 @@ MOTION
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.1244C
 
 
@@ -2669,8 +2301,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No.
  
 16161
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2684,7 +2314,8 @@ MOTION No.
 
  
 15.
- 
+<<Project End>>
+<<Project Start>>
 2001.0164T
 
 
@@ -3277,8 +2908,6 @@ Baltimore, Chinchilla,
 RESOLUTION NO.
  
 16162
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3292,7 +2921,8 @@ RESOLUTION NO.
 
  
 16.
- 
+<<Project End>>
+<<Project Start>>
 2001.0175T
 
 
@@ -3598,8 +3228,6 @@ At Approximately
  PM
  the Planning Commission convened 
       into a Special Discretionary Review (DR) Hearing.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3613,7 +3241,8 @@ At Approximately
 
  
 17.
- 
+<<Project End>>
+<<Project Start>>
 2001.0198D
 
 
@@ -3997,8 +3626,6 @@ Baltimore, Chinchilla, Joe, Salinas,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4012,8 +3639,8 @@ Fay
 
  
 18.
-
-
+<<Project End>>
+<<Project Start>>
 2001.0192DD
 
 
@@ -4577,7 +4204,8 @@ Fay
 
  
 19a.
- 
+<<Project End>>
+<<Project Start>>
 2000.138
 D
 V
@@ -4594,9 +4222,7 @@ V
 north side 
       between Castro and Douglass Streets, Lot 011 in
  
-Assessor's Block
-<<Project End>>
-<<Project Start>>
+Assessor's Block 
       2623.
  
 Request of Discretionary Review 
@@ -4823,7 +4449,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 19b.
- 
+<<Project End>>
+<<Project Start>>
 2000.0138D
 V
 

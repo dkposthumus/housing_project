@@ -1,296 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ March 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-March 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 01, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 1, 2001
-
-
-1:30 PM
-
-
- 
-
-
-Regular
-Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
-PRESENT:
- 
-Baltimore,
-Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
- 
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT
-THEOHARIS AT 1:48 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- Gerald G.
-Green, Director of Planning; Larry Badiner, Zoning Administrator; Isolde
-Wilson; Catherine Bauman; Jim Miller; Dan DiBartolo; Nora Priego, Transcription
-Secretary; Linda Avery, Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-1.
- 
 2001.0071D
  
 (MEHRA:
@@ -349,8 +57,6 @@ AYES:
  
 Baltimore,
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -358,7 +64,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 1998.281
 B
 C
@@ -433,7 +140,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 3a.
- 
+<<Project End>>
+<<Project Start>>
 1999.554
 B
 CD
@@ -497,7 +205,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 3b.
- 
+<<Project End>>
+<<Project Start>>
 1999.554B
 C
 D
@@ -555,7 +264,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 3c.
- 
+<<Project End>>
+<<Project Start>>
 1999.554BC
 D
  
@@ -613,7 +323,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 4a.
- 
+<<Project End>>
+<<Project Start>>
 2000.277
 B
 XC
@@ -679,7 +390,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 4b.
- 
+<<Project End>>
+<<Project Start>>
 2000.277B
 X
 C
@@ -752,7 +464,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 4c.
- 
+<<Project End>>
+<<Project Start>>
 2000.277BX
 C
  
@@ -823,7 +536,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 5a.
- 
+<<Project End>>
+<<Project Start>>
 1999.603
 B
 X 
@@ -888,7 +602,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 5b.
- 
+<<Project End>>
+<<Project Start>>
 1999.603B
 X
  
@@ -945,8 +660,6 @@ AYES:
  
 Baltimore,
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -954,7 +667,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.319B
  
 (LeBLANC:
@@ -1017,7 +731,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 7a.
- 
+<<Project End>>
+<<Project Start>>
 2000.986
 X
 BCH
@@ -1097,7 +812,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 7b.
- 
+<<Project End>>
+<<Project Start>>
 2000.986X
 B
 CH
@@ -1175,7 +891,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 7c.
- 
+<<Project End>>
+<<Project Start>>
 2000.986XB
 C
 H
@@ -1242,7 +959,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 7d.
- 
+<<Project End>>
+<<Project Start>>
 2000.986XBC
 H
  
@@ -1304,8 +1022,6 @@ AYES:
  
 Baltimore,
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1313,7 +1029,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 8.
- 
+<<Project End>>
+<<Project Start>>
 2000.183D
  
 (MILLER:
@@ -1375,8 +1092,6 @@ AYES:
  
 Baltimore,
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1384,7 +1099,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 9.
- 
+<<Project End>>
+<<Project Start>>
 2000.1310C
  
 (DiBARTOLO:
@@ -1433,8 +1149,6 @@ AYES:
  
 Baltimore,
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1442,7 +1156,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 
  
 10.
- 
+<<Project End>>
+<<Project Start>>
 2000.1058E
  
 (DEAN:
@@ -1514,8 +1229,6 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1547,8 +1260,6 @@ Approved
 AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1577,8 +1288,6 @@ C.
  
 DIRECTOR'S
 REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1612,8 +1321,6 @@ and will enable the Commissioners to speak to other Commissioners and network.
 - Although
 this might not accommodate all the Commissioners, the FOCP is prepared to fund
 six Commissioners (@ $350 per Commissioner) to attend this or other training.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1648,8 +1355,6 @@ BOA
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1735,8 +1440,6 @@ D.
  
 CONSIDERATION
 OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1744,7 +1447,8 @@ OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
 
  
 16.
- 
+<<Project End>>
+<<Project Start>>
 1999.770DDDDD
  
 (WILSON:
@@ -1790,8 +1494,6 @@ recommendations and reduce the height of the project, passed by a vote
 
 
 Project will be brought back to the Commission on February 22,
-<<Project End>>
-<<Project Start>>
 2001.
  
 Public comment will only be
@@ -2053,7 +1755,8 @@ REGULAR CALENDAR
 
  
 17a.
- 
+<<Project End>>
+<<Project Start>>
 2000.1269
 R
 B
@@ -2193,7 +1896,8 @@ RESOLUTION:
 
  
 17b.
- 
+<<Project End>>
+<<Project Start>>
 2000.1269R
 B
  
@@ -2276,7 +1980,8 @@ RESOLUTION:
 
  
 18a.
- 
+<<Project End>>
+<<Project Start>>
 2000.171C
 X
  
@@ -2372,7 +2077,8 @@ MOTION:
 
  
 18b.
- 
+<<Project End>>
+<<Project Start>>
 2000.171
 C
 X 
@@ -2460,8 +2166,6 @@ Note:
  
 The
 next item followed item 17a and b.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2469,7 +2173,8 @@ next item followed item 17a and b.
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2001.0078D
  
 (DiBARTOLO:
@@ -2594,8 +2299,6 @@ ACTION:
 Because the request for discretionary
 review (DR) did not obtain a majority vote of the Commission, the request for
 DR fails.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2603,7 +2306,8 @@ DR fails.
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 1999.811D
  
 (PUTRA:

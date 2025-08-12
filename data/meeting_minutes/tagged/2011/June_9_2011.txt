@@ -1,334 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 9, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ June 9, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-June 9, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, June 9, 
-2011
-
-
-
-
-
-12:00 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-
-COMMISSIONER PRESENT:  Olague, Miguel, Antonini, Borden, Fong, Moore, Sugaya
-
-
-
-
-
- 
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT: 12:09 PM
-
-
-
-
-
- 
-
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â Zoning 
-Administrator, Dan Sider, Kevin Guy, Rick Crawford, Sara Vellve, Ben Fu, 
-Elizabeth Watty, Linda Avery â Commission Secretary
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-                
-
-
-
-
-                
-
-
-1.
-           
-
-
-
-
 2011.0105T                                                                 (K. 
 DISCHINGER: (415) 558-6284)            
 
@@ -396,8 +66,6 @@ proposed                                    
 
             AYES:           Olague, Miguel, 
 Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -488,8 +156,6 @@ B.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -760,8 +426,6 @@ because the building type has become a little bit subdued and boring.
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -827,8 +491,6 @@ was interesting that San Diego was one, the first California City I have seen in
 a while where it happened. The first large City where I have seen it happen. I 
 just thought that was interesting and wanted to bring that to your attention. I 
 think that concludes my report.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1159,9 +821,7 @@ None
 E.
         
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1226,9 +886,7 @@ Preliminary Recommendation: No action required.
 
             ACTION:        Informational only â 
 no 
-action
-<<Project End>>
-<<Project Start>>
+action                                                                              
 
 
 
@@ -1239,11 +897,9 @@ action
 
 
 
-7.        
-
-
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2011.0506B
                                            
                                   (D. SIDER (415) 558-6697)
@@ -1308,8 +964,6 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 MOTION:        18378
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1320,11 +974,9 @@ MOTION:        18378
 
 
 
-8.        
-
-
-
-
+8.
+<<Project End>>
+<<Project Start>>
 2011.0503B
                                                        
                        (K. GUY: (415) 558-6163)
@@ -1392,8 +1044,6 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 MOTION:        18379
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1406,12 +1056,9 @@ MOTION:        18379
 
 
 
-            9.         
-
-
-
-
-
+            9.
+<<Project End>>
+<<Project Start>>
 2010.1118DD
                                                      
          (R. CRAWFORD: (415) 558-6358)
@@ -1489,8 +1136,6 @@ Borden, Fong, Moore, Sugaya
 
 
 DRA:             0213
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1502,12 +1147,9 @@ DRA:             0213
 
 
 
-10.        
-
-
-
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2010.1136D
                                                                    
     (S. VELLVE: (415) 558-6263)
@@ -1573,10 +1215,9 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 
-11a                        
-
-
-
+11a
+<<Project End>>
+<<Project Start>>
 2006.0858D
                                                                                                                                                                                          
                                                                                                                                                     
@@ -1651,11 +1292,9 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 
-11b.     
-
-
-
-
+11b.
+<<Project End>>
+<<Project Start>>
 2006.0890D
                                                                    
              (B. FU: (415) 558-6613) 
@@ -1726,8 +1365,6 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 5:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
 

@@ -1,223 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2002
-
-
-/ February 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-February 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 21, 2002
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, February 21, 2002
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Joe, Lim, Salinas, Theoharis
-ABSENT:          Fay
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 1:45 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green - Director of Planning; Larry Badiner -Zoning Administrator; Michael Li, Jamilla Vollman; Paul Lord; Amit Ghosh; Dario Jones; Tina Tam; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-          1.          2001.0062E          (CHAN: 558-5982)
+1.          2001.0062E          (CHAN: 558-5982)
                     491 BAYSHORE BOULEVARD - Assessor's Block 5598, Lots 8, 9, 11, 13, 15, 16, 18, 21, and 28.  Appeal of Preliminary Mitigated Negative Declaration. The proposed project would demolish the vacant buildings, totaling 107,372 square feet (sq.ft.) and construct a home improvement store (Home Depot).  The main store would be two stories, approximately 129,581 sq.ft. with a 10,088-sq.-ft. enclosed green house. The proposed project also includes an 8,550-sq.-ft. outdoor-garden center. The total project size would be approximately 148,219 sq.ft. The building would be approximately 40 feet in height. A parking garage consisting of three-levels of parking totaling 550 parking spaces would also be constructed on this 5.73-acre site. Vehicular access to the parking garage would be from Bayshore Blvd., where Cortland Ave. dead-ends into Bayshore Blvd.  The site is within the Planning Commission's adopted Industrial Protection Zone (IPZ) and is located in a M-1 (Light Industrial) zoning district and within a 65-J height and bulk district.
                     Preliminary Recommendation:  Pending
                     (Continued from Regular Meeting of  January 24, 2002)
@@ -251,7 +33,7 @@ AYES:          Baltimore, Chinchilla, Joe, Lim, Salinas
 ABSENT:          Fay and Theoharis
 <<Project End>>
 <<Project Start>>
-          3.          2001.1168D          (SMITH: 558-6322)
+3.          2001.1168D          (SMITH: 558-6322)
                     138 WHITNEY STREET - west side of the street between Fairmount and Randall Streets, Lot 007 in Assessor's Block 6664 - Request for Discretionary Review of Building Permit Application  No. 2000/12/19/8292, proposing to enlarge the existing detached garage to accommodate two cars and construct a two-story addition located partially on the roof of the garage, located in a RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and Disapprove the Project
                     (Proposed for Continuance to April 25, 2002)
@@ -271,14 +53,14 @@ ACTION:          None – the Discretionary Review Request was Withdra
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          5.          Consideration of Adoption - draft minutes of February 7, 2002.  
+5.          Consideration of Adoption - draft minutes of February 7, 2002.  
 SPEAKER(S):          None
 ACTION:          Approved
 AYES:          Baltimore, Chinchilla, Joe, Lim, Salinas
 ABSENT:          Fay and Theoharis
 <<Project End>>
 <<Project Start>>
-          6.          Commission Matters
+6.          Commission Matters
 Commissioner Salinas: He would like to get a clarification from staff regarding public comment last week.  He is under the impression that Public Comment is not the place to speak about continuances.
 C.          DIRECTOR'S REPORT
 <<Project End>>
@@ -299,7 +81,7 @@ Re:  Community Planning Workshops
 - The last of these workshops will be in Visitation Valley.
 <<Project End>>
 <<Project Start>>
-          8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS – None
 BOA
 Re:  240 San Fernando Drive
@@ -312,7 +94,7 @@ Re:  50 Mason Street
 D.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          9.          2001.1173C           (LI: 558-6396)
+9.          2001.1173C           (LI: 558-6396)
                     637-639 VALLEJO STREET - southeast corner at Stockton Street; Lot 016 in Assessor’s Block 0146 - Request for Conditional Use Authorization to establish a full-service restaurant of approximately 1,700 square feet within the North Beach Neighborhood Commercial District and a 40-X Height and Bulk District.  The proposal is to allow CaffÃ© Sempione to occupy a vacant commercial space previously occupied by another full-service restaurant (Kamal Palace).  There will be no physical expansion of the existing building.
                     Preliminary Recommendation: Approval with conditions
 SPEAKER(S):
@@ -327,7 +109,7 @@ ABSENT:          Fay and Theoharis
 MOTION:          16347
 <<Project End>>
 <<Project Start>>
-          10.          2001.0954C          (J.VOLLMANN: 558-6612)
+10.          2001.0954C          (J.VOLLMANN: 558-6612)
                     420 - 29TH AVENUE - east side between Clement Street and Geary Boulevard, Lot 015 in Assessor’s Block 1460 - Request for Conditional Use Authorization pursuant to Planning Code Section 209.3(f) to provide a child-care facility for 13 or more children.  The  project proposes to provide child-care for up to 24 children within St. Peter’s Episcopal Church, which currently provides child-care for 12 children.  The project site is located within an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -343,7 +125,7 @@ ABSENT:          Fay and Theoharis
 MOTION:          16348
 <<Project End>>
 <<Project Start>>
-          11.          2001.1129T           (LORD: 558-6311) 
+11.          2001.1129T           (LORD: 558-6311) 
                     SCHOOL SHADOWS - Consideration of adoption of recommendations for an ordinance adding Section 296 to the Planning Code to review all building permit applications for new structures which will cast shade or shadow upon the site of a pubic or private elementary or secondary school.
                     Preliminary Recommendation: Approval with modifications.
                     (Continued from Regular Meeting of February 14, 2002)
@@ -372,7 +154,7 @@ ABSENT:          Fay
 RESOLUTION:          16349
 <<Project End>>
 <<Project Start>>
-          12.                    (GHOSH: 558-6275)
+12.                    (GHOSH: 558-6275)
                     Consideration of adoption of amendments to the existing Planning Commission Inclusionary Housing Policies
                     (Continued from Regular Meeting of February 14, 2002)
                     NOTE:  On February 7, 2002, following public testimony, the Commission closed public hearing and continued the matter to February 14, 2002 for final action.  Public hearing will remain open on any new recommendations for approval.
@@ -417,14 +199,14 @@ E.          DISCRETIONARY REVIEW HEARING
 At Approximately 4:08 PM the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-          13.          2001.1013D          (JONES 558-6477)
+13.          2001.1013D          (JONES 558-6477)
                     451 OAK PARK DRIVE - west side of Oak Park Drive between Devonshire Way and Christopher Drive , Lot 022 in Assessor’s Block 2677 - Request for Discretionary Review of Building Permit Application No. 2001/07/26/4641, proposing to construct a third story vertical addition to the existing two story, single-family dwelling, located in a RH-1 (D) (Residential, Detached, Single-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the building permit as submitted
 SPEAKER(S):          None
 ACTION:          This property was not legally posted.  Therefore the matter is not before the Commission at this time.  The item will be re-calendared for a future hearing.
 <<Project End>>
 <<Project Start>>
-          14.          2001.1083D           (TAM: 558-6325)
+14.          2001.1083D           (TAM: 558-6325)
                     200-202 FAIR OAKS STREET - southwest corner of Fair Oaks and 23rd Street; Lot 1 in Assessor’s Block 3648 - Staff-initiated Discretionary Review request for Building Permit No. 2001/09/05/7610 to reduce the total number of legal dwelling units on the subject property, from 3 to 2 units.  The property is a designated City Landmark (The Oakley Residence and Flats, Landmark No. 191) and is located in the RH-3 (Residential, House, Three-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Disapproval
                     (Continued from Regular Meeting of February 14, 2002)
@@ -453,7 +235,7 @@ NAYES:          Salinas and Theoharis
 ABSENT:          Fay
 <<Project End>>
 <<Project Start>>
-          15.          2001.1102D           (TAM: 558-6325)
+15.          2001.1102D           (TAM: 558-6325)
                     1323 - 41ST  AVENUE - between Irving Street and Lincoln Way, Lot 3 in Assessor’s Block 1796 - Staff-initiated Discretionary Review request for Building Permit No. 2001/01/24/0455 and 2001/01/24/0457 to demolish an existing two-story, single-family dwelling and construct a new four-story, two-family dwelling.  The property is located in the RH-2 (Residential, House, Two-Family) District and 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and approve the project with staff modifications.  
 SPEAKER(S):

@@ -1,263 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 3, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ December 3, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-December 3, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 
-1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 3, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Sharon Lai, Diego Sanchez, Kevin Guy, Johnny Jaramillo, Brett Becker, Sharon Young, Corey Teague, Aaron Starr, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-<!--[if !supportLists]-->
-A.
-                  
-<!--[endif]-->
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The 
-Commission
- will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
 1.         2009.0840
 T
                                                                    (T. SULLIVAN: (415) 558-6257)
@@ -291,11 +32,6 @@ ACTION:           Continued as proposed
 AYES:              Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 2.         2008.0395E                                                                    (
 I.
  NISHIMURA: (415) 575-9041)
@@ -345,11 +81,6 @@ ACTION:           Continued as proposed
 AYES:              Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 3.         2008.0395C                                                                         (S. VELLVE: (415) 558-6263)
 
 
@@ -390,11 +121,6 @@ B.         CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 4.         2009.0650C                                                                               
 (S. Lai: (
 415).575.9087)
@@ -440,11 +166,6 @@ MOTION:          
 17991
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 5.         2009.0772C                                                                                  
 (S. Lai: (
 415).575.9087)
@@ -478,11 +199,6 @@ MOTION:          
 17988
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 6.         2009.0834C                                                                     
 (
 D. Sánchez:  (415) 575-9082)
@@ -606,11 +322,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 8.         Consideration of Adoption:
 
 
@@ -643,11 +354,6 @@ ACTION:           Approved
 AYES:              Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 9.         Commission Comments/Questions
 
 
@@ -773,11 +479,6 @@ D.
 DIRECTOR’S REPORT
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 10.        Director’s Announcements
 
 
@@ -803,11 +504,6 @@ We are starting what will essentially be a four-year process with ABAG and the M
 Finally, I want to mention that pertinent to Commissioner Olague’s request on early budget discussion, we are going to bring to you our early thoughts about the budget and get some feedback from you in two weeks in order to have an early discussion on the budget about requests that you might have in the budget as well as just giving you some real information about the numbers as we see them today.  As you know the city has projected another deficit so we are going to be affected by that.  We will have the request that we have for what our cuts might need to be on the General Fund side as well.  We won’t know the fee side, which is of course most of our budget, until the end of December (what the real numbers are for the first half of the fiscal year).  We will at least know what our General Fund goals are and can share that with you in a couple of weeks.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 11.        Review of Past Week’s Events at the Board of Supervisors, Board of Appeals, and Historic Preservation Commission.
 
 
@@ -820,11 +516,6 @@ SPEAKERS:     None
 REVIEWS:        None
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 12.                                                                                                     (K. Guy:  (415) 558-6163)
 
 
@@ -842,11 +533,6 @@ SPEAKERS:     Topher Delaney - Artist
 ACTION:           Informational only – No action
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 13.                    
             
                                                              
@@ -939,11 +625,6 @@ G.
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 14.        2006.0137E                                                                          (B. BECKER: (415) 575-9045)
 
 
@@ -994,12 +675,6 @@ H.
 <!--[endif]-->REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-  
-
-
- 
-
-
 15.        2008.0185C                                                                                (S. LAI: (415) 575-9087)
 
 
@@ -1043,11 +718,6 @@ ABSENT:          Lee
 MOTION:           17993
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 16.        2009.0862C                                                                         
 (
 S.Young:
@@ -1088,11 +758,6 @@ ABSENT:          Lee
 MOTION:           17994
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 17.        2009.0932C                                                                     
  (C. Teague:  (415) 575-9081)
 
@@ -1132,11 +797,6 @@ ABSENT:          Lee
 MOTION:           17995
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 18.        2009.0424C                                                                               
 (K. Guy:  (415) 558-6163)
 
@@ -1193,11 +853,6 @@ NAYES:            Olague and Moore
 ABSENT:          Lee
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 19.        2009.0841
 T
                                                                        (C. NIKITAS: (415) 558-6306)
@@ -1231,12 +886,7 @@ ACTION:           Without hearing, continued to December 17, 2009
 AYES:              Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-            20.        2009.0825D                                                                      (C. TEAGUE: (415) 575-9081)
+20.        2009.0825D                                                                      (C. TEAGUE: (415) 575-9081)
 
 
                         1354 RHODE ISLAND STREET 
@@ -1268,11 +918,6 @@ ABSENT:          Lee
 DRA:                0126
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 21.        2009.0950D                                                                         (A. STARR: (415) 558-6362)
 
 

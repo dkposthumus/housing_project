@@ -1,262 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 24, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ February 24, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-February 24, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 24, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 
-    400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-    Place
-
-
-Thursday, February 24, 2005
-
-
-2:00 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Dwight Alexander; Michael 
-    J. Antonini, Shelley Bradford Bell,
-
-    Kevin Hughes, Sue Lee; William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE 
-    AT 1:42 p.m.
-
-
-STAFF IN ATTENDANCE:
- Dean Macris - Interim Director 
-    of Planning; Larry Badiner - Zoning Administrator; Art Aguilar; Joy Navarrete; 
-    Geoffrey Nelson; Craig Nikitas; Kelley Amdur; Nora Priego - Transcription 
-    Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The Commission will consider a request for continuance 
-      to a later date. The Commission may choose to continue the item to the date 
-      proposed below, to continue the item to another date, or to hear the item 
-      on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-
 1. 2004.0458E (J. NAVARRETE: (415) 558-5975)
 
 
@@ -554,14 +296,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
           S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
 4. 2004.1158D (B. FU: (415) 558-6613)
 
 
@@ -612,11 +346,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
 5. Consideration of Adoption:
 
 
@@ -714,10 +443,6 @@ ACTION: Approved
 AYES: Antonini, Bradford Bell, S. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 6. Commission Comments/Questions
 
 
@@ -925,10 +650,6 @@ Commissioner Bradford Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
 7. Director's Announcements
 
 
@@ -939,12 +660,6 @@ C. DIRECTOR'S REPORT
 None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 8. Review of Past Week's Events at the Board of Supervisors 
       and Board of Appeals
 
@@ -1456,8 +1171,6 @@ ACTION: Zoning Administrator closed public hearing
           and granted the variances.
 <<Project End>>
 <<Project Start>>
-
-
 11. 2005.0128U (M. CORRETTE: (415) 558-6295)
 
 
@@ -1526,10 +1239,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
 G. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
 12. (D. MACRIS: (415 558-6411)
 
 
@@ -1566,12 +1275,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
           S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 13. 2005.0155U (C. NIKITAS: (415) 558-6306)
 
 
@@ -1736,12 +1439,6 @@ ACTION: Informational only. No Action Required by
           the Commission
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 14. 2004.0601C (T. TAM: (415) 558-6325)
 
 
@@ -1890,12 +1587,6 @@ AYES: Antonini, Alexander, Bradford Bell, Hughes,
 MOTION: 16950
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 15. 2004.1268C (S.YOUNG: (415) 558-6346)
 
 
@@ -1946,20 +1637,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
           S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 16. 2004.0396E (J. NAVARRETE: (415) 
                       558-5975)
 
@@ -2012,12 +1689,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
 MOTION: 16951
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 17. 2002.0954E (A. AGUILAR: (415) 558-5973)
 
 
@@ -2071,14 +1742,6 @@ ABSENT: Antonini
 MOTION: 16952
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
 18. 2005.0076T (D. SIDER: (415) 558-6697)
 
 
@@ -2212,7 +1875,7 @@ SPEAKER(S):
 ACTION: Hearing held, Item continued to March 24,
 <<Project End>>
 <<Project Start>>
-          2005. Public Hearing shall remain open.
+2005. Public Hearing shall remain open.
 
 
 AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. 
@@ -2222,12 +1885,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
 ABSENT: Alexander
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 19. 2005.0058T (P. 
       LORD: (415) 558-6311)
 
@@ -2277,12 +1934,6 @@ ABSENT: Alexander
 RESOLUTION: 16953
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 20. 2004.1145C (R. CRAWFORD: (415) 558-6358)
 
 
@@ -2341,8 +1992,6 @@ NAYES: Hughes
 MOTION: 16954
 <<Project End>>
 <<Project Start>>
-
-
 21. 2004.0904D (R. CRAWFORD: (415) 558-6358)
 
 
@@ -2642,8 +2291,6 @@ AYES: Alexander, Bradford Bell, Hughes, S. Lee,
 ABSENT: Antonini
 <<Project End>>
 <<Project Start>>
-
-
 23. 2004.1194 (D. DiBARTOLO: (415) 558-6291)
 
 
@@ -2719,12 +2366,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes,
           S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 24. 2005.0046D (G. CABREROS: (415) 558-6169)
 
 
@@ -2835,12 +2476,6 @@ NAYES: Alexander and Hughes
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 25. 2004.1192DDDD (B. FU: (415) 558-6613)
 
 

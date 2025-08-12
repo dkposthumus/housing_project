@@ -1,277 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ October 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-October 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 8, 2009
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 8, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-Larry Badiner – Zoning Administrator, AnMarie Rodgers, Edgar Oropeza, Craig Nikitas, Aaron Starr, Tara Sullivan, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
- 
- 
-1a.
- 
- 
 2008.0719D
  
  
@@ -318,8 +45,9 @@ AYES:
 
 
 1b.
- 
- 2009.0907D
+<<Project End>>
+<<Project Start>>
+2009.0907D
  
  
  
@@ -379,16 +107,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2009.0358C
+<<Project End>>
+<<Project Start>>
+2009.0358C
  
  
  
@@ -456,8 +183,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -499,8 +224,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -841,8 +564,6 @@ I'd just like to mention that I have had during the last week discussions regard
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -932,8 +653,6 @@ Zoning Administrator Badiner:
 I think so too and I think credit should go where credit is due.
  
  Steve Williams suggested it and I think it was a good suggestion and we followed it and I appreciate that.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1191,8 +910,6 @@ RE:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1202,8 +919,9 @@ REGULAR CALENDAR
 
 
 7.
- 
- 2009.0639C
+<<Project End>>
+<<Project Start>>
+2009.0639C
  
  
  
@@ -1253,16 +971,15 @@ RECUSED:
 MOTION:
  
  17959
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2009.0747C:
+<<Project End>>
+<<Project Start>>
+2009.0747C:
  
  
  
@@ -1312,16 +1029,15 @@ ABSENT:
 MOTION:
  
  17960
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.0787
+<<Project End>>
+<<Project Start>>
+2008.0787
 T
  
  (T. SULLIVAN: (415) 558-6257)
@@ -1374,16 +1090,15 @@ ABSENT:
 RESOLUTION:
  
  17961
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2008.0784
+<<Project End>>
+<<Project Start>>
+2008.0784
 T
  
  (T. SULLIVAN: (415) 558-6257)
@@ -1422,8 +1137,8 @@ AYES:
 
 1
 1a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0684D
  
  
@@ -1483,8 +1198,9 @@ ABSENT:
 
 
 11b.
- 
- 2008.1379
+<<Project End>>
+<<Project Start>>
+2008.1379
 DDDDD
 V
  
@@ -1544,8 +1260,9 @@ ABSENT:
 
 
 11c.
- 
- 2008.1379DDDDD
+<<Project End>>
+<<Project Start>>
+2008.1379DDDDD
 V
  
  

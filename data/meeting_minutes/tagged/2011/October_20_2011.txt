@@ -1,307 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 20, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ October 20, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-October 20, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 20, 2011
-
-
-1:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:06 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Ben Fu, Sharon Lai, Adrian Putra, Glenn Cabreros, Rick Crawford, Aaron Starr, Teresa Ojeda, Johnny Jaramillo, Jon Swae, and Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-                  
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-1.         2011.0864Z                                                                        (A. STARR: (415) 558-6362)
-
-
-312 Connecticut Street
- 
-- Zoning Map Amendments
- - The Commission will consider a proposed Ordinance [BF 110845] introduced by Supervisor Cohen concerning Zoning Map Sheet No. ZN08 to: 1) rezone Block No. 4035, Lot No. 003 (312 Connecticut Street) from RH-2 to NC-2; and 2) making environmental findings, Planning Code Section 302 findings, and findings of consistency with the General Plan and the Priority Policies of Planning Code Section 101.1.
-
-
-Preliminary Recommendation: Approval of Proposed Ordinance to Board of Supervisors
-
-
-            (Continued from Regular Meeting of October 13, 2011)
-
-
-                        (Proposed for Continuance to November 10, 2011)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Without hearing, continued as proposed
-
-
-AYES:              Olague, 
-Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.         
 2011.0497D
                                                                                  (B. FU: (415) 558-6613)
 
@@ -332,14 +29,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0236
-<<Project End>>
-<<Project Start>>
  
 
 
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2011.0160C
                                                                                
  (S. Lai:  (415) 575-9087)
@@ -370,8 +67,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18468
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -381,7 +76,9 @@ MOTION:           
 
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0418C
                                                                             
 (
@@ -425,8 +122,6 @@ MOTION:           
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -508,8 +203,6 @@ Commissioner Moore:
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -529,8 +222,6 @@ Director Rahaim:
 With respect to parklets, we can do that presentation. We allow people to take food and we encourage them to be near eating and drinking establishments just because of the nature of what most of them, not all of them, are about. The agreement is that we should not be -- we can take them from across the way or another location. I realize that there are some concerns about some of them in the way they are operating. The other thing I wanted to call attention to the Commission is that the Commission has had several questions about the approval process for America's Cup, there is a memo to you outlining all of that, and it would be helpful for the public to hear that certification of the environmental impact report is currently scheduled for December, tentatively. There are other actions required at the Port Commission as well as the Board of Supervisors. Beyond that, there are 12 other City Regional, State and Federal 
 
 agencies that have approval actions. All of the other actions including the Board of Supervisors are dependent on your certification. That has to happen before any other approving actions can be taken. I wanted to clarify that for Commission and the public.
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -713,15 +404,15 @@ SPEAKERS:     Cody Hicks
 
 F.
                   
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-8.         
+8.
+<<Project End>>
+<<Project Start>>
 2011.0094C
                                                                  (G. CABREROS: (415) 558-6169)
 
@@ -750,8 +441,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18470
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -759,7 +448,9 @@ MOTION:           
 
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2011.0653C
                                                                (R. CRAWFORD:  (415) 558-6358)
 
@@ -796,7 +487,9 @@ MOTION:           
 
 
 
-10a.      
+10a.
+<<Project End>>
+<<Project Start>>
 2010.0948XV  
                                                             (R. CRAWFORD:  (415) 558-6358
 )
@@ -838,7 +531,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-10b.      
+10b.
+<<Project End>>
+<<Project Start>>
 2010.0948XV
                                                               (R. CRAWFORD:  (415) 558-6358)
 
@@ -866,12 +561,12 @@ ACTION:           The Zoning Administrator continued this item to 12/1
 
 
 NOTE:  Items 11 and 12 were called and heard together
-<<Project End>>
-<<Project Start>>
             
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2011.0532T
                                                                     
 (A. STARR:  (415) 558-6362)         
@@ -899,14 +594,14 @@ ACTION:           Although information only and no action was required
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            12.        
+            12.
+<<Project End>>
+<<Project Start>>
 2011.0533Z
                                                                        
 (A. STARR:  (415) 558-6362)         
@@ -935,8 +630,6 @@ ACTION:           Although information only and no action was required
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
                                                                         
@@ -973,14 +666,14 @@ SPEAKERS:     Sue Hestor and John Elberling
 
 
 ACTION:           Informational only – no action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2005.1004MRTZ
                                                                      (J. SWAE: (415) 575-9069)
 
@@ -1025,14 +718,14 @@ RESOLUTION:   
 RESOLUTION:   
 18474 
 for Zoning Map Amendments
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2011.0554D
                                                                                  (S. LAI: (415) 575-9087)
 

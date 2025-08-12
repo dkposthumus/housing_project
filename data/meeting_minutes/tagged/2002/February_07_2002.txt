@@ -1,222 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 07, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2002
-
-
-/ February 07, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-February 07, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 07, 2002
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, February 7, 2002
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
-ABSENT:          None
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 1:35 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green - Director of Planning; Larry Badiner -Zoning Administrator; Tina Tam; Paul Lord; Victoria Ryan; Scott Sanchez; Sharon Young; Matt Snyder; Tammy Chan; Dan Sider; Michael Smith; Dario Jones; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 1.          1999.598D                                                                                (CHIN: 575-6897)
 135 JORDAN AVENUE - west side of the street between Geary Blvd. and Euclid Street, Lot 008 in Assessor’s Block 1062 - Request for Discretionary Review of Building Permit Application No. 9905431, proposing to add a new story and approximately 75 square feet to the basement and second floor at the rear side of the building on a single-family dwelling, located in a RH-1 (D) (Residential, Detached, Single-Family) District and a 40-X Height and Bulk District.
 Preliminary Recommendation:  Pending
@@ -248,13 +30,13 @@ ABSENT:          Baltimore
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          4.          Consideration of Adoption - draft minutes of January 17 and 24, 2002.  
+4.          Consideration of Adoption - draft minutes of January 17 and 24, 2002.  
 SPEAKER(S):          None
 ACTION:          1/17 approved as drafted.  1/24 approved with corrections to the spelling of two names.
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 <<Project End>>
 <<Project Start>>
-          5.          Commission Matters
+5.          Commission Matters
 Commissioner Baltimore:  She requested that there be a calendared a discussion on parking policies in the City.
 Commissioner Theoharis:  She received a copy of SPUR's publication,  A Guide to San Francisco General Plan – A Vision of a Place.  She was impressed with the clarity.  It was interesting and clear.  She also mentioned the hard work of former Commissioner Beverly Mills for working long and hard on this project.
 C.          DIRECTOR'S REPORT
@@ -266,7 +48,7 @@ Re:  Community Planning Workshops
 On the 2nd of February was the first introductory workshop for the showplace square/potrero hill community plan area.  This meeting was held from 10:00 a.m. to 2:00 p.m.  The meeting was very successful in providing a starting place.  There is still a lot of work to do since there will still be three more of these workshops to be held this month.
 <<Project End>>
 <<Project Start>>
-          7.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+7.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS – None
 BOA 
 January 30, 2002 Hearing:
@@ -280,7 +62,7 @@ Re:          1209 Vicente Street
 - A series of permits were issued, but the Building Department decided that keeping the existing building was not appropriate.  The Planning Department issued a building permit that, in general, complied with the decision of the Commission, but was new construction.  Unfortunately, the Planning Department in error issued another building permit that was 4 feet higher.  The neighbors appealed the demolition, the project sponsor, who had a new representative, recognized that this 4 foot addition was inappropriate, the Board of Appeals understood that, they upheld the demolition permit but stayed the demolition permit until a new building permit was issued.  In affect, the neighbors get the opportunity to look at the new building again.
 <<Project End>>
 <<Project Start>>
-          8.          Consideration of amending the existing Planning Commission Inclusionary Housing Policies
+8.          Consideration of amending the existing Planning Commission Inclusionary Housing Policies
 SPEAKER(S):
 (+) Commissioner Linda Richardson
 - She supports the Director and Staff on this item.
@@ -454,8 +236,7 @@ NAYES:          Baltimore, Joe, Lim
 E.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          
-          10.          2000.749T                                                                                           (LORD: 558-6311)
+10.          2000.749T                                                                                           (LORD: 558-6311)
                     Consideration of an Ordinance amending the San Francisco Planning Code to add Section 315 to 315.9 to establish requirements for all residential developments of 10 units or more to provide inclusionary affordable housing units.
                     Preliminary Recommendation: Pending
 SPEAKER(S):
@@ -478,7 +259,7 @@ SPEAKER(S):
 ACTION:          Meeting held.  President Chinchilla deferred the matter to February 14, 2002.
 <<Project End>>
 <<Project Start>>
-          11.          2001.1026C          (RYAN: 558-6812)
+11.          2001.1026C          (RYAN: 558-6812)
                     1239 9TH AVENUE - west side between Lincoln Way and Irving Street; Assessor’s Block 1714, Lot 6 - Request for Conditional Use Authorization pursuant to Planning Code Section 730.44 to convert a vacant video store on the ground floor of a two-story building with a dwelling unit above, to a small self-service restaurant (Gordo’s Taqueria) in the Inner Sunset Neighborhood Commercial District and a 40-X Height and Bulk District. The restaurant, which is relocating from 1233 9th Avenue, will occupy approximately 990 square feet at the ground level only.
                     Preliminary Recommendation:  Approval with Conditions
 (Continued from Regular Meeting of January 24, 2002)
@@ -495,7 +276,7 @@ ABSENT:          Fay
 MOTION:          16339
 <<Project End>>
 <<Project Start>>
-          12.          2000.1141C          (SANCHEZ: 558-6679) 
+12.          2000.1141C          (SANCHEZ: 558-6679) 
                     2346 - 2348 CLEMENT STREET - north side between 24th and 25th Avenues, Lot 025 in Assessor’s Block 1409 - Request for Conditional Use authorization under Planning Code Section 717.39 to allow the demolition of an existing mixed-use building with a residential unit at the second floor and under Planning Code Section 161(j) to allow the construction of a four-story mixed-use building (four residential units and one commercial unit) without the four required residential parking spaces, within the Outer Clement Neighborhood Commercial District (NCD) and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Approval with Conditions.
                     (Continued from Regular Meeting of January 24, 2002)
@@ -524,7 +305,7 @@ NAYES:          Baltimore and Lim
 MOTION:          16340
 <<Project End>>
 <<Project Start>>
-          13.          2002.0051I          (YOUNG: 558-6346)
+13.          2002.0051I          (YOUNG: 558-6346)
                     REVISION TO THE INSTITUTIONAL MASTER PLAN FOR THE UNIVERSITY OF SAN FRANCISCO LOCATED AT 2130 FULTON STREET - Consideration of revisions amending the Institutional Master Plan for the University of San Francisco.  Pursuant to Planning Code Section 304.5(d), a public hearing will be held to solicit public comment on any proposed revision to an Institutional Master Plan.  The University of San Francisco is proposing revisions to its existing Institutional Master Plan dated July 1993, including to incorporate plans to (1) convert the former Lincoln University Building at 281 Masonic Street to the University of San Francisco College of Professional Studies (This renovation has been completed.); (2) convert and expand the McLaren School of Business, including an addition of approximately 20,000 square feet and conversion of existing dormitory space to new offices and classrooms, and (3) locate childcare facilities within its existing buildings.  The purpose of this public hearing is to solicit public comments on the proposed revisions to this Institutional Master Plan only.  The Planning Commission will not approve or disapprove any individual construction projects related to these revisions to the Institutional Master Plan at this public hearing.
 SPEAKER(S):
 (+) Father Bob Nehoff 

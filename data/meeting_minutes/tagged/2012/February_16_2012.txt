@@ -1,357 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 16, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ February 16, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-February 16, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-        Commission Chambers - Room 400
-
-
-
-
-
-        City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday,
-        February 16, 2012
-
-
-
-
-
-        1:30 PM
-
-
-
-
-
-        Regular Meeting
-
-
-
-
-
-
-
-
-
-        COMMISSIONERS PRESENT:  Miguel, Antonini, Borden, Fong, Moore, Sugaya, Wu
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS
-        CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
-
-
-
-         
-
-
-
-
-
-        STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez- Zoning
-        Administrator, Sophie Hayward, Sharon Young, Tom Disanto, Keith Demartini,
-        Teresa Ojeda, Kevin Guy, Brittany Bendix, Christina LaMorena, Sharon Lai, Adrian
-        Putra, and Linda Avery – Commission Secretary.
-
-
-
-
-
-         
-
-
-A.
-           
-        
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-         
-
-
-The Commission
-        will consider a request for continuance to a later date.  The Commission may
-        choose to continue the item to the date proposed below, to continue the item to
-        another date, or to hear the item on this calendar.
-
-
-
-
-            
-
-
-
-
-None
-
-
-
-
- 
-
-
-
-
-B.        
-        CONSENT CALENDAR 
-
-
- 
-
-
-
-
-
-        All matters listed hereunder constitute a Consent Calendar, are considered to be
-        routine by the Planning Commission, and will be acted upon by a single roll call
-        vote of the Commission.  There will be no separate discussion of these items
-        unless a member of the Commission, the public, or staff so requests, in which
-        event the matter shall be removed from the Consent Calendar and considered as a
-        separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-
-        1.        
-        
-
-
-
-        2011.1172C
+2011.1172C
                                                                           
         (S. YOUNG: (415) 558-6346)     
 
@@ -437,8 +85,6 @@ C.
         
         
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -639,8 +285,6 @@ Commissioner Antonini
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -709,8 +353,6 @@ Director’s Announcements
         Redevelopment Agency, which is a real mouthful. There is not a good acronym. I'm
         hoping we will come up with some more pitchy name for the organization at that
         point as well.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1013,9 +655,7 @@ At this time,
 F.
             
 
-        REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+        REGULAR CALENDAR  
 
 
 
@@ -1070,8 +710,6 @@ action Item
 
 
         AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya, Wu
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1149,8 +787,6 @@ Reports
 
 
         ACTION:           Informational only – no action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1219,8 +855,6 @@ Reports
 
 
         AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya, Wu
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1231,15 +865,10 @@ Reports
 
 
 
-        8.         
-
-
-
-
-
-
-
-        2011.1327C
+        8.
+<<Project End>>
+<<Project Start>>
+2011.1327C
                                                       
                                  
 (K. Guy: (415)
@@ -1294,8 +923,6 @@ Preliminary
 
         ACTION:           Following a couple of failed motions, it is determined that
         the Commission failed to take action.  The motion approved on 7/14/11 stands.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1306,15 +933,10 @@ Preliminary
 
 
 
-        9.         
-
-
-
-
-
-
-
-        2011.1249C  
+        9.
+<<Project End>>
+<<Project Start>>
+2011.1249C  
 
                                                                                  (B.
         BENDIX:  (415) 575-9114) 
@@ -1410,10 +1032,10 @@ PH remains open.
 
 
 
-                    10a.     
-        
-
-        2011.0944DV
+                    10a.
+<<Project End>>
+<<Project Start>>
+2011.0944DV
                                                              
         
 
@@ -1491,10 +1113,10 @@ DRA
 
 
 
-                    10b.     
-        
-
-        2011.0944DV
+                    10b.
+<<Project End>>
+<<Project Start>>
+2011.0944DV
                                                              
         
 
@@ -1530,8 +1152,6 @@ to Planning Code Sections 134 and 188 to
         ACTION:           The Zoning Administrator closed the public hearing and stated
         his inclination to grant the variances with the condition that the project will
         not include a roof deck
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1542,13 +1162,10 @@ to Planning Code Sections 134 and 188 to
 
 
 
-                 11.           
-
-
-
-
-
-        2011.0682DD
+                 11.
+<<Project End>>
+<<Project Start>>
+2011.0682DD
                                                                
                      (S. LAI: (415) 575-9087)
 
@@ -1635,12 +1252,10 @@ DRA #:
 
 
 
-        12a.     
-        
-
-
-
-        2010.0506DD
+        12a.
+<<Project End>>
+<<Project Start>>
+2010.0506DD
                                         
                                        (A. PUTRA: (415) 575-9079)
 
@@ -1737,15 +1352,10 @@ Do
 
 
 
-        12b.      
-
-
-
-
-
-
-
-        2010.0468DD
+        12b.
+<<Project End>>
+<<Project Start>>
+2010.0468DD
                                                                 
               (A. PUTRA: (415) 575-9079)
 

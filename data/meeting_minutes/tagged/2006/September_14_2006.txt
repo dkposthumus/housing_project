@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ September 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-September 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 14, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 14, 2006
-
-
- 
-
-
-1:30 PM
-
-
- 
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Vice President Christina Olague; Michael J. Antonini; William L. Lee; Kathrin Moore; Hisashi Sugaya
-
-
- 
-
-
-COMMISSIONERS ABSENT: Dwight S. Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Dan Sider; Kate Conner; Rick Crawford; Dan DiBartolo; Sara Vellve; Steve Wertheim; Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2006.0854D
+2006.0854D
  
  
  
@@ -337,8 +54,6 @@ ABSENT:
 
 
 2a.
-<<Project End>>
-<<Project Start>>
  
  2005. 0307D
  
@@ -394,8 +109,9 @@ ABSENT:
 
 
 2b.
- 
- 2005.0329DD 
+<<Project End>>
+<<Project Start>>
+2005.0329DD 
  
  
  
@@ -442,16 +158,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0798C
+<<Project End>>
+<<Project Start>>
+2006.0798C
  
  
  
@@ -507,8 +222,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -518,8 +231,9 @@ ABSENT:
 
 
 4.
- 
- 2006.0821D
+<<Project End>>
+<<Project Start>>
+2006.0821D
  
  
  
@@ -576,8 +290,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1008,8 +720,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1023,8 +733,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1143,8 +851,6 @@ upheld and the request for rehearing was refused.
 Commission decision was
  
 upheld.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1247,8 +953,6 @@ AYES:
 ABSENT:
  
  Alexander and Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1818,8 +1522,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 10a.
- 
- 2005.1192D
+<<Project End>>
+<<Project Start>>
+2005.1192D
  
  
 (Tape IB)
@@ -1870,8 +1575,9 @@ ABSENT:
 
 
 10b.
- 
- 2006.0059D
+<<Project End>>
+<<Project Start>>
+2006.0059D
  
  
  
@@ -1916,16 +1622,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0570D
+<<Project End>>
+<<Project Start>>
+2005.0570D
  
  
  
@@ -1990,8 +1695,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1999,8 +1702,9 @@ REGULAR CALENDAR
 
 
 12.
- 
- 2006.0905R 
+<<Project End>>
+<<Project Start>>
+2006.0905R 
  
  
 (Tape IB; IIA)
@@ -2311,8 +2015,6 @@ ABSENT:
 RESOLUTION:
  
  17308
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2671,16 +2373,15 @@ ACTION:
  Discussion only.
  
  No action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0650D
+<<Project End>>
+<<Project Start>>
+2006.0650D
  
  
 (Tape IIB; IIIA)
@@ -2923,8 +2624,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2932,8 +2631,8 @@ ABSENT:
 
  
  15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0833D
  
  

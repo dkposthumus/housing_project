@@ -1,321 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 13, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ October 13, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-October 13, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 13, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:09 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Claudia Flores, Paul Lord, Mary Woods, Sara Vellve, Rick Crawford, Kim Durandet, and Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         2011.0864Z                                                                        (A. STARR: (415) 558-6362)
-
-
-312 Connecticut Street
- 
-- Zoning Map Amendments
- – The Commission will consider a proposed Ordinance [BF 110845] introduced by Supervisor Cohen concerning Zoning Map Sheet No. ZN08 to: 1) rezone Block No. 4035, Lot No. 003 (312 Connecticut Street) from RH-2 to NC-2; and 2) making environmental findings, Planning Code Section 302 findings, and findings of consistency with the General Plan and the Priority Policies of Planning Code Section 101.1.
-
-
-Preliminary Recommendation: Approval of Proposed Ordinance to Board of Supervisors
-
-
-            
-(Proposed for Continuance to October 20, 2011)
-
-
-                                
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              
-Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
-ABSENT:          Olague
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.         
 2011.0779Q
                                                                  (C. LAMORENA: (415) 575-9085)
 
@@ -358,8 +41,6 @@ MOTION:           
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -468,16 +149,12 @@ I think that you could get a lot more done with a few than having the whole Comm
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.         Director’s Announcements
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -506,9 +183,7 @@ The Board of Appeals did meet last night and there was one item that may be of y
 HISTORIC PRESERVATION COMMISSION:
 
 
-No meeting this week
-<<Project End>>
-<<Project Start>>
+No meeting this week    
 
 
                         
@@ -564,9 +239,7 @@ SPEAKERS:     Linda Chapman
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -591,15 +264,14 @@ SPEAKERS:     Paul Werner
 
 
 ACTION:           Informational – No action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
             8.
-         
+<<Project End>>
+<<Project Start>>
 2008.0877ETZM
                                                                     (P. LORD: (415) 558-6311)
 
@@ -672,14 +344,14 @@ SPEAKERS:     Bernadett Poi, Tobi Levi, Jim Meko, Gayle Rubin, Seth Munten, 
 
 
 ACTION:           Informational – No action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2011.0051C
                                                                  
      (M. Woods:  (415) 558-6315)
@@ -716,8 +388,6 @@ NAYES:            Moore, Miguel, Olague
 
 MOTION:           
 18462
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -725,7 +395,9 @@ MOTION:           
 
 
 
-            10.        
+            10.
+<<Project End>>
+<<Project Start>>
 2011.0198C
                                                                       
   (S. Vellve: (415) 558-6263)
@@ -760,7 +432,9 @@ Antonini, Borden, Fong, Moore, Sugaya
  
 
 
-11a.      
+11a.
+<<Project End>>
+<<Project Start>>
 2008.0953DD
                                                                (R. CRAWFORD: (415) 558-6358)
 
@@ -811,7 +485,9 @@ DRA:                
 
 
 
-11b.      
+11b.
+<<Project End>>
+<<Project Start>>
 2011.1065D 
                                                                (R. CRAWFORD: (415) 558-6358)
 
@@ -853,8 +529,6 @@ ABSENT:          Fong
 
 DRA:                
 0233
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -862,7 +536,9 @@ DRA:                
 
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2011.0837D
                                                                   (K. DURANDET: (415) 575-6816)
 
@@ -896,8 +572,6 @@ Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0234
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -905,7 +579,9 @@ DRA:                
 
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.0718D
                                                                    (K. DURANDET: (415) 575-6816)
 

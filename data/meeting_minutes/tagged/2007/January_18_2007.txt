@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 18, 2007(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ January 18, 2007(1)
-
-
-
-
-
-
-
-
-
-
-
-
-January 18, 2007(1)
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 18, 2007(1)
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 18, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Sharon Young, Jon Lau, Rick Crawford, Tim Frye, Tina Tam, Craig Nikitas, Sarah Dennis, Glen Cabreros, Michael Li, Tara Sullivan-Lenane, Sara Vellve, Isolde Wilson, Ben Fu, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.1090C
+2006.1090C
  
  
  
@@ -319,16 +47,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2003.1210C
+<<Project End>>
+<<Project Start>>
+2003.1210C
  
  
  
@@ -367,8 +94,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -376,8 +101,9 @@ AYES:
 
  
  3.
- 
- 2004.0803E 
+<<Project End>>
+<<Project Start>>
+2004.0803E 
  
  
  
@@ -434,16 +160,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.0882A
+<<Project End>>
+<<Project Start>>
+2006.0882A
  
  
  
@@ -496,16 +221,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2005.0156C
+<<Project End>>
+<<Project Start>>
+2005.0156C
  
  
  
@@ -552,16 +276,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2006.0056C
+<<Project End>>
+<<Project Start>>
+2006.0056C
  
  
  
@@ -617,8 +340,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -678,8 +399,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -783,8 +502,6 @@ It will probably happen in February.
 
 
 Yes, Renzo Piano was engaged on a design of a building in the area on First and Mission Streets.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -837,8 +554,6 @@ AYES:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -912,8 +627,6 @@ Zoning Administrator Badiner
 
 
 I will respond in writing on the interpretation of that ordinance.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1058,8 +771,6 @@ None
 
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1068,8 +779,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 12.
- 
- 2006.0831C
+<<Project End>>
+<<Project Start>>
+2006.0831C
  
  
  
@@ -1148,8 +860,6 @@ G.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1157,8 +867,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2006.0074T
+<<Project End>>
+<<Project Start>>
+2006.0074T
  
  
  
@@ -1295,16 +1006,15 @@ ACTION:
  Informational only.
  
  No action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0676C
+<<Project End>>
+<<Project Start>>
+2006.0676C
  
  (tape IB; IIA)
  
@@ -1386,8 +1096,9 @@ MOTION:
 
 
 15a.
- 
- 2006.0451A
+<<Project End>>
+<<Project Start>>
+2006.0451A
 C
 V
  
@@ -1488,8 +1199,9 @@ MOTION:
 
 
 15b.
- 
- 2006.0451AC
+<<Project End>>
+<<Project Start>>
+2006.0451AC
 V
  
  
@@ -1528,8 +1240,9 @@ ACTION:
 
 
 16a.
- 
- 2005.0488
+<<Project End>>
+<<Project Start>>
+2005.0488
 C
 EV
  
@@ -1667,8 +1380,9 @@ MOTION:
 
 
 16b.
- 
- 2005.0488CE
+<<Project End>>
+<<Project Start>>
+2005.0488CE
 V
  
  
@@ -1707,16 +1421,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed the public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.1284E
+<<Project End>>
+<<Project Start>>
+2006.1284E
 T
  
  (tape IIB)
@@ -1772,16 +1485,15 @@ ACTION:
  No action.
  
  Scheduled for consideration/action on February 8, 2007.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2005.1398T
+<<Project End>>
+<<Project Start>>
+2005.1398T
  
  (tape IIB; IIIA)
  
@@ -1873,16 +1585,15 @@ ABSENT:
 RESOLUTION:
  
  17362
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2006.0983DD
+<<Project End>>
+<<Project Start>>
+2006.0983DD
  
  (tape IIIA; IIIB)
  
@@ -2059,16 +1770,15 @@ NAYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2006.0445D
+<<Project End>>
+<<Project Start>>
+2006.0445D
  
  (tape IIIB)
  
@@ -2163,13 +1873,12 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
 21.
- 
- 2006.1059D
+<<Project End>>
+<<Project Start>>
+2006.1059D
  
  (tape IIIB; IVA)
  
@@ -2274,16 +1983,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2006.0823D
+<<Project End>>
+<<Project Start>>
+2006.0823D
  
  (tape IVA; IVB)
  
@@ -2618,16 +2326,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2006.1085D
+<<Project End>>
+<<Project Start>>
+2006.1085D
  
  (tape IVB)
  
@@ -2733,8 +2440,6 @@ ABSENT:
 
 
 24a.
-<<Project End>>
-<<Project Start>>
  
  2005. 0307D
  
@@ -2810,8 +2515,9 @@ ABSENT:
 
 
 24b.
- 
- 2005.0329DD 
+<<Project End>>
+<<Project Start>>
+2005.0329DD 
  
  
  

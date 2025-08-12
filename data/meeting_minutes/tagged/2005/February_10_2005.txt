@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ February 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-February 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 10, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 10, 2005
-
-
-2:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander;
- 
-Michael J. Antonini,
-Shelley Bradford Bell,
-
-Kevin Hughes, Sue Lee; William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 2:10 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Amit Ghosh; Neil Hart; Steve Gordon; Alicia John-Baptiste; Geoffrey Nelson; Elaine Tope; Ann Marie Rogers; Nora Priego – Transcription Secretary; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-           
-  1a.
-       
- 2001.0249
+2001.0249
 E
 KCV
                        
@@ -342,8 +61,8 @@ AYES:
 
            
   1b.
-       
- 
+<<Project End>>
+<<Project Start>>
 2001.0249EK
 C
 V
@@ -413,8 +132,9 @@ AYES:
 
            
   1c.
-       
- 2001.0249EKC
+<<Project End>>
+<<Project Start>>
+2001.0249EKC
 V
           
  
@@ -464,8 +184,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -513,8 +231,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -567,8 +283,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -780,8 +494,6 @@ ACTION:
 AYES:
               
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -964,8 +676,6 @@ Zoning Administrator responded:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1068,8 +778,6 @@ Zoning Administrator responded:
 
 
 - He feels it will happen within two months.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1306,8 +1014,6 @@ E.
   
  
  (D. MACRIS: (415 558-6411)
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1372,8 +1078,6 @@ ACTION:
   No Action Required by the Commission.
  
  Discussion will continue on February 24, 2005.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1601,8 +1305,6 @@ ACTION:
   Informational presentation only.
  
  No action required.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1680,16 +1382,15 @@ AYES:
 ABSENT:
          
   Antonini, Hughes and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-       
- 2004.1246D 
+<<Project End>>
+<<Project Start>>
+2004.1246D 
                                                      
  
                      
@@ -1759,8 +1460,6 @@ AYES:
 NAYES:
            
   Alexander, Hughes and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1833,8 +1532,6 @@ AYES:
 MOTION:
           
   16947
-<<Project End>>
-<<Project Start>>
 
 
  

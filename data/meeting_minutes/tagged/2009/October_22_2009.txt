@@ -1,272 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ October 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-October 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-october 22, 2009
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 22, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:32 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim â Director of Planning, Larry Badiner â Zoning Administrator, Tom Wang, Bill Wycko, Mary Woods, Elizabeth Watty, Pilar LaValley, Tara Sullivan, Kearstin Dischinger, Moses Corrette, David Alumbaugh, Adam Varat, Shelley Caltagirone, Glenn Cabreros, Sharon Young, Edgar Oropeza, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2009.0262T
+2009.0262T
  
  
  
@@ -309,8 +42,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -320,8 +51,9 @@ AYES:
 
 
 2.
- 
- 2008.0197C
+<<Project End>>
+<<Project Start>>
+2008.0197C
 E
 X 
  
@@ -374,8 +106,9 @@ AYES:
 
 
 3a.
- 
- 2008.0197CE
+<<Project End>>
+<<Project Start>>
+2008.0197CE
 X
  
  
@@ -423,8 +156,9 @@ AYES:
 
 
 3b.
- 
- 2008.0197
+<<Project End>>
+<<Project Start>>
+2008.0197
 C
 EX 
  
@@ -482,8 +216,6 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -493,8 +225,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 4.
- 
- 2009.0696C
+<<Project End>>
+<<Project Start>>
+2009.0696C
  
  
  
@@ -625,8 +358,6 @@ ACTION:
  There was no action.
  
  This was an informational presentation only
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -634,8 +365,9 @@ ACTION:
 
 
 6.
- 
- 2009.0720C
+<<Project End>>
+<<Project Start>>
+2009.0720C
  
  
  
@@ -687,16 +419,15 @@ AYES:
 MOTION:
  
  17966
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2009.0561C
+<<Project End>>
+<<Project Start>>
+2009.0561C
  
  
  
@@ -738,16 +469,15 @@ AYES:
 MOTION:
  
  17967
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2005.1076C
+<<Project End>>
+<<Project Start>>
+2005.1076C
  
  
  
@@ -813,16 +543,15 @@ AYES:
 MOTION:
  
  17968
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.0784
+<<Project End>>
+<<Project Start>>
+2008.0784
 T
  
  (T. SULLIVAN: (415) 558-6257)
@@ -859,16 +588,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2009.0707MZ
+<<Project End>>
+<<Project Start>>
+2009.0707MZ
  
  
  
@@ -890,9 +618,10 @@ http://www.sfgov.org/site/planning_index.asp?id=25188
 
 
  
- a) 
- 
- 2009.0707
+ a)
+<<Project End>>
+<<Project Start>>
+2009.0707
 M
 Z
  
@@ -956,9 +685,10 @@ RESOLUTION:
  
 
 
-b) 
- 
- 2009.0707M
+b)
+<<Project End>>
+<<Project Start>>
+2009.0707M
 Z
  
  
@@ -1015,8 +745,6 @@ AYES:
 RESOLUTION:
  
  17970
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1069,8 +797,9 @@ ACTION:
 
  
  12a.
- 
- 2008.0719D
+<<Project End>>
+<<Project Start>>
+2008.0719D
  
  
  
@@ -1121,8 +850,9 @@ RECUSED:
 
 
 12b.
- 
- 2009.0907D
+<<Project End>>
+<<Project Start>>
+2009.0907D
  
  
  
@@ -1172,16 +902,15 @@ AYES:
 RECUSED:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.1106D                    
+<<Project End>>
+<<Project Start>>
+2008.1106D                    
  
  
  
@@ -1241,8 +970,9 @@ DRA:
 
 
 14a.
- 
- 2008.1349D
+<<Project End>>
+<<Project Start>>
+2008.1349D
  
  
  
@@ -1296,8 +1026,9 @@ DRA:
 
 
 14b.
- 
- 2008.0935DD
+<<Project End>>
+<<Project Start>>
+2008.0935DD
  
  
  
@@ -1348,16 +1079,15 @@ NAYES:
 DRA:
  
  0116
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2009.0843D
+<<Project End>>
+<<Project Start>>
+2009.0843D
  
  
  
@@ -1397,16 +1127,15 @@ AYES:
 NAYES:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2009.0856D
+<<Project End>>
+<<Project Start>>
+2009.0856D
  
  (E. OROPEZA: (415) 558-6381)
 
@@ -1475,8 +1204,6 @@ Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1516,8 +1243,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1599,8 +1324,6 @@ Yes.
 F.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1640,8 +1363,6 @@ Third, I just wanted to call your attention to the memo on the status of the Act
  And many items are overlapping in interesting ways.
  
  We have gotten some very positive feedback in recent months in recent meetings with the Advisory Committee.
-<<Project End>>
-<<Project Start>>
 
 
  

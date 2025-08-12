@@ -1,276 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 1, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ April 1, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-April 1, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 1, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:34 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  Craig Nikitas â Acting Zoning Administrator, David Lindsay, AnMarie Rodgers, Rick Crawford, Corey Teague, Edgar Oropeza, Ken Rich, Kearstin Dischinger, Sarah Dennis-Phillips, Alicia John-Baptiste, David Alumbaugh, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-            None
-
-
- 
-
-
-B.         CONSENT CALENDAR
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.        
 2010.0096C
                                                                 (R. CRAWFORD: (415) 558-6358)
 
@@ -314,8 +42,6 @@ COMMISSIONERSâ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -349,8 +75,6 @@ ACTION:           Approved
 
 
 AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -492,8 +216,6 @@ Commissioner Miguel:
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -506,8 +228,6 @@ D.         DIRECTORâS REPORT
 
 
             No Report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -590,15 +310,15 @@ Re:       1209 Lombard Street
 
 F.
                  
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-6.        
+6.
+<<Project End>>
+<<Project Start>>
 2009.1185C 
                                                                         (C. TEAGUE: (415) 575-9081)
 
@@ -633,14 +353,14 @@ NAYES:            Moore
 
 MOTION:           
 18067
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-7.        
+7.
+<<Project End>>
+<<Project Start>>
 2009.0953C
                                                                     (E. OROPEZA: (415) 558-6381)
 
@@ -673,8 +393,6 @@ AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague and
 
 MOTION:           
 18068
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -695,15 +413,15 @@ Informational presentation
 SPEAKERS:     None
 
 
-ACTION:           This was an informational only item and there was no Commission action
-<<Project End>>
-<<Project Start>>
+ACTION:           This was an informational only item and there was no Commission action 
 
 
  
 
 
-9.        
+9.
+<<Project End>>
+<<Project Start>>
 2010.0200U 
                                                                   (A. RODGERS: (415) 558-6395)
 

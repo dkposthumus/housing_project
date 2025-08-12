@@ -1,272 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 23, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ October 23, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-October 23, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 23, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 23, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:41 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Cecilia Jaroslawsky, Elizabeth Watty, Edgar Oropeza, Abigail Keifer, AnMarie Rodgers, Tara Sullivan-Lenane, Amnon Ben-Pazi, Jim Miller, Viktoriya Wise, Rick Crawford, Sarah Jones, Jonas Ionin, Aaron Starr, Pilar LaValley, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2008.0881D
  
  
@@ -321,16 +53,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.1147T
+<<Project End>>
+<<Project Start>>
+2007.1147T
  
  
  
@@ -373,8 +104,9 @@ AYES:
 
 
 3a.
- 
- 2007.1383EKV
+<<Project End>>
+<<Project Start>>
+2007.1383EKV
 X
  
  
@@ -431,8 +163,9 @@ AYES:
 
 
 3b.
- 
- 2007.1383EK
+<<Project End>>
+<<Project Start>>
+2007.1383EK
 V
 X 
  
@@ -475,16 +208,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.0070T
+<<Project End>>
+<<Project Start>>
+2006.0070T
  
  
  
@@ -526,16 +258,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2008.0739TZ:
+<<Project End>>
+<<Project Start>>
+2008.0739TZ:
  
  
  
@@ -617,8 +348,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  6a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0670CV
  
  
@@ -679,8 +410,9 @@ MOTION:
 
 
 6b.
- 
- 2007.0670C
+<<Project End>>
+<<Project Start>>
+2007.0670C
 V
  
  
@@ -711,16 +443,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the requested variance.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2008.0179C
+<<Project End>>
+<<Project Start>>
+2008.0179C
  
 (C. JAROSLAWSKY: (415) 558-6348)
 
@@ -765,16 +496,15 @@ AYES:
 MOTION:
  
  17719
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0956C
+<<Project End>>
+<<Project Start>>
+2008.0956C
  
  
  
@@ -830,16 +560,15 @@ AYES:
 MOTION:
  
  17720
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.0686C
+<<Project End>>
+<<Project Start>>
+2008.0686C
  
  
  
@@ -884,8 +613,6 @@ AYES:
 MOTION:
  
  17721
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -896,8 +623,9 @@ MOTION:
 
  
  10.
- 
- 2008.1033C
+<<Project End>>
+<<Project Start>>
+2008.1033C
  
  
  
@@ -941,16 +669,15 @@ AYES:
 MOTION:
  
  17722
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2008.0426C 
+<<Project End>>
+<<Project Start>>
+2008.0426C 
  
  
  
@@ -1009,8 +736,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1050,8 +775,6 @@ Future Meetings/Agendas
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1067,8 +790,6 @@ D.
 
  
  None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1128,8 +849,6 @@ SPEAKERS:
 F.1.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1237,16 +956,15 @@ AYES:
 MOTION:
  
  17727
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2008.1047
+<<Project End>>
+<<Project Start>>
+2008.1047
 T
  
  
@@ -1289,16 +1007,15 @@ NAYES:
 MOTION:
  
  17725
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2008.1103T
+<<Project End>>
+<<Project Start>>
+2008.1103T
  
  
  
@@ -1335,16 +1052,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2008.1057T
+<<Project End>>
+<<Project Start>>
+2008.1057T
  
  
  
@@ -1388,16 +1104,15 @@ AYES:
 RESOLTION:
  
  17726
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2008.1096T
+<<Project End>>
+<<Project Start>>
+2008.1096T
  
  
  
@@ -1445,16 +1160,15 @@ NAYES:
 MOTION:
  
  17733
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2008.0987D
+<<Project End>>
+<<Project Start>>
+2008.0987D
  
  
  
@@ -1508,16 +1222,14 @@ NAYES:
 DRA#:
  
  0028
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1481C
  
  
@@ -1589,13 +1301,12 @@ MOTION:
 NOTE:
  
  Items 22 & 23 were called and heard together
-<<Project End>>
-<<Project Start>>
 
 
 22.
- 
- 2005.1018EKV
+<<Project End>>
+<<Project Start>>
+2005.1018EKV
 X
  
  
@@ -1644,16 +1355,15 @@ ABSENT:
 MOTION:
  
  17730
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2005.1018EK
+<<Project End>>
+<<Project Start>>
+2005.1018EK
 V
 X
  
@@ -1719,16 +1429,15 @@ SPEAKERS:
 H.1
  
  CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
- 
- 2007.0206E
+<<Project End>>
+<<Project Start>>
+2007.0206E
  
  
  
@@ -1794,8 +1503,6 @@ MOTION:
 F.2.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1803,8 +1510,9 @@ F.2.
 
 
 25.
- 
- 2007.0206D
+<<Project End>>
+<<Project Start>>
+2007.0206D
  
  
  
@@ -1894,16 +1602,15 @@ SPEAKERS:
 H.2.
  
  CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 26.
- 
- 2006.0460E 
+<<Project End>>
+<<Project Start>>
+2006.0460E 
  
  
  
@@ -1969,8 +1676,6 @@ MOTION:
 F.3.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1979,8 +1684,9 @@ F.3.
 
  
  27.
- 
- 2006.0460EC
+<<Project End>>
+<<Project Start>>
+2006.0460EC
  
  
  
@@ -2039,8 +1745,6 @@ ABSENT:
 MOTION:
  
  17733
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2049,8 +1753,8 @@ MOTION:
  
  
 28.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1380D
  
  
@@ -2112,16 +1816,15 @@ ABSENT:
 DRA#:
  
  0030
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 29.
- 
- 2008.0982D
+<<Project End>>
+<<Project Start>>
+2008.0982D
  
  
  
@@ -2168,9 +1871,9 @@ ABSENT:
  
 
 
-30a. 
- 
- 
+30a.
+<<Project End>>
+<<Project Start>>
 2007.0676D
  
  
@@ -2229,9 +1932,9 @@ DRA#:
  
 
 
-30b. 
- 
- 
+30b.
+<<Project End>>
+<<Project Start>>
 2008.0752D
  
  
@@ -2292,8 +1995,9 @@ DRA#:
 
 
 31a.
- 
- 2007.0684
+<<Project End>>
+<<Project Start>>
+2007.0684
 D
 V
  
@@ -2353,8 +2057,9 @@ ABSENT:
 
 
 31b.
- 
- 2007.0684D
+<<Project End>>
+<<Project Start>>
+2007.0684D
 V
  
  (P. LAVALLEY: (415) 558-9084)

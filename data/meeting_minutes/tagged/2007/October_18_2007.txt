@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 18, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ October 18, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-October 18, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 18, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-October 18, 2007
-
-
-1:30 PM
-
-
-Special
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:39 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Elizabeth Watty, Glen Cabreros, Cecilia Jaroslawsky, Tom Wang, Aaron Starr, Sara Vellve, Michael Li, Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0514T
+2007.0514T
  
  
  
@@ -319,16 +44,14 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0701C
  
  
@@ -383,16 +106,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
  
@@ -450,16 +172,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.0842D
+<<Project End>>
+<<Project Start>>
+2005.0842D
  
  
  
@@ -539,16 +260,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2006.0997C
+<<Project End>>
+<<Project Start>>
+2006.0997C
  
  
  
@@ -608,16 +328,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.0162D
+<<Project End>>
+<<Project Start>>
+2007.0162D
  
  
  
@@ -678,8 +397,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1028,8 +745,6 @@ We are going to have an economic downturn and I do not think we can predict it.
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1041,8 +756,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1258,13 +971,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  Item 10 taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 10.
- 
- 2007.0720G
+<<Project End>>
+<<Project Start>>
+2007.0720G
  
  
  
@@ -1320,13 +1032,12 @@ RESOLUTION:
 
  
  Item 11 taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 11.
- 
- 2007.0872C
+<<Project End>>
+<<Project Start>>
+2007.0872C
  
  
  
@@ -1449,6 +1160,8 @@ MOTION:
 12a.
  
  20
+<<Project End>>
+<<Project Start>>
 06.0129D
  
  (Tape IA)
@@ -1503,8 +1216,9 @@ ABSENT:
 
 
 12b.
- 
- 2007.0043D
+<<Project End>>
+<<Project Start>>
+2007.0043D
  
  
  
@@ -1561,8 +1275,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1570,8 +1282,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2006.1454C
+<<Project End>>
+<<Project Start>>
+2006.1454C
  
  
 (Tape IA)
@@ -1674,13 +1387,12 @@ MOTION:
 
 
 Item was continued to be heard at 3:00p.m.
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 2007.0722D
+<<Project End>>
+<<Project Start>>
+2007.0722D
  
  
 (Tape IA; IB; IIA)
@@ -2000,13 +1712,12 @@ ABSENT:
 
 
 Item taken out of order followed #13
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2007.0490D
+<<Project End>>
+<<Project Start>>
+2007.0490D
  
  
 (Tape IA; IB)
@@ -2173,16 +1884,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.0594D
+<<Project End>>
+<<Project Start>>
+2007.0594D
  
  
 (Tape IIA)
@@ -2326,16 +2036,15 @@ NAYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0910D
+<<Project End>>
+<<Project Start>>
+2007.0910D
  
  
 (Tape IIA)
@@ -2474,16 +2183,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.0055D
+<<Project End>>
+<<Project Start>>
+2007.0055D
  
  
 (Tape IIA; IIB)
@@ -2649,16 +2357,14 @@ NAYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0657D
  
  

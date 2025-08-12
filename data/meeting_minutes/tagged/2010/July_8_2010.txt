@@ -1,308 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 8, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ July 8, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-July 8, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, July 8, 
-2010
-
-
-
-
-
-10:00 AM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS 
-CALLED TO ORDER BY PRESIDENT MIGUEL AT 10:15 A.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE:  John Rahaim â Director of Planning, Kate McGee, AnMarie Rodgers, 
-Tara Sullivan, Adrian Putra, Steve Wertheim, Debra Dwyer, Jim Miller, Aaron 
-Hollister, Jeremy Battis, Aaron Starr, Glenn Cabreros, Sophie Hayward, and 
-AnMarie Rodgers â Acting Commission Secretary.
-
-
-
-
- 
-
-
-A.
-           
-
-SPECIAL CALENDAR
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-
-
-
-1.        
-
-
-
-
 2009.1043U
                                                        
                  
@@ -417,8 +113,6 @@ The Commission
 will consider a request for continuance to a later date.  The Commission may 
 choose to continue the item to the date proposed below, to continue the item to 
 another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -507,8 +201,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -590,9 +282,9 @@ MOTION:           18133  
 
 
 
-4a.       
-
-
+4a.
+<<Project End>>
+<<Project Start>>
 2010.0042CP
                                                   
                       (A. PUTRA: (415) 575-9079)
@@ -661,11 +353,9 @@ MOTION:           18134  
 
 
 
-4b.      
-
-
-
-
+4b.
+<<Project End>>
+<<Project Start>>
 2010.0042CP
                                          
                                
@@ -730,8 +420,6 @@ MOTION:           18140  
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -754,9 +442,7 @@ D.         DIRECTORâS REPORT
 INFORMATIONAL PRESENTATION
  ON THE IMPLEMENTATION OF THE SHOWPLACE SQUARE OPEN SPACE PLAN
  
-- The Showplace Square Open Space Plan occurred between April 2009 and January
-<<Project End>>
-<<Project Start>>
+- The Showplace Square Open Space Plan occurred between April 2009 and January 
 2010. This Plan resulted in conceptual site designs and cost estimates for a 
 number of potential open space sites in Showplace Square. This informational 
 presentation will convey the proposed next steps for 
@@ -874,8 +560,6 @@ Tom Radulovich and Jamie Wittaker
 
 
 CONSIDERATION OF FINDINGS & FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -884,15 +568,8 @@ CONSIDERATION OF FINDINGS & FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 6.
-        
-
-
-
-
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2005.1074E
                            
                                                  (D. DWYER: (415) 575-9031)
@@ -1015,9 +692,8 @@ G.         REGULAR CALENDAR 
 
             7
 a.
-       
-
-
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
                                                   
                   (J. MILLER: (415) 558-6344)   
@@ -1119,11 +795,9 @@ MOTION:           18136  
 
 
 
-7b.      
-
-
-
-
+7b.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
   
 
@@ -1219,11 +893,9 @@ MOTION:           18156  
  
 
 
-7c.       
-
-
-
-
+7c.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
  
                                                                    
@@ -1299,9 +971,9 @@ MOTION:           18137  
  
 
 
-7d.      
-
-
+7d.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
                                                               
       
@@ -1357,9 +1029,7 @@ those listed for item 7a
 
 
 ACTION:           The Zoning Administrator closed the public hearing and granted 
-the variances subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
+the variances subject to the standard conditions of approval  
 
 
 
@@ -1367,11 +1037,9 @@ the variances subject to the standard conditions of approval
  
 
 
-8.        
-
-
-
-
+8.
+<<Project End>>
+<<Project Start>>
 2008.1291C
                                                                     
 (A. HOLLISTER:  (415) 575-9078)
@@ -1428,9 +1096,7 @@ AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, an
 
 
 
-MOTION:           18138
-<<Project End>>
-<<Project Start>>
+MOTION:           18138   
 
 
 
@@ -1440,11 +1106,9 @@ MOTION:           18138
 
 
 
-9.        
-
-
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2010.0113C
                                            
                         (A. HOLLISTER: (415) 575-9078)
@@ -1501,8 +1165,6 @@ ACTION:           without hearing, continued to 7/22/10
 
 
 AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1512,9 +1174,9 @@ AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, an
 
 
 
-10.       
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2007.1457E
                                                     
                       (J. BATTIS: (415) 575-9022)
@@ -1597,8 +1259,6 @@ ACTION:           Following testimony, The Commission continued this i
 
 
 AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1609,11 +1269,9 @@ AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, an
 
 
 
-11.       
-
-
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0357C
                                                                    
       (A. STARR: (415) 558-6362)
@@ -1685,9 +1343,7 @@ NAYES:            Moore, Sugaya, and Olague
 
 
 
-MOTION:           18139
-<<Project End>>
-<<Project Start>>
+MOTION:           18139   
 
 
 
@@ -1698,11 +1354,9 @@ MOTION:           18139
 
 
 
-12.       
-
-
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2010.0126D
                                                        
           
@@ -1781,11 +1435,9 @@ AYES:              Antonini, Borden, Lee, Moore, Sugaya, Olague, an
 
 
 
-13a.     
-
-
-
-
+13a.
+<<Project End>>
+<<Project Start>>
 2009.1124DDV
   
                                                                (S. HAYWARD: 
@@ -1862,8 +1514,9 @@ DRA No.           0160    
 
 
 
-13b.     
- 
+13b.
+<<Project End>>
+<<Project Start>>
 2009.1124DDV 
 
                                                                 (S. HAYWARD: 
@@ -1918,11 +1571,9 @@ the variance subject to the standard conditions of approval
 
 
 
-14a.     
-
-
-
-
+14a.
+<<Project End>>
+<<Project Start>>
 2008.0430DV
                                                      
                   
@@ -1987,11 +1638,9 @@ ACTION:           Agreement reached and DRâs were withdrawn
 
 
 
-14b.     
-
-
-
-
+14b.
+<<Project End>>
+<<Project Start>>
 2008.0430DV
                                                      
                   
@@ -2070,8 +1719,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2112,8 +1759,6 @@ ACTION:           Approved
 
 AYES:              
 Antonini, Borden, Lee, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2172,8 +1817,6 @@ None
 
 
 I.          DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2198,8 +1841,6 @@ Directorâs Announcements
             
 
 None
-<<Project End>>
-<<Project Start>>
 
 
 

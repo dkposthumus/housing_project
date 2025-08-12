@@ -1,392 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 14, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ June 14, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-June 14, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 14, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-
-
-
-
-
-
-Minutes 
-      of Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 14, 2001
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
- 
-Theoharis; Fay; Baltimore; 
-      Chinchilla; Joe; Lim
-
-
-ABSENT:
- 
-Salinas
-
-
-
-
-
-       
-      
-
-
-
-
-MEETING 
-      WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 P.M
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
-
-
-Gerald G. Green – Director of Planning, Larry Badiner – Zoning Administrator, 
-      Amith Ghosh; Isolda Wilson; Thomas Wang; Craig Nikitas; Tina Tam; Tim Woloshyn; 
-      Rick Crawford; Alison Borden; Catherine Bauma; Joy Navarrete; Patricia Gerber 
-      – Transcription Secretary; Linda D. Avery – Commission Secretary
-
-
-
-
-
-       
-      
-
-
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-       
-      
-
-
-
-
- 
-1.
- 
- 
- 
-(WILSON:
-
-
-558-6602)
-
-
- 
-Planning 
-      Commission consideration of adoption proposed changes to the rules for the 
-      2001-2002 Office Development Annual Limitation Program.
-
-
- 
- 
-(Proposed 
-      for Continuance to 
-June 21, 2001
-)
-
-
-
-
-
-       
-      
-
-
-
-
- 
- 
-ACTION:
- 
- 
-Continued 
-      as proposed
-
-
-
-
-AYES
-:
- 
-Theoharis; Fay; Baltimore; 
-      Chinchilla; Joe; Lim
-
-
- 
-ABSENT:
- 
- 
-Salinas
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-       
-      
-
-
-
-
- 
-2.
- 
 2000.1267D
  
  
@@ -455,8 +67,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -470,8 +80,8 @@ Salinas
 
  
 3.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1328E 
  
 (
@@ -553,8 +163,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -568,7 +176,8 @@ Salinas
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1165B
  
 (BRESSANUTTI: 
@@ -649,8 +258,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -664,7 +271,8 @@ Salinas
 
  
 5.
- 
+<<Project End>>
+<<Project Start>>
 2001.0361C
  
 (SANCHEZ: 558-6679)
@@ -725,8 +333,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -740,7 +346,8 @@ Salinas
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2001.0092E
  
 (DEAN:
@@ -839,8 +446,6 @@ Salinas
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -858,9 +463,7 @@ COMMISSIONERS' QUESTIONS AND MATTERS
 7.
 
 
-Consideration of Adoption - draft minutes of April 19 and April 26,
-<<Project End>>
-<<Project Start>>
+Consideration of Adoption - draft minutes of April 19 and April 26, 
       2001.
 
 
@@ -895,8 +498,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -948,8 +549,6 @@ Will
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1045,8 +644,6 @@ Finance Committee Meeting is open to the public on Saturday, June 16,
 With regard to the Department's budget we have received the draft report 
       from the Budget Analyst and will be commenting on that their recommendation 
       to the Finance Committed on June 19.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1176,8 +773,6 @@ Upheld the Commission's
 
  
 (GREEN: 558-6411)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1512,8 +1107,6 @@ Salinas
 D.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2338,13 +1931,12 @@ Salinas
 
 ITEM 13 CALLED OUT OF ORDER AFTER ITEM # 
       11
-<<Project End>>
-<<Project Start>>
 
 
  
 13.
- 
+<<Project End>>
+<<Project Start>>
 2001.0232L
  
  
@@ -2411,8 +2003,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2435,7 +2025,8 @@ Salinas
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.272E
  
  
@@ -2986,7 +2577,8 @@ Salinas
  
 15
 a.
- 
+<<Project End>>
+<<Project Start>>
 2000.660
 B
 X
@@ -3165,7 +2757,8 @@ MOTION No.
 
  
 15b.
- 
+<<Project End>>
+<<Project Start>>
 2000.660B
 X
  
@@ -3279,7 +2872,8 @@ MOTION No.
 
  
 16a.
- 
+<<Project End>>
+<<Project Start>>
 2000.863
 C
 V
@@ -3564,8 +3158,8 @@ MOTION
 
  
 16b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.863C
 V
  
@@ -3581,9 +3175,7 @@ V
  - west 
       side between 23rd and 24th Streets, lot 003 in Assessor’s Block 3643. The 
       subject property seeks a parking variance for the reduction of required 
-      off-street parking from 57 to 6 spaces, pursuant to Planning Code Section
-<<Project End>>
-<<Project Start>>
+      off-street parking from 57 to 6 spaces, pursuant to Planning Code Section 
       151.
  
 The project proposes to provide 
@@ -3651,8 +3243,6 @@ PM
  
       the Planning Commission conveneD into a Discretionary Review (DR) Hearing 
       to hear and act on Discretionary Review matters.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3668,7 +3258,8 @@ PM
 
  
 17.
- 
+<<Project End>>
+<<Project Start>>
 2001.0198D
  
  
@@ -3676,9 +3267,7 @@ PM
 
 
 25 RICO WAY
- - between Avila Street and Retiro Way, Lot 0439A in Assessor's Block
-<<Project End>>
-<<Project Start>>
+ - between Avila Street and Retiro Way, Lot 0439A in Assessor's Block 
       052. Request for Discretionary Review of Building Permit Application
 
       No. 2000/11/03/4794.
@@ -3921,8 +3510,6 @@ Salinas
 
 
 ITEM 18 CALLED OUT OF ORDER AFTER ITEM # 22
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3936,7 +3523,8 @@ ITEM 18 CALLED OUT OF ORDER AFTER ITEM # 22
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 2001.0147D
  
  
@@ -4033,8 +3621,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4048,7 +3634,8 @@ Salinas
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2001.0385DD
  
  (TAM: 558-6325)
@@ -4115,8 +3702,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4139,7 +3724,8 @@ Salinas
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2001.0487D
  
  
@@ -4272,8 +3858,6 @@ ABSENT:
  
  
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4287,7 +3871,8 @@ Salinas
 
  
 21.
- 
+<<Project End>>
+<<Project Start>>
 2001.0498D
  
 (WOLOSHYN: 558-6612)
@@ -4395,8 +3980,8 @@ Salinas
 
  
 22a.
-
-
+<<Project End>>
+<<Project Start>>
 2000.138
 D
 V
@@ -6060,7 +5645,8 @@ Salinas
 
  
 22b.
- 
+<<Project End>>
+<<Project Start>>
 2000.138D
 V
  

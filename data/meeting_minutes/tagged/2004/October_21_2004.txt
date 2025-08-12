@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 21, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ October 21, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-October 21, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 21, 2004
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 21, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Dwight D. Alexander,
- 
-Michael J. Antonini,
- 
-Shelley Bradford Bell, Kevin Hughes, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- 
- Sue Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 2:58 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Larry Badiner – Acing Director and Zoning Administrator; Jonathan Purvis; Dan DiBartolo; Dan Sider; Paul Lord; Steve Shotland; Dominick Argumedo; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2004.0779T
+2004.0779T
  
  
  
@@ -324,8 +43,6 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -333,8 +50,9 @@ ABSENT:
 
  
  2.
- 
- 2004.0780T
+<<Project End>>
+<<Project Start>>
+2004.0780T
  
  
  
@@ -378,8 +96,6 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -387,8 +103,9 @@ ABSENT:
 
  
  3.
- 
- 2004.0781T
+<<Project End>>
+<<Project Start>>
+2004.0781T
  
  
  
@@ -438,8 +155,9 @@ ABSENT:
 
  
  4a.
- 
- 2004.0032D 
+<<Project End>>
+<<Project Start>>
+2004.0032D 
  
  
  
@@ -495,8 +213,9 @@ ABSENT:
 
  
  4b.
- 
- 2004.0033D 
+<<Project End>>
+<<Project Start>>
+2004.0033D 
  
  
  
@@ -545,16 +264,15 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2004.0837D
+<<Project End>>
+<<Project Start>>
+2004.0837D
  
  
  
@@ -613,8 +331,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -651,8 +367,6 @@ EXCUSSED:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -754,8 +468,6 @@ Commission Secretary:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -798,8 +510,6 @@ Re:
 
 
 - He will report on this next week.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -838,8 +548,6 @@ Full Board of Supervisors – October 19, 2004
 
 
 BOA – None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -888,8 +596,9 @@ REGULAR CALENDAR
 
  
  11a.
- 
- 2003.0304
+<<Project End>>
+<<Project Start>>
+2003.0304
 C
 V
  
@@ -1178,8 +887,9 @@ MOTION:
 
  
  11b.
- 
- 2003.0304C
+<<Project End>>
+<<Project Start>>
+2003.0304C
 V
  
  
@@ -1239,16 +949,15 @@ ACTION:
  He is not comfortable with the project as submitted.
  
  This gives some flexibility.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2004.0501C
+<<Project End>>
+<<Project Start>>
+2004.0501C
  
  
  
@@ -1297,16 +1006,15 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2003.0964C
+<<Project End>>
+<<Project Start>>
+2003.0964C
  
  
  
@@ -1354,16 +1062,15 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2004.0176C
+<<Project End>>
+<<Project Start>>
+2004.0176C
  
 (D. 
 DiBartolo
@@ -1426,16 +1133,15 @@ ABSENT:
 MOTION:
  
  16873
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2004.0915C
+<<Project End>>
+<<Project Start>>
+2004.0915C
  
  
  
@@ -1493,16 +1199,15 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2004.0797C
+<<Project End>>
+<<Project Start>>
+2004.0797C
  
  
  
@@ -1689,8 +1394,9 @@ ABSENT:
  
 17
 a.
- 
- 2003.0262
+<<Project End>>
+<<Project Start>>
+2003.0262
 E
 !KXCVMRTZ
  
@@ -2125,8 +1831,6 @@ AYES:
 ABSENT:
  
  S. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2137,8 +1841,9 @@ ABSENT:
 
  
  18.
- 
- 2004.0778T
+<<Project End>>
+<<Project Start>>
+2004.0778T
  
  
  
@@ -2429,8 +2134,9 @@ MOTION:
 
  
  19a.
- 
- 2004.088
+<<Project End>>
+<<Project Start>>
+2004.088
 2e
 m
 z
@@ -2496,8 +2202,9 @@ MOTION:
 
  
  19b.
- 
- 2004.0882EM
+<<Project End>>
+<<Project Start>>
+2004.0882EM
 Z
  
  
@@ -2565,8 +2272,9 @@ MOTION:
 
  
  20a.
- 
- 2003.1061D
+<<Project End>>
+<<Project Start>>
+2003.1061D
  
  
  
@@ -2623,8 +2331,9 @@ ABSENT:
 
  
  20b.
- 
- 2003.0104D
+<<Project End>>
+<<Project Start>>
+2003.0104D
  
  
  
@@ -2668,8 +2377,6 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2680,8 +2387,8 @@ ABSENT:
 
  
  21.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0667D
  
  
@@ -2727,8 +2434,9 @@ ACTION:
 
  
  22a.
- 
- 2004.0230D
+<<Project End>>
+<<Project Start>>
+2004.0230D
  
  
  
@@ -3021,8 +2729,9 @@ ABSENT:
 
  
  22b.
- 
- 2004.0640DD
+<<Project End>>
+<<Project Start>>
+2004.0640DD
  
  
  
@@ -3064,16 +2773,12 @@ SPEAKER(S):
 ACTION:
  
  Took Discretionary Review and approved as modified:
-<<Project End>>
-<<Project Start>>
 
 
 1.
  
  
 Remove the fourth floor from the plan and limit the height of the building to the height of the adjacent building to the north,
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -3082,64 +2787,48 @@ Remove the fourth floor from the plan and limit the height of the building to th
 Remove the 12 foot by 15 foot extension from the rear of the building.
  
  External stairs, extending no more than 6 feet toward the rear, may be constructed on the rear of the building in this location.
-<<Project End>>
-<<Project Start>>
 
 
 3.
  
  
 Recess the garage door a minimum of 3 feet,
-<<Project End>>
-<<Project Start>>
 
 
 4.
  
  
 Recess the front entry door a minimum of three feet and include a stoop and porch roof or similar elements to better articulate the entry,
-<<Project End>>
-<<Project Start>>
 
 
 5.
  
  
 Vertically align the entry door and the southerly windows on the front faÃ§ade and the center the garage door on the bay window on the floors above,
-<<Project End>>
-<<Project Start>>
 
 
 6.
  
  
 Eliminate the pedestrian door on the north end of the front faÃ§ade or place the door within the recess for the garage door so it is not obvious from the street, or eliminate the interior door leading from interior rooms to the corridor served by the second door,
-<<Project End>>
-<<Project Start>>
 
 
 7.
  
  
 Reduce the width of the garage door to 8 feet.
-<<Project End>>
-<<Project Start>>
 
 
 8.
  
  
 Limit the driveway width to 10 feet and require landscaping of the entire front yard with plant materials, except the driveway and a walk to the front door.
-<<Project End>>
-<<Project Start>>
 
 
 9.
  
  
 A three inch reveal will be required on all front windows,
-<<Project End>>
-<<Project Start>>
 
 
 10.
@@ -3167,8 +2856,6 @@ AYES:
 ABSENT:
  
  Bradford Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3178,8 +2865,9 @@ ABSENT:
 
  
  23.
- 
- 2004.0587D
+<<Project End>>
+<<Project Start>>
+2004.0587D
  
  
  
@@ -3348,8 +3036,6 @@ AYES:
 ABSENT:
  
  Alexander, Bradford Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3359,8 +3045,9 @@ ABSENT:
 
  
  24.
- 
- 2004.0802D
+<<Project End>>
+<<Project Start>>
+2004.0802D
  
  
  

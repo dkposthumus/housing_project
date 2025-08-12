@@ -1,288 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 13, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ June 13, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-June 13, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 
-1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 13, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                        
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:04 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Omar Masry, Kanishka Burns, AnMarie Rodgers, Mat Snyder, Susan Exline, Aaron Starr, Corey Teague, Adrian Putra, and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                        
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The 
-Commission
- will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2013.0477C                                                             
    
       (C. TEAGUE:  (415) 575-9081) 
@@ -329,15 +45,14 @@ Continued as Amended
 AYES:
               
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.0259C
                                                                    
       
@@ -406,15 +121,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.1070C
                                                        
                  
@@ -455,15 +169,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
            
 18901
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2013.0362C
                                            
                              
@@ -534,8 +247,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -596,8 +307,6 @@ For members of the public and for people watching this on SFGTV, Commissioner An
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -616,9 +325,7 @@ Director Rahaim:
 
 The only announcement I wanted to make was related to the meeting last time on the Central Corridor Plan.
   
-It was a meeting to go over a list of potential topics that we would be studying with the community over the next year. We had a very good turnout of, I think, 70 or 80 people. Reviewed a list of potential topics, came up with a very long potential list and we are scheduled to report to you next week briefly on what our kind of proposed list of topics will be for having a series of meeting over the next year, so I just wanted to report to you on that, and thank staff and thank the public for coming out and listening.
-<<Project End>>
-<<Project Start>>
+It was a meeting to go over a list of potential topics that we would be studying with the community over the next year. We had a very good turnout of, I think, 70 or 80 people. Reviewed a list of potential topics, came up with a very long potential list and we are scheduled to report to you next week briefly on what our kind of proposed list of topics will be for having a series of meeting over the next year, so I just wanted to report to you on that, and thank staff and thank the public for coming out and listening. 
 
 
  
@@ -722,15 +429,11 @@ FULL BOARD OF SUPERVISORS:
 Supervisor Weiner 3 ped safety legislation (APPROVED 1
 ST
  READING)
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Create an interagency Street Design Review Committee made up of Planning, SFMTA, DPW, SFPUC, OEWD, and Fire Department to review street improvement projects against established City policies, such as the Transit-First Policy and the Better Streets Plan
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -738,8 +441,6 @@ Create an interagency Street Design Review Committee made up of Planning, SFMTA,
 Create a Public Improvement Permit
   
 (for instance for in-kind infrastructure) that would enable the DPW Director to administratively accept public improvements built by third-party developers in the right-of-way, if accompanied by a maintenance endowment (bypasses the need for major encroachment permit and gift acceptance by Board of Supervisors).
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -846,8 +547,6 @@ None
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -855,7 +554,8 @@ REGULAR CALENDAR
 
 
 8.
-         
+<<Project End>>
+<<Project Start>>
 2013.0376T
                                            
             
@@ -938,15 +638,14 @@ Antonini
 RESOLUTION:
    
 18903
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-         
+<<Project End>>
+<<Project Start>>
 2013.0196U
                                                                        (M. SNYDER: (415) 575-6891)
 
@@ -989,15 +688,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
    
 18904
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-        
+<<Project End>>
+<<Project Start>>
 2013.0625R
   
                              
@@ -1042,15 +740,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
    
 18905
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-        
+<<Project End>>
+<<Project Start>>
 2012.0950TZ
                              
                                            
@@ -1103,15 +800,14 @@ Fong
 RESOLUTION:
    
 18906
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-        
+<<Project End>>
+<<Project Start>>
 2012.1183TZ
                              
              
@@ -1171,15 +867,14 @@ Fong
 RESOLUTION:
    
 18907
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-        
+<<Project End>>
+<<Project Start>>
 2013.0336C
                                                                         (C. TEAGUE:  (415) 575-9081) 
 
@@ -1239,15 +934,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
            
 18908
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-        
+<<Project End>>
+<<Project Start>>
 2013.0072D
                                                        
                   
@@ -1283,15 +977,11 @@ SPEAKERS:
 ACTION:
            
 Demo – No DR; NC – Took DR and Approved with Modifications:
-<<Project End>>
-<<Project Start>>
 
 
 1.
    
 Five foot height reduction; and
-<<Project End>>
-<<Project Start>>
 
 
 2.

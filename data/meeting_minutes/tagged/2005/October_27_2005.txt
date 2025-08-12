@@ -1,289 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ October 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-October 27, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 27, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 27, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
- 
-Sue Lee;
- 
-Michael Antonini;
- 
-Shelley Bradford-Bell
-; Kevin Hughes; William L. Lee; Christina Olague
-
-
- 
-
-
-COMMISSIONERS ABSENT:
-    
- Dwight S. Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Rick Crawford, Kelley Amdur, Daniel Sirois, Dan Dibartolo, Shaun Mendrin, Ben Fu, Glenn Cabreros, Joshua Switzky, Jonas Ionin -- Acting Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-        
- 2005.0456EC
+2005.0456EC
                                                     
  
                 
@@ -355,8 +71,9 @@ ABSENT:
 
 
 2a.
-       
- 2005.0480CV
+<<Project End>>
+<<Project Start>>
+2005.0480CV
                        
  
                                                
@@ -416,8 +133,9 @@ ABSENT:
 
 
 2b.
-       
- 2005.0480C
+<<Project End>>
+<<Project Start>>
+2005.0480C
 V
              
  
@@ -472,8 +190,9 @@ ABSENT:
 
 
 2c.
-       
- 2005.0481V
+<<Project End>>
+<<Project Start>>
+2005.0481V
       
  
                                     
@@ -521,16 +240,15 @@ AYES:
 ABSENT:
          
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
- 2003.1108E 
+<<Project End>>
+<<Project Start>>
+2003.1108E 
                                                                  
  
         
@@ -777,8 +495,6 @@ EXCUSED:
 ABSENT:
          
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1167,8 +883,6 @@ But people inevitably won’t agree with something we do at one point or another
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1194,8 +908,6 @@ A brief report was given in regard to the Department’s hiring process.
 
 
 Paul Maltzer gave a report on the Bayview/Hunters Point Environmental Impact Report.
-<<Project End>>
-<<Project Start>>
    
 
 
@@ -1358,8 +1070,6 @@ NONE
 
   
  CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1368,8 +1078,9 @@ NONE
 
 
 8.
-        
- 2005.0632C
+<<Project End>>
+<<Project Start>>
+2005.0632C
                                                                   
  
     
@@ -1447,16 +1158,15 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-        
- 2005.0716D
+<<Project End>>
+<<Project Start>>
+2005.0716D
       
  
                                                
@@ -1493,8 +1203,6 @@ ACTION:
 AYES:
              
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1502,8 +1210,9 @@ AYES:
 
            
  10.
-       
- 2005.0851C
+<<Project End>>
+<<Project Start>>
+2005.0851C
                   
  
                                           
@@ -1559,16 +1268,15 @@ AYES:
 MOTION:
           
  17131
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-       
- 2004.0305C
+<<Project End>>
+<<Project Start>>
+2004.0305C
                               
  
                                             
@@ -1617,8 +1325,9 @@ MOTION:
 
 
 12a.
-     
- 2005.0627
+<<Project End>>
+<<Project Start>>
+2005.0627
 X
 V 
                                                    
@@ -1728,8 +1437,8 @@ MOTION:
            
  
 12b.
-     
- 
+<<Project End>>
+<<Project Start>>
 2005.0627X
 V
  
@@ -1776,8 +1485,6 @@ Request for a Variance
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1788,8 +1495,9 @@ REGULAR CALENDAR
 
            
  13.
-       
- 2004.0196D
+<<Project End>>
+<<Project Start>>
+2004.0196D
                                                       
  
          
@@ -1974,16 +1682,14 @@ AYES:
 NAYES:
            
  Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0663C
                                           
  
@@ -2061,16 +1767,14 @@ AYES:
 MOTION:
           
  17134
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.0546
 C
                
@@ -2132,8 +1836,9 @@ ABSENT:
 
            
  16a.
-     
- 2003.0295
+<<Project End>>
+<<Project Start>>
+2003.0295
 C
 DV
                          
@@ -2192,8 +1897,9 @@ ABSENT:
 
            
  16b.
-     
- 2003.0295C
+<<Project End>>
+<<Project Start>>
+2003.0295C
 D
 V
                          
@@ -2249,8 +1955,9 @@ ABSENT:
 
            
  16c.
-     
- 2003.0295CD
+<<Project End>>
+<<Project Start>>
+2003.0295CD
 V
                                      
  
@@ -2300,8 +2007,9 @@ ABSENT:
 
 
 17a.
-     
- 2004.1164
+<<Project End>>
+<<Project Start>>
+2004.1164
 C
 KV 
                                                 
@@ -2393,8 +2101,9 @@ MOTION:
 
 
 17b.
-     
- 2004.1164CK
+<<Project End>>
+<<Project Start>>
+2004.1164CK
 V
                                                  
  
@@ -2430,8 +2139,6 @@ ACTION;
           
  
 Zoning Administrator closed public hearing and granted the variance.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2480,16 +2187,14 @@ AYES:
 ABSENT:
          
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0796T
                                           
  
@@ -2813,8 +2518,6 @@ ACTION:
  Public hearing closed.
  
  At the call of the Chair (Commissioner Alexander), item continued to November 10, 2005.
-<<Project End>>
-<<Project Start>>
 
 
 20.
@@ -2893,8 +2596,6 @@ MOTION:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  

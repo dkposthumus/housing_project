@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ July 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-July 10, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 10, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 10, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:30 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director; Larry Badiner -Zoning Administrator; Judy Boyajian, Deputy City Attorney; John Paul Samaha; Jonathan Purvis; Rana Ahmadi; Ben Helber; Matt Snyder; Kelley Amdur; Adam Light; Rick Crawford; Glen Cabreros; Mary Woods; Dan Dibartolo; Dan Sider; Michael Smith; Michael Li; Kate McGee; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0223C                                 (M. WOODS: (415) 558-6315)
 
 
@@ -405,8 +165,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 4. 2003.0339C                                                                          (K. AMDUR:  (415) 558-6351)
 
 
@@ -438,9 +196,6 @@ ABSENT: Boyd
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 5.  Commission Comments/Questions
 
 
@@ -471,8 +226,6 @@ Re:  Housing Element
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 6. Director's Announcements
 
 
@@ -503,33 +256,21 @@ Re:  Budget Hearing
 - The final result was the following:
 <<Project End>>
 <<Project Start>>
-
-
 1. Delete three Planner II positions that are currently vacant.
 <<Project End>>
 <<Project Start>>
-
-
 2. Delete a Senior Clerk Typist and a Senior Manager Position which are currently vacant.
 <<Project End>>
 <<Project Start>>
-
-
 3. Reclassify a vacant Planner IV position to a Planner III position.
 <<Project End>>
 <<Project Start>>
-
-
 4. Delete the $50,000 which would have been devoted to laptop equipment.
 <<Project End>>
 <<Project Start>>
-
-
 5. Vehicles assigned on a full time basis to him and the Zoning Administrator are to be re-assigned for staff use.  These vehicles are used by staff anyway so this would not change much.
 <<Project End>>
 <<Project Start>>
-
-
 6. Delete a Planner V position in the Information Services Unit.  This position is currently filled so the consequence would be that those who are the least senior in this classification would be affected.  In this case, that would be the Environmental Review Officer.  The person in this position has very special qualifications and experience regarding CEQA.  A reassignment would really undermine the ability of the department to be efficient.  He will submit an alternative that would be a refinement of their actions.
 
 
@@ -545,8 +286,6 @@ Marilyn Amini
 - She would also like to know what is the procedure of the "Third draft" of the Housing Element.
 <<Project End>>
 <<Project Start>>
-
-
 7. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -777,8 +516,6 @@ nd
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 8. 2003.0466C (J.  BANALES: (415) 558-6339)
 
 
@@ -824,11 +561,6 @@ F.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 9. 2002.07892E                          (J. NAVARRETE: 9415) 558-5975)
 
 
@@ -904,8 +636,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 MOTION: 16609
 <<Project End>>
 <<Project Start>>
-
-
 10. 2001.0062E (T. CHAN: (415) 558-5982)
 
 
@@ -1811,8 +1541,6 @@ ACTION: Public hearing only.  No action required.
 Item 11 was taken out of order and followed item 9:
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0207C                                                 (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1862,8 +1590,6 @@ AYES: Antonini, Boyd, Hughes, S. Lee, W. Lee
 NAYES: Bradford Bell, Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 12. 2002.1049C (K. McGEE: (415) 558-6367)
 
 
@@ -2245,8 +1971,6 @@ SPEAKER(S): Same as those listed for item 13a.
 ACTION: Zoning Administrator closed the public hearing and granted the modifications and variance.
 <<Project End>>
 <<Project Start>>
-
-
 14. 2002.0896C                                                                              (B. FU:  (415) 558-6613)
 
 
@@ -2279,8 +2003,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 15. 2002.0430C                          (J. IONIN: (415) 558-6309)
 
 
@@ -2306,8 +2028,6 @@ ACTION: Without hearing, item continued to July 17, 2003
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0544C (T. TAM: (415) 558-6325)
 
 
@@ -2346,8 +2066,6 @@ At approximately
   the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0179D (K. SIMONSON: 415-558-6321)
 
 
@@ -2364,8 +2082,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review request was withdrawn
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.0519D (K. SIMONSON: 415-558-6321)
 
 
@@ -2385,8 +2101,6 @@ ACTION: Without hearing, item continued to July 31, 2003
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 19. 2003.0165D                        (D. SIROIS: (415) 558-6313)
 
 
@@ -2471,8 +2185,6 @@ AYES: Antonini, Bradford Bell, Boyd, S. Lee, W. Lee
 NAYES: Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 20. 2003.0588D (G. CABREROS: (415) 558-6169)
 
 
@@ -2870,8 +2582,6 @@ A tandem parking space shall be added within the garage, which would provide par
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 22. 2002.1268D (G. NELSON: (415) 558-6257)
 
 
@@ -2896,8 +2606,6 @@ ACTION: Without hearing, item continued to July 31, 2003
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 23. 2003.0389D (T. WANG: (415) 558-6335)
 
 
@@ -2917,8 +2625,6 @@ ACTION: Without hearing, item continued to July 31, 2003
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 24. 2003.0471D (D. JONES: (415) 558-6477)
 
 

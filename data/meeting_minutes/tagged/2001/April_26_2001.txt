@@ -1,358 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ April 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-April 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 26, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-       
-      
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 26, 2001
-
-
-1:30 PM
-
-
-
-
-
-       
-      
-
-
-
-
-Regular Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
-
-
-None
-
-
-
-
-
-       
-      
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS 
-      AT 1:48 p.m.
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. 
-      Green, Director of Planning; Larry Badiner, Zoning Administrator; Daniel 
-      Pulon; Pedro Arce; Kelley LeBlanc; Rick Crawford; Judy Martin; Michael Li; 
-      Susan Snyder; Thomas Wang; Augustine Fallay; Craig Nikitas; Dario Jones; 
-      Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-A.
- 
-ITEMS 
-      PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-1.
- 
 1998.927C 
 
 
@@ -401,8 +47,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, 
       Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -420,7 +64,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.1061E
 
 
@@ -486,8 +131,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, 
       Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -501,7 +144,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 3.
- 
+<<Project End>>
+<<Project Start>>
 2000.1061C 
       
 
@@ -558,8 +202,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, 
       Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -573,7 +215,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1165B
 
 
@@ -660,8 +303,6 @@ B.
 
 
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -734,8 +375,6 @@ ACTION:
  
 Hearing cancelled at the call of 
       the chair.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -786,8 +425,6 @@ There is also
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -807,8 +444,6 @@ Director's Announcements
 
 - Congratulated Mr. Pedro Arce on his retirement and acknowledged his contributions 
       to the Planning Department.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -866,8 +501,6 @@ BOA
 D.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -994,8 +627,6 @@ RESOLUTION No.
 
 
 16147
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1003,8 +634,8 @@ RESOLUTION No.
 
  
 10.
-
-
+<<Project End>>
+<<Project Start>>
 2000.765E
 
 
@@ -1344,7 +975,8 @@ MOTION No:
 
  
 11a.
- 
+<<Project End>>
+<<Project Start>>
 2000.190
 B
 X
@@ -1530,7 +1162,8 @@ MOTION No:
 
  
 11b.
- 
+<<Project End>>
+<<Project Start>>
 2000.190B
 X
 
@@ -1606,8 +1239,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No:
  
 16150
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1621,8 +1252,8 @@ MOTION No:
 
  
 12.
-
-
+<<Project End>>
+<<Project Start>>
 2000.613
 X
 C
@@ -1776,8 +1407,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No:
  
 16151
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1791,8 +1420,8 @@ MOTION No:
 
  
 13.
-
-
+<<Project End>>
+<<Project Start>>
 2000.277X
 C
 
@@ -1878,8 +1507,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No:
  
 16152
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1893,7 +1520,8 @@ MOTION No:
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.1232C
  
  
@@ -1995,8 +1623,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No:
  
 16153
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2010,7 +1636,8 @@ MOTION No:
 
  
 15.
- 
+<<Project End>>
+<<Project Start>>
 2001.0180C
 
 
@@ -2115,8 +1742,6 @@ At Approximately
  the Planning Commission convened 
       into a Special Discretionary Review (DR) Hearing to hear and act on Discretionary 
       Review matters.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2131,7 +1756,8 @@ At Approximately
 
 
 16.
- 
+<<Project End>>
+<<Project Start>>
 2000.264
 C
 D
@@ -2335,8 +1961,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION:
  
 16155
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2350,7 +1974,8 @@ MOTION:
 
  
 17.
- 
+<<Project End>>
+<<Project Start>>
 2000.264C
 D
 
@@ -2439,8 +2064,6 @@ AYES:
 
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2455,7 +2078,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
 
 
 18.
- 
+<<Project End>>
+<<Project Start>>
 2001.0206D
  
  
@@ -2470,9 +2094,7 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
       application proposing to construct a new single-family dwelling on a vacant 
       lot in an RH-1 (Residential, House, Single-Family) District and a 40-X Height 
       and Bulk District, and within the Bernal Heights South Slope Study Area. 
-      Subject to mandatory Discretionary Review per Planning Commission Resolution
-<<Project End>>
-<<Project Start>>
+      Subject to mandatory Discretionary Review per Planning Commission Resolution 
       14973.
  
 
@@ -2511,8 +2133,6 @@ AYES:
 
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2526,7 +2146,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.734D
 
 
@@ -2535,9 +2156,7 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
 
 
 255 SAN MARCOS AVENUE
- - south side on the west of Santa Rita Avenue; Lot 026 in Assessor's Block
-<<Project End>>
-<<Project Start>>
+ - south side on the west of Santa Rita Avenue; Lot 026 in Assessor's Block 
       2882.
  
 Request for Discretionary 
@@ -2825,8 +2444,6 @@ AYES:
 
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2840,7 +2457,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.046D
 
 
@@ -3229,8 +2847,6 @@ to add a one-hour roof and eliminate parapet.
 AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3244,7 +2860,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, and Theoharis
 
  
 21.
- 
+<<Project End>>
+<<Project Start>>
 2001.0198D
 
 
@@ -3309,8 +2926,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, 
       Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3324,7 +2939,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 22.
- 
+<<Project End>>
+<<Project Start>>
 2001.0253D
 
 

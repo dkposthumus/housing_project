@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 22, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ June 22, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-June 22, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 22, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 22, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- President Sue Lee; Vice President Dwight Alexander; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; William Lee; and Christina Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Neil Hart – Acting Zoning Administrator; Amit Ghosh; Michael Li; John Billovits; Tom Wang; April Hesik; Nannie Turrell; Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2002.1263U
+2002.1263U
  
  
  
@@ -316,16 +41,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0730U
+<<Project End>>
+<<Project Start>>
+2006.0730U
  
  
  
@@ -370,8 +94,6 @@ ABSENT:
 
 
 3a.
-<<Project End>>
-<<Project Start>>
  
  2005. 0307D
  
@@ -424,8 +146,6 @@ ABSENT:
 
 
 3b.
-<<Project End>>
-<<Project Start>>
  
  2005. 0329D
  
@@ -471,16 +191,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.0781D
+<<Project End>>
+<<Project Start>>
+2005.0781D
  
  (M. SMITH (415) 558-6322)
 
@@ -549,8 +268,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1081,8 +798,6 @@ I want to thank you for your service and friendship and I'm sure we will see eac
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1172,8 +887,6 @@ I love this job of working for San Francisco and watching the good things that t
 
 
 Thank you very much for your comments.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2201,8 +1914,6 @@ That amendment is a bad amendment as well.
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2211,8 +1922,8 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 8.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0092E
 T
  
@@ -2287,16 +1998,14 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0639C
  
  
@@ -2365,8 +2074,6 @@ MOTION:
 
 
 H.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2375,8 +2082,9 @@ H.REGULAR CALENDAR
 
 
 10.
- 
- 2006.0074 
+<<Project End>>
+<<Project Start>>
+2006.0074 
 U
  
  
@@ -2431,8 +2139,6 @@ NAYES:
 MOTION:
  
  17272
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2440,8 +2146,9 @@ MOTION:
 
  
  11.
- 
- 2005.0582C
+<<Project End>>
+<<Project Start>>
+2005.0582C
  
  
  
@@ -2622,8 +2329,6 @@ AYES:
 MOTION:
  
  17273
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2632,8 +2337,9 @@ MOTION:
  
  
 12.
- 
- 2006.0084D
+<<Project End>>
+<<Project Start>>
+2006.0084D
  
  
  
@@ -3059,8 +2765,9 @@ ABSENT:
 
 
 13a.
- 
- 2006.0661D
+<<Project End>>
+<<Project Start>>
+2006.0661D
  
  
  
@@ -3120,8 +2827,9 @@ ABSENT:
 
 
 13b.
- 
- 2003.0367V
+<<Project End>>
+<<Project Start>>
+2003.0367V
  
  
  
@@ -3166,8 +2874,9 @@ ABSENT:
 
 
 13c.
- 
- 2006.0367V
+<<Project End>>
+<<Project Start>>
+2006.0367V
  
  
  
@@ -3202,8 +2911,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3217,8 +2924,9 @@ ABSENT:
 
  
  14.
- 
- 2005.1208D
+<<Project End>>
+<<Project Start>>
+2005.1208D
  
  
  
@@ -3436,8 +3144,9 @@ ACTION:
 
 
 15a.
- 
- 2005.1090
+<<Project End>>
+<<Project Start>>
+2005.1090
 C
 V
  
@@ -3503,8 +3212,9 @@ ABSENT:
 
 
 15b.
- 
- 2005.1090C
+<<Project End>>
+<<Project Start>>
+2005.1090C
 V
  
  
@@ -3567,8 +3277,9 @@ ABSENT:
 
 
 15c.
- 
- 2006.0688
+<<Project End>>
+<<Project Start>>
+2006.0688
 D
  
  
@@ -3618,8 +3329,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3627,8 +3336,9 @@ ABSENT:
 
  
  16.
- 
- 2006.0087D
+<<Project End>>
+<<Project Start>>
+2006.0087D
  
  
  
@@ -3838,8 +3548,6 @@ RESULT:
 ACTION:
  
  In the absence of a successful substitute motion and the failure to achieve four votes for discretionary review, the project is approved as proposed.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -3853,8 +3561,9 @@ ACTION:
 
 
 17.
- 
- 2006.0537D
+<<Project End>>
+<<Project Start>>
+2006.0537D
  
  
  
@@ -3897,16 +3606,14 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2001.0636E
  
  

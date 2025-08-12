@@ -1,296 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 9, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ January 9, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-January 9, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, January 9, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 06 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Aaron Starr, Jon Swae, Susan Exline, Sharon Young, Casey Noel, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-               
-
-
-1.
-                   
 2012.1427E 
          
                                                                                               
@@ -341,15 +49,14 @@ Fong, Wu, Antonini, Borden, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.1166T
                                                           
                    
@@ -394,15 +101,14 @@ Fong, Wu, Antonini, Borden, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.1663ZM
                                                                       
                             
@@ -451,8 +157,6 @@ Hillis
 B.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -506,8 +210,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -768,8 +470,6 @@ I just wanted to comment on what you just clarified, that in the absence of Comm
 C.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -798,8 +498,6 @@ th
  
 you
 .
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -953,15 +651,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2013.1517ET
                                                                                                        
 (J. SWAE: (415) 575-9069)
@@ -998,15 +695,14 @@ Let a thousand trees bloom
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2010.0641M
                                                                                          
            
@@ -1108,15 +804,14 @@ Sugaya
 RESOLUTION:
       
 19055
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2013.1663ZM
                                                                       
                             
@@ -1167,15 +862,14 @@ Moore
 RESOLUTION:
       
 19058
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2013.1464C
                                                                           
                            
@@ -1212,15 +906,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 19059
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1420C
                                                                           
                               
@@ -1284,15 +977,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.1002D
  
                                                                         

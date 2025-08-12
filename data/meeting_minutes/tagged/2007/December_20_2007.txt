@@ -1,285 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ December 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-December 20, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 20, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
- 
-
-
-Thursday, December 20, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-Adam Light – Acting Zoning Administrator, Amit Ghosh – Chief Planner, Delvin Washington, Sharon Young, Mary Woods, Tara Sullivan-Lenane, Scott Sanchez, David Lindsay, Elizabeth Watty, and Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 
 2004.0773
 E
 !MTZC
@@ -341,9 +60,9 @@ AYES:
 
 
  
- 1b. 
- 
- 
+ 1b.
+<<Project End>>
+<<Project Start>>
 2004.0773
 E
 !MTZC
@@ -650,8 +369,6 @@ Adoption of Commission Minutes
 - Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -687,8 +404,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1589,8 +1304,6 @@ ACTION:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1615,8 +1328,6 @@ Amit Ghosh, Chief Planner
 -
  
  He asked me to convey his best wishes to all for the holiday season.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1784,8 +1495,6 @@ The Planning Commission denied a Medical Cannabis Dispensary for lack of outreac
  
 Continued to March 5 and requested additional evidence from the Planning Department on whether the Dispensary is a nuisance
 .
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1882,8 +1591,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1891,8 +1598,9 @@ REGULAR CALENDAR
 
 
 7.
- 
- 2007.0922C
+<<Project End>>
+<<Project Start>>
+2007.0922C
  
  
 (Tape IB)
@@ -1987,16 +1695,14 @@ AYES:
 MOTION:
  
  17523
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0971C
  
  
@@ -2242,8 +1948,6 @@ AYES:
 MOTION:
  
  17524
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2283,8 +1987,6 @@ ACTION:
  No action is required of the Commission.
  
  This was an Informational presentation only.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2380,16 +2082,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.1193D
+<<Project End>>
+<<Project Start>>
+2007.1193D
  
  
 (Tape IIA; IIB
@@ -2572,8 +2273,9 @@ AYES:
 
  
  12a.
- 
- 2007.0448
+<<Project End>>
+<<Project Start>>
+2007.0448
 DDD
 V
  
@@ -2834,8 +2536,9 @@ AYES:
 
  
  12b.
- 
- 2007.0448DDD
+<<Project End>>
+<<Project Start>>
+2007.0448DDD
 V
  
  
@@ -2873,16 +2576,15 @@ SPEAKERS:
 ACTION:
  
  Acting Zoning Administrator closed public hearing and has taken the matter under advisement to the ZA.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.1194DD
+<<Project End>>
+<<Project Start>>
+2007.1194DD
  
  
 (Tape IIIA; IIIB)

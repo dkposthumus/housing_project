@@ -1,263 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ August 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-August 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 2, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                        
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Hillis, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: Borden
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:14 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Scott Edmondson, Rick Crawford, Elizabeth Watty, Aaron Hollister, Debra Dwyer, Doug Vu, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-            1.
-            
 2012.0206C                                                                         
 (
 M. Smith: (415) 558-6322)
@@ -316,8 +57,6 @@ ABSENT:          Borden
 B.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -458,8 +197,6 @@ Director Rahaim:
 
 C.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -474,9 +211,7 @@ DIRECTOR’S REPORT
 Director Rahaim:
 
 
- I would also like to congratulate the commissioners on their appointments. I have been able to work with Rich for many years. Hard to believe that has been five years but welcome on behalf of the Department.
-<<Project End>>
-<<Project Start>>
+ I would also like to congratulate the commissioners on their appointments. I have been able to work with Rich for many years. Hard to believe that has been five years but welcome on behalf of the Department. 
 
 
  
@@ -675,9 +410,7 @@ BOARD OF APPEALS:
 HISTORIC PRESERVATION COMMISSION:
 
 
-I'm [Director Rahaim] going to give the Historic Preservation report today. The Preservation Commission approved the construction on 850 Battery St., which is a non-contributing building. it was the only certificate of appropriateness yesterday. Another item was an informational hearings on the fire that occurred at Pier 29. Representatives of the Port gave a presentation on that. Second, the Commission continued its discussion to expand the Administrative Certificate of Appropriateness Delegations. They are allowed to delegate certain types of changes to buildings in historic districts to staff. To date, I think there is general consensus that it has worked pretty well. A revised delegation process will be at the hearing in November. Also, planning staff summarized Sections of Planning Code Articles 10 and 11 which were amended at the Board of Supervisors in May. I believe the red line version will be in your packets today and you can see the changes that were made as well.
-<<Project End>>
-<<Project Start>>
+I'm [Director Rahaim] going to give the Historic Preservation report today. The Preservation Commission approved the construction on 850 Battery St., which is a non-contributing building. it was the only certificate of appropriateness yesterday. Another item was an informational hearings on the fire that occurred at Pier 29. Representatives of the Port gave a presentation on that. Second, the Commission continued its discussion to expand the Administrative Certificate of Appropriateness Delegations. They are allowed to delegate certain types of changes to buildings in historic districts to staff. To date, I think there is general consensus that it has worked pretty well. A revised delegation process will be at the hearing in November. Also, planning staff summarized Sections of Planning Code Articles 10 and 11 which were amended at the Board of Supervisors in May. I believe the red line version will be in your packets today and you can see the changes that were made as well. 
            
 
 
@@ -739,7 +472,9 @@ E.         REGULAR CALENDAR 
                         
 
 
-6a.        
+6a.
+<<Project End>>
+<<Project Start>>
 2004.0976ECV
                                                           
   (R. Crawford: (415) 558-6358)
@@ -779,7 +514,9 @@ MOTION:          
  
 
 
-6b.       
+6b.
+<<Project End>>
+<<Project Start>>
 2004.0976ECV    
                                                          
  (R. Crawford: (415) 558-6358)
@@ -804,7 +541,9 @@ ACTION:           The Zoning Administrator closed the public hearing a
 
 
             
-7a.        
+7a.
+<<Project End>>
+<<Project Start>>
 2012.0142CV
                                                                      (E. WATTY: (415) 558-6620)
 
@@ -843,7 +582,9 @@ MOTION:          
  
 
 
-7b.       
+7b.
+<<Project End>>
+<<Project Start>>
 2012.0142CV
                                                                       (E. WATTY: (415) 558-6620)
 
@@ -866,7 +607,9 @@ ACTION:           The Zoning Administrator closed the public hearing a
  
 
 
-8a.        
+8a.
+<<Project End>>
+<<Project Start>>
 2012.0032EXV 
                                                               (A. HOLLISTER:  (415) 575-9078)
 
@@ -914,7 +657,9 @@ MOTION:          
  
 
 
-8b.       
+8b.
+<<Project End>>
+<<Project Start>>
 2012.0032EXV  
                                                              (A. HOLLISTER:  (415) 575-9078)
 
@@ -940,14 +685,14 @@ SPEAKERS:     Same as those listed for item 8a
 
 
 ACTION:           The Zoning Administrator closed the public hearing and stated his inclination to grant the variances.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2008.1084E
                                                                          (D. DWYER: (415) 575-9031)
 
@@ -975,14 +720,14 @@ Preliminary Recommendation: No Action Required
 
 
 ACTION:           Public Hearing on Draft EIR – No action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.0637D
                                                                                (D. VU: (415) 575-9120)
 
@@ -1026,7 +771,9 @@ DRA #:            
  
 
 
-11a.      
+11a.
+<<Project End>>
+<<Project Start>>
 2011.0643DD
                                                                (G. CABREROS: (415) 558-6169)
 
@@ -1060,7 +807,9 @@ ACTION:           None - The Discretionary Review Requests were withdr
  
 
 
-11b.      
+11b.
+<<Project End>>
+<<Project Start>>
 2010.0158V
                                                                  
 (G. CABREROS: (415) 558-6169)

@@ -1,354 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ April 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-April 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 19, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-       
-      
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 19, 2001
-
-
-1:30 PM
-
-
-
-
-
-       
-      
-
-
-
-
-Regular Meeting
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
-
-
-None
-
-
-
-
-
-       
-      
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS 
-      AT 1:36 p.m.
-
-
-
-
-
-       
-      
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. 
-      Green, Director of Planning; Larry Badiner, Zoning Administrator; Rick Crawford; 
-      Elizabeth Gordon; Dan DiBartolo; Michael Li; Tina Tam; Blake Washington; 
-      Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-
-
-
-
-
-       
-      
-
-
-
-
-
-
-
-       
-      
-
-
-
-
-A.
- 
-ITEMS 
-      PROPOSED FOR CONTINUANCE
-
-
-
-
-
-       
-      
-
-
-
-
- 
-1a.
- 
 2000.863
 B
 V
@@ -414,7 +64,8 @@ Project Withdrawn
 
  
 1b.
- 
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
 
@@ -468,8 +119,6 @@ None
 ACTION:
  
 Project Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -483,7 +132,8 @@ Project Withdrawn
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 2001.0035E
 
 
@@ -571,8 +221,6 @@ B.
 
 
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -610,8 +258,6 @@ None
 ACTION:
  
 Continued to April 26, 2001
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -700,8 +346,6 @@ C.
 
 
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -741,8 +385,6 @@ Currently
 
 The committee will be rescheduling their meeting to an earlier time 
       on Thursdays.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -786,8 +428,6 @@ D.
  
 CONSIDERATION OF FINDINGS 
       AND FINAL ACTION -- PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -801,7 +441,8 @@ CONSIDERATION OF FINDINGS
 
  
 7.
- 
+<<Project End>>
+<<Project Start>>
 2001.0194D
 
 
@@ -906,7 +547,8 @@ Following
 
  
 8a.
- 
+<<Project End>>
+<<Project Start>>
 2000.277
 B
 XC
@@ -1133,7 +775,8 @@ MOTION No.
 
  
 8b.
- 
+<<Project End>>
+<<Project Start>>
 2000.277B
 X
 C
@@ -1257,7 +900,8 @@ MOTION No.
 
  
 8c.
- 
+<<Project End>>
+<<Project Start>>
 2000.277BX
 C
 
@@ -1377,7 +1021,8 @@ MOTION No.
  
 9
 a.
- 
+<<Project End>>
+<<Project Start>>
 1998.281
 B
 C
@@ -1718,7 +1363,8 @@ MOTION No.
  
 9
 b.
- 
+<<Project End>>
+<<Project Start>>
 1998.281B
 C
 
@@ -1765,8 +1411,10 @@ is currently no rear
       End Office District and a 90-X Height and Bulk District.
 
 
-Please note: this PUD amends and combines into one Case Nos. 98.281C, 
-      98.281V and 2001.0179V.
+Please note: this PUD amends and combines into one Case Nos. 98.281C,
+<<Project End>>
+<<Project Start>>
+98.281V and 2001.0179V.
 
 
  
@@ -1861,8 +1509,6 @@ MOTION No.
 F.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1876,7 +1522,8 @@ REGULAR CALENDAR
 
  
 10.
- 
+<<Project End>>
+<<Project Start>>
 2001.0072C 
       
 
@@ -2009,8 +1656,6 @@ Baltimore, Chinchilla, Fay, Joe,
 MOTION No.
  
 16145
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2024,7 +1669,8 @@ MOTION No.
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 2000.1195
 C
  
@@ -2182,7 +1828,8 @@ MOTION No.
 
 
 12a.
- 
+<<Project End>>
+<<Project Start>>
 2000.264
 C
 D
@@ -2406,7 +2053,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
  
 12b.
- 
+<<Project End>>
+<<Project Start>>
 2000.264C
 D
 
@@ -2518,8 +2166,6 @@ At Approximately
  the Planning Commission convened 
       into a Special Discretionary Review (DR) Hearing to hear and act on Discretionary 
       Review matters.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2533,8 +2179,8 @@ At Approximately
 
  
 13.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1274DD
 
 
@@ -2843,8 +2489,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, 
       Salinas, and Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2859,7 +2503,8 @@ Baltimore, Chinchilla, Fay, Joe,
 
 
 14.
- 
+<<Project End>>
+<<Project Start>>
 2001.0220D
  
  
@@ -3234,8 +2879,6 @@ directing staff to place the
 
 
 SPEAKERS:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -3279,8 +2922,6 @@ But
 So when 
       the rest of the neighbors knew that he was in agreement, they signed the 
       support petition.
-<<Project End>>
-<<Project Start>>
 
 
 

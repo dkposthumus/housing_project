@@ -1,298 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ November 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-November 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, November 21, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore
-
-
-COMMISSIONER ABSENT:
-   
-    
-Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:12 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Brittany Bendix, Aaron Starr, Pilar LaValley, Kimia Haddadan, Michael E. Smith, Erika Jackson, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.1427E 
                                                                                         
                
@@ -352,8 +58,9 @@ Sugaya
                                 
 2
 a
-. 
-         
+.
+<<Project End>>
+<<Project Start>>
 2011.0477C 
                                                                          
                                    
@@ -412,7 +119,8 @@ Sugaya
 
 2b
 .
-          
+<<Project End>>
+<<Project Start>>
 2011.0477V 
                                                                          
                                    
@@ -466,15 +174,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1104Q
                                                                                          
           
@@ -524,15 +231,14 @@ Sugaya
 MOTION:
                
 19023
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1459Q
                                                                                          
           
@@ -584,15 +290,14 @@ Sugaya
 MOTION:
                
 19024
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1460Q
                                                                                          
           
@@ -641,15 +346,14 @@ Sugaya
 MOTION:
                
 19025
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-          
+<<Project End>>
+<<Project Start>>
 2013.1285C
                                                                                           
      
@@ -688,15 +392,11 @@ SPEAKERS:
 ACTION:
                                 
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Site Permit application within 1 year; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -719,15 +419,14 @@ Sugaya
 MOTION:
                
 19027
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1328C
                                                                           
                           
@@ -770,15 +469,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore
 ABSENT:
                 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1400T
                                                           
                                             
@@ -840,8 +538,6 @@ RESOLUTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -892,8 +588,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -932,8 +626,6 @@ Thank you. I just returned from my first trip to New Orleans, and unfortunately 
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -953,8 +645,6 @@ DIRECTOR RAHAIM:
 Just one announcement today Commissioners, I wanted to let you know about, we have released the final Administrative Draft of the Recreation Open Space Element of the General Plan. We've been working back and forth with several stake holder groups. That was released two days ago and we will be getting you copies.
   
 We anticipate that we will come to you next month to initiate the process and we are looking at roughly a February time frame for action after several other public meetings and hearings at the Recreation and Park Commission. And related to that, there will be an open house on December the 4th from 5:30 -7:30 PM at the LGBT Center on Market Street. That will be a joint open house, for the ROSE, the Recreation Open Space Element and the Green Connections Project, which has also been finalized recently. Those two projects together, will be the subject of that open house, again, December 4th from 5:30-7:30 PM at the LGBT Center which is at 1800 Market Street. That concludes my announcements.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1180,8 +870,6 @@ Betty Traynor – 1601 Larkin Street
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1189,7 +877,8 @@ REGULAR CALENDAR
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.1504T
                                                                           
                             
@@ -1237,15 +926,14 @@ Sugaya
 RESOLUTION:
       
 19028
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2013.1468T
                                                                                           
 (K. HADDADAN: (415) 575-9068)
@@ -1293,8 +981,6 @@ Gen Fujiyoka – Concerns regarding ordinance
 ACTION:
                                 
 Adopted Recommendation for Approval as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1317,15 +1003,14 @@ Sugaya
 RESOLUTION:
       
 19029
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.1465T
                                                                                           
               
@@ -1370,15 +1055,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore
 ABSENT:
                 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2013.0740D
                                                                                          
           
@@ -1468,15 +1152,14 @@ Fong
 ABSENT:
                 
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.1286D
                                                                                          
        

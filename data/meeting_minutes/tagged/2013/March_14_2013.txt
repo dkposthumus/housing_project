@@ -1,276 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ March 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-March 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 14, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                        
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:11 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Joanna Linsangan, Dan Sider, Aaron Starr, Sophie Hayward, Kimia Haddadan, Anmarie Rodgers, Thomas Wang, Kevin Guy, Elizabeth Watty, Michael Smith and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2012.1495C                                                                          (
 A. PUTRA: (415) 575-9079)
 
@@ -304,8 +32,6 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore
 
 
 ABSENT:          Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -318,7 +44,8 @@ ABSENT:          Sugaya
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2011.1369C                                                                  (M. STAHLHUT: (415) 575-9116)
 
 
@@ -372,8 +99,6 @@ B.         COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -405,8 +130,6 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore
 ABSENT:
              
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -442,8 +165,6 @@ I have two or three items. First of all, congratulations to Bevan Dufty and othe
 
 
 C.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -461,9 +182,7 @@ DIRECTOR RAHAIM
 
 I just wanted to briefly report, you will hear from a AnMarie in more detail. As I think you probably know, the Board of Supervisors this week upheld the Environmental Impact Report for CPMC and approved a new term sheet and I just wanted to let you know, because of the nature of the changes in the project you will be seeing this project again.  We are looking to bring you the initiation, the General Plan and Code changes in late April, we have tentatively scheduled a hearing on May 13
 th
-,  for to you take action on the new Conditional Use, Code changes and the General Plan Amendments and from then it will go to the Land Use Committee, to the Board in June, and to the full Board in late June or early July. That is the tentative schedule at this point. We will be getting you a large packet of information at least three weeks in advance because of the requirement for initiation. To initiate three weeks in advance of any General Plan action. You should be seeing that in about a month from now.
-<<Project End>>
-<<Project Start>>
+,  for to you take action on the new Conditional Use, Code changes and the General Plan Amendments and from then it will go to the Land Use Committee, to the Board in June, and to the full Board in late June or early July. That is the tentative schedule at this point. We will be getting you a large packet of information at least three weeks in advance because of the requirement for initiation. To initiate three weeks in advance of any General Plan action. You should be seeing that in about a month from now. 
 
 
  
@@ -675,8 +394,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 The Historic Preservation Commission did not meet yesterday; however, two new commissioners were confirmed and sworn in by the Board and Nicole Wheaton yesterday, so the Historic Preservation Commission is back at full strength with 7 Commissioners. The names are: Jonathan Pearlman and Ellen Johnck.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -712,8 +429,6 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore
 ABSENT:
              
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -767,15 +482,15 @@ SPEAKERS:     Linda Chapman, Hiroshi Fukuda, Robert Garcia
 
 E.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2013.0109T
                                                                          (A. STARR: (415) 558-6362)
 
@@ -798,15 +513,11 @@ SPEAKERS:     Ron Miguel, Milo Hanke, Kearstin Krehbiel, Alex Walker, Eric B
 
 ACTION:           
 Adopted a Recommendation for Approval with Modifications proposed by staff, including:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Allow copy change on signs installed prior to Article 6; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -824,14 +535,14 @@ Sugaya
 
 
             RESOLUTION:   18822
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.1411TZ
                                                                  (
 S. HAYWARD: (415) 558-6372)
@@ -855,64 +566,46 @@ SPEAKERS:       Amy Chan, Robert Garcia, Linda Chapman, Patricia Vaughey, 
 
 ACTION:           
 Adopted a Recommendation for Approval with Modifications:
-<<Project End>>
-<<Project Start>>
 
 
 1.
    
 Add emphasis on enforcement;
-<<Project End>>
-<<Project Start>>
 
 
 2.
    
 Prohibit new bars located w/n 100’ of an existing;
-<<Project End>>
-<<Project Start>>
 
 
 3.
    
 New bars outside of 100’ of an existing, would require CU;
-<<Project End>>
-<<Project Start>>
 
 
 4.
    
 New Type 47 ABC licenses for restaurants, would require CU;
-<<Project End>>
-<<Project Start>>
 
 
 5.
    
 No midnight curfew for restaurants;
-<<Project End>>
-<<Project Start>>
 
 
 6.
    
 Food service must continue operation through closing;
-<<Project End>>
-<<Project Start>>
 
 
 7.
    
 No tobacco component;
-<<Project End>>
-<<Project Start>>
 
 
 8.
    
-3-year Sunset provision; and
-<<Project End>>
-<<Project Start>>
+3-year Sunset provision; and 
 
 
 9.
@@ -925,14 +618,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
             RESOLUTION:   18823
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2008.0550U
                                                                  (K. HADDADAN: (415) 575-9068)
 
@@ -960,14 +653,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 MOTION:           18824
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2012.1329U
                                                                      (A. RODGERS (415) 558-6395) 
 
@@ -1005,7 +698,9 @@ MOTION:           18824
  
 
 
-13a.    
+13a.
+<<Project End>>
+<<Project Start>>
 2012.1307CV
                                                                          (T. WANG: (415) 558-6335)
 
@@ -1039,7 +734,9 @@ MOTION:           18825
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2012.1307CV
                                                                         (T. WANG: (415) 558-6335)
 
@@ -1052,14 +749,14 @@ Request for off-Street Parking Variance
 
 
 ZONING ADMINISTRATOR THE PUBLIC HEARING AND INDICATED AN INTENT TO GRANT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2010.1034C
                                                                     (M. STAHLHUT: (415) 575-9116)
 
@@ -1093,14 +790,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore
 ABSENT:
              
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2012.0325C
                                                                                (
 K. GUY: (415) 558-6163)
@@ -1138,7 +835,9 @@ MOTION:           18827
  
 
 
-            16a.      
+            16a.
+<<Project End>>
+<<Project Start>>
 2012.1093DDV
                                                                       (E. WATTY: (415) 558-6620)
 
@@ -1183,7 +882,9 @@ DRA No:           0312
  
 
 
-16b.      
+16b.
+<<Project End>>
+<<Project Start>>
 2012.1093DDV
                                                                        (E. WATTY: (415) 558-6620)
 
@@ -1204,14 +905,14 @@ The project site is located within a RM-3 (Residential, Mixed: Medium Density) Z
 
 
 ZONING ADMINISTRATOR THE PUBLIC HEARING AND INDICATED AN INTENT TO DENY
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2010.0272DD
                                                                          (M. SMITH: (415) 558-6322)
 

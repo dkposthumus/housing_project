@@ -1,283 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 5, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ April 5, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-April 5, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 5, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 5, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Amit Ghosh – Chief Planner, Neil Hart, Craig Nikitas, Michael Smith, Glenn Cabreros, Viktorya Wise, Jim Miller, Erika Jackson, Paul Lord, Michael Li, Rahna Ahmadi, John Billovits, Anmarie Rodgers, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0204C
+2007.0204C
  
  
  
@@ -332,8 +54,9 @@ AYES:
 
 
 2a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -381,8 +104,9 @@ AYES:
 
 
 2b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -432,8 +156,9 @@ AYES:
 
 
 3a.
- 
- 2004.0072D
+<<Project End>>
+<<Project Start>>
+2004.0072D
  
  
  
@@ -489,8 +214,9 @@ AYES:
 
 
 3b.
- 
- 2004.0073D
+<<Project End>>
+<<Project Start>>
+2004.0073D
  
  
  
@@ -540,8 +266,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -549,8 +273,8 @@ AYES:
 
  
  4.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0109D
  
  
@@ -594,8 +318,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -603,8 +325,8 @@ AYES:
 
  
  5.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0302U
  
  
@@ -655,8 +377,9 @@ AYES:
 
 
 6a.
- 
- 2006.0388D
+<<Project End>>
+<<Project Start>>
+2006.0388D
  
  
  
@@ -706,8 +429,9 @@ AYES:
 
 
 6b.
- 
- 2006.0389D
+<<Project End>>
+<<Project Start>>
+2006.0389D
  
  
  
@@ -769,16 +493,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2006.1095C 
+<<Project End>>
+<<Project Start>>
+2006.1095C 
  
  
  
@@ -896,8 +619,6 @@ We want to work at keeping a variety of businesses on Chestnut Street for neighb
 C.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -905,8 +626,9 @@ C.
 
 
 8.
- 
- 2006.0665DDDDDDDDDD
+<<Project End>>
+<<Project Start>>
+2006.0665DDDDDDDDDD
  
  (Tape IA; IB)
  
@@ -1393,16 +1115,15 @@ AYES:
 NAYES:
  
  Olague and Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.1415D
+<<Project End>>
+<<Project Start>>
+2006.1415D
  
  (Tapes IB; IIA)
  
@@ -1692,8 +1413,6 @@ AYES:
 NAYES:
  
  Antonini, S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1794,16 +1513,15 @@ ACTION:
  The hearing is to receive public & commission comments only.
  
  Action by the Commission is not required.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0208C
+<<Project End>>
+<<Project Start>>
+2006.0208C
  
  
  
@@ -1861,8 +1579,9 @@ EXCUSED:
 
 
 12a.
- 
- 2005.0731
+<<Project End>>
+<<Project Start>>
+2005.0731
 C
 EKV 
  
@@ -2047,8 +1766,9 @@ Motion:
 
 
 12b.
- 
- 2005.0731CEK
+<<Project End>>
+<<Project Start>>
+2005.0731CEK
 V
  
  
@@ -2098,8 +1818,9 @@ ACTION:
 
 
 13a.
- 
- 2006.1414C
+<<Project End>>
+<<Project Start>>
+2006.1414C
  
  
  
@@ -2150,8 +1871,9 @@ AYES:
 
 
 13b.
- 
- 2006.0741C
+<<Project End>>
+<<Project Start>>
+2006.0741C
  
  
  
@@ -2204,8 +1926,9 @@ AYES:
 
 
 13c.
- 
- 2004.0890
+<<Project End>>
+<<Project Start>>
+2004.0890
 C
 V 
  
@@ -2249,8 +1972,9 @@ AYES:
 
 
 13d.
- 
- 2004.0890C
+<<Project End>>
+<<Project Start>>
+2004.0890C
 V
  
  
@@ -2292,16 +2016,15 @@ AYES:
 Items 14, 15 and 16 were taken out of order and followed items
  
  17 - 19
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.1087C
+<<Project End>>
+<<Project Start>>
+2006.1087C
  
  
  (Tape IVB)
@@ -2462,16 +2185,15 @@ AYES:
 NAYES:
  
  Olague and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.1275TZ
+<<Project End>>
+<<Project Start>>
+2006.1275TZ
  
  (Tape IVB; VA)
  
@@ -2652,8 +2374,9 @@ Motion:
 
  
  16a.
- 
- 2006.0584K
+<<Project End>>
+<<Project Start>>
+2006.0584K
 X
 CV (Tape VA; VB)
  
@@ -2906,8 +2629,9 @@ Motion:
 
  
  16b.
- 
- 2006.0584KX
+<<Project End>>
+<<Project Start>>
+2006.0584KX
 C
 V
  
@@ -2975,8 +2699,9 @@ Motion:
 
  
  16c.
- 
- 2006.0584KXC
+<<Project End>>
+<<Project Start>>
+2006.0584KXC
 V
  
  (M. LI: (415) 558-6396)
@@ -3422,8 +3147,6 @@ Sue Hestor
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3432,8 +3155,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 17.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  (Tape IIB; IIIA)
  
@@ -3506,16 +3230,15 @@ EXCUSED:
 MOTION:
  
  17406
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  (Tape IIIA; IIIB; IVA)
  
@@ -3982,8 +3705,9 @@ MOTION:
 
 
 19a.
- 
- 2003.0347MTZU
+<<Project End>>
+<<Project Start>>
+2003.0347MTZU
  
  (J. BILLOVITS (415) 558-6390/A. RODGERS:
  
@@ -4081,8 +3805,8 @@ Informational Only.
 
 
 19b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2003.0347
 M
 TZU J. BILLOVITS (415) 558-6390/A. RODGERS:
@@ -4157,8 +3881,9 @@ RESOLUTION:
 
 
 19c.
- 
- 2003.0347M
+<<Project End>>
+<<Project Start>>
+2003.0347M
 T
 ZU
  
@@ -4279,8 +4004,9 @@ RESOLUTION:
 
  
  19d.
- 
- 2003.0347MT
+<<Project End>>
+<<Project Start>>
+2003.0347MT
 Z
 U 
  
@@ -4378,8 +4104,9 @@ RESOLUTION:
 
 
 19e.
- 
- 2003.0347MTZ
+<<Project End>>
+<<Project Start>>
+2003.0347MTZ
 U
  
  
@@ -4448,8 +4175,6 @@ F.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4485,8 +4210,6 @@ Future Meetings/Agendas
 G.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  

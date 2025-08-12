@@ -1,287 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ April 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-April 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 12, 2012
-
-
-12:00 PM
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Wu, Antonini, Borden, Miguel, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: Fong
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT WU AT 12: 10 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Corey Teague, Diego Sanchez, Adrian Putra, Doug Vu, Teresa Ojeda, Aaron Starr, Elizabeth Watty,  Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-                
-
-
-None
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         
 2012.0128B
                                                                       
 (C. Teague:  (415) 575-9081)
@@ -314,11 +31,11 @@ ABSENT:          Fong
 
 MOTION:           
 18574
+
+
+2.
 <<Project End>>
 <<Project Start>>
-
-
-2.         
 2011.1239C
                                                          
                
@@ -356,14 +73,14 @@ ABSENT:          Fong
 
 MOTION:           
 18575
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2011.0969C
                                                                              (A. PUTRA: (415) 575-9079)
 
@@ -391,14 +108,14 @@ ABSENT:          Fong
 
 MOTION:           
 18576
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.1216C
                                                                                  
 (D. Vu: (415) 575-9120)
@@ -438,7 +155,9 @@ MOTION:          
  
 
 
-5a.        
+5a.
+<<Project End>>
+<<Project Start>>
 2011.0588CEV
                                                                      (E. WATTY: (415) 558-6620)
 
@@ -475,7 +194,9 @@ MOTION:          
  
 
 
-5b.       
+5b.
+<<Project End>>
+<<Project Start>>
 2011.0588CEV
                                                                      (E. WATTY: (415) 558-6620)
 
@@ -503,8 +224,6 @@ ACTION:           The Zoning Administrator closed the public hearing a
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -586,8 +305,6 @@ I will not say a lot more but just piggyback on Commissioner Miguel's comments a
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -617,8 +334,6 @@ st
 
 That concludes my report unless there are questions
 .
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -724,23 +439,17 @@ This week the Board passed the Ordinance on FINAL reading.
 ·
          
 Public Art Fee.  T
-his Ordinance is sponsored by Mayor Lee and Board President Chiu.  It would amend the public art requirement to allow certain projects to pay into a new fund instead of providing on-site art.  The Planning Commission considered the ordinance on October 27.  At that time you made a number of recommendations which could be summarized into three issues:
-<<Project End>>
-<<Project Start>>
+his Ordinance is sponsored by Mayor Lee and Board President Chiu.  It would amend the public art requirement to allow certain projects to pay into a new fund instead of providing on-site art.  The Planning Commission considered the ordinance on October 27.  At that time you made a number of recommendations which could be summarized into three issues:  
 
 
 1.
      
 Ensuring the continued production of permanent, monumental art is balanced with the new possibility of ephemeral art.
-<<Project End>>
-<<Project Start>>
 
 
 2.
      
 Updating the requirement so that it applies to all large development, not just that within the C-3.
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -807,8 +516,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 No Report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -875,15 +582,15 @@ SPEAKERS:     Katherine Howard
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
                         
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2004.1004EKC
                                                                    
 (C. Teague:  (415) 575-9081)
@@ -916,14 +623,14 @@ ABSENT:          Fong
 
 RESOLUTION:   
 18579
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2012.0174T
                                                                           
 (A. Starr: (415) 558-6362)
@@ -963,7 +670,9 @@ RESOLUTION:  
  
 
 
-12a.      
+12a.
+<<Project End>>
+<<Project Start>>
 2011.0532T
                                                                     
 (A. STARR:  (415) 558-6362)         
@@ -1011,7 +720,9 @@ ABSENT:          Fong
  
 
 
-12b.      
+12b.
+<<Project End>>
+<<Project Start>>
 2011.0533Z
                                                                       
 (A. STARR:  (415) 558-6362)         
@@ -1055,14 +766,14 @@ NAYES:            Sugaya
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2012.0167TZ
                                                                          
 (A. Starr: (415) 558-6362)
@@ -1105,15 +816,15 @@ ABSENT:          Fong and Wu
 
 RESOLUTION:   
 18581
-<<Project End>>
-<<Project Start>>
 
 
 
          
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2011.1151D
                                                                            (A. STARR: (415) 558-6362)
 
@@ -1149,14 +860,14 @@ AYES:             Wu, Antonini, Borden, Miguel, Moore and Sugaya
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2011.1058D
                                                                          
 (E. Watty: (415) 558-6620)

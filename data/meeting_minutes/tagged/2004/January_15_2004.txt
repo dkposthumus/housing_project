@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ January 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-January 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 15, 2004
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 15, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:39 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Craig Nikitas - Acting Zoning Administrator; Jean-Paul Samaha; Glenn Cabreros; Rick Crawford; Jonathan Purvis; Kate McGee; Geoffrey Nelson; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0657C               (G. CABREROS: (415) 558-6169)
 
 
@@ -261,8 +21,6 @@ ACTION: Without hearing, item continued to March 4, 2004
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.1038C                                                       (M. LI:  (415) 558-6396)
 
 
@@ -285,8 +43,6 @@ ACTION: Without hearing, item continued to February 5, 2004
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0080C                                                         (G. NELSON: (415) 558-6257)
 
 
@@ -320,9 +76,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 4.
  ELECTION OF OFFICERS
 :  In accordance with the Rules and Regulations of the San Francisco Planning Commission, the President and Vice President of the Commission shall be elected at the first Regular Meeting of the Commission held on or after the 15th day of January of each year, or at a subsequent meeting, the date which shall be fixed by the commission at the first Regular Meeting on or after the 15th day of January each year.
@@ -370,8 +123,6 @@ AYES: Bradford Bell, Boyd, Feldstein, Hughes, S. Lee
 NAYES: Antonini and W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. Proposed adoption of Planning Commission hearing schedule for 2004.
 
 
@@ -384,8 +135,6 @@ ACTION: Approved
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 6. Consideration of Adoption - Draft Minutes of December 11 and 18, 2003.
 
 
@@ -398,8 +147,6 @@ ACTION: Approved
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 7.  Commission Comments/Questions
 
 
@@ -448,8 +195,6 @@ Re: Proposition E - Ethics Reform
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 8. Director's Announcements
 
 
@@ -459,8 +204,6 @@ Re:  New Elected Commissioners
 - He congratulated the new President and Vice President.
 <<Project End>>
 <<Project Start>>
-
-
 9. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -646,8 +389,6 @@ Mack Burton
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 10. 2003.0280C (R. CRAWFORD: (415) 558-6358)
 
 
@@ -707,8 +448,6 @@ NAYES: Feldstein
  D.  REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0794C (G. CABREROS: (415) 558-6169)
 
 
@@ -1372,8 +1111,6 @@ NAYES: Antonini, Bradford Bell and Boyd
 MOTION: 16708
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0451C         (G. NELSON: (415) 558-6257)
 
 
@@ -1899,8 +1636,6 @@ EXCUSED: W. Lee
 MOTION: 16709
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0940C (K. MCGEE: (415) 558-6367)
 
 
@@ -1925,8 +1660,6 @@ ACTION: Without hearing, item continued to February 5, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.1094L                                                    (T. TAM: (415) 558-6325)
 
 
@@ -1949,8 +1682,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 RESOLUTION: 16710
 <<Project End>>
 <<Project Start>>
-
-
 15. 2001.0566L                   (M. LUELLEN: (415) 558-6478)
 
 
@@ -1977,8 +1708,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 RESOLUTION: 16711
 <<Project End>>
 <<Project Start>>
-
-
 16. 2001.0569L                                                                         (M. LUELLEN: (415) 558-6478)
 
 
@@ -2001,8 +1730,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 RESOLUTION: 16712
 <<Project End>>
 <<Project Start>>
-
-
 17.  2001.1039E                    (A. AGUILAR: (415) 558-5973)
 
 
@@ -2024,8 +1751,6 @@ SPEAKER(S): None
 ACTION: Meeting Held.  No Action Required.
 <<Project End>>
 <<Project Start>>
-
-
 18.  2004.2003.0993C                                  (J. MILLER: (415) 558-6344) 
 
 
@@ -2060,8 +1785,6 @@ NAYES: Feldstein
 MOTION: 16713
 <<Project End>>
 <<Project Start>>
-
-
 19.  2003.1082C                       (J. MILLER: (415) 558-6344) 
 
 
@@ -2081,8 +1804,6 @@ ACTION: Without hearing, item continued to February 5, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 20. 2003.1182C                                               (J. MILLER: (415) 558-6344) 
 
 
@@ -2111,8 +1832,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 MOTION: 16714
 <<Project End>>
 <<Project Start>>
-
-
 21.  2003.1101C                        (D. SIROIS: (415) 558-6313)
 
 
@@ -2141,8 +1860,6 @@ ACTION: Approved
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 22.  2003.0868C                    (M. SNYDER: (415) 575-5891)
 
 
@@ -2165,9 +1882,7 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes Feldstein, W. Lee, S. Lee
 6:00 P.M.
 <<Project End>>
 <<Project Start>>
-
-
- 23.                                                                   (L. BADINER/D. LIM: (415) 558-6411/558-6547)
+23.                                                                   (L. BADINER/D. LIM: (415) 558-6411/558-6547)
 
 
 PLANNING DEPARTMENT MANAGEMENT AUDIT

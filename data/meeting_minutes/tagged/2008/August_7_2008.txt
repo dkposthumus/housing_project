@@ -1,273 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 7, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ August 7, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-August 7, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 7, 2008
-SAN FRANCISCO
- 
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
- 
-
-
-Thursday
-, August 7, 2008
-
-
-1:30 PM
-
-
-Regular
- 
- Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, AnMarie Rodgers, Tara Sullivan-Lenane, Sharon Young, Elizabeth Watty, Jamie Dean, Paul Lord, Tim Frye, Tom Wang, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-1.
- 
- 2008.0282C 
+2008.0282C 
  
 (S. Young: (415) 558-6346)
 
@@ -319,8 +51,9 @@ AYES:
 
 
 2a.
- 
- 2007.0980E
+<<Project End>>
+<<Project Start>>
+2007.0980E
 C
 V 
  
@@ -376,8 +109,9 @@ AYES:
 
 
 2b.
- 
- 2007.0980EC
+<<Project End>>
+<<Project Start>>
+2007.0980EC
 V
  
  
@@ -423,16 +157,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.1256C
+<<Project End>>
+<<Project Start>>
+2007.1256C
  
  
  
@@ -490,16 +223,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2008.0711X
+<<Project End>>
+<<Project Start>>
+2008.0711X
  
  
 (B. FU: (415) 558-6613)
@@ -543,8 +275,9 @@ AYES:
 
 
 5a.
- 
- 2007.0785V
+<<Project End>>
+<<Project Start>>
+2007.0785V
 Z
  
  
@@ -589,8 +322,9 @@ AYES:
 
 
 5b.
- 
- 2007.0785
+<<Project End>>
+<<Project Start>>
+2007.0785
 V
 Z
  
@@ -625,16 +359,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0642T
+<<Project End>>
+<<Project Start>>
+2008.0642T
  
  
  
@@ -670,16 +403,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2008.0622D
+<<Project End>>
+<<Project Start>>
+2008.0622D
  
  
  
@@ -717,16 +449,15 @@ SPEAKERS:
 ACTION:
  
  DR withdrawn – no action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2007.1072C
+<<Project End>>
+<<Project Start>>
+2007.1072C
  
  
  
@@ -774,16 +505,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.0478D
+<<Project End>>
+<<Project Start>>
+2008.0478D
  
  
  
@@ -829,8 +559,9 @@ AYES:
 
  
  10a.
- 
- 2008.0614D
+<<Project End>>
+<<Project Start>>
+2008.0614D
  
  
  
@@ -891,8 +622,9 @@ AYES:
 
 
 10b.
- 
- 2007.0040
+<<Project End>>
+<<Project Start>>
+2007.0040
 D
 V
  
@@ -957,8 +689,9 @@ AYES:
 
 
 10c.
- 
- 2007.0040D
+<<Project End>>
+<<Project Start>>
+2007.0040D
 V
  
  
@@ -1016,8 +749,6 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1072,8 +803,9 @@ AYES:
 
 
 12a.
- 
- 2008.0484B
+<<Project End>>
+<<Project Start>>
+2008.0484B
  
  
  
@@ -1119,8 +851,9 @@ AYES:
 
 
 12b.
- 
- 2008.0483B
+<<Project End>>
+<<Project Start>>
+2008.0483B
  
  
  
@@ -1167,8 +900,9 @@ AYES:
 
 
 12c.
- 
- 2008.0690B
+<<Project End>>
+<<Project Start>>
+2008.0690B
  
  
  
@@ -1210,16 +944,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.0850B
+<<Project End>>
+<<Project Start>>
+2008.0850B
  
  
  
@@ -1256,16 +989,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0070T
+<<Project End>>
+<<Project Start>>
+2006.0070T
  
  
  
@@ -1307,16 +1039,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.1112
+<<Project End>>
+<<Project Start>>
+2007.1112
 T
  
  
@@ -1342,8 +1073,6 @@ Preliminary Recommendation: Pending
 
 
 LEGISLATION WITHDRAWN AND SUPERVISOR DALY DECIDED TO CONTINUE THIS ITEM INDEFINITELY
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1551,18 +1280,17 @@ the Showplace Square/Potrero Hill district, generally bounded by Bryant Street a
 
 
 the Central Waterfront, bounded by Mariposa Street on the north, San Francisco Bay on the east, Islais Creek on the south, and I-280 on the west.
+
+
+
+
+ 
+
+
+17.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-17. 
- 
- 2004.0160
+2004.0160
 E
 MTUZUU
  
@@ -1625,9 +1353,10 @@ NOTE: Item 18: On July 31, 2008, following public testimony the Commission passe
  
 
 
-18a. 
- 
- 2004.0160
+18a.
+<<Project End>>
+<<Project Start>>
+2004.0160
 E
 MTUZUU
  
@@ -1677,8 +1406,9 @@ MOTION:
 
 
 18b.
- 
- 2004.0160E
+<<Project End>>
+<<Project Start>>
+2004.0160E
 M
 TUZUU
  
@@ -1726,9 +1456,10 @@ MOTION:
  
 
 
-18c. 
- 
- 2004.0160EM
+18c.
+<<Project End>>
+<<Project Start>>
+2004.0160EM
 T
 UZUU 
  
@@ -1778,9 +1509,10 @@ RESOLUTION:
  
 
 
-18d. 
- 
- 2004.0160EMTU
+18d.
+<<Project End>>
+<<Project Start>>
+2004.0160EMTU
 Z
 UU 
  
@@ -1829,8 +1561,9 @@ RESOLUTION:
 
 
 18e.
- 
- 2004.0160EMT
+<<Project End>>
+<<Project Start>>
+2004.0160EMT
 U
 ZUU 
  
@@ -1878,9 +1611,10 @@ RESOLUTION:
  
 
 
-18f. 
- 
- 2004.0160EMTUZ
+18f.
+<<Project End>>
+<<Project Start>>
+2004.0160EMTUZ
 UU
  
  
@@ -1969,16 +1703,15 @@ EXCUSED:
 RESOLUTION:
  
  17667
+
+
+ 
+
+
+19.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-19. 
- 
- 2008.0677
+2008.0677
 T
  
  
@@ -2053,8 +1786,6 @@ PUBLIC COMMENT ON AGENDA ITEMS WHERE THE PUBLIC HEARING HAS BEEN CLOSED
 SPEAKERS for item 20:
  
  James Andrew, Joan Wood, John Elberling, Harvey Louie, Cathie Lam, Luis Zurinaga, Jeffrey Leibovitz
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2063,8 +1794,8 @@ SPEAKERS for item 20:
 
  
  20.
- 
- 
+<<Project End>>
+<<Project Start>>
 1996.281E
  
  
@@ -2132,8 +1863,6 @@ MOTION:
 G.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2150,8 +1879,6 @@ G.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2177,8 +1904,6 @@ H.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  

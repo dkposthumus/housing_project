@@ -1,275 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ January 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-January 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 15, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 15, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, Miguel, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Tara Sullivan-Lenane, Kevin Guy, Glenn Cabreros, Ben Fu, Carrie Dovzak, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2008.0720C
  
  
@@ -318,8 +47,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -345,8 +72,9 @@ ABSENT:
 
  
  2.
- 
- 2007.1269C
+<<Project End>>
+<<Project Start>>
+2007.1269C
  
  
  
@@ -400,8 +128,9 @@ ABSENT:
 
 
 3a.
- 
- 2006.0826
+<<Project End>>
+<<Project Start>>
+2006.0826
 C
 V
  
@@ -462,8 +191,9 @@ ABSENT:
 
 
 3b.
- 
- 2006.0826C
+<<Project End>>
+<<Project Start>>
+2006.0826C
 V
  
  
@@ -537,16 +267,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2008.0005C
+<<Project End>>
+<<Project Start>>
+2008.0005C
  
  
  
@@ -590,16 +319,15 @@ AYES:
 MOTION:
  
  17800
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2008.1150C
+<<Project End>>
+<<Project Start>>
+2008.1150C
  
  
  
@@ -659,16 +387,15 @@ AYES:
 MOTION:
  
  17802
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.1196C                              (D. SANCHEZ: (415) 575-9082)
+<<Project End>>
+<<Project Start>>
+2008.1196C                              (D. SANCHEZ: (415) 575-9082)
 
 
 3085 24
@@ -713,8 +440,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -756,8 +481,6 @@ ACTION:
  AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1060,8 +783,6 @@ On Discretionary Review (DR) reform – at the December 11 hearing, we presented
  In that invitation, we solicited any written comments from the public on any specific proposals they may have and on the proposals we put forth.
  
  After that meeting, we will synthesize that information, revise our proposal, and hope to come back to you in mid March to tell you what happened at that outreach meeting and present you with more ideas on DR.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1435,8 +1156,6 @@ That would include MEA right?
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1445,8 +1164,9 @@ REGULAR CALENDAR
 
 
 11.
- 
- 2008.1265C
+<<Project End>>
+<<Project Start>>
+2008.1265C
  
  
  
@@ -1531,8 +1251,9 @@ MOTION:
 
 
 12a.
- 
- 2006.1294
+<<Project End>>
+<<Project Start>>
+2006.1294
 B
 KMXZ
  
@@ -1871,8 +1592,9 @@ MOTION:
 
 
 12b.
- 
- 2006.1294B
+<<Project End>>
+<<Project Start>>
+2006.1294B
 K
 MXZ
  
@@ -1928,8 +1650,9 @@ MOTION:
 
 
 12c.
- 
- 2006.1294BK
+<<Project End>>
+<<Project Start>>
+2006.1294BK
 M
 XZ
  
@@ -1987,8 +1710,9 @@ RESOLUTION:
 
 
 12d.
- 
- 2006.1294BKM
+<<Project End>>
+<<Project Start>>
+2006.1294BKM
 X
 Z
  
@@ -2046,8 +1770,9 @@ MOTION:
 
 
 12e.
- 
- 2006.1294BKMX
+<<Project End>>
+<<Project Start>>
+2006.1294BKMX
 Z
  
  
@@ -2102,16 +1827,15 @@ NAYES:
 RESOLUTION:
  
  17808
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.0743D
+<<Project End>>
+<<Project Start>>
+2008.0743D
  
  
 (G. Cabreros (415)
@@ -2143,16 +1867,12 @@ SPEAKERS:
 ACTION:
  
  Prior to the hearing, the DR was withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-<<Project End>>
-<<Project Start>>
  
  2008.
 0147D
@@ -2230,16 +1950,15 @@ NAYES:
 DRA #:
  
  0057
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.0203E
+<<Project End>>
+<<Project Start>>
+2006.0203E
  
  
  

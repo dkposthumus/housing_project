@@ -1,297 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ January 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-January 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 25, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
- 
-
-
- 
-
-
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett
-Place
-
-
-Thursday, January 25, 2001
-
-
-1:30 PM
-
-
- 
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
-PRESENT:
- 
-Baltimore, Chinchilla, Fay,
-Joe, Salinas, Theoharis
-
-
-ABSENT:
- 
-None
-
-
- 
-
-
-THE
-MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:38 p.m.
-
-
- 
-
-
-STAFF IN
-ATTENDANCE:
- Gerald G. Green - Director of Planning; Larry Badiner -
-Zoning Administrator; Mary Woods; Kelley LeBlanc; Thomas Wang; Andrea Wong; Tim
-Woloshyn; Blake Washington; Nora Priego - Transcription Secretary; Andrea Green
-– Acting Commission Secretary
-
-
- 
-
-
-A.
- 
-ITEMS
-PROPOSED FOR CONTINUANCE
-
-
- 
-
-
- 
-1a.
- 
 2000.552X
  
 (LIGHT:
@@ -358,7 +65,8 @@ Chinchilla
 
  
 1b.
- 
+<<Project End>>
+<<Project Start>>
 2000.552B
  
 (LIGHT:
@@ -427,7 +135,8 @@ Chinchilla
 
  
 1c.
- 
+<<Project End>>
+<<Project Start>>
 2000.552C
  
 (LIGHT:
@@ -491,7 +200,8 @@ Chinchilla
 
  
 1d.
- 
+<<Project End>>
+<<Project Start>>
 2000.552V
  
 (LIGHT:
@@ -555,7 +265,8 @@ Chinchilla
 
  
 2a.
- 
+<<Project End>>
+<<Project Start>>
 2000.863
 B
 V
@@ -623,7 +334,8 @@ Chinchilla
 
  
 2b.
- 
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
  
@@ -635,8 +347,6 @@ V
 MISSION STREET
  - The subject property seeks a parking variance for the
 reduction of required off-street parking, pursuant to Planning Code Section
-<<Project End>>
-<<Project Start>>
 151.
  
 The project proposes to provide
@@ -681,8 +391,6 @@ Fay, Joe, Salinas, Theoharis
 ABESENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -690,7 +398,8 @@ Chinchilla
 
  
 3.
- 
+<<Project End>>
+<<Project Start>>
 2000.964DDDD
  
 (MEHRA:
@@ -750,8 +459,6 @@ Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -759,7 +466,8 @@ Chinchilla
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1148C
  
 (BRESSANUTTI:
@@ -773,6 +481,8 @@ Chinchilla
 
 Consideration of the possible revocation or modification of, or placement
 of additional conditions on, a prior conditional-use authorization (Case No.
+<<Project End>>
+<<Project Start>>
 86.229C for a planned unit development for up to 45 dwelling units), per
 Planning Code Section 303(f).
  
@@ -829,8 +539,6 @@ B.
  
 COMMISSIONERS' QUESTIONS
 AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -878,8 +586,6 @@ AYES:
  
 Baltimore, Chinchilla, Joe,
 Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -913,8 +619,6 @@ C.
  
 DIRECTOR'S
 REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -942,8 +646,6 @@ to be heard at the Commission.
 
 - As soon as they are ready they
 will be brought before the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -978,8 +680,6 @@ None
 (ALUMBAUGH:
  
 558-6601)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1057,8 +757,6 @@ neighborhood should be included in the Better Neighborhoods 2002.
 ACTION:
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1072,8 +770,6 @@ Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1108,8 +804,6 @@ D.
  
 REGULAR
 CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1117,7 +811,8 @@ CALENDAR
 
  
 12.
- 
+<<Project End>>
+<<Project Start>>
 1999.217C
  
 (WOODS:
@@ -1129,8 +824,6 @@ CALENDAR
 BROADWAY
  - north side, between Webster and Fillmore Streets, with
 additional frontage on Vallejo Street, Lots 1, 23 and 24 in Assessor's Block
-<<Project End>>
-<<Project Start>>
 564.
  
 Request for Conditional-Use
@@ -1687,8 +1380,6 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
 MOTION:
  
 16082
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1696,7 +1387,8 @@ MOTION:
 
  
 13.
- 
+<<Project End>>
+<<Project Start>>
 2000.967C
  
 (LEBLANC:
@@ -1811,8 +1503,6 @@ project are provided with up to three (3) minutes each.
  
 At the conclusion, each side (not each
 person) is provided with two (2) minutes for a rebuttal.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1821,7 +1511,8 @@ person) is provided with two (2) minutes for a rebuttal.
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.1016D
  
 (GORDON:
@@ -1836,8 +1527,6 @@ QUESADA STREET
 Building Permit Application No. 200012087607, Case
 No. 2000.354D, for the property at 1775 Quesada Avenue, south west side of the
 street between 3rd and Newhall Streets, Lot No. 034 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
 5338.
  
 Request for Discretionary Review
@@ -1891,8 +1580,6 @@ Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1900,7 +1587,8 @@ Chinchilla
 
  
 15.
- 
+<<Project End>>
+<<Project Start>>
 1999.998D
  
 (WANG:
@@ -2027,8 +1715,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay,
 Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2036,7 +1722,8 @@ Joe, Salinas, Theoharis
 
  
 16.
- 
+<<Project End>>
+<<Project Start>>
 2000.1049DDD
  
 (WONG:
@@ -2269,8 +1956,6 @@ Joe
 
 
 Item called out of order.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2278,7 +1963,8 @@ Item called out of order.
 
  
 17.
- 
+<<Project End>>
+<<Project Start>>
 2000.1242D
  
 (WOLOSHYN:
@@ -2512,8 +2198,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay,
 Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2521,7 +2205,8 @@ Joe, Salinas, Theoharis
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 2000.1095DDD
  
 (TAM:
@@ -2574,8 +2259,6 @@ Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2583,7 +2266,8 @@ Chinchilla
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.1064D
  
 (B.

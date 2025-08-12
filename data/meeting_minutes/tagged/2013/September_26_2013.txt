@@ -1,298 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 26, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ September 26, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-September 26, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, September 26, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
- 
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya 
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 08 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Planning Director, Omar Masry, Casey Noel, Lily Yegazu, Christine LaMorena, Corey Teague, Erika Jackson, Edgar Oropeza, Kate Conner, Sharon Young, Sara Vellve, Adrian Putra, and Jonas P. Ionin - Acting Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a
-. 
-         
 2011.0477C 
                                                                          
                                    
@@ -346,7 +52,8 @@ Hillis
 
 1b
 .
-          
+<<Project End>>
+<<Project Start>>
 2011.0477V 
                                                                          
                                    
@@ -406,15 +113,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2011.0564C
  
  
@@ -466,15 +172,14 @@ Hillis
 MOTION:
                
 18973
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.0229C
                                                                                           
              
@@ -524,15 +229,14 @@ Hillis
 MOTION:
                
 18974
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2013.0641C
                                                                           
                              
@@ -580,15 +284,14 @@ Hillis
 MOTION:
                
 18975
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-             
+<<Project End>>
+<<Project Start>>
 2013.0967U
                                                                          
                          
@@ -631,15 +334,14 @@ Hillis
 MOTION:
                
 18976
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2013.1043Q
                                                                          
          
@@ -690,8 +392,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -738,8 +438,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -848,8 +546,6 @@ longtime resident should come to the top of the list and should be provided hous
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -873,8 +569,6 @@ th
 Again, October 9
 th
  from 6:00 to 8:00 p.m., to kick off the African-American Context Statement that we will be doing in the next several months, with that I don't have any other announcements. AnMarie Rodgers, tells me that no Planning related events happened at the Board this week and the one CEQA appeal that was on the calendar was continued.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -947,8 +641,6 @@ Linda Chapman, Nob Hill Neighbors – 1601 Larkin
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -957,8 +649,8 @@ REGULAR CALENDAR
 
         
 11.
-    
-      
+<<Project End>>
+<<Project Start>>
 2012.0153EC
                                                                                        
          
@@ -1015,15 +707,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18978
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2011.0187X
  
                                                                                          
@@ -1072,15 +763,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18979
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-             
+<<Project End>>
+<<Project Start>>
 2013.0022C
                           
      
@@ -1134,7 +824,8 @@ MOTION:
 
 14a
 .
-         
+<<Project End>>
+<<Project Start>>
 2013.0675CV
                                                                       
                        
@@ -1210,7 +901,8 @@ MOTION:
 
 14b
 .
-       
+<<Project End>>
+<<Project Start>>
 2013.0675CV
  
                                                                        
@@ -1241,8 +933,8 @@ Zoning Administrator Closed the Public Hearing, and took the matter under advise
 
 15
 .
-       
-   
+<<Project End>>
+<<Project Start>>
 2009.1082C
                                                                                           
       
@@ -1295,15 +987,14 @@ MOTION:
 ABSENT:
                 
 Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-                
+<<Project End>>
+<<Project Start>>
 2013.0823C
                                                                                           
           
@@ -1347,15 +1038,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18983
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-                
+<<Project End>>
+<<Project Start>>
 2012.1135C
                                                                           
                            
@@ -1404,15 +1094,14 @@ Moore
 MOTION:
                
 18984
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-                
+<<Project End>>
+<<Project Start>>
 2013.0177C
                                                           
                                            
@@ -1504,15 +1193,14 @@ Antonini, Hillis, Fong
 MOTION:
                
 18985
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-                
+<<Project End>>
+<<Project Start>>
 2012.1430D 
  
                                                                                        
@@ -1539,7 +1227,8 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
 
 20a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0896DV
  
                                       
@@ -1607,7 +1296,8 @@ DRA No:
 
 20b
 .
-        
+<<Project End>>
+<<Project Start>>
 2011.0896DV
                                                                                        
            

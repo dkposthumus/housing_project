@@ -1,265 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 2, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ February 2, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-February 2, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 2, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 2, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: S. Lee; D. Alexander; M. Antonini; K. Hughes, C. Olague; W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1: 40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator; Daniel Sirois; Dan Sider; A. John-Baptiste; Jon Lau; Lois Scott; Mary Woods; Sharon Young; Amit Ghosh; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2005.0480
+2005.0480
 C
 V
  
@@ -325,8 +65,9 @@ Preliminary Recommendation: Approve the Conditional Use with modifications and c
 
  
  1b.
- 
- 2005.0480C
+<<Project End>>
+<<Project Start>>
+2005.0480C
 V
  
  
@@ -384,9 +125,10 @@ Request for Off-street Parking, Open Space and Rear Yard Variances
 
 
  
- 1c. 
- 
- 2005.0481
+ 1c.
+<<Project End>>
+<<Project Start>>
+2005.0481
 D
 V
  
@@ -451,9 +193,10 @@ Preliminary Recommendation: Take Discretionary Review and disapprove the buildin
 
 
  
- 1d. 
- 
- 2005.0481D
+ 1d.
+<<Project End>>
+<<Project Start>>
+2005.0481D
 V
  
  
@@ -514,10 +257,9 @@ Request for Off-street Parking, Open Space and Rear Yard Variances
 
 
 2a.
- 
- 
- 
- 2003.0159
+<<Project End>>
+<<Project Start>>
+2003.0159
 C
 V
  
@@ -582,10 +324,9 @@ Preliminary Recommendation:
 
 
 2b.
- 
- 
- 
- 2003.0159C
+<<Project End>>
+<<Project Start>>
+2003.0159C
 V
  
  (B. FU: (415) 558-6613)
@@ -635,16 +376,14 @@ Request for Off-Street Parking Variance
  ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1088E
 Z
  
@@ -747,8 +486,6 @@ I think it is important that the public know that this is not necessarily the sa
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -763,8 +500,6 @@ C.
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -981,8 +716,6 @@ This is really the wrong direction to go in our neighborhood and I'm just sorry 
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -991,8 +724,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 7.
- 
- 2005.0578D
+<<Project End>>
+<<Project Start>>
+2005.0578D
  
  
  
@@ -1083,16 +817,15 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2005.1086E
+<<Project End>>
+<<Project Start>>
+2005.1086E
 T
  
  
@@ -1150,8 +883,6 @@ ABSENT:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1211,8 +942,6 @@ The Planning Director and the Mayor's Office and the other people who were makin
 
 
 One completed recommendation was a draft work plan that never saw the light of day in front of the Planning Commission.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1306,8 +1035,6 @@ ABSENT:
 RESOLUTION:
  
  17182
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1316,8 +1043,9 @@ RESOLUTION:
  
  
 11.
- 
- 2005.1087E
+<<Project End>>
+<<Project Start>>
+2005.1087E
 T
  
  
@@ -1786,8 +1514,9 @@ Under those limited circumstances there should be rules to allow people to put u
 
 
 12a.
- 
- 2005.0032
+<<Project End>>
+<<Project Start>>
+2005.0032
 D
 V
  
@@ -2186,8 +1915,9 @@ ABSENT:
 
 
 12b.
- 
- 2005.0032D
+<<Project End>>
+<<Project Start>>
+2005.0032D
 V
  
  
@@ -2225,16 +1955,15 @@ ontinued from Regular Meeting of January 19, 2005)
  Zoning Administrator continued the matter to March 16, 2006.
  
  Public hearing remains open to address new plans.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2005.1043DD
+<<Project End>>
+<<Project Start>>
+2005.1043DD
  
  
  
@@ -2546,8 +2275,6 @@ NOTE:
  If they are not, at approximately 4:30 p.m. the Commission will interrupt the matter before them at that time and take up the Special Order matter listed below.
  
  At the conclusion of the Special Order matter, the commission will resume hearing the matter that was interrupted at 4:30 p.m. and continue through the adjournment of their agenda.
-<<Project End>>
-<<Project Start>>
 
 
  

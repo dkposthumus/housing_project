@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ February 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-February 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 22, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 22, 2007
-
-
-2:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Moore, Antonini, S. Lee, W. Lee, Sugaya, Olague and Alexander
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 2:34P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Alicia John-Baptiste, April Hesik, Mat Snyder, Michael Li, Dan Dibartolo, Kimberly Durandet, Joshua Switzky, John Lau, Craig Nikitas, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2006.0584K
+2006.0584K
 XCV
  
  
@@ -326,16 +49,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EK
 X
@@ -378,16 +100,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.1374C
+<<Project End>>
+<<Project Start>>
+2006.1374C
  
  
  
@@ -440,8 +161,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -562,8 +281,6 @@ Zoning Administrator Badiner
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -577,8 +294,6 @@ C.
  
  
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -612,16 +327,15 @@ Board of appeals
  
 NONE
 .
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2003.1210C
+<<Project End>>
+<<Project Start>>
+2003.1210C
  
  
  
@@ -655,8 +369,6 @@ ACTION:
  Informational only.
  
  No action taken by the Commission
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -822,8 +534,9 @@ F.REGULAR CALENDAR
 
  
  9a.
- 
- 2006.1464
+<<Project End>>
+<<Project Start>>
+2006.1464
 C
 X
  
@@ -892,8 +605,9 @@ MOTION
 
 
 9b.
- 
- 2006.1464C
+<<Project End>>
+<<Project Start>>
+2006.1464C
 X
  
  
@@ -940,16 +654,15 @@ AYES
 MOTION 
  
  17378
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2006.1510
+<<Project End>>
+<<Project Start>>
+2006.1510
 T
  
  IB
@@ -1017,8 +730,6 @@ NAYES
 RESOLUTION 
  
  17379
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1084,8 +795,6 @@ AYES:
 MOTION 
  
  17380
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1093,8 +802,9 @@ MOTION
 
  
  12.
- 
- 2007.0048D
+<<Project End>>
+<<Project Start>>
+2007.0048D
  
  IIA
  
@@ -1213,16 +923,15 @@ ACTION
 AYES
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0062DD
+<<Project End>>
+<<Project Start>>
+2007.0062DD
  
  IIA; IIB
  
@@ -1342,16 +1051,15 @@ AYES:
 ABSENT
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.1203C
+<<Project End>>
+<<Project Start>>
+2006.1203C
  
  IIB
  
@@ -1429,16 +1137,15 @@ ABSENT
 MOTION 
  
  17381
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.1511C 
+<<Project End>>
+<<Project Start>>
+2006.1511C 
  
  IIB
  
@@ -1508,16 +1215,15 @@ ABSENT
 MOTION
  
  17382
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2003.1218R
+<<Project End>>
+<<Project Start>>
+2003.1218R
  
  IIB
  
@@ -1588,16 +1294,15 @@ ABSENT
 MOTION 
  
  17383
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.1487C
+<<Project End>>
+<<Project Start>>
+2006.1487C
  
  IIB
  
@@ -1666,16 +1371,15 @@ ABSENT
 MOTION 
  
  17384
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0074TZ
+<<Project End>>
+<<Project Start>>
+2006.0074TZ
  
  IIB; IIIA; IIIB
  
@@ -1719,8 +1423,8 @@ Preliminary Recommendation:
 
 
 B)
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074T – Initiation of a Planning Code Text Amendment
 .
  
@@ -1738,9 +1442,9 @@ Preliminary Recommendation:
  
 
 
-C) 
- 
- 
+C)
+<<Project End>>
+<<Project Start>>
 2006.0074Z – Initiation of a Zoning Map Amendment
 .
  
@@ -1834,16 +1538,15 @@ AYES:
 ABSENT
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2006.1284E
+<<Project End>>
+<<Project Start>>
+2006.1284E
 T
  
  IIIB

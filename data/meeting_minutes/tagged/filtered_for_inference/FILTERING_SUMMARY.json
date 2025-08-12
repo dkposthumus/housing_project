@@ -1,0 +1,9 @@
+{
+  "excluded_case_ids_count": 62,
+  "stats": {
+    "files_scanned": 633,
+    "files_written": 633,
+    "blocks_kept": 8999,
+    "blocks_removed": 83
+  }
+}

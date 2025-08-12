@@ -1,273 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 6, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ June 6, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-June 6, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 6, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-                                                                        
-
-
-                                                                                                                                                            
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:08 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Planning Director, AnMarie Rodgers, Rick Crawford, Delvin Washington, Omar Masry, Sophie Hayward, Michael Smith, Mary Woods, Tom Wang and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.
-             
 2010.0222E                                                                           (K. ZUSHI: (415) 575-9036)
 
 
@@ -308,15 +39,14 @@ Borden,
             NAYES:
             
 None
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-     
+<<Project End>>
+<<Project Start>>
 2012.1030D                                                            
 (C. Lamorena: (415) 575-9085)
 
@@ -357,15 +87,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.1469C
                                                                          (O. MASRY: (415) 575-9116)
 
@@ -421,8 +150,6 @@ COMMISSION MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -468,8 +195,6 @@ Borden,
 NAYES:
                 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -530,8 +255,6 @@ I want to ask the Director, I got an email from the AIA saying that they are spo
 
 
 D.         DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -551,9 +274,7 @@ Commissioners the only announcement I wanted to make is that, it’s noted in yo
 th
  from six to seven at the Mendelson House on Folsom Street.  We are proposing to have, at the suggestion of the community, we are proposing to have a series of topic based discussions on the Plan over the coming year and this first meeting will be to decide what those topics should be and so we will be inviting the community to this session, again, 6:00 to 7:30 at the Mendelson House, which is at 777 Folsom Street, on June 12
 th
- and that concludes my report.
-<<Project End>>
-<<Project Start>>
+ and that concludes my report.  
 
 
  
@@ -572,22 +293,16 @@ Supervisor Weiner ped safety legislation (Items 1-5)
 
 
 Multiple pieces of legislation that would:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Create an interagency Street Design Review Committee made up of Planning, SFMTA, DPW, SFPUC, OEWD, and Fire Department to review street improvement projects against established City policies, such as the Transit-First Policy and the Better Streets Plan
-<<Project End>>
-<<Project Start>>
 
 
 2.
      
 Create a Public Improvement Permit  (for instance for in-kind infrastructure) that would enable the DPW Director to administratively accept public improvements built by third-party developers in the right-of-way, if accompanied by a maintenance endowment (bypasses the need for major encroachment permit and gift acceptance by Board of Supervisors).
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -681,21 +396,21 @@ th
 Historic Preservation Commission:
 
 
-The Historic Preservation Commission approved two Certificates of Appropriateness for restoration of circa 1880’s buildings within both the Alamo Square Historic District and the Dogpatch Landmark District.  The Commission added a few additional conditions of approval to the restoration of the residential property on Fulton Street within the Alamo Square Landmark District siting that there would likely be more reconstruction that would have to occur based on historic photographs.  The Commission also approved a Major Permit to Altar for work along the Stevenson Alley side of the San Francisco Mart.  This is to, as you know, is where Twitter now has its head offices.  The work is to prepare the ground floor for commercial retail tenants that are slowly starting to move into the property.  The Commission also approved a new lobby entrance on 731 Market Street.  The reason I bring this one up is there was a good deal of opposition from the residents of the Four Seasons Hotel and Tower that uses Stevenson Alley as an egress to their parking facility.  The opposers were concerned about traffic and congestion along Stevenson and cited concerns over the staff’s level of analysis under CEQA. Staff did communicate to both the Project Sponsor and the Commission that our CEQA analysis was complete and appropriate for that project and based on that information the HPC unanimously approved the construction of that new lobby on the Stevenson Alley side of 731 Market Street.  The HPC also approved a Certificate of Appropriateness for a very large renovation project in Grace Cathedral.  The entire front entry stairs are going to be reconstructed due to water abatement issues in the underground parking facility.  The Commission approved that project with conditions as outlined by staff.  Then finally, staff gave an update on the condition of the Shipwright’s Cottage.  This is at 900 Innes Street, it’s been in the paper recently as  a property the City is interested in acquiring through the Recreation & Parks Department.  Again, it’s a much larger parcel along the waterfront that contains a very small landmark structure.  The good new is the current property owner has obtained a permit and has completed work to install a new roof on the building so it is protected from the elements and the Planning Department and Recreation & Parks are continuing to stay in touch with each other as the acquisition of the property moves forward and we can keep you updated on the plans for that location once they are developed.
+The Historic Preservation Commission approved two Certificates of Appropriateness for restoration of circa 1880’s buildings within both the Alamo Square Historic District and the Dogpatch Landmark District.  The Commission added a few additional conditions of approval to the restoration of the residential property on Fulton Street within the Alamo Square Landmark District siting that there would likely be more reconstruction that would have to occur based on historic photographs.  The Commission also approved a Major Permit to Altar for work along the Stevenson Alley side of the San Francisco Mart.  This is to, as you know, is where Twitter now has its head offices.  The work is to prepare the ground floor for commercial retail tenants that are slowly starting to move into the property.  The Commission also approved a new lobby entrance on 731 Market Street.  The reason I bring this one up is there was a good deal of opposition from the residents of the Four Seasons Hotel and Tower that uses Stevenson Alley as an egress to their parking facility.  The opposers were concerned about traffic and congestion along Stevenson and cited concerns over the staff’s level of analysis under CEQA. Staff did communicate to both the Project Sponsor and the Commission that our CEQA analysis was complete and appropriate for that project and based on that information the HPC unanimously approved the construction of that new lobby on the Stevenson Alley side of 731 Market Street.  The HPC also approved a Certificate of Appropriateness for a very large renovation project in Grace Cathedral.  The entire front entry stairs are going to be reconstructed due to water abatement issues in the underground parking facility.  The Commission approved that project with conditions as outlined by staff.  Then finally, staff gave an update on the condition of the Shipwright’s Cottage.  This is at 900 Innes Street, it’s been in the paper recently as  a property the City is interested in acquiring through the Recreation & Parks Department.  Again, it’s a much larger parcel along the waterfront that contains a very small landmark structure.  The good new is the current property owner has obtained a permit and has completed work to install a new roof on the building so it is protected from the elements and the Planning Department and Recreation & Parks are continuing to stay in touch with each other as the acquisition of the property moves forward and we can keep you updated on the plans for that location once they are developed. 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+            8.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
- 
-
-
- 
-
-
-            8.         
 2004.0976CV
                                                              (R. CRAWFORD: (415) 558-6358)
 
@@ -749,7 +464,9 @@ REGULAR CALENDAR 
  
 
 
-9a.        
+9a.
+<<Project End>>
+<<Project Start>>
 2011.0477C
                                                                 (R. CRAWFORD: (415) 558-6358)
 
@@ -789,7 +506,9 @@ Borden,
  
 
 
-9b.       
+9b.
+<<Project End>>
+<<Project Start>>
 2011.0477V
                                                                 (R. CRAWFORD: (415) 558-6358) 
 1900 19
@@ -809,8 +528,6 @@ SPEAKERS:     Andrew Junius, Sarah Brandt, Benjamin Orion, Charles Picasso, 
 
 
 ACTION: Zoning Administrator Continued to September 26, 2013
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -823,7 +540,8 @@ ACTION: Zoning Administrator Continued to September 26, 2013
 
 
 10.
-        
+<<Project End>>
+<<Project Start>>
 2013.0476T
  
                                         
@@ -868,14 +586,14 @@ None
 
             RESOLUTION:   
 18896
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2013.0536U
                                                                     (S. HAYWARD: (415) 558-6372)
 
@@ -909,14 +627,14 @@ None
 
             RESOLUTION:   
 18897
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2010.1034C
                                                                          (O. MASRY: (415) 575-9116)
 
@@ -944,22 +662,16 @@ SPEAKERS:     Tedi Vriheas, Amy O’Hare, Dianna Scott, Debra Malta, Erv Rot
 
 
 ACTION: Approved with Conditions as Amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Battery Room is sealed;
-<<Project End>>
-<<Project Start>>
 
 
 2.
      
 DBI to consider increased fire rating for the Battery Room; and
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -980,15 +692,14 @@ Hillis, Moore
 
             MOTION:           
 18898
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-        
+<<Project End>>
+<<Project Start>>
 2008.0538C
                                                                           (M. SMITH: (415) 558-6322)
 
@@ -1012,15 +723,11 @@ SPEAKERS:     Gina Alsindei, David Silverman, Anne Chen, Kathleen Beitiks, C
 
 
 ACTION: Approved with Conditions as Amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Preservation of the pillar; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1040,14 +747,14 @@ None
 
             MOTION:           
 18899
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2013.0020CE
                                                                     (M. WOODS: (415) 558-6315)
 
@@ -1089,14 +796,14 @@ None
 
             MOTION:           
 18900
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2012.0822C
                                                                    
 (C. Lamorena: (415) 575-9085)
@@ -1138,14 +845,14 @@ Borden,
 NAYES:
                 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.        
+16.
+<<Project End>>
+<<Project Start>>
 2012.1131DD
      
                                                 
@@ -1190,14 +897,14 @@ Fong
 
 DRA:                
 0322
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2006.0647DD
                                                                                     (T. WANG: (415) 558-6335)
 
@@ -1250,14 +957,14 @@ None
 
             ABSENT:          
 Wu
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.        
+18.
+<<Project End>>
+<<Project Start>>
 2012.0458D
                                                                          (T. WANG: (415) 558-6335)
 
@@ -1307,14 +1014,14 @@ Wu
 
             DRA:                
 0323
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.        
+19.
+<<Project End>>
+<<Project Start>>
 2013.0030D
                                                                                 (B. FU: (415) 558-6613)
 

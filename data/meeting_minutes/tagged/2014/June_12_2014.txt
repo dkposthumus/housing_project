@@ -1,311 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 12, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ June 12, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-June 12, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, June 12, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:10 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez –
-  
-Zoning Administrator, 
-
-Diego Sanchez, Omar Masry, Casey Noel, Eilish Tuffy, Kearstin Dischinger, Mathew Snyder, Lily Langlois, Steve Wertheim, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2014.0225C
                                                                           
                               
@@ -345,7 +38,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 2a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                        
             
@@ -400,7 +94,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                                     
 (R. SUCRE: (415) 575-9108)
@@ -447,15 +142,14 @@ Continued to June 26, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0434T
                                                                           
                       
@@ -494,15 +188,14 @@ Continued to July 10, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2011.0919C
                                                                                           
           
@@ -558,15 +251,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1584Q
                          
              
@@ -615,15 +307,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19168
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1506Q
  
                                                                                         
@@ -668,15 +359,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19169
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2013.1656C
  
                                                          
@@ -725,8 +415,6 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19170
-<<Project End>>
-<<Project Start>>
 
 
                 
@@ -734,7 +422,8 @@ MOTION:
 
                 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2014.0176C
  
                                                                          
@@ -773,15 +462,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19171
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2014.0647Z
  
                                                                                          
@@ -827,8 +515,6 @@ RESOLUTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -893,8 +579,6 @@ Yes, to staff, could we get a report I don't know if action was taken, but the C
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -910,8 +594,6 @@ Director’s Announcements
 
                 
 No Report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1093,15 +775,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
                 
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2014.0348TE
                                                                         
                  
@@ -1144,8 +825,6 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 19173
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1181,15 +860,14 @@ SPEAKERS:
 ACTION:
                                 
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2014.0556U
  
                                                         
@@ -1243,8 +921,6 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 19174
-<<Project End>>
-<<Project Start>>
 
 
  

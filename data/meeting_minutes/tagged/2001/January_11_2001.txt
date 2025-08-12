@@ -1,308 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ January 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-January 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 11, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 
-400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-Place
-
-
-Thursday, January 11, 
-2001
-
-
-1:30 PM
-
-
- 
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
-PRESENT:
-                    
-
-Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, 
-Theoharis
-
-
-ABSENT:
-                      
-
-None
-
-
- 
-
-
-THE 
-MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 
-p.m.
-
-
- 
-
-
-STAFF IN 
-ATTENDANCE:
- Gerald 
-G. Green - Director of Planning; Larry Badiner - Zoning Administrator; Rick 
-Cooper; Paul Deutsch; Ken Rich; Rick Crawford; Andrea Wong; Jim Miller; Dan 
-DiBartolo; Ken Chin; Sharon Young; Ricardo Bressanutti; Thomas Wang; Augustine 
-Fallay; Susan Snyder; Nora Priego - Transcription Secretary; Andrea Green – 
-Acting Commission Secretary
-
-
- 
-
-
-A.
-         
-
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-            
-
-1.
-         
-
 2000.677C
                                                                                            
 
@@ -365,8 +61,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -375,8 +69,8 @@ Theoharis
             
 
 2.
-         
-
+<<Project End>>
+<<Project Start>>
 1997.433A 
                                                                                   
 
@@ -447,8 +141,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -457,8 +149,8 @@ Theoharis
             
 
 3.
-         
-
+<<Project End>>
+<<Project Start>>
 2000.1007T
                                                                                          
 
@@ -534,8 +226,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -544,8 +234,8 @@ Theoharis
             
 
 4.
-         
-
+<<Project End>>
+<<Project Start>>
 2000.863
 B
 V
@@ -611,8 +301,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -621,8 +309,8 @@ Theoharis
             
 
 5.
-         
-
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
                                                                                        
@@ -686,8 +374,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -696,8 +382,8 @@ Theoharis
             
 
 6.
-         
-
+<<Project End>>
+<<Project Start>>
 1999.770DDDDD
                                                                                 
 
@@ -746,9 +432,7 @@ Sue Hestor:
 
                         
 
-- Would like to request a continuance beyond January
-<<Project End>>
-<<Project Start>>
+- Would like to request a continuance beyond January 
 25.
 
 
@@ -764,9 +448,7 @@ Steve Nichelson:
 
                         
 
-- He supports request to continue project beyond January
-<<Project End>>
-<<Project Start>>
+- He supports request to continue project beyond January 
 25.
 
 
@@ -800,8 +482,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -810,8 +490,8 @@ Theoharis
             
 
 7.
-         
-
+<<Project End>>
+<<Project Start>>
 2000.1148C
                                                                            
 
@@ -826,7 +506,9 @@ Lots 115 and 116 in Assessor’s Block 4991.
   
 
 Consideration of the possible revocation or modification of, or placement 
-of additional conditions on, a prior conditional use authorization (Case No. 
+of additional conditions on, a prior conditional use authorization (Case No.
+<<Project End>>
+<<Project Start>>
 86.229C for a planned unit development for up to 45 dwelling units), per 
 Planning Code Section 303(f).
   
@@ -881,8 +563,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -891,8 +571,8 @@ Theoharis
             
 
 8.
-         
-
+<<Project End>>
+<<Project Start>>
 2000.1033D
                                                                                        
 
@@ -963,8 +643,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -973,8 +651,8 @@ Theoharis
             
 
 9.
-         
-
+<<Project End>>
+<<Project Start>>
 1999.210E
                                                                                 
 
@@ -1041,8 +719,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1051,8 +727,8 @@ Theoharis
             
 
 10.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.1092C
                                                                                      
 
@@ -1128,8 +804,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1138,8 +812,8 @@ Theoharis
             
 
 11.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.436C
                                                                                           
 
@@ -1214,8 +888,6 @@ B.
          
 
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1226,9 +898,7 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 12.
         
 
-Consideration of Adoption - draft minutes of November 2, 9, 16,
-<<Project End>>
-<<Project Start>>
+Consideration of Adoption - draft minutes of November 2, 9, 16, 
 2000.
 
 
@@ -1258,8 +928,6 @@ AYES:
 
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1291,9 +959,7 @@ Calendar of
 
                        
 
-- It will be scheduled before the Commission on January 25,
-<<Project End>>
-<<Project Start>>
+- It will be scheduled before the Commission on January 25, 
 2001.
 
 
@@ -1380,8 +1046,6 @@ C.
          
 
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1493,8 +1157,6 @@ area is definitely growing.
 - They 
 have an  open door  policy so neighbors can come to the clinic and talk about 
 their concerns.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1511,8 +1173,6 @@ Director’s Announcements
                         
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1539,8 +1199,6 @@ D.
    
 REGULAR 
 CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1549,8 +1207,8 @@ CALENDAR
             
 
 17.
-        
-
+<<Project End>>
+<<Project Start>>
 1999.795E
                                                                                      
 
@@ -1641,8 +1299,6 @@ MOTION:
           
 
 16066
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1651,8 +1307,8 @@ MOTION:
             
 
 18.
-        
-
+<<Project End>>
+<<Project Start>>
 1996.222E 
                                                                                    
 
@@ -1734,8 +1390,6 @@ MOTION:
           
 
 16067
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1828,8 +1482,6 @@ MOTION:
           
 
 16068
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1838,8 +1490,8 @@ MOTION:
             
 
 20.
-        
-
+<<Project End>>
+<<Project Start>>
 1998.902B
                                                                                
 
@@ -1942,8 +1594,8 @@ MOTION:
             
 
 21a.
-      
-
+<<Project End>>
+<<Project Start>>
 2000.1162
 B
 V
@@ -2112,8 +1764,8 @@ MOTION:
             
 
 21b.
-      
-
+<<Project End>>
+<<Project Start>>
 2000.1162B
 V
                                                                                     
@@ -2127,9 +1779,7 @@ V
 35 
 STANFORD STREET
  - east 
-side, between Brannan and Townsend Streets; Lot 38 in Assessor’s block
-<<Project End>>
-<<Project Start>>
+side, between Brannan and Townsend Streets; Lot 38 in Assessor’s block 
 3788.
   
 The project proposes the 
@@ -2180,8 +1830,8 @@ variance.
             
 
 22a.
-      
-
+<<Project End>>
+<<Project Start>>
 2000.774
 B
 C
@@ -2307,8 +1957,8 @@ MOTION:
             
 
 22b.
-      
-
+<<Project End>>
+<<Project Start>>
 2000.774B
 C
                                                                                      
@@ -2323,9 +1973,7 @@ C
 
 2800 LEAVENWORTH STREET
  - entire block bounded by Beach, 
-Jefferson, Jones and Leavenworth Streets, Lots 7 and 8 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+Jefferson, Jones and Leavenworth Streets, Lots 7 and 8 in Assessor’s Block 
 11.
   
 Request under Planning Code 
@@ -2371,8 +2019,6 @@ MOTION:
           
 
 16072
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2381,8 +2027,8 @@ MOTION:
             
 
 23.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.1123C
                                                                               
 
@@ -2454,8 +2100,6 @@ MOTION
           
     
 16073
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2464,8 +2108,8 @@ MOTION
             
 
 24.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.928C
                                                                                            
 
@@ -2597,8 +2241,6 @@ MOTION:
           
     
 16074
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2607,8 +2249,8 @@ MOTION:
             
 
 25.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.985C
                                                                                             
 
@@ -2810,8 +2452,6 @@ MOTION:
           
     
 16075
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2820,8 +2460,8 @@ MOTION:
             
 
 26.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.044C
                                                                                        
 
@@ -2896,8 +2536,6 @@ MOTION:
           
 
 16076
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2906,8 +2544,8 @@ MOTION:
             
 
 27.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.270C
                                                                              
 
@@ -3018,8 +2656,6 @@ PM
  the 
 Planning Commission convened into a Special Discretionary Review (DR) 
 Hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3028,8 +2664,8 @@ Hearing.
             
 
 28.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.045D
                                                                                          
 
@@ -3077,8 +2713,6 @@ AYES:
 
 Baltimore, 
 Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3087,8 +2721,8 @@ Chinchilla, Fay, Joe, Salinas, Theoharis
             
 
 29.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.046D
                                                                                        
 
@@ -3417,8 +3051,6 @@ NAYES:
             
 
 Chinchilla, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3427,8 +3059,8 @@ Chinchilla, Salinas
             
 
 30.
-        
-
+<<Project End>>
+<<Project Start>>
 2000.041D
                                                                                   
 

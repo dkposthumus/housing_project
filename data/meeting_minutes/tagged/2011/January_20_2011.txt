@@ -1,331 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 20, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ January 20, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-January 20, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, January 
-20, 2011
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Olague, Antonini, Borden, Fong, Moore and Sugaya
-
-
-
-
-COMMISSIONERS 
-ABSENT:  Miguel,
-
-
-
-
- 
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT OLAGUE 
-
-
-AT 1:40 PM
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE: John Rahaim â Planning Director; Sara Vellve, Tom Disanto, Diane 
-Sokolove, Ilaria Salvadori, Rick Crawford, Michael Smith, Mary Woods, Elizabeth 
-Watty, Shelley Caltagirone, Jonas Ionin â Acting Commission Secretary
-
-
-
-
- 
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2009.0912C                                                                   (G. 
 CABREROS: (415) 558-6169)
 
@@ -587,8 +260,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -599,11 +270,9 @@ separate item at this or a future hearing
 
 
 
-            3.        
-
-
-
-
+            3.
+<<Project End>>
+<<Project Start>>
 2010.0912C 
                                                       
                 
@@ -711,8 +380,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -821,8 +488,6 @@ NAYES:            Sugaya
 
 
 ABSENT:          Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -871,8 +536,6 @@ AYES:              Olague, Antonini, Borden, Fong, Moore, Sugaya
 
             
 ABSENT:          Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1405,8 +1068,6 @@ Commissioner moore
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1431,8 +1092,6 @@ Directorâs Announcements
             
 
 None
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1479,8 +1138,6 @@ SPEAKERS:     None
 
 
 ACTION:           Informational only â no action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1674,8 +1331,6 @@ G.
            
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1683,7 +1338,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2006.1388E                                           
 
                        (D. Sokolove: 
@@ -1771,9 +1428,7 @@ MOTION:           18257
 H.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1785,11 +1440,9 @@ REGULAR CALENDAR
 
 
 
-11.       
-
-
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0878EMR
                                                   
              (I. SALVADORI: (415) 575-9086)
@@ -1853,8 +1506,6 @@ ABSENT:          Miguel
 
 
 MOTION:           18259
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1864,11 +1515,9 @@ MOTION:           18259
 
 
 
-12.       
-
-
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2010.0969C
                                                     
 
@@ -1950,8 +1599,6 @@ ABSENT:          Miguel
 
 
 MOTION:           18258
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1964,11 +1611,9 @@ MOTION:           18258
 
 
 
-13.       
-
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.0902C
                                                        
           
@@ -2049,11 +1694,9 @@ MOTION:          
 
 
 
-14a.     
-
-
-
-
+14a.
+<<Project End>>
+<<Project Start>>
 2009.0906CV
                                                      
          (R. CRAWFORD: (415) 558-6358)
@@ -2133,11 +1776,9 @@ Moore
 
 
 
-14b.     
-
-
-
-
+14b.
+<<Project End>>
+<<Project Start>>
 2009.0906CV 
 
                                                                 (R. CRAWFORD: 
@@ -2180,8 +1821,6 @@ SPEAKERS:     Same as those listed for item 14a
 
 ACTION:           Continued to March 10, 2011; Zoning Administrator kept public 
 hearing                           open
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2192,11 +1831,9 @@ hearing                           open
 
 
 
-15.       
-
-
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2010.1006D
                                                          
        
@@ -2265,8 +1902,6 @@ Sugaya
 
 ABSENT:          
 Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2278,9 +1913,9 @@ Miguel
 
 
 
-            16.       
-
-
+            16.
+<<Project End>>
+<<Project Start>>
 2009.0155DDDDDD
                                                               
 (M. SMITH: (415 558-6322)
@@ -2353,8 +1988,6 @@ NAYES:            Antonini and Olague
 
 ABSENT:          
 Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2366,11 +1999,9 @@ Miguel
 
 
 
-17.       
-
-
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2010.0805D
                                                           
             (M. WOODS: (415) 558-6315)
@@ -2453,8 +2084,6 @@ ABSENT:          Miguel
 
 
             DRA:                0186
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2466,11 +2095,9 @@ ABSENT:          Miguel
 
 
 
-18.       
-
-
-
-
+18.
+<<Project End>>
+<<Project Start>>
 2010.0782DD
                                                                  
      (E. WATTY: (415) 558-6620)
@@ -2546,8 +2173,6 @@ Miguel
 
 
             DRA:                0187
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2557,11 +2182,9 @@ Miguel
 
 
 
-19.       
-
-
-
-
+19.
+<<Project End>>
+<<Project Start>>
 2010.0911D
                                                             
 (S. Caltagirone:  (415) 558-6625)
@@ -2637,19 +2260,14 @@ Antonini, Olague
 
 ABSENT:          
 Miguel
+
+
+
+
+
+20.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-20.        
-
-
-
-
-
 2010.0372DD
                                                                  
        (M. SMITH: (415 558-6322)

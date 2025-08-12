@@ -1,222 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ July 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-July 19, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 19, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, July 19, 2001
-1:30 PM
-Regular Meeting
-PRESENT:                    Baltimore, Chinchilla, Joe, Lim, Salinas, Theoharis
-ABSENT:                    Fay
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:33 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green, Director of Planning; Larry Badiner, Zoning Administrator; Max Putra; Samuel Assefa; Amit Ghosh; Paul Lord; Matt Snyder; Judy Martin; Michael Li; Michael Smith; Isolde Wilson; David Alumbaugh; Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-          1.          2000.306C          (TAM: 558-6325)
+1.          2000.306C          (TAM: 558-6325)
                     215 CHURCH STREET, east side of Church Street, between Market and 15th Streets; Lot 64 in Assessor’s Block 3544 - Request for a Conditional Use authorization to allow a full-service restaurant  (CHOW) in excess of 2,999 square feet in floor area with an outdoor activity area, approximately 90 square feet in area, at the rear of the building in the Upper Market Neighborhood Commercial District and a 40-X Height and Bulk District, pursuant to Planning Code Sections 721.21 and 721.24.  This request also includes an amendment to a previously approved Special Use authorization (81.526U) to increase the seating capacity from 40 to 68 seats and extend the hours of operation from 11:00 p.m. to 12:00 midnight.  
                     Preliminary Recommendation:  Pending.
                     (Proposed for Continuance to August 2, 2001)
@@ -226,7 +9,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          2.          2000.1141C                                    (SANCHEZ:  558-6679)
+2.          2000.1141C                                    (SANCHEZ:  558-6679)
                     2346-2348 CLEMENT STREET - north side between 24th and 25th Avenues; Lot 025 in Assessor’s Block 1409 - Request for Conditional Use authorization under Planning Code Section 717.39 to allow the demolition of an existing mixed-use building with a residential unit at the second floor, and under Planning Code Section 161(j) to allow the construction of a four-story mixed-use building (four residential units and one commercial unit) without the four required residential parking spaces, within the Outer Clement Neighborhood Commercial District (NCD) and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Pending
                     (Proposed for Continuance to August 9, 2001)
@@ -236,7 +19,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          3.          2000.1165B                                                                              (BRESSANUTTI: 558-6892)
+3.          2000.1165B                                                                              (BRESSANUTTI: 558-6892)
                     2 HENRY ADAMS STREET - west side between Division Street and Alameda Street; Lot 1 in Assessor’s Block 3910. Request under Planning Code Sections 320-322 for project authorization of an office development consisting of the conversion of up to 49,900 square feet in an existing building (San Francisco Design Center) from wholesale design showroom space to office space.  This notice shall also set forth an initial determination of the net addition of gross square feet of office space, pursuant to Planning Code Section 313.4.  The subject property is located in an M-2 (Heavy Industrial) District and the Industrial Protection Zone, and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Approval with conditions
                     (Continued from Regular Meeting of June 28, 2001)
@@ -247,7 +30,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          4.          2001.0520D                                   (VOLLMANN: 558-6405)
+4.          2001.0520D                                   (VOLLMANN: 558-6405)
                     844-848 GREEN STREET  - north side between Mason and Taylor Streets, Lot 016 in Assessor’s Block 0119, staff-initiated Discretionary Review of Building Permit Application No. 2001/05/02/8240, proposing to merge two units within a three family building located in a RM-2 (Residential, Mixed, Moderate Density) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Take Discretionary Review and disapprove building permit application.
                     (Proposed for Continuance to September 13, 2001)
@@ -257,7 +40,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          5.          1999.811D                                 (PUTRA: 558-6233)
+5.          1999.811D                                 (PUTRA: 558-6233)
                               1660 MISSION STREET - west side between South Van Ness Avenue and Thirteenth Street, lots 5 and 6 in Assessor’s Block 3512. Request for Discretionary Review of Building Permit Application No. 2000 0515 0033, to construct a six-story above grade level, approximately 76-feet-tall addition with 25,365 gross square feet of office and 5,073 square feet of parking at grade level. This is an addition to the existing 92,000-gross-square-foot city office building, of which 22,610 square feet are in an underground garage, in a C-M (Heavy Commercial) District; and a 105-J Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the 
                     Building Permit Application as revised.
@@ -270,7 +53,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          6.          2000.0173C                               (LIGHT: 558-6254)
+6.          2000.0173C                               (LIGHT: 558-6254)
                     500 FRANCISCO STREET (a.k.a. 401-499 BAY STREET & 501-599 BAY STREET) - north side of Francisco Street between Mason Street and Columbus Avenue; Lot 1 in both Assessor’s Blocks 42 and 43.  Request for a Conditional Use Authorization of a planned unit development for approximately 360 affordable housing units, a child care center, a computer learning center, ground level retail, and small scale neighborhood-serving office space in an RM-3 (Residential, Mixed, Medium Density) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Pending
                     (Proposed for Continuance to August 16, 2001)
@@ -280,7 +63,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          7.          2001.0092EC                                   (DEAN: 558-5980)
+7.          2001.0092EC                                   (DEAN: 558-5980)
                     1800-1820 SAN JOSE AVENUE - located on the west side of San Jose Avenue, between Santa Rosa Avenue and Colonial Way; Assessor's Block 3144A; Lot 31.  Appeal of a Preliminary Negative Declaration.  Proposed demolition of existing auto repair business structures, construction of two, four-story, nine-residential unit buildings,.  One of the proposed buildings would have 800 sq. ft. of ground-story retail space. The project would provide 9 to 10 off-street parking spaces in each building.  Parking garage entries would be from each of the side streets. The proposed project site is approximately 14,360 sq. ft. and is located in the NC-1 (Neighborhood Commercial Cluster) District and the 40-X Height and Bulk District.  The project would require conditional use authorization by the City Planning Commission and lot split approval by the Department of Public Works.  
                     Preliminary Recommendation:  Uphold Preliminary Negative Declaration
                     (Proposed for Continuance to August 16, 2001) 
@@ -290,7 +73,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          8.          2001.0092EC                                 (Sirois: 558-6313)
+8.          2001.0092EC                                 (Sirois: 558-6313)
                     1800-1820 SAN JOSE AVENUE  - west side of San Jose Avenue, between Colonial Way and Santa Rosa Avenue, Lot 031 Assessor’s Block 3144A. Request for Conditional Use Authorization to demolish a service station pursuant to Planning Code Section 228.3, and to develop 18 residential units and approximately 1,600 square feet of ground floor commercial spaces in two buildings on two lots greater than 5,000 square feet in an NC-1 (Neighborhood Commercial Cluster) District and a 40-X Height and Bulk District pursuant to Planning Code Section 710.11 and 121.1.
                     Preliminary Recommendation: Approval with conditions
                     (Proposed for Continuance to August 16, 2001)
@@ -308,7 +91,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          10.          Commission Matters
+10.          Commission Matters
 Commissioner Theoharis:
 Re:  Meeting Procedures
 The Board of Supervisors meeting this past Monday was disrupted and several people had to be arrested because they (people) were not following the democratic process.  She is concerned about similar incidents happening at the Planning Commission.  She agrees with President Amiano that people have the right to disagree and to demonstrate but it cannot come to a point that a meeting should be disrupted and/or cancelled.
@@ -443,7 +226,6 @@ SPEAKER(S):
 D.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          
 15.          2001.0602ETZ                                                            (GHOSH/LORD: 558-6275/558-6311)
 INDUSTRIAL PROTECTION ZONE – SPECIAL USE DISTRICT – Consideration of adoption a resolution that imposes zoning controls establishing a Special Use District Industrial Protection/Zone where new residential , live/work and office/business services and information technology uses would not be permitted in the area generally bounded by Bayshore Avenue, 26th Street, 25th Street, Iowa Street, Tubbs Street, 22nd Street, San Francisco  Bay, Islais Creek, Third Street, Evans Avenue, Rankin Street, Phelps Street, Oakdale Avenue, Selby Street and Helena Street.
 Preliminary Recommendation: Approve Resolution adopting Permanent Industrial Protection Zone – Special Use District
@@ -453,7 +235,7 @@ AYES:          Baltimore, Joe, Salinas, Theoharis, Lim
 ABSENT:          Chinchilla, Fay
 <<Project End>>
 <<Project Start>>
-          16.          2001.0293C                                                                                  (M. SNYDER:  575-6891)
+16.          2001.0293C                                                                                  (M. SNYDER:  575-6891)
                     490 – 2nd  STREET - northwest corner at Bryant Street, Lot 7 in Assessor’s Block 3763.  Request for Conditional Use Authorization under Planning Code Section 818.73 and 227(h) to install three sectors of antennas (four antennas in each sector for a total of twelve antennas) on the building’s rooftop, and a base transceiver station within the building, in an SSO (Service / Secondary Office) District and a 40-X Height and Bulk District.   The site is a Location Preference No. 4 (an industrial or commercial structure where there is no removal of existing visual clutter on the roof) under the WTS Facilities Siting Guidelines. The facility would be operated by Nextel Communications.
                     Preliminary Recommendation: Approval with conditions
                     (Continued from Regular Meeting of June 7, 2001)
@@ -483,7 +265,7 @@ ABSENT:          Fay
 MOTION:          16191
 <<Project End>>
 <<Project Start>>
-          17.          2000.1151CR                                                                                     (MARTIN:  558-6616)
+17.          2000.1151CR                                                                                     (MARTIN:  558-6616)
 887 POTRERO AVENUE - SAN FRANCISCO GENERAL HOSPITAL - east side between 20th and 22nd Streets, Lot 002, Assessor’s Block 4090 - Request for Conditional Use Authorization under Sections 234.2 and 209.6(b) of the Planning Code to install a total of three antennae: one flush-mounted to an existing penthouse on the east facade; one flush-mounted  to the western building facade facing Potrero Avenue; and one hidden within a cylinder that simulates a vent pipe at the northwest corner of the building, with the base transceiver station to be located on the roof, as part of a wireless communication network operated by Sprint PCS in a P (Public) Zoning District and 105-E Height and Bulk District.  The proposal is a Location Preference Number 1 (publicly-used structure) under the WTS Facilities Siting Guidelines.
 Preliminary Recommendation:  Approve with Conditions; finding of conformity with the General Plan.
 SPEAKER(S):
@@ -566,7 +348,7 @@ NAYES:          Chinchilla, Lim
 ABSENT:          Fay
 <<Project End>>
 <<Project Start>>
-          20.          2001.0666D          (WILSON: 558-6602)
+20.          2001.0666D          (WILSON: 558-6602)
                     2836-2838 WASHINGTON STREET, between Scott and Divisadero Streets, Lot 013 in Assessor’s Block 0979; staff-initiated request for Discretionary Review of Building Permit Application 2001105118954, proposing to revise a previously approved permit application (No. 9903501), to retain pre-existing building walls that serve as a parapet for the roof at the rear of the building, located in an RH-2 (House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Take Discretionary Review and modify project.
                     (-) Alexander Seidel – Property Owner

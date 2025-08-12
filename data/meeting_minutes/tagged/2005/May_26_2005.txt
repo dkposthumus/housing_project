@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 26, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ May 26, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-May 26, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 26, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 26, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander,
- 
-Michael J. Antonini,
- 
-Shelley Bradford Bell, Kevin Hughes, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:40 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Kate Stacey – Deputy City Attorney; Paul Lord; Sara Vellve; Geoffrey Nelson; Dan DiBartolo; Jonathan Purvis; Jonas Ionin – Acting Commission Secretary
-
-
- 
-
-
-A.
-                 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-           
-  
- 
- 2003.1210C
+2003.1210C
 K
                                            
  
@@ -354,8 +71,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -363,8 +78,9 @@ AYES:
 
            
   2.
-        
- 2005.0375D
+<<Project End>>
+<<Project Start>>
+2005.0375D
                                                                           
  (G. NELSON (415) 558-6257)
 
@@ -406,8 +122,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -415,8 +129,9 @@ AYES:
 
            
   3.
-        
- 2003.0869E
+<<Project End>>
+<<Project Start>>
+2003.0869E
                               
  
                                   
@@ -475,8 +190,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -484,10 +197,9 @@ AYES:
 
            
   4.
-  
- 
-     
- 2005.0256T
+<<Project End>>
+<<Project Start>>
+2005.0256T
                                              
  
                               
@@ -537,8 +249,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -595,8 +305,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -657,8 +365,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -729,8 +435,6 @@ AYES:
 EXCUSED:
        
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -839,8 +543,6 @@ Zoning Administrator responded:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -894,8 +596,6 @@ Re:
 
 
 - This project will probably come before the Commission in the Fall.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1014,8 +714,6 @@ City Attorney Kate Stacey:
 
 
 - She recommends that Home Depot be scheduled next week to discuss it further.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1173,8 +871,6 @@ None
 F.
       
  CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1182,8 +878,9 @@ F.
 
      
   12.
-             
- 2005.0212T
+<<Project End>>
+<<Project Start>>
+2005.0212T
                                                                 
  
           
@@ -1233,8 +930,6 @@ ACTION:
 G.
         
   REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1677,8 +1372,6 @@ NAYES:
 RESOLUTION:
   
   17024
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1686,8 +1379,9 @@ RESOLUTION:
 
            
   14.
-       
- 2004.1338C 
+<<Project End>>
+<<Project Start>>
+2004.1338C 
                                          
  
                               
@@ -1725,8 +1419,6 @@ AYES:
 MOTION:
           
   17025
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1734,8 +1426,9 @@ MOTION:
 
            
   15.
-       
- 2004.0055R
+<<Project End>>
+<<Project Start>>
+2004.0055R
                                           
  
       
@@ -1781,8 +1474,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1856,8 +1547,6 @@ EXCUSED:
 MOTION:
           
   17026
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1865,8 +1554,9 @@ MOTION:
 
            
   17.
-       
- 2004.0560D
+<<Project End>>
+<<Project Start>>
+2004.0560D
                               
  
                                     
@@ -1929,8 +1619,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1938,8 +1626,9 @@ AYES:
 
              
   19.
-       
- 2004.0909D 
+<<Project End>>
+<<Project Start>>
+2004.0909D 
                                                      
  
                
@@ -1992,8 +1681,6 @@ SPEAKER(S):
 ACTION:
           
  Discretionary Review Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2001,8 +1688,9 @@ ACTION:
 
            
   20.
-       
- 2004.1310DD
+<<Project End>>
+<<Project Start>>
+2004.1310DD
                                                                 
  
   
@@ -2133,8 +1821,9 @@ AYES:
 
            
   21a.
-     
- 2004.0094D
+<<Project End>>
+<<Project Start>>
+2004.0094D
                                                                   
  
    
@@ -2192,8 +1881,9 @@ AYES:
 
            
   21b.
-     
- 2004.0095D
+<<Project End>>
+<<Project Start>>
+2004.0095D
                                                                   
  
   
@@ -2238,8 +1928,6 @@ Alexander, Hughes, S. Lee, W. Lee, Olague
 NAYES:
            
   Antonini and Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2247,8 +1935,8 @@ NAYES:
 
            
   22.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.1161D
                                           
  
@@ -2308,8 +1996,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2409,8 +2095,6 @@ NAYES:
 ABSENT:
          
   W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2554,8 +2238,6 @@ Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 NAYES:
            
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  

@@ -1,233 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 02, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ August 02, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-August 02, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 02, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, August 2,  2001
-1:30 PM
-PRESENT:  Theoharis, Baltimore, Chinchilla, Joe, Lim, Salinas
-ABSENT:     Fay
-MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:45 P.M.
-STAFF IN ATTENDANCE:  Gerald G. Green – Director of Planning; Larry Badiner – Zoning Administrator; Tina Tam; Ben Fu; Dan Sider; Alison Borde; Mat Snyder; Nora Priego – Transcription Secretary; Linda D. Avery – Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-          1a.          2001.0202CV          (LI: 558-6396)
-                    136-142 TAYLOR STREET - east side between Eddy and Turk Streets; Lot 014 in Assessor’s Block 0340: -- Request for Conditional Use authorization to reduce the off-street parking requirement for a six-unit residential building within an RC-4 (Residential-Commercial Combined, High Density) District, the North of Market Residential Special Use District, and an 80-120-T Height and Bulk District.
-                    Preliminary Recommendation: Approval with conditions
-                    (Proposed for Continuance to August 9, 2001)
-          ACTION:            Continued as proposed
-          AYES:           Theoharis, Baltimore, Chinchilla, Joe, Lim, Salinas
-          ABSENT:               Fay
-          1b.          2001.0202CV          (LI: 558-6396)
-                    136-142 TAYLOR STREET - east side between Eddy and Turk Streets; Lot 014 in Assessor’s Block 0340: -- Rear yard, usable open space, and dwelling unit exposure variances sought.  The proposal is to convert a vacant commercial building to a mixed-use building containing six dwelling units above ground-floor retail space within an RC-4 (Residential-Commercial Combined, High Density) District, the North of Market Residential Special Use District, and an 80-120-T Height and Bulk District.  There will be no physical expansion of the existing building.  The Planning Code requires the provision of a rear yard (Section 134), usable open space (Section 135), and dwelling unit exposure (Section 140).  The project will not provide a rear yard or usable open space, and three of the dwelling units would not have the proper required exposure.
-                    (Proposed for Continuance to August 9, 2001)
-                ACTION:            Continued as proposed
-           AYES:                    Theoharis, Baltimore, Chinchilla, Joe, Lim, Salinas
-           ABSENT:                Fay
-<<Project End>>
-<<Project Start>>
 2.          2000.1315C                                                                     (M. SNYDER 575-6891)
 52 SHERIDAN STREET - north side between 9th and 10th Streets, Lot 34 in Assessor's Block 3519  -- Request for Conditional Use authorization under Planning Code Section 816.13 to demolish an existing single family house.  The project would also include the construction of a new 50-foot tall, 75-feet deep building that would contain four dwelling units and one commercial unit.  The property is within an SLR (Service / Light Industrial / Residential Mixed Use) District, a 50-X Height and Bulk District, and a Mixed-Use Housing Zone (as designated in Planning Commission Resolution 14861).  
                     Preliminary Recommendation: Approval with conditions
@@ -261,7 +32,7 @@ Preliminary Recommendation: Pending
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          5.          Commission Matters
+5.          Commission Matters
 Lim:                      Last month the Commission approved a housing project that has almost 200 units, and the Zoning Administrator indicated that he wanted to make sure that the housing is not for corporate housing but rather for permanent housing.  Do we need to insure or make a motion that we will recored a restriction on the deed, to make sure that the housing is for permanent housing?
 Theoharis:           When the Sunshine Ordinance was inacted, appointed officials were required to take the Sunshine Ordinance training, do we have to do it again?          
           RESPONSE:  If you have taken the class you don't have to take it again.  However, once you have taken the class, you are required to annually submit a signed declaration that you have read the SF Sunshine Ordinance and received training.
@@ -269,7 +40,7 @@ Theoharis:           When the Sunshine Ordinance was inacted, appointe
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          6.          Director's Announcements
+6.          Director's Announcements
 Ghosh:    -            The Department released the 2000 Annual Housing Inventory this week.  It records a production of housing at a 20% increase over 1998.  It is the largest housing increase since 1991.  
                     -          Final action on the budget:  The Board of Supervisors took $250,000 dollars out of our budget and gave it to the Transportation Department to do the design of Market Street.
 <<Project End>>
@@ -290,7 +61,7 @@ Preliminary Recommendation:  Approval with Conditions
           ABSENT:               Fay
 <<Project End>>
 <<Project Start>>
-          9.          2000.1275C                                                                                              (TAM:  558-6325)
+9.          2000.1275C                                                                                              (TAM:  558-6325)
 401 TARAVAL STREET - southwest corner of Taraval Street and 14th Avenue; Lot 1 in Assessor’s Block 2411.  Request for Conditional Use authorization to install a total of three panel antennae on the building rooftop and an interior equipment shelter in the basement of an existing two-story over basement commercial office building as part of a wireless telecommunication network (Sprint PCS), pursuant to Planning Code Section 711.83, in a NC-2 (Small-Scale Neighborhood Commercial) District and a 40-X Height 
 and Bulk District.  The site is a Location Preference 3.  
                     Recommendation:  Approval with conditions.  

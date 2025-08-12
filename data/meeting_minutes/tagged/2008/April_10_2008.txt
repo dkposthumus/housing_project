@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ April 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-April 10, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 10, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 10, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Scott Sanchez, Craig Nikitas, Sharon Young, Edgar Oropeza, Daniel Sider, Devyani Jain, Tara Sullivan-Lenane, Erika Jackson, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- 
-Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.1066E
+2005.1066E
  
  
  
@@ -332,16 +51,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.0274D
+<<Project End>>
+<<Project Start>>
+2008.0274D
  
  
 (E. JACKSON: (415) 558-6363)
@@ -370,16 +88,15 @@ Preliminary Recommendation: Take Discretionary Review and remove the springing c
 )
  
  Moved to the end of the calendar
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2004.1245E
+<<Project End>>
+<<Project Start>>
+2004.1245E
  
  
  
@@ -467,8 +184,6 @@ AYES:
 
 
 4a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -520,8 +235,9 @@ AYES:
 
 
 4b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -561,8 +277,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -579,16 +293,15 @@ COMMISSION'S RULES AND REGULATIONS
 
 
 (NOTE: At the Regular Meeting of April 3, 2008, following testimony and Commission' discussion, the Commission continued this matter to April 17, 2008.)
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0025D
+<<Project End>>
+<<Project Start>>
+2008.0025D
  
  
  
@@ -627,8 +340,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
 
 
 Item taken out of order and considered with the continuances at the beginning of the calendar
-<<Project End>>
-<<Project Start>>
 
 
 7.
@@ -658,8 +369,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -792,8 +501,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -838,8 +545,6 @@ I understand that grew out of an interest in a market study for some part of the
 -
  
  The pipeline projects report is being completed and we will be able to report on that in the next couple of weeks.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -964,8 +669,6 @@ The Planning Commission did not require any inclusionary housing under the ordin
  
  
 Two motions were made, first one for a monetary contribution towards affordable housing and the second to remove the fifth story of the building, and both failed.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1012,8 +715,6 @@ ACTION:
  No Action is required of the Commission.
  
  Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1093,8 +794,6 @@ ACTION:
  No Action is required of the Commission.
  
  Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1239,8 +938,6 @@ SPEAKER(S)
 
 
 (+)Steven Vettel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1250,8 +947,9 @@ SPEAKER(S)
 
 
 14.
- 
- 2007.1095C
+<<Project End>>
+<<Project Start>>
+2007.1095C
  
  
 (Tape IB; IIA)
@@ -1329,13 +1027,12 @@ MOTION:
 
 
 Item taken out of order followed item 18
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2007.1359
+<<Project End>>
+<<Project Start>>
+2007.1359
 C
 E
  
@@ -1477,16 +1174,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2008.0275I 
+<<Project End>>
+<<Project Start>>
+2008.0275I 
  
  
 (Tape IIB; IIIA)
@@ -1621,16 +1317,15 @@ Del Greger
 ACTION:
  
  Although no action is required from the Commission, from Commissioner's discussion, and particularly through the President, the IMP is accepted.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0603E 
+<<Project End>>
+<<Project Start>>
+2007.0603E 
  
  
 (Tape IIIA; IIIB)
@@ -1753,13 +1448,12 @@ ACTION:
 
 
 Item 18 was taken out of order and followed item 14
-<<Project End>>
-<<Project Start>>
 
 
 18.
- 
- 2008.0103T
+<<Project End>>
+<<Project Start>>
+2008.0103T
  
  
 (Tape IIA)
@@ -1835,13 +1529,12 @@ RESOLUTION:
 
 
 Item 19 was taken out of order and followed item 17
-<<Project End>>
-<<Project Start>>
 
 
 19.
- 
- 2007.1447T
+<<Project End>>
+<<Project Start>>
+2007.1447T
  
  
 (Tape IIIB)
@@ -1898,8 +1591,9 @@ RESOLUTION:
 
 
 Addendum
- 
- 2008.0274D
+<<Project End>>
+<<Project Start>>
+2008.0274D
  
  
 (Tape IIIB; IVA)

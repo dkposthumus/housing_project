@@ -1,327 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 3, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ October 3, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-October 3, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, October 3, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, 
- 
-Hillis, Moore, Sugaya 
-
-
-COMMISSIONER ABSENT:
-  
-Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 12 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Planning Director, Omar Masry, Casey Noel, Christine LaMorena, Rich Sucre, Kevin Guy, and Jonas P. Ionin - Acting Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-Item No. 10 was considered under this section.
-
-
- 
-
-
-B.
-         
-CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
-  
-There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.0637C
                                                                           
                               
@@ -371,15 +48,14 @@ Borden
 MOTION:
        
 18986
-<<Project End>>
-<<Project Start>>
 
 
                 
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1107Q
                                                                          
    
@@ -436,8 +112,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -494,8 +168,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -534,8 +206,6 @@ I just want to mention that over the period of the last few weeks, I've had meet
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -561,8 +231,6 @@ Again, the staff will be making presentation about the Eastern Neighborhood, abo
 Again, Saturday the 5
 th
  from 10:00 to 12:00 and that concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
 6.
@@ -723,7 +391,8 @@ REGULAR CALENDAR
 
 
 7a.
-          
+<<Project End>>
+<<Project Start>>
 2012.0799BX
                                                        
                                              
@@ -802,7 +471,8 @@ MOTION:
 
 
 7b.
-            
+<<Project End>>
+<<Project Start>>
 2012.0799BX
  
                                     
@@ -861,8 +531,6 @@ Sue Hestor – Former redevelopment area
 ACTION: 
        
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -892,7 +560,8 @@ MOTION:
 
 
 8a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0063CET
                                                                                      
                
@@ -1032,29 +701,21 @@ Paul Olson – Continue to ensure promises put in writing
 ACTION: 
        
 Adopted a Recommendation for Approval as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 The SUD is specifically for a grocery store;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Staff to work with the Supervisor on the affordability component;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 An informational hearing before the Commission prior to hearing by the Land Use Committee; and
-<<Project End>>
-<<Project Start>>
 
 
 4.
@@ -1090,7 +751,8 @@ MOTION:
 
 
 8b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0063CET
                                                                                      
                
@@ -1220,15 +882,11 @@ Paul Olson – Continue to ensure promises put in writing
 ACTION: 
        
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Staff to continue working with Project Sponsor on subdivision of tenant spaces; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1264,7 +922,8 @@ MOTION:
 
 
 9a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0890CEV
                                      
              
@@ -1398,8 +1057,6 @@ Henry Pan
 ACTION: 
        
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1429,7 +1086,8 @@ MOTION:
 
 
 9b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0890CEV
                                                                                      
                
@@ -1454,15 +1112,14 @@ The Zoning Administrator will consider the Variance request concurrently with th
 ACTION:
         
 ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND INDICATED AN INTENT TO GRANT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2011.0544C
                                                                                           
           
@@ -1521,8 +1178,6 @@ Fong, Wu, Antonini, Hillis, Moore, Sugaya
 ABSENT:
         
 Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1703,8 +1358,6 @@ Sound-Producing Devices Prohibited: The ringing of and use of mobile phones and 
 
 
 For most cases (CU’s, PUD’s, 309’s, etc…) that are considered by the Planning Commission, after being introduced by the Commission Secretary, shall be considered by the Commission in the following order:
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1713,50 +1366,36 @@ For most cases (CU’s, PUD’s, 309’s, etc…) that are considered by the Pla
 1.
         
 Presentation by Staff;
-<<Project End>>
-<<Project Start>>
 
 
 2.
         
 Presentation by the Project Sponsor’s Team (which includes: the sponsor, representative, legal counsel, architect, engineer, expeditor and/or any other advisor) for a period not to exceed fifteen (15) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 3.
         
 Public testimony from supporters of the Project not to exceed three (3) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 4.
         
 Presentation by Organized Opposition recognized by the Commission President through written request prior to the hearing for a period not to exceed fifteen (15) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 5.
         
 Public testimony from opponents of the Project not to exceed three (3) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 6.
         
 Staff follow-up and/or conclusions;
-<<Project End>>
-<<Project Start>>
 
 
 7.
         
 Public comment portion of the hearing shall be closed and deliberation amongst the Commissioners shall be opened by the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 8.
@@ -1777,8 +1416,6 @@ A failed motion results in the disapproval of the requested action, unless a sub
 
 For Discretionary Review cases that are considered by the Planning Commission, 
 after being introduced by the Commission Secretary, shall be considered by the Commission in the following order:
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1787,8 +1424,6 @@ after being introduced by the Commission Secretary, shall be considered by the C
 1.
         
 Presentation by Staff;
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1796,29 +1431,21 @@ Presentation by Staff;
 Presentation by the DR Requestor(s), not to exceed five (5) minutes per Requestor
 , at the discretion of the Chair
 ;
-<<Project End>>
-<<Project Start>>
 
 
 3.
         
 Public testimony from opponents of the Project not to exceed three (3) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 4.
         
 Presentation by the Project Sponsor for a period of five (5) minutes not to exceed fifteen (15) minutes, whenever there are multiple DR requests, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 5.
         
 Public testimony from supporters of the Project not to exceed three (3) minutes, at the discretion of the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 6.
@@ -1826,8 +1453,6 @@ Public testimony from supporters of the Project not to exceed three (3) minutes,
 Rebuttal by the DR Requestor(s), not to exceed two (2) minutes per Requestor
 , at the discretion of the Chair
 ;
-<<Project End>>
-<<Project Start>>
 
 
 7.
@@ -1835,22 +1460,16 @@ Rebuttal by the DR Requestor(s), not to exceed two (2) minutes per Requestor
 Rebuttal by the Project Sponsor, not to exceed two (2) minutes
 , at the discretion of the Chair
 ;
-<<Project End>>
-<<Project Start>>
 
 
 8.
         
 Staff follow-up and/or conclusions;
-<<Project End>>
-<<Project Start>>
 
 
 9.
         
 Public comment portion of the hearing shall be closed and deliberation amongst the Commissioners shall be opened by the Chair;
-<<Project End>>
-<<Project Start>>
 
 
 10.

@@ -1,284 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 2, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ October 2, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-October 2, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 2, 2008
- 
-
-
- 
- SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 2, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee and Moore
-
-
-COMMISSIONER ABSENT:
- 
- Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Tim Frye,, Michael Smith, Edgar Oropeza, AnMarie Rodgers, Mark Luellen, Bill Wycko, Sue Exline, Paul Lord, Craig Nikitas, Erika Jackson, Dan Sider, Sharon Lai, Kevin Guy, and
- 
- Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- 
-Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1380D
+2007.1380D
  
  
  
@@ -328,16 +49,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.0982D
+<<Project End>>
+<<Project Start>>
+2008.0982D
  
  
  
@@ -383,9 +103,9 @@ ABSENT:
  
 
 
-3a. 
- 
- 
+3a.
+<<Project End>>
+<<Project Start>>
 2007.0676D
  
  
@@ -441,9 +161,9 @@ ABSENT:
  
 
 
-3b. 
- 
- 
+3b.
+<<Project End>>
+<<Project Start>>
 2008.0752D
  
  
@@ -500,8 +220,9 @@ ABSENT:
 
 
 4a.
- 
- 2007.0684
+<<Project End>>
+<<Project Start>>
+2007.0684
 D
 V
  
@@ -551,8 +272,9 @@ ABSENT:
 
 
 4b.
- 
- 2007.0684D
+<<Project End>>
+<<Project Start>>
+2007.0684D
 V
  
  (P. LAVALLEY: (415) 558-6348)
@@ -588,16 +310,14 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0881D
  
  
@@ -650,16 +370,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0980T
+<<Project End>>
+<<Project Start>>
+2008.0980T
  
  
  
@@ -706,16 +425,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2008.1057T
+<<Project End>>
+<<Project Start>>
+2008.1057T
  
  
  
@@ -757,16 +475,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.0432E 
+<<Project End>>
+<<Project Start>>
+2006.0432E 
  
  
  
@@ -826,16 +543,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.0432CV
+<<Project End>>
+<<Project Start>>
+2006.0432CV
  
  (C. TEAGUE:
  
@@ -900,8 +616,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 10a.
- 
- 2007.1014
+<<Project End>>
+<<Project Start>>
+2007.1014
 A
 CV
  
@@ -960,8 +677,9 @@ MOTION:
 
 
 10b.
- 
- 2007.1014A
+<<Project End>>
+<<Project Start>>
+2007.1014A
 C
 V
  
@@ -1021,8 +739,9 @@ MOTION:
 
 
 10c.
- 
- 2007.1334AC
+<<Project End>>
+<<Project Start>>
+2007.1334AC
 V
  
  
@@ -1051,16 +770,14 @@ SPEAKER(S):
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the variance subject to the standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1481C
  
  
@@ -1114,16 +831,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.0864C
+<<Project End>>
+<<Project Start>>
+2006.0864C
  
  
  
@@ -1187,8 +903,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1245,8 +959,6 @@ Commissioner Lee:
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1255,8 +967,6 @@ D.
 14.
  
  Director's Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1265,8 +975,6 @@ D.
 15.
  
  Review of Past Week's Events at the Board of Supervisors and Board of Appeals
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1310,8 +1018,6 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1419,8 +1125,6 @@ D.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1452,8 +1156,6 @@ SPEAKER(S):
 ACTION:
  
  None – this was an Information only item.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1489,16 +1191,15 @@ SPEAKER(S):
 ACTION:
  
  None – this was an information-only item
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2008.0877EMTZ
+<<Project End>>
+<<Project Start>>
+2008.0877EMTZ
  
  
  
@@ -1544,16 +1245,15 @@ ABSENT:
 MOTION:
  
  17707
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2008.0850B
+<<Project End>>
+<<Project Start>>
+2008.0850B
  
  
  
@@ -1624,13 +1324,12 @@ MOTION:
 NOTE:
  
  Items 22, 23 & 24 were all called and heard together
-<<Project End>>
-<<Project Start>>
 
 
 22.
- 
- 2008.0484B
+<<Project End>>
+<<Project Start>>
+2008.0484B
  
  
  
@@ -1686,16 +1385,15 @@ ABSENT:
 MOTION:
  
  17710
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2008.0483B
+<<Project End>>
+<<Project Start>>
+2008.0483B
  
  
  
@@ -1752,16 +1450,15 @@ ABSENT:
 MOTION:
  
  17711
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
- 
- 2008.0690B
+<<Project End>>
+<<Project Start>>
+2008.0690B
  
  
  
@@ -1819,8 +1516,6 @@ ABSENT:
 MOTION:
  
  17712
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1828,8 +1523,9 @@ MOTION:
 
  
  25.
- 
- 2008.0926
+<<Project End>>
+<<Project Start>>
+2008.0926
 T
  
  
@@ -1875,16 +1571,15 @@ ABSENT:
 RESOLUTION:
  
  17708
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 26.
- 
- 2008.0875C
+<<Project End>>
+<<Project Start>>
+2008.0875C
  
  
  
@@ -1936,8 +1631,9 @@ MOTION:
 
 
 27a.
- 
- 2006.0826
+<<Project End>>
+<<Project Start>>
+2006.0826
 C
 V
  
@@ -1996,8 +1692,9 @@ ABSENT:
 
 
 27b.
- 
- 2006.0826C
+<<Project End>>
+<<Project Start>>
+2006.0826C
 V
  
  

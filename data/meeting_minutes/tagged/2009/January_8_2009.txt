@@ -1,272 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ January 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-January 8, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 8, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 8, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, Miguel, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Tim Frye, Kevin Guy, Christine Lamorena, Debra Dwyer, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-
-
 2008.1179Z
  
  
@@ -370,8 +102,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -764,8 +494,9 @@ REGULAR CALENDAR
 
 7a
 .
- 
- 2007.1117
+<<Project End>>
+<<Project Start>>
+2007.1117
 C
 V
  
@@ -834,8 +565,9 @@ MOTION:
 
 7b
 .
- 
- 2007.1117C
+<<Project End>>
+<<Project Start>>
+2007.1117C
 V
  
  
@@ -865,16 +597,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the variance subject to conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.0658C
+<<Project End>>
+<<Project Start>>
+2008.0658C
  
  
  
@@ -930,8 +661,6 @@ ABSENT:
  MOTION:
  
  17798
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -939,8 +668,9 @@ ABSENT:
 
 
 9.
- 
- 2008.0648C
+<<Project End>>
+<<Project Start>>
+2008.0648C
  
  
 (C. LAMORENA: (415) 575-9085)
@@ -992,13 +722,12 @@ AYES:
  
  
 17799
-<<Project End>>
-<<Project Start>>
 
 
 10.
- 
- 2008.1282D
+<<Project End>>
+<<Project Start>>
+2008.1282D
  
  
  
@@ -1059,16 +788,15 @@ AYES:
 DRA No.:
  
  0056
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0347E
+<<Project End>>
+<<Project Start>>
+2007.0347E
  
  
  

@@ -1,299 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 7, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ July 7, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-July 7, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, July 7, 2011
-
-
-
-
-12:00 PM
-
-
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIOONERS PRESENT: Olague, 
-Antonini, Borden, Fong, Miguel, Sugaya
-
-
-COMMISSIONERS ABSENT: Moore
-
-
- 
-
-
-STAFF IN ATTENDANCE: John 
-Rahaim â Director of Planning, Kevin Guy, David Alumbaugh, Joy Navarrete, Sophie 
-Hayward, Thomas Wang, Kimberly Durandet, Ben Fu, Rich Sucre, Sara Vellve, Glenn 
-Cabreros, Aaron Starr, Jonas Ionin â Acting Commission Secretary
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER 
-BY PRESIDENT OLAGUE AT: 12:10 PM
-
-
- 
-
-
- 
-
-
-A.
-                       
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2011.0415C                                                                   (E. 
 JACKSON: (415) 558-6363)
 
@@ -380,8 +85,6 @@ Commission.  There will be no separate discussion of these items unless a membe
 of the Commission, the public, or staff so requests, in which event the matter 
 shall be removed from the Consent Calendar and considered as a separate item at 
 this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -392,11 +95,9 @@ this or a future hearing
 
 
 
-2.         
-
-
-
-
+2.
+<<Project End>>
+<<Project Start>>
 2011.0451C
                                                                    
            
@@ -478,8 +179,6 @@ Section 4.104 requires all commissioners to vote yes or no on all matters unless
 that commissioner is excused by a vote of the Commission.  Commissioners may not 
 be automatically excluded from a vote on the minutes because they did not attend 
 the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -564,8 +263,6 @@ Borden, Fong, Miguel, Sugaya
 
 
 ABSENT:          Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -733,8 +430,6 @@ just more complicated.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -823,9 +518,7 @@ on. It is where the cable car turns, effectively extends that first block
 through the street and creates some much more pedestrian-oriented area. Found a 
 private sponsor to provide funds.  Staff has worked on this for a long time. 
 That ribbon cutting is next Wednesday at 10:00 A.M., on Powell Street. That 
-concludes my presentation.
-<<Project End>>
-<<Project Start>>
+concludes my presentation. 
 
 
 
@@ -924,8 +617,6 @@ Werner, Ernestine Weiss, Tim Foley, Linda Chapman
 
 
 F.         REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -982,8 +673,6 @@ Foley, Brad Paul, Sue Hestor
 
 ACTION:           Informational only â No action 
 required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1096,8 +785,6 @@ Ohloff, Jennifer Chang, Teri Shore, Ernestine Weiss
 
 ACTION:           Informational only â No action 
 required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1105,9 +792,9 @@ required
  
 
 
-9.        
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2011.0526T
                                                        
             
@@ -1182,9 +869,9 @@ RESOLUTION:  18395
 
 
 
-10a.     
-
-
+10a.
+<<Project End>>
+<<Project Start>>
 2006.0974D
                                                                    
 (S. HAYWARD: (415) 558-6372)
@@ -1249,9 +936,9 @@ DRA:                0221
 
 
 
-10b.     
-
-
+10b.
+<<Project End>>
+<<Project Start>>
 2011.0632D 
 
                                                                       (S. 
@@ -1307,8 +994,6 @@ Borden, Fong, Miguel, Sugaya
 
 
 ABSENT:          Moore
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1318,9 +1003,9 @@ ABSENT:          Moore
 
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.1028C
                                                       
 
@@ -1390,8 +1075,6 @@ ABSENT:          Moore
 
 MOTION:           
 18396
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1401,9 +1084,9 @@ MOTION:          
 
 
 
-            12.       
-
-
+            12.
+<<Project End>>
+<<Project Start>>
 2011.0208C
                    
 
@@ -1462,8 +1145,6 @@ ABSENT:          Moore
 
 
 MOTION:           18398
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1473,9 +1154,9 @@ MOTION:           18398
 
 
 
-13.       
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.1042C
                                            
                            (E. JACKSON: (415) 558-6363)
@@ -1540,8 +1221,6 @@ ABSENT:          Moore
 
 
 MOTION:           18399
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1551,12 +1230,9 @@ MOTION:           18399
 
 
 
-14.        
-
-
-
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2009.0651C
                                                        
                          
@@ -1627,15 +1303,13 @@ MOTION:           18400
 
 T
 AKEN OUT OF ORDER AFTER ITEM NO. 11
+
+
+
+
+15.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-15.       
-
-
 2011.0326C
                                                                    
     (R. SUCRE:  (415) 575-9108)
@@ -1692,8 +1366,6 @@ ABSENT:          Moore
 
 
 MOTION:           18397
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1703,9 +1375,9 @@ MOTION:           18397
 
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2011.0443C
                                                                    
      
@@ -1760,8 +1432,6 @@ ABSENT:          Moore
 
 
 MOTION:           18401
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1771,9 +1441,9 @@ MOTION:           18401
 
 
 
-17.       
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2011.0454D
                                                                 
 
@@ -1809,8 +1479,6 @@ and approve
                         
 
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1822,9 +1490,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
 
 
-18.       
-
-
+18.
+<<Project End>>
+<<Project Start>>
 2011.0389DDD
                                                                       
 (A. STARR: (415) 558-6362)

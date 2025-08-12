@@ -1,269 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ February 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-February 21, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 21, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:06 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Thomas Wang, Michelle Stahlhut, Sophie Hayward, Anmarie Rodgers, Kevin Guy,  and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                        
-
-
-1.
-     
 2012.1442C                                                                   (M. STAHLHUT: (415) 575-9116)
 
 
@@ -312,7 +47,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
  
 
 
-2a.        
+2a.
+<<Project End>>
+<<Project Start>>
 2012.0391D
                                                                           (T. WANG: (415) 558-6335)
 
@@ -352,7 +89,9 @@ DRA No.:          0309
  
 
 
-            2b.      
+            2b.
+<<Project End>>
+<<Project Start>>
 2012.0391D
                                                                            (T. WANG: (415) 558-6335)
 
@@ -387,15 +126,14 @@ ABSENT:          Hillis
 
 
 DRA No.:          0309
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-     
+<<Project End>>
+<<Project Start>>
 2012.0010C
                                                                   (M. STAHLHUT: (415) 575-9116)
 
@@ -442,8 +180,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -476,8 +212,6 @@ AYES:              Fong, Antonini, Borden, Moore, Wu, Sugaya
 
 
 ABSENT:          Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -537,8 +271,6 @@ Commissioner Borden, could you send out a quick e-mail to us so that we kind of 
 
 D.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -554,9 +286,7 @@ DIRECTOR RAHAIM
 :
 
 
-Just a couple of quick announcements, we have had the Green Connections Plan that we've been working on with a number of City and nonprofit agencies including the Parks Alliance, Lock San Francisco and Nature in the City. There has been a survey that has been online for a number of weeks that closes at the end of the month. So, just to offer -- want to get their last thoughts in on that. That survey will close. It's on the Planning Department website. That survey does close on February 28th. I wanted to let you know that the Japantown Plan, which the community has now changed the name of to the Japantown Cultural Heritage and Economic Sustainability Strategy is now available online on the Department's website. Or through the Japantown Task Force as well. That community has completed its work on that plan and the draft is out for public comment. And there is a public meeting on that plan on next Tuesday, the 26th, from 5:00 to 8:00 P.M. At the Japanese Cultural and Community Center at 1840 Sutter Street, so, that is to talk about the draft of the whole plan that the community has completed. Finally, I just wanted to let you know that we are on track with the Academy of Art and the violations, the conditions of the notices of violations. They have met their first two rounds of deadlines. So, they have met the requirements that we asked them to meet to date, and we are working with them on a series of -- we are scheduling a series of meetings to go over the details of our long-term plans. And also, of course, on any of the conditions in the enforcement actions, but we are on track as of right now with the Academy. That concludes my report. The Zoning Administrator tells me that there was a Board of Appeals hearing last night, but there wasn't anything related to Commission actions. He will be here next week to give you a fuller report on the Board of Appeals as well.
-<<Project End>>
-<<Project Start>>
+Just a couple of quick announcements, we have had the Green Connections Plan that we've been working on with a number of City and nonprofit agencies including the Parks Alliance, Lock San Francisco and Nature in the City. There has been a survey that has been online for a number of weeks that closes at the end of the month. So, just to offer -- want to get their last thoughts in on that. That survey will close. It's on the Planning Department website. That survey does close on February 28th. I wanted to let you know that the Japantown Plan, which the community has now changed the name of to the Japantown Cultural Heritage and Economic Sustainability Strategy is now available online on the Department's website. Or through the Japantown Task Force as well. That community has completed its work on that plan and the draft is out for public comment. And there is a public meeting on that plan on next Tuesday, the 26th, from 5:00 to 8:00 P.M. At the Japanese Cultural and Community Center at 1840 Sutter Street, so, that is to talk about the draft of the whole plan that the community has completed. Finally, I just wanted to let you know that we are on track with the Academy of Art and the violations, the conditions of the notices of violations. They have met their first two rounds of deadlines. So, they have met the requirements that we asked them to meet to date, and we are working with them on a series of -- we are scheduling a series of meetings to go over the details of our long-term plans. And also, of course, on any of the conditions in the enforcement actions, but we are on track as of right now with the Academy. That concludes my report. The Zoning Administrator tells me that there was a Board of Appeals hearing last night, but there wasn't anything related to Commission actions. He will be here next week to give you a fuller report on the Board of Appeals as well. 
 
 
             
@@ -611,15 +341,15 @@ At this time, members of the public may address the Commission on items of inter
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-8.         
+8.
+<<Project End>>
+<<Project Start>>
 2012.1306TZ
  
                                                                 
@@ -651,29 +381,21 @@ SPEAKERS:     Supervisor Scott Wiener, Gary Weiss, Erik Honda, Ryan Patterso
 
 ACTION:           
 Adopted a Recommendation to Approve with the following amendments:
-<<Project End>>
-<<Project Start>>
 
 
 1.
      
 Entire NCD to be rezoned NCT;
-<<Project End>>
-<<Project Start>>
 
 
 2.
      
 Include the minor technical changes;
-<<Project End>>
-<<Project Start>>
 
 
 3.
      
-Include the 1 year Sunset provision; and
-<<Project End>>
-<<Project Start>>
+Include the 1 year Sunset provision; and 
 
 
 4.
@@ -688,14 +410,14 @@ NAYES:            Wu
 
 
 RESOLUTION:   18812
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            9.         
+            9.
+<<Project End>>
+<<Project Start>>
 2013.0077T
                                                                 
 (A. RODGERS AT (415) 558-6395)
@@ -726,14 +448,14 @@ Fong, Antonini, Borden, Hillis, Moore, Wu, Sugaya
 
 
 RESOLUTION:   18810
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            10.        
+            10.
+<<Project End>>
+<<Project Start>>
 2013.0029X
                                                                                 (
 K. GUY: (415) 558-6163)

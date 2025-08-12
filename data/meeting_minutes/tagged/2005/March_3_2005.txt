@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ March 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-March 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 3, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 3, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander;
- 
-Michael J. Antonini,
- 
-Kevin Hughes, Sue Lee; William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  Shelley Bradford Bell
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:35 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Amit Ghosh; Alicia Jean-Baptiste; Paul Maltzer; Matt Snyder; Michael Smith; Dan Sirois: Moses Corrette; Sharon Young; Mary Woods; Ben Fu; Paul Lord; Nora Priego – Transcription Secretary; Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-                 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-             
-  1.
-       
- 2004.1169C
+2004.1169C
                               
  
                           
@@ -337,8 +56,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -407,8 +124,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -416,8 +131,9 @@ ABSENT:
 
            
   3.
-        
- 2004.0389D 
+<<Project End>>
+<<Project Start>>
+2004.0389D 
                  
  
    
@@ -471,8 +187,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -537,8 +251,9 @@ ABSENT:
 
            
   5a.
-       
- 2004.0032D 
+<<Project End>>
+<<Project Start>>
+2004.0032D 
                                          
  
                                
@@ -591,8 +306,9 @@ ABSENT:
 
            
   5b.
-       
- 2004.0033D 
+<<Project End>>
+<<Project Start>>
+2004.0033D 
                                          
  
                                
@@ -645,8 +361,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -690,8 +404,6 @@ SPEAKER(S):
 ACTION:
           
   Discretionary Review Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -699,8 +411,9 @@ ACTION:
 
            
   7.
-        
- 2004.1190D
+<<Project End>>
+<<Project Start>>
+2004.1190D
                                                       
  
                  
@@ -751,8 +464,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -834,8 +545,6 @@ RE:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -962,8 +671,6 @@ Dr. Amit Ghosh Responded:
 
 
 - The time period should be within a month or two.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1279,8 +986,6 @@ F.
             
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1344,8 +1049,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1353,8 +1056,9 @@ ABSENT:
 
            
   12.
-       
- 2005.0128U
+<<Project End>>
+<<Project Start>>
+2005.0128U
                                                                   
  (M. Corrette
 : (415) 558-6295)
@@ -1422,8 +1126,6 @@ ABSENT:
 G.
         
   REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1521,8 +1223,9 @@ MOTION:
 
            
   14a.
-     
- 2004.0364D
+<<Project End>>
+<<Project Start>>
+2004.0364D
                                                                          
  (D. SIROIS: (415) 558-6313)
 
@@ -1576,8 +1279,9 @@ ABSENT:
 
            
   14b.
-     
- 2004.0651D
+<<Project End>>
+<<Project Start>>
+2004.0651D
                                                                         
  (D. SIROIS: (415)
  
@@ -1622,8 +1326,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1631,8 +1333,9 @@ ABSENT:
 
            
   15.
-       
- 2005.0141D
+<<Project End>>
+<<Project Start>>
+2005.0141D
                             
  
                                             
@@ -1844,8 +1547,8 @@ ABSENT:
 
            
   16a.
-     
- 
+<<Project End>>
+<<Project Start>>
 2004.0516D
  
  
@@ -1927,8 +1630,9 @@ ABSENT:
 
            
   16b.
-     
- 2004.0572D
+<<Project End>>
+<<Project Start>>
+2004.0572D
       
  
  
@@ -1982,8 +1686,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2121,8 +1823,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2130,8 +1830,9 @@ ABSENT:
 
            
   18.
-       
- 2004.1278D
+<<Project End>>
+<<Project Start>>
+2004.1278D
                                                                   
  
     
@@ -2217,8 +1918,6 @@ NAYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2226,8 +1925,9 @@ ABSENT:
 
            
   19.
-       
- 2005.0021D
+<<Project End>>
+<<Project Start>>
+2005.0021D
                                                       
  
         
@@ -2268,8 +1968,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2278,8 +1976,8 @@ ABSENT:
            
  
 20.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.0853C 
                                                      
  
@@ -2439,8 +2137,6 @@ ABSENT:
 MOTION:
           
   16956
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2448,8 +2144,9 @@ MOTION:
 
            
   21.
-       
- 2001.0772C
+<<Project End>>
+<<Project Start>>
+2001.0772C
                   
  
                                                                 
@@ -2514,8 +2211,6 @@ ABSENT:
 MOTION:
           
   16957
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2523,8 +2218,9 @@ MOTION:
 
            
   22.
-       
- 2005.0081T
+<<Project End>>
+<<Project Start>>
+2005.0081T
   
  
                                           
@@ -2615,8 +2311,6 @@ ABSENT:
 RESOLUTION:
   
   16958
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2624,8 +2318,8 @@ RESOLUTION:
 
            
   23.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.0458E
                          
  
@@ -2747,8 +2441,9 @@ MOTION:
 
            
   24a.
-     
- 2004.0458C
+<<Project End>>
+<<Project Start>>
+2004.0458C
                                              
  
                         
@@ -2947,8 +2642,9 @@ MOTION:
 
            
   24b.
-     
- 2004.0458V
+<<Project End>>
+<<Project Start>>
+2004.0458V
                                              
  
                         

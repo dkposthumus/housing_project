@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ April 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-April 9, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 9, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 9, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Borden, Lee, Moore, Olague, and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- Antonini
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Craig Nikitas – Acting Zoning Administrator, Mary Woods, Corey Teague, Brittany Bendix, Christine Lamorena, Carol Roos, Ben Fu, Tara Sullivan, Sophie Middlebrook, Tina Tam, Pilar Lavalley, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.1161C
+2008.1161C
  
  
  
@@ -348,8 +73,9 @@ ABSENT:
 
 
 2a.
- 
- 2007.0129DDD
+<<Project End>>
+<<Project Start>>
+2007.0129DDD
  
  
  
@@ -405,8 +131,9 @@ ABSENT:
 
 
 2b.
- 
- 2007.0129V                                               
+<<Project End>>
+<<Project Start>>
+2007.0129V                                               
  
     (G. CABREROS: 415-558-6169)
 
@@ -474,8 +201,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -521,8 +246,6 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -569,8 +292,6 @@ Commissioner Olague:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -777,8 +498,6 @@ None
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -787,8 +506,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 7.
- 
- 2008.0940C
+<<Project End>>
+<<Project Start>>
+2008.0940C
  
  
  
@@ -862,8 +582,9 @@ REGULAR CALENDAR
 
 8a
 .
- 
- 2008.1215
+<<Project End>>
+<<Project Start>>
+2008.1215
 C
 V
  
@@ -949,8 +670,9 @@ MOTION:
 
 
 8b.
- 
- 2008.1215C
+<<Project End>>
+<<Project Start>>
+2008.1215C
 V
  
  
@@ -981,8 +703,6 @@ SPEAKERS:
 ACTION:
  
  Acting Zoning Administrator Nikitas closed the public hearing and denied the variance
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -990,8 +710,9 @@ ACTION:
 
  
  9.
- 
- 2009.0176C
+<<Project End>>
+<<Project Start>>
+2009.0176C
  
  
  
@@ -1049,16 +770,15 @@ AYES:
 MOTION:
  
  17859
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2009.0117C 
+<<Project End>>
+<<Project Start>>
+2009.0117C 
  
  
  
@@ -1110,16 +830,15 @@ AYES:
 MOTION:
  
  17860
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0540E
+<<Project End>>
+<<Project Start>>
+2005.0540E
  
  
  
@@ -1166,8 +885,8 @@ ACTION:
 
 
 12a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1121
 X
 V
@@ -1281,8 +1000,8 @@ AYES:
 
 
 12b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1121X
 V
  
@@ -1334,16 +1053,15 @@ AYES:
  ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.1393T: 
+<<Project End>>
+<<Project Start>>
+2008.1393T: 
  
  
  
@@ -1401,8 +1119,9 @@ RESOLUTION:
 
 14a
 .
- 
- 2007.0627D
+<<Project End>>
+<<Project Start>>
+2007.0627D
  
  
  
@@ -1464,8 +1183,8 @@ DRA:
 
 
 14b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0005D
  
  
@@ -1521,16 +1240,15 @@ NAYES:
 DRA:
  
  0075
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2009.0158
+<<Project End>>
+<<Project Start>>
+2009.0158
 D
  
  (P. LAVALLEY: (415) 575-9084)

@@ -1,304 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 19, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ May 19, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-May 19, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
- 
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, May 19, 2011
-
-
-
-
-12:00 PM
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, Sugaya
-
-
- 
-
-
-THE 
-MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:10 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, 
-Scott Sanchez â Zoning Administrator, Rick Crawford, Jonas Ionin, Keith 
-DeMartini, Sharon Young, Thomas Wang, Kimberly Durandet, Michael E. Smith, 
-Sophie Hayward, Linda Avery â Commission Secretary
-
-
-
-
- 
-
-
-A.
-                 
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.        
-
-
-
 2010.0628C
                                                                   
 
@@ -362,8 +62,6 @@ proposed
 
 AYES:          Olague, Miguel, 
 Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -373,9 +71,9 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 
-2.        
-
-
+2.
+<<Project End>>
+<<Project Start>>
 2009.0906CV
                                                                  
 (R. CRAWFORD: (415) 558-6358)
@@ -422,8 +120,6 @@ B.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -603,8 +299,6 @@ the time to look at that. This is the time to look at all issues.
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -650,8 +344,6 @@ unbelievable amount of views. We are getting 27,000 hits a day on the web site.
 There is a lot of interest. Hopefully, it is providing a service to the public. 
 27,000 hits a day is a staggering number. I never would have imagined that large 
 of a number of hits on the website. I think that is it for me.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -860,8 +552,6 @@ North Beach library to the National Registry of Historic Places. The Commission
 just passed a motion that they are informing them that they cannot reach 
 consensus either way on the nomination. They could not decide to nominate it or 
 not, so they sent it forward without support either way.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -871,9 +561,9 @@ not, so they sent it forward without support either way.
 
 
 
-6.        
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2008.0762I
                                                                  
 (R. CRAWFORD:  (415) 558-6358) 
@@ -1008,8 +698,6 @@ F.
                  
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1019,9 +707,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 
-7.        
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2010.0937C
                                                              
             (M. SMITH:  (415) 558-6322) 
@@ -1101,9 +789,9 @@ REGULAR CALENDAR 
 
 
 
-8a.       
-
-
+8a.
+<<Project End>>
+<<Project Start>>
 2011.0063DV
                                                                  
          (J. IONIN: (415) 558-6309)
@@ -1173,9 +861,9 @@ Sugaya
 
 
 
-8b.       
-
-
+8b.
+<<Project End>>
+<<Project Start>>
 2011.0063DV     
                                                             
       
@@ -1222,8 +910,6 @@ SPEAKERS: Same as those listed for item 8a
 ACTION:       Following 
 hearing, Acting Zoning Administrator Kelley Amdur continued the item to 9/22/11; 
 PH remains open
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1233,9 +919,9 @@ PH remains open
 
 
 
-9.        
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2011.0412T
                                                                  
 
@@ -1292,8 +978,6 @@ ABSENT:      Antonini
 
 
 RESOLUTION:   18361
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1303,9 +987,9 @@ RESOLUTION:   18361
 
 
 
-10.       
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2011.0427T
        
                                                               
@@ -1360,8 +1044,6 @@ ABSENT:      Antonini
 
 
 RESOLUTION:   18362
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1371,9 +1053,9 @@ RESOLUTION:   18362
 
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0321C
                                                        
                   (S. YOUNG: (415) 558-6346)
@@ -1433,8 +1115,6 @@ Moore, Sugaya
 
 
 MOTION:        18360
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1444,9 +1124,9 @@ MOTION:        18360
 
 
 
-12.       
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2010.1028C
                                                       
 
@@ -1521,8 +1201,6 @@ Moore,
 
 
 MOTION:     18361
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1532,9 +1210,9 @@ MOTION:     18361
 
 
 
-13.       
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2011.0255C
                                            
                          
@@ -1595,8 +1273,6 @@ Moore, Sugaya
 
 
 MOTION:        18363
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1606,9 +1282,9 @@ MOTION:        18363
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2011.0081D
                                                       
            (K. DURANDET: (415) 575-6816)  
@@ -1679,8 +1355,6 @@ Moore, Sugaya
 
 
 DRA:             0210
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1690,9 +1364,9 @@ DRA:             0210
 
 
 
-15.       
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2009.0906C
        
                                                              (R. CRAWFORD: (415) 
@@ -1762,8 +1436,6 @@ RECUSED:    Moore
 
 
 MOTION:        18364
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1773,9 +1445,9 @@ MOTION:        18364
 
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2011.0182B
                                                                   
 (R. CRAWFORD: (415) 558-6358)
@@ -1839,9 +1511,9 @@ MOTION:        18365
 
 
 
-17a.     
-
-
+17a.
+<<Project End>>
+<<Project Start>>
 2010.0162DDV
                                                            (R. 
 CRAWFORD: (415) 558-6358)
@@ -1919,9 +1591,9 @@ MOTION:        18365
 
 
 
-17b.     
-
-
+17b.
+<<Project End>>
+<<Project Start>>
 2010.0162DDV
                                                            (R. 
 CRAWFORD: (415) 558-6358)
@@ -1972,9 +1644,9 @@ Acting Zoning Administrator Kelley Amdur continued the item to 6/16/11
 
 
 
-18a.     
-
-
+18a.
+<<Project End>>
+<<Project Start>>
 2009.0683D
                                                                    
 (S. HAYWARD: (415) 558-6372)
@@ -2054,9 +1726,9 @@ NAYES:         Miguel
 
 
 
-18b.     
-
-
+18b.
+<<Project End>>
+<<Project Start>>
 2009.0685D
                                                                    
 (S. HAYWARD: (415) 558-6372)  
@@ -2124,9 +1796,9 @@ NAYES:         Miguel
 
 
 
-18c.     
-
-
+18c.
+<<Project End>>
+<<Project Start>>
 2010.0577DD
                                                                  
 (S. HAYWARD: (415) 558-6372)

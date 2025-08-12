@@ -1,321 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 25, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ July 25, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-July 25, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, July 25, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-                                 
-Wu, Antonini, Borden, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: 
-         
-Fong, Hillis
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12:05 PM.
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, 
- 
-AnMarie Rodgers, Susan Exline, Sophie Hayward, Aaron Starr, Sharon Young and Jonas P. Ionin - Acting Commission Secretary.
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.0530C
                                                                                           
                         
@@ -369,8 +52,6 @@ Fong, Hillis
 B.
             
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -417,8 +98,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -514,8 +193,6 @@ I’d also like to extend my congratulations to staff for the job they did on th
 C.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -533,8 +210,6 @@ Director Rahaim:
 
 
 Two things to announce, on Wednesday the Board and the Transportation Authority Board approved $7 million in expenditures from the funds from parcel sales in the Market-Octavia Planning Area which had been in addition - - $7 million and beyond what we have expected and they allocated those funds for several short and long term projects on the Market-Octavia Area, for whole series of things, pedestrian safety improvements, bicycle improvements. So there will be about $2 million spent over the short term, over the next 18 months and the remainder for longer term, larger projects over several years beyond that, so it was exciting to see those proceeds being spent in the plan area, where the actual sales were generated. As I said, both the Board of Supervisors and the TA Board approved that on Wednesday. Secondly, I just wanted to let you know that Sarah Jones has accepted an offer to be the permanent Environmental Review Officer, she has been acting in that capacity for several months since Bill Wycko retired, she’s done a great job, she did accept that offer this week, and so she will now be the City's latest Environmental Review Officer.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -759,8 +434,6 @@ None
 E.
              
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -810,15 +483,14 @@ Andy Cohen, MOEWD – Invest in neighborhood
 ACTION:
                  
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2013.0936U 
  
                                                                                         
@@ -859,15 +531,14 @@ Fong, Antonini, Hillis
 RESOLUTION:
         
 18931
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2013.0852TZ
                                                         
                                                     
@@ -914,14 +585,13 @@ Fong, Hillis
 RESOLUTION:
         
 18932
-<<Project End>>
-<<Project Start>>
 
 
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2012.0395D 
    
                                                                                       

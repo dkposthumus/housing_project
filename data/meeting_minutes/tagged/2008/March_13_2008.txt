@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ March 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-March 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 13, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 13, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Scott Sanchez, Diego Sanchez, Jim Miller, Aaron Hollister, Tara Sullivan-Lenane, Cecilia Jarowslasky, Thomas Wang, and Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date. 
- 
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0789C
+2007.0789C
  
  
  
@@ -320,8 +43,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -329,8 +50,9 @@ AYES:
 
  
  2.
- 
- 2008.0014G
+<<Project End>>
+<<Project Start>>
+2008.0014G
  
  
  
@@ -383,8 +105,9 @@ AYES:
 
 
 3a.
- 
- 2007.1163C
+<<Project End>>
+<<Project Start>>
+2007.1163C
  
  
  
@@ -441,8 +164,9 @@ AYES:
 
 
 3b.
- 
- 2007.1164V
+<<Project End>>
+<<Project Start>>
+2007.1164V
  
  
  
@@ -484,16 +208,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1427D
+<<Project End>>
+<<Project Start>>
+2007.1427D
  
  
  
@@ -542,8 +265,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -597,8 +318,6 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -862,8 +581,6 @@ all Commissioners got a detailed memorandum of the meeting minutes of the Wester
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -930,8 +647,6 @@ The question on the Western SoMa can certainly come up in that discussion as wel
  Related to Richard Florida's book, at some point it would be probably be good to have a discussion about bringing him here.
  
  He is an excellent speaker and understands the relationship between economic development and city planning.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1032,8 +747,6 @@ Continued requesting advice from City Attorney's Office
 
 
 Next week, the Board of Appeals will have an election to replace their Vice-President.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1182,16 +895,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2008.0045C
+<<Project End>>
+<<Project Start>>
+2008.0045C
  
  
 (Tape IA)
@@ -1248,8 +960,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1257,8 +967,9 @@ REGULAR CALENDAR
 
 
 11.
- 
- 2003.0347
+<<Project End>>
+<<Project Start>>
+2003.0347
 UU
  
  
@@ -1300,16 +1011,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.1456C
+<<Project End>>
+<<Project Start>>
+2007.1456C
  
  
 (Tapes IA; IB; IIA)
@@ -1609,16 +1319,15 @@ The Commission has failed to take action.
  The request for Conditional Use authorization is therefore disapproved.
  
  Staff will prepare a memorandum with findings.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.1382C
+<<Project End>>
+<<Project Start>>
+2007.1382C
  
  
 (Tape IIA)
@@ -1777,8 +1486,9 @@ MOTION:
 
 
 14a.
- 
- 2006.0799CEKV
+<<Project End>>
+<<Project Start>>
+2006.0799CEKV
 Z
  
  
@@ -1925,8 +1635,9 @@ MOTION:
 
  
  14b.
- 
- 2006.0799
+<<Project End>>
+<<Project Start>>
+2006.0799
 C
 EKVZ
  
@@ -1977,8 +1688,9 @@ MOTION:
 
 
 14c.
- 
- 2006.0799CEK
+<<Project End>>
+<<Project Start>>
+2006.0799CEK
 V
 Z
  
@@ -2008,8 +1720,6 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance with the standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2019,8 +1729,9 @@ ACTION:
 
 
 15.
- 
- 2007.0718C
+<<Project End>>
+<<Project Start>>
+2007.0718C
  
  
 (Tape IIB)
@@ -2150,13 +1861,11 @@ MOTION:
  
  
 17568
-<<Project End>>
-<<Project Start>>
 
 
 16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1281C
  
  
@@ -2265,16 +1974,15 @@ MOTION:
  
  
 17569
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1113E
+<<Project End>>
+<<Project Start>>
+2007.1113E
 T
  
  
@@ -2317,16 +2025,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1461T
+<<Project End>>
+<<Project Start>>
+2007.1461T
  
  
 (Tape IIIA)
@@ -2382,8 +2089,9 @@ p.m
 
 
 19a.
- 
- 2007.0172D
+<<Project End>>
+<<Project Start>>
+2007.0172D
  
  
 (Tape IIIA)
@@ -2464,8 +2172,9 @@ AYES:
 
 
 19b.
- 
- 2007.0177D
+<<Project End>>
+<<Project Start>>
+2007.0177D
  
  
  
@@ -2509,13 +2218,12 @@ AYES:
 
 
 Item 20 was taken out of order and followed item 18
-<<Project End>>
-<<Project Start>>
 
 
 20.
- 
- 2007.1039D
+<<Project End>>
+<<Project Start>>
+2007.1039D
  
  
 (Tape IIIA)

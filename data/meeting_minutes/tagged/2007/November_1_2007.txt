@@ -1,292 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 1, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ November 1, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-November 1, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 1, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 1, 2007
-
-
- 
-
-
-4:00 P.M.
-
-
-Regular Meeting
-
-
- 
-
-
-* * * TIME CHANGED FOR THIS HEARING ONLY* * *
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander and Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 4:04 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Ken Rich, Adam Varat, Jonas Ionin, Mathew Snyder, Adam Light, Joan Kugler, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2007.0920C
+2007.0920C
  
  
  
@@ -328,16 +41,15 @@ AYES:
 ABSENT:
  
  Alexander and Moore.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
  
@@ -384,16 +96,15 @@ AYES:
 ABSENT:
  
  Alexander and Moore.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
  
@@ -456,8 +167,8 @@ ABSENT:
 
 
 ADDENDUM
-
-
+<<Project End>>
+<<Project Start>>
 2006.1248K
 X
 CV
@@ -530,11 +241,8 @@ AYES:
 ABSENT:
  
  Alexander and Moore.
-
-
- 
-
-
+<<Project End>>
+<<Project Start>>
 2006.1248KX
 C
 V
@@ -574,11 +282,8 @@ AYES:
 ABSENT:
  
  Alexander and Moore.
-
-
- 
-
-
+<<Project End>>
+<<Project Start>>
 2006.1248KXC
 V
  
@@ -625,8 +330,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -707,8 +410,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -836,8 +537,6 @@ as an art activity that is strongly encouraged in the South of Market that inclu
 We are blending it into the Institutional Master Plan and obviously that has to come to you.
  
  Anything they do must conform to that plan.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -948,8 +647,6 @@ Board of Appeals
 - Categorical Exemption
 . 
 Continued to November 13.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1064,8 +761,6 @@ E
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1180,8 +875,6 @@ This is an informational item that does not require Commission action.
 
  
  Item 9 was taken out of order followed item #13
-<<Project End>>
-<<Project Start>>
 
 
 9.
@@ -1232,16 +925,14 @@ ACTION:
  
  
 This is an informational item that does not require Commission action.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0842D
  
  
@@ -1675,16 +1366,14 @@ AYES:
 ABSENT:
  
  Alexander, W. Lee and Moore.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1111T
  
  
@@ -1730,16 +1419,15 @@ AYES:
 ABSENT:
  
  Alexander, W. Lee and Moore.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 1996.281E
+<<Project End>>
+<<Project Start>>
+1996.281E
  
  
  
@@ -1764,8 +1452,6 @@ on the Proposed Project. The San Francisco Municipal Transportation Agency (MTA)
  
  There would be three underground stations at Moscone, Union Square/Market, and Chinatown. There are two options; Option A would go underground between Townsend and Brannan, while Option B would go underground between Bryant and Harrison (under the I-80 freeway) and have an additional surface station north of Brannan Street. A Public Hearing on the environmental document will be held at the Commission meeting on November 15
 t,
-<<Project End>>
-<<Project Start>>
  2007. The Public Comment period will close on December 10, 2007.
 
 
@@ -1875,13 +1561,12 @@ This is an informational item that does not require Commission action.
 
 
 Item 13 was taken out of order and followed item #8
-<<Project End>>
-<<Project Start>>
 
 
 13.
- 
- 2007.0838C
+<<Project End>>
+<<Project Start>>
+2007.0838C
  
  
 (Tape IB; IIA)

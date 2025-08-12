@@ -1,365 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 24, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ May 24, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-May 24, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 24, 2012
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Moore Sugaya
-
-
-COMMISSIONERS ABSENT:  Miguel
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 10:10 AM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Sara Jones, Joshua Switzky, Pilar LaValley, Mathew Snyder, Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-                  
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-              
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-            1.         2011.0939D                                                                      (M. WOODS: (415) 558-6315)
-
-
-1450 POST STREET
- - 
-north side between Octavia and Gough Streets; Lots 053, 055 and 057 in Assessor’s Block 0688 - 
-Mandatory Discretionary Review
-, pursuant to Planning Code Section 317, of Building Permit Application No. 2011.08.10.2189 and 2011.08.10.2191, proposing to convert the building’s authorized use from 93 units to 92 units within the RM-4 (Residential, Mixed, High Density) District and 50-X Height and Bulk District.
-
-
-Preliminary Recommendation:  Do not take Discretionary Review and approve the application
-
-
-                        (Proposed for Continuance to June 14, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, 
-Borden
-, 
-Moore
-
-
-RECUSED:       Sugaya
-
-
-            
-ABSENT:          Miguel 
-
-
- 
-
-
-B.         
-PUBLIC COMMENT ON AGENDA ITEMS WHERE THE PUBLIC HEARING HAS BEEN CLOSED
-
-
- 
-
-
-            At this time, members of the public who wish to address the Commission on agenda items that have already been reviewed in a public hearing at which members of the public were allowed to testify and the public hearing has been closed, must do so at this time.  Each member of the public may address the Commission for up to three minutes.
-
-
- 
-
-
-REGARDING ITEM #3
-
-
-RECUSED:       Sugaya
-
-
-SPEAKERS:     Bill Maher, Dan Kingsley, Rubin Santiago, Sue Hester
-
-
- 
-
-
-C.         REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.         2012.0706X                                                                          (J. RAHAIM: (415) 558-6411)
-
-
-101 First Street ("Transit Tower")
- - Informational Presentation - 
- The project sponsor for the proposed project at 101 1st Street ("the Transit Tower") will provide an informational update to the Planning Commission regarding various aspects of the proposed project. The project includes a 1,070'-tall tower at the southeast corner of Mission and First Streets, consisting of approximately 1,350,000 gross square feet of office space, as well as retail and below-grade parking.
-
-
-Preliminary Recommendation: Informational Only -- No Action
-
-
- 
-
-
-RECUSED:       Sugaya
-
-
-SPEAKERS:     Rubin Santiago, Sue Hester, Jim Patrick
-
-
-            ACTION:           Information only. No action
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-3.         
 2007.0558E
  and 2008.0789E                                                (S. JONES: 
 (415) 575-9034)
@@ -402,8 +41,6 @@ ABSENT:          Miguel
 
 MOTION:           
 18628
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -423,7 +60,9 @@ Adoption Actions
  
 
 
-            4a.  
+            4a.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                          
 (J. SWITZKY: (415) 575-6815)
@@ -464,7 +103,9 @@ ABSENT:          Miguel
  
 
 
-            4b.  
+            4b.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                         
 (J. SWITZKY:  (415) 575-6815)
@@ -505,7 +146,9 @@ ABSENT:          Miguel
  
 
 
-            4c.  
+            4c.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                       
 (J. SWITZKY: (415) 575-6815)
@@ -549,7 +192,9 @@ ABSENT:          Miguel
  
 
 
-            4d.  
+            4d.
+<<Project End>>
+<<Project Start>>
 2007.0558MTZU
                                                         
 (P. LAVALLEY: (415) 575-9084)
@@ -593,7 +238,9 @@ ABSENT:          Miguel
  
 
 
-            4e. 
+            4e.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                           
 (J. SWITZKY: (415) 575-6815)
@@ -640,7 +287,9 @@ ABSENT:          Miguel
  
 
 
-            4f.   
+            4f.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                          
 (J. SWITZKY: (415) 575-6815)
@@ -679,7 +328,9 @@ ABSENT:          Miguel
  
 
 
-            4g.  
+            4g.
+<<Project End>>
+<<Project Start>>
 2007.0558EMTZU
                                                       
 (J. SWITZKY: (415) 575-6815)
@@ -717,14 +368,14 @@ ABSENT:          Miguel
 
                 RESOLUTION:     
 18635
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2012.0556X 
                                                           
            (M. Snyder: (415) 575-6891) 
@@ -780,8 +431,6 @@ ABSENT:          Miguel
 D.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -824,8 +473,6 @@ Very happy to be part of the ceremony announcing the Warriors are trying to find
 
 
 E.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -838,8 +485,6 @@ E.         DIRECTOR’S REPORT
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
             

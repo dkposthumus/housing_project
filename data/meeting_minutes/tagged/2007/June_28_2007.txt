@@ -1,284 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 28, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ June 28, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-June 28, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 28, 2007
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 28, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- S. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Ken Rich, Aaron Starr, Jonas Ionin, Susan Exline, Michelle Glueckert, Glenn Cabreros, Jim Miller, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1
- 
- 2004.1245E
+2004.1245E
  
  (N. TURRELL: (415)
  
@@ -342,8 +63,6 @@ ABSENT:
 
 
 2a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -422,8 +141,9 @@ ABSENT:
 
 
 2b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -492,8 +212,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -561,8 +279,6 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -897,8 +613,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -974,8 +688,6 @@ Mr. Badiner, Zoning Administrator reported:
 -
  
  This is for your review and if you have any questions you may contact us.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1115,8 +827,6 @@ None
  
  
  (A. GHOSH: (415) 558-6282)
-<<Project End>>
-<<Project Start>>
 
 
 7.
@@ -1493,8 +1203,6 @@ Mrs. Burrell
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1503,8 +1211,9 @@ REGULAR CALENDAR
 
 
 8.
- 
- 2007.0428
+<<Project End>>
+<<Project Start>>
+2007.0428
 C
  
  
@@ -1577,16 +1286,15 @@ ABSENT:
 MOTION:
  
  17453
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.0572C
+<<Project End>>
+<<Project Start>>
+2006.0572C
  
  
  
@@ -1634,16 +1342,15 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.0338C
+<<Project End>>
+<<Project Start>>
+2007.0338C
  
  
 (Tape IB; IIA)
@@ -1767,16 +1474,15 @@ ABSENT:
 MOTION:
  
  17454
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0285D
+<<Project End>>
+<<Project Start>>
+2007.0285D
  
  
  
@@ -1853,16 +1559,15 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0518T 
+<<Project End>>
+<<Project Start>>
+2007.0518T 
  
  
 (Tape IIA)
@@ -1907,16 +1612,15 @@ ABSENT:
 RESOLUTION:
  
  17455
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0605
+<<Project End>>
+<<Project Start>>
+2007.0605
 T
  
  
@@ -2079,16 +1783,15 @@ ABSENT:
 RESOLUTION:
  
  17456
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2007.0332D
+<<Project End>>
+<<Project Start>>
+2007.0332D
  
  
 (Tape IIA)
@@ -2196,16 +1899,15 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.1476D
+<<Project End>>
+<<Project Start>>
+2006.1476D
  
  
  
@@ -2260,8 +1962,6 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2271,6 +1971,8 @@ ABSENT:
  16.
  
  20
+<<Project End>>
+<<Project Start>>
 07.0447D
  
  
@@ -2460,8 +2162,9 @@ ABSENT:
 
 
 17a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -2780,8 +2483,9 @@ ABSENT:
 
 
 17b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -2841,8 +2545,6 @@ ABSENT:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  

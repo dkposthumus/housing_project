@@ -1,278 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ December 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-December 11, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 11, 2008
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 11, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Angela Heitter, Joshua Switzky, Elaine Forbes, Glenn Cabreros, Rick Crawford, and Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.0940C
+2008.0940C
  
  
  
@@ -319,16 +46,15 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.1179Z
+<<Project End>>
+<<Project Start>>
+2008.1179Z
  
  
 (E. Watty:
@@ -379,8 +105,9 @@ ABSENT:
 
 
 3a.
- 
- 2006.0826
+<<Project End>>
+<<Project Start>>
+2006.0826
 C
 V
  
@@ -438,8 +165,9 @@ ABSENT:
 
 
 3b.
- 
- 2006.0826C
+<<Project End>>
+<<Project Start>>
+2006.0826C
 V
  
  
@@ -500,8 +228,9 @@ ABSENT:
 
 4
 a.
- 
- 2007.0308
+<<Project End>>
+<<Project Start>>
+2007.0308
 C
 V
  
@@ -562,8 +291,9 @@ ABSENT:
 
 
 4b.
- 
- 2007.0308C
+<<Project End>>
+<<Project Start>>
+2007.0308C
 V
  
  
@@ -622,8 +352,9 @@ ABSENT:
 
 
 5a.
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
  
  
  
@@ -678,8 +409,9 @@ ABSENT:
 
 
 5b.
- 
- 2008.1155D
+<<Project End>>
+<<Project Start>>
+2008.1155D
  
  
  
@@ -735,8 +467,9 @@ ABSENT:
 
 
 5c.
- 
- 2008.1156D
+<<Project End>>
+<<Project Start>>
+2008.1156D
  
  
  
@@ -794,8 +527,9 @@ ABSENT:
 5
 d
 .
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
 D
  
  
@@ -848,8 +582,9 @@ ABSENT:
 
 
 5e.
- 
- 2008.1213D
+<<Project End>>
+<<Project Start>>
+2008.1213D
  
  
  
@@ -922,9 +657,10 @@ NOTE:
  Items 6a & b were removed from the Consent Calendar
 
 
-6a. 
- 
- 2007.1337
+6a.
+<<Project End>>
+<<Project Start>>
+2007.1337
 X
 H
  
@@ -973,9 +709,9 @@ MOTION:
  
 
 
-6b. 
- 
- 
+6b.
+<<Project End>>
+<<Project Start>>
 2007.1337X
 H
  
@@ -1067,8 +803,6 @@ Future Meetings/Agendas
 E.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1077,8 +811,6 @@ E.
 7.
  
  Director's Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1124,8 +856,6 @@ Eugene Phillips – regarding Planning rules
 G.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1184,8 +914,6 @@ NOTE:
  
  
 Item 10 was taken out of order and considered at 5:00 p.m. as item No. 13
-<<Project End>>
-<<Project Start>>
 
 
 10.
@@ -1212,8 +940,8 @@ Preliminary Recommendation:
 
 
 11a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0868
 dD
 V
@@ -1275,8 +1003,9 @@ DRA:
 
 
 11b.
- 
- 2006.1485
+<<Project End>>
+<<Project Start>>
+2006.1485
 V
  
  
@@ -1306,16 +1035,14 @@ SPEAKER(S):
 ACTION:
  
  Acting Zoning Administrator, Director Rahaim, closed the public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1409D
  
  
@@ -1361,8 +1088,6 @@ AYES:
 DRA:
  
  0051
-<<Project End>>
-<<Project Start>>
 
 
  

@@ -1,271 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ April 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-April 19, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 19, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Miguel, Moore, Sugaya
-
-
-COMMISSIONER ABSENT:   Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:14 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez - Zoning Administrator, Thomas Wang, Rick Crawford, Sophie Hayward, Jonathan Purvis, Elizabeth Watty, Victoria Wise, Joshua Switzky,  Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-         
 2011.0206T
                                                                        (S. HAYWARD: (415) 558-6372)
 
@@ -292,8 +25,6 @@ AYES:             Fong, Wu, Antonini, Miguel, Moore, Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -359,14 +90,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2011.1119C
                                                                            (T. WANG: (415) 558-6335)
 
@@ -397,14 +128,14 @@ ABSENT:          Borden
 
 MOTION:           
 18582
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0393C
                                                                 
 (
@@ -437,14 +168,14 @@ ABSENT:          Borden
 
 MOTION:           
 18583
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.1084C 
                                                                
 (
@@ -477,14 +208,14 @@ ABSENT:          Borden
 
 MOTION:           
 18585
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-6.         
+6.
+<<Project End>>
+<<Project Start>>
 2012.0074C
                                                                        
 (S. Hayward:
@@ -529,8 +260,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -602,16 +331,12 @@ Director Rahaim:
 
 
 Just one announcement: I think you all received the announcement that we have released the draft of the Community Safety Element of the General Plan on Wednesday in conjunction with the Anniversary of the Great Earthquake.  I just want to remain you and the public what the purpose of the Community Safety Element is.  It devotes a new section on response and recovery.  We maximize our availability to save lives and address injuries after an event.  The changes on the update are not significant but they are important to support various another departments, and an initiative is underway to increase earthquake emergency preparedness.  There is number of them as you know.  We will be proposing to initiate the adoption of this element at Commission in May.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.         Director’s Announcements
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -647,8 +372,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 The Commission [HPC] approved sharing one Commission Secretary with the Planning Commission; and established a sub-committee (Richard Johns, Diane Matsuda, and Karl Hasz) to work with the Planning Commission (or sub-committee of the Planning Commission), the currant Commission Secretary, Department staff, and DHR to develop a job description that requires, among other things, dedicated balance to the needs of both commissions, and establish other priorities of the position.  The vote was unanimous.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -714,15 +437,15 @@ SPEAKERS: Milo F. Hanke, San Francisco Beautiful,
 
 
 F.         
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2011.1420C
                                                                           (E. Watty:  (415) 558-6620)
 
@@ -760,14 +483,14 @@ ABSENT:          Borden
 
 MOTION:           
 18586
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2012.0160T
                                                                    (S. HAYWARD: (415) 558-6372)
 
@@ -798,8 +521,6 @@ ABSENT:          Borden
 
 RESOLUTION:   
 18587
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -832,8 +553,6 @@ SPEAKERS:     Sue Hestor
 
 
 ACTION:           Information only - no action
-<<Project End>>
-<<Project Start>>
 
 
                                                                 

@@ -1,239 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 14, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ October 14, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-October 14, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 14, 2004
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 14, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT: Michael J. Antonini, Shelley Bradford Bell, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT: Christina Olague
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:50 p.m.
-
-
-STAFF IN ATTENDANCE:  Delvin Washington, Craig Nikitas; Carol Roos; Tina Tam; Matthew Snyder; May Woods; Dan Sider; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1.                (M. FOSTER (415) 558 - 6362)
 
 
@@ -260,8 +25,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Olague
 <<Project End>>
 <<Project Start>>
-
-
 2. 2004.0760DDDD                           (T. TAM: (415) 558-6325)
 
 
@@ -287,8 +50,6 @@ SPEAKER(S): None
 ACTION: On calendar in error. On October 7, item was continued to December 2, 2004.
 <<Project End>>
 <<Project Start>>
-
-
 3. 2004.0076C                                            (B. FU:  (415) 558.6613)
 
 
@@ -318,16 +79,12 @@ ABSENT: Olague
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
 4. Commission Comments/Questions
 
 
 None
 <<Project End>>
 <<Project Start>>
-
-
 5. Discussion and possible action to adopt the recommendations for the Planning Director Search Subcommittee.
 
 
@@ -337,24 +94,18 @@ Preliminary Recommendation:  Adoption
 Commissioner Bradford Bell:
 <<Project End>>
 <<Project Start>>
-
-
 1. Discussion and possible action to develop selection criteria, a job description, and a job announcement for the position of Planning Director.  
 
 
 The Commission determined that the job description would be edited slightly to say that the job would remain open until filled and would they begin reviewing applications December 1, 2004.
 <<Project End>>
 <<Project Start>>
-
-
 2. Discussion and possible action to develop a recruitment plan, including obtaining the services of a professional recruiter.
 
 
 Commissioner Bell will work with the Commission Secretary and City Attorney to see what the process would be and  whether there is someone already under contract with the city already.
 <<Project End>>
 <<Project Start>>
-
-
 3. Discussion and possible adoption of amending a regular meeting schedule for the subcommittee.
 
 
@@ -364,16 +115,12 @@ The Subcommittee calendar was revised and approved.  Subcommittee will meet on O
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 6. Director's Announcements
 
 
 None
 <<Project End>>
 <<Project Start>>
-
-
 7. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -400,8 +147,6 @@ th
 E. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 8. 1994.0670E             (C. ROOS: (415) 558-5981)
 
 
@@ -452,8 +197,6 @@ SPEAKER(S):
 ACTION: Hearing Held.  No Action Required.  Written comments will be received at the Planning Department until 5 pm, October 14, 2004, or the end of the Public Hearing, whichever is later.
 <<Project End>>
 <<Project Start>>
-
-
 9. 2004.0585D              (R. CRAWFORD: (415) 558-6358)
 
 
@@ -474,8 +217,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review request has been withdrawn.
 <<Project End>>
 <<Project Start>>
-
-
 10. 2004.0151D (M. WOODS: (415) 558-6315)
 
 
@@ -862,8 +603,6 @@ SPEAKER(S): See Speakers for Item 11a.
 ACTION: The Acting Zoning Administrator closed the public hearing.  He has taken the matter under advisement.
 <<Project End>>
 <<Project Start>>
-
-
 12. 2004.0757D                            (T. TAM: (415) 558-6325)
 
 
@@ -920,8 +659,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Olague
 <<Project End>>
 <<Project Start>>
-
-
 13. 2004.0606D                                                    (T. TAM: (415) 558-6325)
 
 
@@ -1050,8 +787,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Olague
 <<Project End>>
 <<Project Start>>
-
-
 15. 2004.0479D             (T. WANG: (415) 558-6335)
 
 
@@ -1135,8 +870,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Olague
 <<Project End>>
 <<Project Start>>
-
-
 16. 2004.0765D         (D. SIDER: (415) 558-6697)
 
 
@@ -1304,8 +1037,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee
 ABSENT: Olague
 <<Project End>>
 <<Project Start>>
-
-
 18. 2004.0182C                                              (B. FU: (415) 558-6613)
 
 
@@ -1358,8 +1089,6 @@ ABSENT: Bradford Bell and Olague
 MOTION: 16870
 <<Project End>>
 <<Project Start>>
-
-
 19. 2002.0954E        (A. AGUILAR: (415) 558-5973)
 
 
@@ -1380,8 +1109,6 @@ SPEAKER(S): None
 ACTION: Meeting Held.  No Commission Action Required.  Written comments will continue to be received at the Planning Department until 5:00 p.m. on October 19, 2004.
 <<Project End>>
 <<Project Start>>
-
-
 20. 2003.0262E                                (A. AGUILAR: (415) 558-5973)
 
 

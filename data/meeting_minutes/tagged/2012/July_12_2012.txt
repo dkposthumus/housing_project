@@ -1,271 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ July 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-July 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 2
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 12, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Wu, Antonini, Borden, Miguel, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:     Fong
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12:12 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Michael E. Smith, Joanna Linsangan,  Aaron Starr, Devyani Jain, Rick Crawford, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-                
-1.
-            
 2012.0206C                                                                         
 (
 M. Smith: (415) 558-6322)
@@ -318,14 +51,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            2.         
+            2.
+<<Project End>>
+<<Project Start>>
 2012.0525C
                                                                           
 (M. Smith: (415) 558-6322)
@@ -369,8 +102,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -453,8 +184,6 @@ Thank you Ron. You were president when I was appointed to this Commission and it
 
 
 D          DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -475,8 +204,6 @@ We have shared our 10 years together, it has been an incredible help to me and s
 
 
 Two other things I wanted to report to the Commission: The Budget Committee of the Board did approve our entire budget as was proposed by both you and the additions proposed by the Mayor. My understanding is that the Budget Committee met until 5:00 a.m. in the morning on the day they approved the budget. I am very pleased and gratified to say they did approve all the additional resources for the Department that the Mayor had proposed in the budget. We will be doing a number of hiring’s as a result of that and will be able to tackle some of the work that has been identified in the work plan. I just received notes regarding the AT&tT case. The litigation, the Superior Court upheld the City's environmental review for those AT&T light boxes. I do not have all decisions of the court case. I have not had a chance to read it yet, but my understanding is the court did affirm the cities and department EIR of that project. That happened as of yesterday or early this morning. We can get you the copies of that court decision in your packets. With that, that concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -592,9 +319,7 @@ SPEAKERS:     Steven Worsley
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -633,14 +358,14 @@ Borden
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-7.         
+7.
+<<Project End>>
+<<Project Start>>
 2012.0665T
                                                                         
    (A. Starr: (415) 558-6362)
@@ -709,14 +434,14 @@ SPEAKERS:     Howard Wong, Gordon Chiu, Sue Lee, Grace Li
 H.
             
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-8.         
+8.
+<<Project End>>
+<<Project Start>>
 2008.0762EZMC 
                                                                        
 (
@@ -770,7 +495,9 @@ REGULAR CALENDAR 
                                                                       
 
 
-9a.        
+9a.
+<<Project End>>
+<<Project Start>>
 2008.0762EZMC 
                                                          
 (
@@ -812,7 +539,9 @@ MOTION:          
  
 
 
-9b.       
+9b.
+<<Project End>>
+<<Project Start>>
 2008.0762EZMC
                                                          
 (
@@ -853,7 +582,9 @@ RESOLUTION:  
  
 
 
-9c.        
+9c.
+<<Project End>>
+<<Project Start>>
 2008.0762EZMC   
                                                          (
 R. Crawford: (415) 558-6358)
@@ -893,7 +624,9 @@ RESOLUTION:  
  
 
 
-9d.       
+9d.
+<<Project End>>
+<<Project Start>>
 2008.0762EZMC
                                                           
 (

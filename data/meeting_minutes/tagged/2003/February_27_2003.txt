@@ -1,262 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 27, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ February 27, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-February 27, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 27, 2003
- 
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 
-    400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-    Place
-
-
-Thursday, February 27, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Shelley Bradford Bell, Michael 
-    J. Antonini; Rev. Edgar E. Boyd,
-
-    Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD 
-    BELL AT 1:35 p.m.
-
-
-STAFF IN ATTENDANCE:
- Gerald Green - Director; Larry 
-    Badiner -Zoning Administrator; Judy Boyajian, Deputy City Attorney; Dan Sider; 
-    Jamilla Vollmann; Mary Woods; Matt Snyder; Dan DiBartolo; Michael Li; Michael 
-    Smith; Tom Wang; Dan Sirois, Tammy Chan, Nora Priego - Transcription Secretary; 
-    Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The Commission will consider a request for continuance 
-      to a later date. The Commission may choose to continue the item to the date 
-      proposed below, to continue the item to another date, or to hear the item 
-      on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
 1. 2002.0430C (J. IONIN: (415) 558-6309)
 
 
@@ -307,8 +49,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
         S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2002.0657C (J. IONIN: (415) 558-6309)
 
 
@@ -352,10 +92,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
         S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 3. 2002.1064D (M. SMITH: (415) 558-6322)
 
 
@@ -389,10 +125,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
         S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 4. 2002.1109D (M. SMITH: (415) 558-6322)
 
 
@@ -427,8 +159,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
         S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2002.1046C (K. AMDUR: (415) 558-6351)
 
 
@@ -472,10 +202,6 @@ WITHDRAWN
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-
-
 6. Consideration of Adoption - draft minutes of February 
       6, 2003.
 
@@ -494,8 +220,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes
 EXCUSED: Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 7. Commission Comments/Questions
 
 
@@ -554,10 +278,6 @@ Larry Badiner, Zoning Administrator commented that
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
 8. Director's Announcements
 
 
@@ -596,10 +316,6 @@ does close at 5:00 p.m.
         for hearing by the Board of Supervisors.
 <<Project End>>
 <<Project Start>>
-
-
-
-
 9. Review of Past Week's Events at the Board of Supervisors 
       and Board of Appeals
 
@@ -1043,10 +759,6 @@ E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC
     HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
-
-
 10. 2002.0636DD (D. SIDER: (415) 558-6697)
 
 
@@ -1102,8 +814,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
         S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 11. 2002.0953C (J. VOLLMANN: (415) 558-6612)
 
 
@@ -1162,8 +872,6 @@ NAYES: Antonini
 MOTION: 16533
 <<Project End>>
 <<Project Start>>
-
-
 12. 2000.0413DD & 2002.0874DD (M. WOODS: (415) 
         558-6315)
 
@@ -1277,10 +985,6 @@ NAYES: Hughes and S. Lee
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
 13. 2002.0575C (M. SNYDER: (415) 575-6891)
 
 
@@ -1580,8 +1284,6 @@ ACTION: Zoning Administrator Closed the Public Hearing
         the downtown open space fund.
 <<Project End>>
 <<Project Start>>
-
-
 15. 2002.1084C (M. LI: (415) 558-6396)
 
 
@@ -1633,10 +1335,6 @@ Approximately
       matters.
 <<Project End>>
 <<Project Start>>
-
-
-
-
 16. 2002.0717DDDDD (M. SMITH: (415) 558-6322)
 
 
@@ -1848,10 +1546,6 @@ NAYES: S. Lee
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
-
-
 17. 2003.0139D (T. WANG: (415) 558-6335)
 
 
@@ -1911,8 +1605,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes,
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 18. 2002.1192D (D. SIROIS: (415) 558-6313)
 
 
@@ -1994,8 +1686,6 @@ ABSENT: W. Lee
 6:30 p.m. (THE FOLLOWING ITEM STARTED AT APPROXIMATELY 7:10 P.M.)
 <<Project End>>
 <<Project Start>>
-
-
 19. 2002.1258E (T. CHAN: (415) 558-5982)
 
 
@@ -2059,90 +1749,56 @@ Supervisor Tony Hall
 - Without getting into further detail, he would like to alert the Commission to the other points he has raised in his letter:
 <<Project End>>
 <<Project Start>>
-
-
 1. The DEIR should include a complete discussion of why there are no geology/topography effects resulting from the project.
 <<Project End>>
 <<Project Start>>
-
-
 2. The DEIR should identify the eleven so-called "soft sites" in the area where other development may occur.
 <<Project End>>
 <<Project Start>>
-
-
 3. The DEIR should explain why the nearby Stonestown Apartments are lower in density and height.
 <<Project End>>
 <<Project Start>>
-
-
 4. There are four schools along Eucalyptus - not three schools as listed in the DEIR.
 <<Project End>>
 <<Project Start>>
-
-
 5. The cumulative impact of the traffic of the four schools should be looked at as a whole, not in groups.
 <<Project End>>
 <<Project Start>>
-
-
 6. There is no discussion of future expansion and growth of these nearby schools and that impact in the area.
 <<Project End>>
 <<Project Start>>
-
-
 7. There should generally be more discussion about the impact of the project on the schools, rather than the other way around, which is how I read the DEIR.
 <<Project End>>
 <<Project Start>>
-
-
 8. The pedestrian patterns of Mercy High School's students should be evaluated.
 <<Project End>>
 <<Project Start>>
-
-
 9. St. Stephen's peak passenger loading area is not between 8:30 and 9:00 as stated in the DEIR - school starts at 8:00 a.m.
 <<Project End>>
 <<Project Start>>
-
-
 10. The morning p.m. peak period on Ocean Avenue between 19
 th
  Avenue and Middlefield should be discussed.
 <<Project End>>
 <<Project Start>>
-
-
 11. What are the pedestrian volumes along Eucalyptus, and will there be an impact?
 <<Project End>>
 <<Project Start>>
-
-
 12. On what Sunday were the 113 church related parked cars observed in Lot D - on a three day weekend or a Holy Day of Obligation or on an average Sunday?
 <<Project End>>
 <<Project Start>>
-
-
 13. What kind of squeeze of parking will result in the Merced Manor neighborhood from the YMCA and church goers who currently park in the Stonestown property?
 <<Project End>>
 <<Project Start>>
-
-
 14. Is 263 vehicles for 202 units a realistic estimate of the vehicle demand in the proposed building?
 <<Project End>>
 <<Project Start>>
-
-
 15. Will people visiting the Senior facility and/or proposed units be more likely to park in Merced Manor than the Stonestown property to avoid internal Stonestown traffic?
 <<Project End>>
 <<Project Start>>
-
-
 16. What route will construction vehicles and future loading vehicles take to reach the site?  Will they be going through the neighborhood?
 <<Project End>>
 <<Project Start>>
-
-
 17. Finally, I think there needs to be further explanation of the fact that the proposed grocery store is the real cause of the resulting traffic increase as opposed to the proposed housing.
 
 

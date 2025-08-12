@@ -1,266 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 1, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ November 1, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-November 1, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 1, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                                                                                                
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:     Borden, Hillis
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:05 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Anmarie Rodgers, Corey Teague, Kirsten Dischinger,  and Jonas P. Ionin – Acting Commission Secretary.
-
-
-                        
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                     
 2011.0430E                                                                              (D. LEWIS: (415) 575-9095)
 
 
@@ -307,7 +45,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
  
 
 
-2a.        
+2a.
+<<Project End>>
+<<Project Start>>
 2012.1046BC                                                                     
  (C. TEAGUE: (415) 575-9081)
 
@@ -350,7 +90,9 @@ MOTION:           18731
  
 
 
-2b.       
+2b.
+<<Project End>>
+<<Project Start>>
 2012.1046BC                                                                       
  (C. TEAGUE: (415) 575-9081)
 
@@ -402,8 +144,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -439,8 +179,6 @@ AYES:              Fong, Wu, Antonini, Moore, Sugaya
 
             
 ABSENT:          Borden, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -495,8 +233,6 @@ As a follow-up to what Commissioner Antonini was saying, the City looked extreme
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -512,8 +248,6 @@ Director Rahaim:
 
 
 I ask just wanted to thank those of you who attended the Board hearing on Tuesday in honor of Linda Avery-Herbert. It was a resolution that was proposed by Supervisor Olague to honor Linda for her 32 years of service and named Tuesday as Linda Avery-Herbert Day in the City. Several staff attended as well and I think it was an appropriate honor for Linda for all of her service to the City. So, thank you all for attending
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -677,8 +411,6 @@ Christy Lefster, Dino Adelfio, Linda Chapman
 
 F.         
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -701,8 +433,6 @@ SPEAKERS:     Jim Meko, Peter Cohen, Chris Schaffer, Toby Levy, Tom Radulovi
 
 
 ACTION:            Informational. No action required
-<<Project End>>
-<<Project Start>>
 
 
                                                             

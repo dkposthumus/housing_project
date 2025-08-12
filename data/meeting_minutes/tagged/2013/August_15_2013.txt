@@ -1,292 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 15, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ August 15, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-August 15, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, August 15, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 15 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Kevin Guy, Diego Sanchez, Michael E. Smith, Debra Dwyer, Rich Sucre, Kanishka Burns, Erika Jackson, and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.0153EC
                                                                                        
          
@@ -327,15 +39,14 @@ Fong, Wu, Antonini, Moore, Sugaya
 ABSENT:
                 
 Borden, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2009.1082C
                                                                                           
       
@@ -395,15 +106,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0211C
                                                                                           
                 
@@ -449,15 +159,14 @@ Borden, Hillis
 MOTION:
                
 18948
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0585B
                                                           
                                     
@@ -507,15 +216,14 @@ Borden, Hillis
 MOTION:
                
 18950
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2012.1528C
                                                                           
                       
@@ -573,8 +281,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -622,8 +328,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -662,8 +366,6 @@ None
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -688,8 +390,6 @@ I also have nothing to report today, except to say have a pleasant break.
 
                                                                                                                                                 
 (K. GUY: (415) 558-6163)
-<<Project End>>
-<<Project Start>>
 
 
 9.
@@ -710,15 +410,14 @@ SPEAKERS:
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2012.0206C
                                                                           
       
@@ -763,8 +462,6 @@ Alex Walker – Sign needs work, although code compliant
 ACTION:
                                 
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -889,8 +586,6 @@ Linda Chapman – 1601 Larkin Street
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -898,7 +593,8 @@ REGULAR CALENDAR
 
 
 12.
-        
+<<Project End>>
+<<Project Start>>
 2011.0558E
                                                                                    
                   
@@ -1010,15 +706,14 @@ Peter Cohen – Transportation effectiveness
 ACTION:
                                 
 Accepted public comments on the DEIR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0586C
                                           
                                 
@@ -1134,7 +829,8 @@ MOTION:
 
 
 14a.
-      
+<<Project End>>
+<<Project Start>>
 2012.0906BX
                                                                        
                             
@@ -1186,43 +882,31 @@ Sue Hestor – Eastern SOMA plan amendments
 ACTION:
                                 
 Approved with Conditions as amended to include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
     
 Project Sponsor to extend the ground floor retail to Stanford St.;
-<<Project End>>
-<<Project Start>>
 
 
 2.
     
 Divide the retail space into smaller units;
-<<Project End>>
-<<Project Start>>
 
 
 3.
     
 Make best effort with 345 Brannan to consolidate vehicular access;
-<<Project End>>
-<<Project Start>>
 
 
 4.
     
 Look into providing a parklet;
-<<Project End>>
-<<Project Start>>
 
 
 5.
     
 Discourage formula retail; and to
-<<Project End>>
-<<Project Start>>
 
 
 6.
@@ -1249,7 +933,8 @@ MOTION:
 
 
 14b.
-      
+<<Project End>>
+<<Project Start>>
 2012.0906BX
                                                                                                       
 (R. SUCRE: 415/575-9108)
@@ -1320,7 +1005,8 @@ MOTION:
 
 
 15a.
-      
+<<Project End>>
+<<Project Start>>
 2013.0180CX
  
                                                                                       
@@ -1361,15 +1047,11 @@ SPEAKERS:
 ACTION:
                                 
 Approved with Conditions as amended:
-<<Project End>>
-<<Project Start>>
 
 
 1.
                    
 Limiting the extension to a 2-Year period; and
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1394,7 +1076,8 @@ MOTION:
 
 15b
 .
-      
+<<Project End>>
+<<Project Start>>
 2013.0180CX
                                                                                        
                 
@@ -1431,8 +1114,6 @@ SPEAKERS:
 ACTION:
                                 
 Approved with Conditions as amended:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1456,7 +1137,8 @@ MOTION:
 
 
 16a.
-      
+<<Project End>>
+<<Project Start>>
 2013.0276BX
                                                                                        
                 
@@ -1532,7 +1214,8 @@ MOTION:
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0276BX
                                                                                        
                 
@@ -1604,15 +1287,14 @@ Moore
 MOTION:
                
 18957
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-        
+<<Project End>>
+<<Project Start>>
 2013.0707DD
                                                                                       
            
@@ -1698,15 +1380,14 @@ Fong
 DRA-No:
                
 0332
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-        
+<<Project End>>
+<<Project Start>>
 2013.0757D
                                                          
        

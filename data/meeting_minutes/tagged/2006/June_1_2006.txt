@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 1, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ June 1, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-June 1, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 1, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-&
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 1, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- President Sue Lee; Vice President Dwight Alexander; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; William Lee; and Christina Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Amit Ghosh; Jonas Ionin; Alicia John-Baptiste; Elaine Forbes; Tina Tam; Craig Nikitas; Mary Woods; Kelly Amdur; Rick Crawford; Delvin Washington; Lois Scott; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0506C 
+2006.0506C 
  
  
  
@@ -317,16 +43,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2005.0816I
+<<Project End>>
+<<Project Start>>
+2005.0816I
 C
  
  
@@ -371,16 +96,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2005.0552E
+<<Project End>>
+<<Project Start>>
+2005.0552E
  
  
  
@@ -435,8 +159,9 @@ ABSENT:
 
 
 4a.
- 
- 2004.0552X
+<<Project End>>
+<<Project Start>>
+2004.0552X
  
  
  
@@ -494,8 +219,9 @@ ABSENT:
 
 
 4b.
- 
- 2004.0552V                                                                  
+<<Project End>>
+<<Project Start>>
+2004.0552V                                                                  
  
  (M. SNYDER (415) 558-6891)
 
@@ -548,8 +274,9 @@ ABSENT:
 
 
 5a.
- 
- 2006.0358X                                                                  
+<<Project End>>
+<<Project Start>>
+2006.0358X                                                                  
  
     (M. SNYDER (415) 558-6891)
 
@@ -597,9 +324,10 @@ ABSENT:
  
 
 
-5b.     
- 
- 2006.0358V                                                                 
+5b.
+<<Project End>>
+<<Project Start>>
+2006.0358V                                                                 
  
  (M. SNYDER (415) 558-6891)
 
@@ -643,16 +371,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2006.0092E
+<<Project End>>
+<<Project Start>>
+2006.0092E
 T
  
  
@@ -701,16 +428,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2006.0409D
+<<Project End>>
+<<Project Start>>
+2006.0409D
  
  
  
@@ -769,8 +495,9 @@ ABSENT:
 
 
 8a.
- 
- 2005.0713D
+<<Project End>>
+<<Project Start>>
+2005.0713D
  
  
  
@@ -830,8 +557,9 @@ ABSENT:
 
 
 8b.
- 
- 2005.1070D
+<<Project End>>
+<<Project Start>>
+2005.1070D
  
  
  
@@ -903,8 +631,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1360,8 +1086,6 @@ Director Macris
 I'm sorry to hear that.
  
  We will make sure you get it before we leave today.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1382,8 +1106,6 @@ I'm sorry to hear that.
 Both the Board of Supervisors and the Board of Appeals were on vacation last week.
  
  There were no actions.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1809,8 +1531,6 @@ Are people aware of it?
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1887,8 +1607,6 @@ ABSENT:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1943,16 +1661,15 @@ ABSENT:
 MOTION:
  
  17251
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2005.1135L
+<<Project End>>
+<<Project Start>>
+2005.1135L
  
  
  
@@ -1998,8 +1715,9 @@ MOTION:
 
 
 16a.
- 
- 2003.0159
+<<Project End>>
+<<Project Start>>
+2003.0159
 C
 V
  
@@ -2091,8 +1809,9 @@ MOTION:
 
 
 16b.
- 
- 2003.0159C
+<<Project End>>
+<<Project Start>>
+2003.0159C
 V
  
  
@@ -2133,16 +1852,15 @@ ACTION:
 
 
 Item 17 was taken out of order and followed item 14.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2004.0973C
+<<Project End>>
+<<Project Start>>
+2004.0973C
  
  
  
@@ -2290,8 +2008,9 @@ MOTION:
 
 
 18a.
- 
- 2004.0664
+<<Project End>>
+<<Project Start>>
+2004.0664
 EX
 CV
  
@@ -2426,8 +2145,9 @@ MOTION:
 
 
 18b.
- 
- 2004.0664EX
+<<Project End>>
+<<Project Start>>
+2004.0664EX
 C
 V
  
@@ -2481,8 +2201,9 @@ MOTION:
 
 
 18c.
- 
- 2004.0664EXC
+<<Project End>>
+<<Project Start>>
+2004.0664EXC
 V
  
  
@@ -2513,8 +2234,6 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2523,8 +2242,8 @@ ACTION:
  
  
 19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0406D
  
  
@@ -2721,16 +2440,15 @@ AYES:
 NAYES:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2005.0337D 
+<<Project End>>
+<<Project Start>>
+2005.0337D 
  
  
  
@@ -2925,16 +2643,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2006.0093
+<<Project End>>
+<<Project Start>>
+2006.0093
 T
  
  
@@ -3327,8 +3044,6 @@ AYES:
 ABSENT:
  
  W. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  

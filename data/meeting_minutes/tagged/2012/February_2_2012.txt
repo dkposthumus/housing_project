@@ -1,376 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ February 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-February 2, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-        Commission Chambers - Room 400
-
-
-
-
-
-        City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday,
-        February 2, 2012
-
-
-
-
-
-        12:00 PM
-
-
-
-
-
-        Regular Meeting
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS
-        PRESENT:  Miguel, Antonini, Borden, Fong, Moore and Sugaya
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS
-        CALLED TO ORDER BY PRESIDENT MIGUEL AT 12:08 P.M.
-
-
-
-
-
-         
-
-
-
-
-
-        STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez- Zoning
-        Administrator, Tom Disanto, Keith Demartini, Alicia John-Baptiste, Sophie
-        Hayward, K. Haddadan, Glenn Cabreros, Sara Vellve, Kevin Guy, Sharon Young, and
-        Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
- 
-
-
-A.
-           
-        
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-         
-
-
-The Commission
-        will consider a request for continuance to a later date.  The Commission may
-        choose to continue the item to the date proposed below, to continue the item to
-        another date, or to hear the item on this calendar.
-
-
-
-
-            
-
-
-
-
-            
-None
-
-
-
-
- 
-
-
-
-
-B.        
-        CONSENT CALENDAR 
-
-
- 
-
-
-
-
-
-        All matters listed hereunder constitute a Consent Calendar, are considered to be
-        routine by the Planning Commission, and will be acted upon by a single roll call
-        vote of the Commission.  There will be no separate discussion of these items
-        unless a member of the Commission, the public, or staff so requests, in which
-        event the matter shall be removed from the Consent Calendar and considered as a
-        separate item at this or a future hearing
-
-
-
-
- 
-
-
-
-
-Item 1 was
-        pulled off Consent and followed item 12
-<<Project End>>
-<<Project Start>>
-
-
-
-
-1.        
-        
-
-
-
-        2010.1038C
+2010.1038C
                                           
                                 (
 R. Crawford:
@@ -432,8 +61,6 @@ Preliminary
 
 
 18533
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -445,12 +72,10 @@ Preliminary
 
 
 
-        2.        
-        
-
-
-
-        2011.1233C
+        2.
+<<Project End>>
+<<Project Start>>
+2011.1233C
                                                                   
                     
 
@@ -513,8 +138,6 @@ Preliminary
 
 
 18528
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -522,12 +145,10 @@ Preliminary
  
 
 
-3.        
-        
-
-
-
-        2011.0679Q
+3.
+<<Project End>>
+<<Project Start>>
+2011.0679Q
                                                                 
         (A. HOLLISTER:  (415) 575-9078)
 
@@ -588,8 +209,6 @@ reliminary
 
 
 18529
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -597,12 +216,10 @@ reliminary
  
 
 
-4.        
-        
-
-
-
-        2011.0680Q
+4.
+<<Project End>>
+<<Project Start>>
+2011.0680Q
                                                                 
         (A. HOLLISTER:  (415) 575-9078)
 
@@ -691,8 +308,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
         matters unless that commissioner is excused by a vote of the Commission. 
         Commissioners may not be automatically excluded from a vote on the minutes
         because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -759,8 +374,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 
         AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -835,8 +448,6 @@ Commissioner Antonini
 Earlier this week I was
         part of a presentation with a couple of other commissioners from the project
         sponsors of 201 Folsom Street, which was approved in an approval process in
-<<Project End>>
-<<Project Start>>
         2003. This is the completion of the project, which I would be happy to report
         on. It seems to be moving forward.  We have the design presentation by the
         Commission that was required before they went forward. But what was interesting
@@ -905,8 +516,6 @@ We talked about having a
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -974,8 +583,6 @@ Good afternoon,
         information, and perhaps a  supplementary budget request at that time, but we
         just do not know yet. We are hoping we will know something in the next few
         months.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1312,9 +919,7 @@ At this time,
 F.
             
 
-        REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+        REGULAR CALENDAR  
 
 
 
@@ -1373,9 +978,7 @@ informational presentation
 
 
 
-FOLLOWED ITEM # 1_
-<<Project End>>
-<<Project Start>>
+FOLLOWED ITEM # 1_ 
 
 
 
@@ -1414,8 +1017,6 @@ This project
 
 
         ACTION:           Information Only – No action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1425,12 +1026,10 @@ This project
 
 
 
-11.       
-        
-
-
-
-        2011.0167T 
+11.
+<<Project End>>
+<<Project Start>>
+2011.0167T 
                                           
                                  
 (S. Hayward:
@@ -1553,20 +1152,16 @@ Public hearing remains open
 
 
 
-        FOLLOWED ITEM #11
+        FOLLOWED ITEM #11  
+
+
+
+
+
+        12.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-        12.       
-        
-
-
-
-        2011.1382T
+2011.1382T
                                                      
                   (K. Haddadan: (415) 575-9068)
 
@@ -1658,12 +1253,9 @@ FOLLOWED ITEM #10
 
 
 13a.
-     
-        
-
-
-
-        2008.1162K 
+<<Project End>>
+<<Project Start>>
+2008.1162K 
                                          
                                (G. CABREROS: (415) 558-6169)
 
@@ -1743,12 +1335,10 @@ Preliminary
 
 
 
-13b.     
-        
-
-
-
-        2011.0176C
+13b.
+<<Project End>>
+<<Project Start>>
+2011.0176C
                                                                   
               (S. VELLVE: (415) 558-6263)
 
@@ -1825,8 +1415,6 @@ Preliminary
 
 
 18535
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1838,12 +1426,10 @@ Preliminary
 
 
 
-        14.       
-        
-
-
-
-        2009.0291X
+        14.
+<<Project End>>
+<<Project Start>>
+2009.0291X
                                                                   
                    
 
@@ -1928,12 +1514,10 @@ Request for a
 
 
 
-15a.     
-        
-
-
-
-        2011.0756C
+15a.
+<<Project End>>
+<<Project Start>>
+2011.0756C
                                                                   
                     (K. GUY: (415) 558-6163)
 
@@ -2011,12 +1595,10 @@ Preliminary
 
 
 
-15b.     
-        
-
-
-
-        2011.0756V
+15b.
+<<Project End>>
+<<Project Start>>
+2011.0756V
                                                                   
                     (K. GUY: (415) 558-6163)
 
@@ -2053,9 +1635,7 @@ Request for a Variance
 
 
         ACTION:           Acting Zoning Administrator, Dan Sider, closed the public
-        hearing and stated his inclination to grant the variance
-<<Project End>>
-<<Project Start>>
+        hearing and stated his inclination to grant the variance 
 
 
 
@@ -2065,12 +1645,10 @@ Request for a Variance
 
 
 
-16.       
-        
-
-
-
-        2011.0949D
+16.
+<<Project End>>
+<<Project Start>>
+2011.0949D
                     
                                                                (S. YOUNG: (415)
         558-6346)
@@ -2169,8 +1747,6 @@ he public hearing remains open
 
 
 0256
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2180,12 +1756,10 @@ he public hearing remains open
 
 
 
-17.       
-        
-
-
-
-        2011.0091D
+17.
+<<Project End>>
+<<Project Start>>
+2011.0091D
                                                       
                   (G. CABREROS: (415) 558-6169)
 

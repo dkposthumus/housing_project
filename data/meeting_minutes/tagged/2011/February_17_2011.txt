@@ -1,327 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 17, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ February 17, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-February 17, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Notice of Meeting
-
-
-
-
-
-& 
-
-
-
-
-Calendar
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, 
-February 17, 2011
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-
-COMMISSIONERS PRESENT:  Olague, Miguel, Antonini, Borden, Fong, Moore, Sugaya
-
-
-
-
-
- 
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT: 1:40 P.M.
-
-
-
-
-
- 
-
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â Zoning 
-Administrator, Diego Sanchez, Mary Woods, Kevin Guy, Sharon Young, Rick 
-Crawford, Aaron Hollister, Glenn Cabreros, David Alumbaugh, Linda D. Avery â 
-Commission Secretary
-
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2010.0628C                                                                  
 
 (
@@ -417,8 +94,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -428,10 +103,9 @@ separate item at this or a future hearing
 
 
 
-2.        
-
-
-
+2.
+<<Project End>>
+<<Project Start>>
 2010.1035C 
 
                                                                       
@@ -512,8 +186,6 @@ C.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -864,8 +536,6 @@ informational items and asking you to initiate the action on the general plan,
 which is now scheduled for March 24. I think in the interest of time, I will 
 leave my report at that. Unless you have questions, I think Anmarie had a short 
 report on the Board of Appeals.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -877,8 +547,6 @@ report on the Board of Appeals.
 
 4.         
 Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1191,8 +859,6 @@ G.
            
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1201,10 +867,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 
-6.        
-
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2010.0003CV 
 
 
@@ -1312,23 +977,9 @@ MOTION:           18275
  
 
 
-H.      REGULAR CALENDAR 
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
+H.      REGULAR CALENDAR
+<<Project End>>
+<<Project Start>>
 2006.0422
 M
 TUZE                                              
@@ -1417,8 +1068,6 @@ Moore, Sugaya
 
 
 MOTION:           18276
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1430,10 +1079,9 @@ MOTION:           18276
 
 
 
-            7.        
-
-
-
+            7.
+<<Project End>>
+<<Project Start>>
 2010.0571T
                                
                                         
@@ -1476,8 +1124,6 @@ Recommendation: Approval with Modifications
 (C
 ontinued from 
 Regular Meeting of February 10, 2011)
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1488,10 +1134,9 @@ Regular Meeting of February 10, 2011)
 
 
 
-8.        
-
-
-
+8.
+<<Project End>>
+<<Project Start>>
 2010.0831C   
 
                                                                      (D. 
@@ -1560,8 +1205,6 @@ NAYES:            Moore,  Miguel
 
 MOTION:           
 18277
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1571,10 +1214,9 @@ MOTION:          
 
 
 
-9.        
-
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2010.0894C
                                                        
                    
@@ -1645,8 +1287,6 @@ Moore, Sugaya
 
 MOTION:           
 18278
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1656,10 +1296,9 @@ MOTION:          
 
 
 
-10.       
-
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2011.0032D
         
                                                             (R. CRAWFORD: (415) 
@@ -1763,8 +1402,6 @@ Antonini, Borden, Fong, Moore, Sugaya
 
 
 DRA#:              0196
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1774,10 +1411,9 @@ DRA#:              0196
 
 
 
-11.       
-
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0556D
                                           
 
@@ -1876,8 +1512,6 @@ Moore, Sugaya
 
 MOTION:           
 18278
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1888,10 +1522,9 @@ MOTION:          
 
 
 
-12.       
-
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2010.0557D
                                            
                       
@@ -1992,8 +1625,6 @@ NAYES:            Moore, Miguel,
 
 DRA#:  
             0197
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2003,10 +1634,9 @@ DRA#: 
 
 
 
-13.       
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.0558D
                                            
                         
@@ -2062,8 +1692,6 @@ Discretionary Review
 
 
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2075,9 +1703,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
 
 
-            14.       
-
-
+            14.
+<<Project End>>
+<<Project Start>>
 2009.1029C 
 
 
@@ -2171,13 +1799,9 @@ MOTION:           18279
 
 
 
-15a.      
-
-
-
-
-
-
+15a.
+<<Project End>>
+<<Project Start>>
 2010.0001D
                                            
                        
@@ -2273,13 +1897,9 @@ DRA#   :           0198
 
 
 
-15b.      
-
-
-
-
-
-
+15b.
+<<Project End>>
+<<Project Start>>
 2010.1152DDDD
                                                    
        (G. CABREROS: (415) 558-6169)
@@ -2380,8 +2000,6 @@ PM
 
 Although the following case might be heard after 6:00 p.m., it will not be heard 
             prior to 6:00 p.m.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2394,10 +2012,9 @@ Although the following case might be heard after 6:00 p.m., it will not be heard
 
 
 
-16.       
-
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2007.0903
                                                          
         

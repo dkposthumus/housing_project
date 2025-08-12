@@ -1,225 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ October 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-October 25, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 25, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-SAN FRANCISCO
-PLANNING COMMISSION
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, October 25, 2001
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Joe, Lim, Salinas, Theoharis
-ABSENT:          Fay
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:35 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green, Director of Planning; Larry Badiner, Zoning Administrator; Craig Nikitas; Paul Lord; Mary Woods; Ben Fu; Sara Vellve; Dan Sirois; Dan Sider; Michael Smith; Dario Jones; Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 1.          2001.0276C                                                                                               (LI: 558-6396)
 439-441 STEVENSON STREET - south side between 6th and Mint Streets; Lot 035 in Assessor’s Block 3704 - Request for Conditional Use Authorization to establish an office use at the ground floor which will not provide on-site services to the general public within a C-3-G (Downtown General Commercial) District and a 90-X / 160-F Height and Bulk District.  The proposal is to convert a blueprinting and publishing use to an office use.  There will be no physical expansion of the existing building.
 Preliminary Recommendation: Approval with conditions
@@ -298,7 +77,7 @@ AYES:          Baltimore, Joe, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla and Fay
 <<Project End>>
 <<Project Start>>
-          5.          2001.0015Z          (WOODS:  558-6315)
+5.          2001.0015Z          (WOODS:  558-6315)
                     1052 OAK STREET - north side between Divisadero and Scott Streets, Lot 5 in Assessor's Block 1216 - Request for reclassification of a portion (approximately 3,136 square feet) of Lot 5 (a part of the Touchless Car Wash site) from NC-2 (Small-Scale Neighborhood Commercial) District to RH-3 (Residential, House, Three-Family) District.  Currently, the entire lot area, approximately 4,199 square feet, of Lot 5 is zoned NC-2.  This reclassification is to allow the construction of three new residential units in accordance with Planning Commission Motion No. 16036 relating to a conditional use authorization approved on November 16, 2000 to expand the car wash.
                     Preliminary Recommendation: Adoption of the Draft Resolution for Reclassification.
           (Continued from Regular Meeting of September 20, 2001)
@@ -310,7 +89,7 @@ ABSENT:          Chinchilla and Fay
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          6.          Commission Matters
+6.          Commission Matters
 Commissioner Theoharis:  Commissioners' Fay, Joe and Lim will be absent next week.
 Commissioner Baltimore:  She would like to see a presentation from the youth development corporation scheduled at a future hearing--if possible for the hearing of November 8, 2001.
 Commissioner Salinas:  He agrees with Commissioner Baltimore request and would like the presentation scheduled as soon as possible.
@@ -324,7 +103,7 @@ On November 1, 2001, he will calendar and present the Department's
 work program and explain where they are with the budget decisions that have been made.
 <<Project End>>
 <<Project Start>>
-          8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS:
 Re:  Housing, Transportation and Land Use Committee
 - He appeared before the Housing, Transportation and Land Use Committee.  He was asked by Supervisor Maxwell to participate in this hearing regarding the Interim Controls.  Staff has completed an environmental review on this issue.  Supervisor Maxwell and Supervisor Daly continued the item at the call of the chair.  Basically, it was decided that the Planning Department take the lead in these Interim Controls.  A lot was accomplished at this meeting.
@@ -363,7 +142,7 @@ ABSENT:          Fay
 RESOLUTION:          16265
 <<Project End>>
 <<Project Start>>
-          11.          2001.0327C          (WOODS: 558-6315)
+11.          2001.0327C          (WOODS: 558-6315)
                     2038 CLEMENT STREET - north side between 21st and 22nd Avenues, Lot 32 in Assessor's Block 1412 - Request for Conditional Use authorization under Section 717.39 of the Planning Code to demolish an existing two-story building containing retail on the ground floor and two dwelling units on the second floor and construct a new, four-story building containing three parking spaces on the ground floor and three dwelling units above the ground floor in the Outer Clement Street Neighborhood Commercial District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Approval with conditions
                     (Continued from Regular Meeting of October 4, 2001)
@@ -380,7 +159,7 @@ ABSENT:          Fay
 MOTION:          16266
 <<Project End>>
 <<Project Start>>
-          12.          2001.0336C          (FU: 558-6613)
+12.          2001.0336C          (FU: 558-6613)
                     3579 FOLSOM/495 CHAPMAN - at the intersection of Folsom and Chapman Streets.  Lot 42 in Assessor's Block 5627 - Request for authorization of a Conditional Use for the creation of one lot with a width less than 25 feet and an area of less than 1,750 square feet in an RH-1 (House, One-Family) District and a 40-X Height and Bulk District, per Section 121 of the Planning Code, and within the Bernal Heights Special Use District.  
                     Preliminary Recommendation: Disapproval
 (Continued from Regular Meeting of September 6, 2001)

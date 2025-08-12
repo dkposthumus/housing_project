@@ -1,361 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 22, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ February 22, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-February 22, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 22, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-         
-        
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-         
-        
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 22, 2001
-
-
-1:30 PM
-
-
-
-
-
-         
-        
-
-
-
-
-Regular Meeting
-
-
-
-
-
-         
-        
-
-
-
-
-
-
-
-         
-        
-
-
-
-
-
-
-
-         
-        
-
-
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
-
-
-None
-
-
-
-
-
-         
-        
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS 
-        AT 1:40 p.m.
-
-
-
-
-
-         
-        
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. 
-        Green, Director of Planning; Larry Badiner, Zoning Administrator; Isolde 
-        Wilson; Costolino Hogan; David Alumbaugh; Paul Lord; Darwin Helmuth; Paul 
-        Maltzer; Michael Kometani; Adam Light; Kelley LeBlanc; Allison Borden; 
-        Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-
-
-
-
-
-         
-        
-
-
-
-
-A.
- 
-ITEMS 
-        PROPOSED FOR CONTINUANCE
-
-
-
-
-
-         
-        
-
-
-
-
- 
-1a.
- 
 2000.171C
 X
 
@@ -436,7 +79,8 @@ Fay
 
  
 1b.
- 
+<<Project End>>
+<<Project Start>>
 2000.171
 C
 X 
@@ -512,8 +156,8 @@ Fay
 
  
 2a.
-
-
+<<Project End>>
+<<Project Start>>
 2000.264
 C
 D 
@@ -528,9 +172,7 @@ MARTIN:
  
 1087 MISSISSIPPI STREET
  
-        - east side between 23rd and 25th Streets, Lot 049 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+        - east side between 23rd and 25th Streets, Lot 049 in Assessor’s Block 
         4224.
  
 Request for a Conditional-Use 
@@ -593,7 +235,8 @@ Fay
 
  
 2b.
- 
+<<Project End>>
+<<Project Start>>
 2000.264C
 D
 
@@ -607,9 +250,7 @@ MARTIN:
  
 1087 MISSISSIPPI STREET
  
-        - east side between 23rd and 25th Streets, Lot 049 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+        - east side between 23rd and 25th Streets, Lot 049 in Assessor’s Block 
         4224.
  
 Request for staff-initiated 
@@ -674,8 +315,8 @@ Fay
 
  
 3a.
-
-
+<<Project End>>
+<<Project Start>>
 2000.863
 B
 V
@@ -754,7 +395,8 @@ Fay
 
  
 3b.
- 
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
 
@@ -816,8 +458,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -831,7 +471,8 @@ Fay
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1078D
 
 
@@ -900,8 +541,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -915,7 +554,8 @@ Fay
 
  
 5.
- 
+<<Project End>>
+<<Project Start>>
 1999.210E
 
 
@@ -986,8 +626,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1001,7 +639,8 @@ Fay
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.1092C
 
 
@@ -1079,8 +718,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1094,7 +731,8 @@ Fay
 
  
 7.
- 
+<<Project End>>
+<<Project Start>>
 2000.585E
 
 
@@ -1179,8 +817,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1194,7 +830,8 @@ Fay
 
  
 8.
- 
+<<Project End>>
+<<Project Start>>
 2000.1165B
 
 
@@ -1261,8 +898,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1276,7 +911,8 @@ Fay
 
  
 9.
- 
+<<Project End>>
+<<Project Start>>
 2001.006DD
 
 
@@ -1356,8 +992,6 @@ B.
 
 
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1403,8 +1037,6 @@ Baltimore, Chinchilla, Joe, Salinas, Theoharis
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1473,8 +1105,6 @@ C.
 
 
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1495,8 +1125,6 @@ Director's Announcements
 
  
 None
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1575,8 +1203,6 @@ This item
 The Board upheld the Commission's decision by a vote of
 
         +5-0.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1629,8 +1255,6 @@ Continued
  
 The item will 
         be placed on the Commissioner's Action List.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1700,8 +1324,6 @@ The requirement was
         more information if either
 
         Mr. Pearlman or the Commissioners have more questions.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1765,8 +1387,6 @@ D.
  
 CONSIDERATION 
         OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1780,8 +1400,8 @@ CONSIDERATION
 
  
 17.
-
-
+<<Project End>>
+<<Project Start>>
 1999.770DDDDD
 
 
@@ -1926,8 +1546,6 @@ Fay
 E.
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2018,8 +1636,6 @@ Fay
 RESOLUTION:
  
 16097
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2094,8 +1710,6 @@ Fay
 MOTION:
  
 16098
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2109,7 +1723,8 @@ MOTION:
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.407Z
 
 
@@ -2214,8 +1829,6 @@ Fay
 MOTION:
  
 16099
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2310,8 +1923,6 @@ Note:
  
 Item 22 was taken out of order and followed 
         item 23.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2325,7 +1936,8 @@ Item 22 was taken out of order and followed
 
  
 22.
- 
+<<Project End>>
+<<Project Start>>
 2001.0152R 
 
 
@@ -2565,8 +2177,6 @@ Note:
  
 Item 23 was taken out of order and followed 
         item 21.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2580,7 +2190,8 @@ Item 23 was taken out of order and followed
 
  
 23.
- 
+<<Project End>>
+<<Project Start>>
 2000.077G
 
 
@@ -2707,7 +2318,8 @@ Item
 
  
 24a.
- 
+<<Project End>>
+<<Project Start>>
 2000.552
 X
 BCV
@@ -2890,7 +2502,8 @@ MOTION:
 
  
 24b.
- 
+<<Project End>>
+<<Project Start>>
 2000.552X
 B
 CV
@@ -2981,8 +2594,8 @@ MOTION:
 
  
 24c.
-
-
+<<Project End>>
+<<Project Start>>
 2000.552XB
 C
 V
@@ -3070,8 +2683,8 @@ MOTION:
 
  
 24d.
-
-
+<<Project End>>
+<<Project Start>>
 2000.552XBC
 V
 
@@ -3124,8 +2737,6 @@ ACTION:
  
 Zoning 
         Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3139,8 +2750,8 @@ Zoning
 
  
 25.
-
-
+<<Project End>>
+<<Project Start>>
 2000.134X
 
 
@@ -3266,8 +2877,6 @@ At Approximately
  p.m.
  the Planning Commission convened 
         into a Special Discretionary Review (DR) Hearing.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3281,8 +2890,8 @@ At Approximately
 
  
 26.
-
-
+<<Project End>>
+<<Project Start>>
 2000.097DD
 
 
@@ -3518,8 +3127,6 @@ Baltimore, Chinchilla,
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3533,8 +3140,8 @@ Fay
 
  
 27.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1009D 
 
 
@@ -3735,8 +3342,6 @@ Joe
 ABSENT:
  
 Fay
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3750,7 +3355,8 @@ Fay
 
  
 28.
- 
+<<Project End>>
+<<Project Start>>
 1999.811D
 
 

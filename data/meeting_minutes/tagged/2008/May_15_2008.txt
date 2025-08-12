@@ -1,282 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 15, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ May 15, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-May 15, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 15, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 15, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Miguel
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:50 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Craig Nikitas, Diego Sanchez, Sara Vellve, Tina Tam, Glenn Cabreros, Paul Lord, Charles Rivasplata, Sandra Soto-Grondona, Ken Rich, Steve Wertheim, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2007.1019C
  
  
@@ -331,16 +53,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.1034C
+<<Project End>>
+<<Project Start>>
+2007.1034C
  
  
  
@@ -384,16 +105,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.0291T
+<<Project End>>
+<<Project Start>>
+2008.0291T
  
  
  
@@ -442,8 +162,6 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -484,16 +202,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2004.1245E
+<<Project End>>
+<<Project Start>>
+2004.1245E
  
  
  
@@ -605,8 +322,6 @@ ABSENT:
 
 
 6a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -673,8 +388,8 @@ ABSENT:
 
 
 6b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.1245EK
 V
 X
@@ -748,8 +463,8 @@ Item taken off consent
 
 
 7a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1470D
  
  
@@ -810,8 +525,8 @@ ABSENT:
 
 
 7b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0502D
  
  
@@ -904,16 +619,15 @@ D.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
 (Tape IA)
@@ -1028,8 +742,6 @@ MOTION:
  
  
 17591
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1037,8 +749,8 @@ MOTION:
 
 
 9.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1287C
  
  
@@ -1147,16 +859,15 @@ AYES:
 ABSENT:
  
  Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2008.0135C
+<<Project End>>
+<<Project Start>>
+2008.0135C
  
  
  
@@ -1215,8 +926,8 @@ ABSENT:
 
 
 11a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -1348,8 +1059,9 @@ MOTION:
 
 
 11b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -1390,8 +1102,9 @@ Items 12a, 12b, and 13 were called and heard together
 
 
 12a.
- 
- 2007.0094CEK
+<<Project End>>
+<<Project Start>>
+2007.0094CEK
 Z
 (Tapes IB; IIA)
  
@@ -1528,8 +1241,9 @@ RESOLUTION:
 12
 b
 .
- 
- 2007.0094
+<<Project End>>
+<<Project Start>>
+2007.0094
 C
 EKZ
  
@@ -1606,8 +1320,6 @@ MOTION:
  
  
 17594
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1615,8 +1327,9 @@ MOTION:
 
 
 13.
- 
- 2007.0094CE
+<<Project End>>
+<<Project Start>>
+2007.0094CE
 K
 Z
  
@@ -1686,8 +1399,6 @@ MOTION:
  - -
  
 [Although the following item may be called after the listed time, it will not be call before.]
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1826,16 +1537,14 @@ ACTION:
 6:00 p.m. - -
  
 [Although the following items may be called after the listed time, they will not be called before.]
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0160EMTUZUU
  
 (Tapes IIB; IIIA; IIIB; IVA; IVB)
@@ -2514,8 +2223,6 @@ E.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2556,8 +2263,6 @@ NONE
 F.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2571,8 +2276,6 @@ F.
  
  
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  

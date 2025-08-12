@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # let's create a set of locals referring to our directory and working directory 
 home_dir = Path.home()
-work_dir = (home_dir / 'housing_project')
+work_dir = (home_dir / 'SIEPR-HOUSING-POLICY')
 data = (work_dir / 'data')
 raw_data = (data / 'raw')
 llm_regulations = (data / 'llm_regulatory_measurement')

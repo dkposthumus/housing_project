@@ -1,300 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ November 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-November 14, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, November 14, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-  
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya 
-
-
-COMMISSIONER ABSENT: 
-      
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:06 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Timothy Johnston, Sophie Hayward, Christina Lamorena, Kevin Guy, Brett Bollinger, Omar Masry, David Alumbaugh, Glenn Cabreros, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2008.1122E
                                                           
                                     
@@ -340,15 +44,14 @@ Fong, Wu, Antonini, Moore, Sugaya
 ABSENT:
                 
 Borden, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1368T
                                                                                           
     
@@ -411,15 +114,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1227Q
                                                                          
                   
@@ -470,8 +172,6 @@ MOTION
 :
                       
 19017
-<<Project End>>
-<<Project Start>>
        
 
 
@@ -479,7 +179,8 @@ MOTION
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1316Q
                                                                                          
   
@@ -536,8 +237,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -615,8 +314,6 @@ I would second that comment in addition to the fact that this morning there was 
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -641,9 +338,7 @@ Bruner Loeb Foundation in cities from that part of the country, post industrial 
   
 I will say that in spite of those kind of dire statistics, and they are pretty severe, I left with a fair amount of optimism about the number of people, the communities, the passion that is being represented – that was represented around the table on how to make a difference. In fact, looking at how these cities could become different places, kind of new models for American cities, using urban agriculture. We visited a neighborhood, where there is a very active community organization that is looking at establishing a one hundred acre sheep farm in their neighborhood. It's very interesting to have those discussions and to see the possibilities. In terms of the physical planning aspects of these cities the primary issue was what to do with the all this land. Because the land has no value, under our current market system, the land actually has negative value because the cost of maintaining and paying for the taxes is actually higher than the value of the land. So, these communities – and there are a lot of them across the country, have an elaborate land banking systems, that are in place, they are looking alternative uses for the land, storm water management, agriculture, forestry, it's very interesting to see what is going in these places, where people are grappling with very different issues, very different issues than what we grapple with here.
   
-I was gratified and I left, actually, with a fair amount of optimism on how it is going, so I just thought I would share that with you I'm happy to talk to any of you in detail more about it.
-<<Project End>>
-<<Project Start>>
+I was gratified and I left, actually, with a fair amount of optimism on how it is going, so I just thought I would share that with you I'm happy to talk to any of you in detail more about it. 
 
 
 7.
@@ -704,8 +399,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 No Report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -802,8 +495,6 @@ Jay Wallace – 1111 California EIR
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -811,7 +502,8 @@ REGULAR CALENDAR
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2011.0471E
                                                                            
                   
@@ -875,12 +567,11 @@ Borden
 MOTION:
                
 19019
-<<Project End>>
-<<Project Start>>
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2013.0834C
                                                           
                                                 
@@ -987,7 +678,8 @@ MOTION:
 
 
 11a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0256XV
                                                                        
                                 
@@ -1100,7 +792,8 @@ MOTION:
 
 
 11b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0256XV
                                        
                                                                 
@@ -1149,15 +842,14 @@ Fong, Wu, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2011.0499C
           
                                                 
@@ -1253,15 +945,14 @@ Borden
 MOTION:
                
 19022
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2012.0718E
                                                                           
               
@@ -1342,15 +1033,14 @@ Sue Hestor – Auto egress
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2012.0759DV
                                                                        
                     
@@ -1423,15 +1113,14 @@ Borden
 DRA No:
                                 
 0342
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0959D
                                                                                          
     

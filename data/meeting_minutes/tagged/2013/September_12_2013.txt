@@ -1,295 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ September 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-September 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, September 12, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 09 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Kate Conner, Danielle Harris, Diego Sanchez, Sara Vellve, Sara Jones, Don Lewis, Casey Noel, Mary Woods, Glenn Cabreros, Elizabeth Watty, and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2011.0187X
                                                                           
                          
@@ -332,15 +41,14 @@ Continued to September 26, 2013
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0617MZ
                                                                       
                          
@@ -379,15 +87,14 @@ Continued to October 10, 2013
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0401C                                                                                                  (K. CONNER: (415) 575-6914)
 
 
@@ -413,15 +120,14 @@ Continued to November 7, 2013
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1130 C                                                                                                  (K. CONNER: (415) 575-6914)
 
 
@@ -467,15 +173,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0282C
  
                                                          
@@ -515,15 +220,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18958
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0128C 
  
                                                                         
@@ -586,7 +290,8 @@ MOTION:
 
 
 7a.
-          
+<<Project End>>
+<<Project Start>>
 2011.0053CV 
  
                                                                      
@@ -630,7 +335,8 @@ MOTION:
 
 
 7b.
-          
+<<Project End>>
+<<Project Start>>
 2011.0053CV 
                                                       
                                       
@@ -652,8 +358,6 @@ ZONING ADMINISTRATOR CLOSED THE PH AND INDICATED AN INTENT TO GRANT THE VARIANCE
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -702,8 +406,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -790,8 +492,6 @@ It's at least 8 by 8 or some huge dimension like that. But it's been kept all th
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -810,9 +510,7 @@ Director Rahaim:
 
 Commissioners, welcome back from break, ready for a busy fall. Just two announcements, I wanted to let you know pleased to let you know Corey Teague is the new Assistant Zoning Administrator. You know Corey from having worked in the Department for several years. He will be working directly under Scott Sanchez as the ZA and will fill in for Scott as Scott is away or as other needs arise. And as you know Dan Sider has accepted a different position in the Department as well. So, Corey fills in for Dan or takes over the position that Dan Sider had in that role. Secondly, I think you all got a memo from me yesterday, copy of a memo I sent to the Board regarding some new public outreach that we're doing related to development projects. We're happy to talk about that in more detail, but I did want to let you know that -- and I will give you more details as we -- as they are developed. But on October 2nd and October 5th we will be having a series of meetings in the Potrero Hill and Dogpatch Neighborhoods on development in that part of town. Supervisor Cohen is sponsoring those meetings. That's a Wednesday evening and Saturday morning. We will be talking about development in that area and talking, kind of a refresher, if you will, about Eastern Neighborhoods, which is now five years since it's been adopted.
   
-And talking about that plan and how these projects are or are not consistent with that plan and giving more information to the community about how they can get involved in the process. So, those are coming up on the second and the fifth of October. And that concludes my presentation. Thank you.
-<<Project End>>
-<<Project Start>>
+And talking about that plan and how these projects are or are not consistent with that plan and giving more information to the community about how they can get involved in the process. So, those are coming up on the second and the fifth of October. And that concludes my presentation. Thank you. 
 
 
 11.
@@ -1045,15 +743,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18963
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-                
+<<Project End>>
+<<Project Start>>
 2011.1122E
                                                                                           
             
@@ -1139,15 +836,14 @@ Christopher Butcher – DEIR flawed transportation analysis
 ACTION:
                                 
 Accepted public comments on the DEIR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-                
+<<Project End>>
+<<Project Start>>
 2013.0291C
                                           
           
@@ -1194,15 +890,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 18961
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-                
+<<Project End>>
+<<Project Start>>
 2013.0535CER
                                                                                      
        
@@ -1284,7 +979,8 @@ MOTION:
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2012.1027DD
                                                                       
                     
@@ -1447,7 +1143,8 @@ DRA No:
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2012.1027V 
  
                                                                         
@@ -1462,16 +1159,14 @@ Request for a rear yard variance
 
 
 ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND INDICATED AN INTENT TO GRANT A VARIANCE
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-    
-        
+<<Project End>>
+<<Project Start>>
 2012.0193D
                                                                                          
            
@@ -1638,27 +1333,19 @@ ADOPTED
 
 
 [1]
-<<Project End>>
-<<Project Start>>
  1.
        
 Revise the proposed District boundaries so that the proposed RUD includes all properties from Williams Avenue to Paul Avenue that face Third Street and are not zoned NC, as show in the attached map, Exhibit A.
-<<Project End>>
-<<Project Start>>
 
 
 2.
          
 Revise the Ordnance so that the proposed RUD is subject to the same controls as all other Formula Retail establishments in the City. ((To address the Supe’s concern the Commission recommended changing controls citywide to require that a Formula Retail operator would have to seek CU authorization if they purchase an existing Formula Retail business and operate it as a new business, regardless of whether or not the entire business was purchased or only some locations.))
-<<Project End>>
-<<Project Start>>
 
 
 3.
          
 Revise Planning Code Section 303(i) to reflect the changes outlined in Exhibit B.
-<<Project End>>
-<<Project Start>>
 
 
 4.

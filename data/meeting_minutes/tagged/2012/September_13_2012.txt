@@ -1,267 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 13, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ September 13, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-September 13, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 13, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:10 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Diego Sanchez, Pilar LaValley, Neil Hrushowy, Britany Bendix, Aaron Starr and Linda Avery – Commission Secretary.
-
-
-                        
-                                                
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2012.0371B                                                                    
 (D. SÁNCHEZ: (415) 575-9082)
 
@@ -290,15 +27,14 @@ ACTION:           Continued as proposed
 AYES:             Fong, Wu, Antonini, Borden, 
 Hillis,
  Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2011.0277C                                                                      (M. WOODS: (415) 558-6315)
 
 
@@ -328,15 +64,14 @@ ACTION:           Continued as proposed
 AYES:             Fong, Wu, Antonini, Borden, 
 Hillis,
  Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.0822C                                                                   
 (C. Lamorena: (415) 575-9085)
 
@@ -374,15 +109,14 @@ ACTION:           Continued as corrected
 AYES:             Fong, Wu, Antonini, Borden, 
 Hillis,
  Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2012.0082DD                                                              (G. CABREROS: (415) 558-6169)
 
 
@@ -420,15 +154,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-             
+<<Project End>>
+<<Project Start>>
 2011.1049B
                                                                   
   (D. SÁNCHEZ: (415) 575-9082)
@@ -458,12 +191,11 @@ Hillis,
 
 MOTION:           
 18700
-<<Project End>>
-<<Project Start>>
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2012.0953C
                                                                     
 (D. SÁNCHEZ: (415) 575-9082)
@@ -493,7 +225,9 @@ MOTION:          
 18701
 
 
-7a.        
+7a.
+<<Project End>>
+<<Project Start>>
 2012.0358CV
                                                                 
 (P. LaValley: (415) 575-9084)
@@ -536,7 +270,9 @@ MOTION:          
 18702
 
 
-7b.       
+7b.
+<<Project End>>
+<<Project Start>>
 2012.0358CV 
                                                                 (P. LAVALLEY:  (415) 575-9084)
 
@@ -568,8 +304,6 @@ Zoning Administrator closed the public hearing and stated his inclination to gra
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -639,8 +373,6 @@ It is fair to say she has been supportive of the process and has taken stewardsh
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -656,8 +388,6 @@ Director Rahaim:
 
 
 Actually, I don't have much to report today except to tell you I'll be out of the office for a few days for a family gathering from tomorrow until next Wednesday.  Bill Wycko will be in charge of the Department in my absence.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -844,9 +574,7 @@ SPEAKER(S):   Chris Leflers
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -873,14 +601,14 @@ SPEAKERS:     Ron Miguel and Dino Adelfio
 
 
 ACTION:           Information only.  No action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2012.0561C
                                                                         (B. BENDIX: (415) 575-9114)
 
@@ -915,11 +643,11 @@ Hillis,
 
 MOTION:           
 18703
+
+
+13.
 <<Project End>>
 <<Project Start>>
-
-
-13.        
 2011.1050DD
  
                                                                      (A. STARR: (415) 558-6362)

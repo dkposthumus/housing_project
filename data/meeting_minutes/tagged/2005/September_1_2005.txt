@@ -1,293 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ September 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-September 1, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 1, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 1, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
- 
-Sue Lee;
- 
-Dwight S. Alexander;
- 
- Michael J. Antonini;; Kevin Hughes; William L. Lee; Christina Olague
-
-
- 
-
-
-COMMISSIONER ABSENT:
-      
-  Shelley Bradford Bell
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Tina Tam; Kelley Amdur; Michael Li; Ben Fu; Jonathan Purvis; Sara Vellve; Winslow Hastie; Irene Nishimura; Mathew Snyder; Adam Varat; Dan Sider; Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-        
- 2004.1257C
+2004.1257C
                               
  
                                                       
@@ -346,8 +58,6 @@ SPEAKERS:
  ABSENT:
          
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -357,8 +67,9 @@ SPEAKERS:
 
 
 2.
-        
- 2002.0449E
+<<Project End>>
+<<Project Start>>
+2002.0449E
                                           
  
        
@@ -435,8 +146,6 @@ Preliminary Recommendation:
  ABSENT:
          
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -444,8 +153,8 @@ Preliminary Recommendation:
 
             
  3.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.0916L
                               
  
@@ -507,8 +216,6 @@ SPEAKERS:
  ABSENT:
          
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -516,8 +223,8 @@ SPEAKERS:
 
            
  4.
-        
- 
+<<Project End>>
+<<Project Start>>
 2004.0545DDDDD
                                  
  
@@ -579,8 +286,6 @@ Requests for Discretionary Review
 B.
         
  COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -836,8 +541,6 @@ Asked the Department for a presentation on what triggers the need for a permit? 
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -859,9 +562,7 @@ Proposed September 15 for a presentation and update report on the Department’s
  
  Reported that we are near staff completion on a staff report on the Easter Neighborhoods and PDR.
  
- Hope to get this out two weeks in advance and be able to hear the PDR analysis and recommendations on September 22.
-<<Project End>>
-<<Project Start>>
+ Hope to get this out two weeks in advance and be able to hear the PDR analysis and recommendations on September 22. 
    
 
 
@@ -1030,16 +731,15 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-        
- 2004.1135C 
+<<Project End>>
+<<Project Start>>
+2004.1135C 
                              
  
                                                  
@@ -1098,16 +798,15 @@ Preliminary Recommendation: Approval with Conditions
  MOTION:
           
  17080
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-        
- 2005.0425C
+<<Project End>>
+<<Project Start>>
+2005.0425C
                                           
  
                                        
@@ -1177,8 +876,9 @@ ITEMS 10a. – 10c. WERE REMOVED FROM THE CONSENT CALENDAR
 
 
 10a.
-     
- 2004.0297
+<<Project End>>
+<<Project Start>>
+2004.0297
 E
 KCV
 X
@@ -1356,8 +1056,9 @@ Francisco DeCosta
 
  
  10b.
-    
- 2004.0297EK
+<<Project End>>
+<<Project Start>>
+2004.0297EK
 C
 VX
                                                          
@@ -1425,8 +1126,9 @@ Preliminary Recommendation: Approval with Conditions
 
            
  10c.
-     
- 2004.0297EKC
+<<Project End>>
+<<Project Start>>
+2004.0297EKC
 V
 X
                                              
@@ -1465,8 +1167,6 @@ ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND GRANTED THE VARIANCE
 F.
         
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1474,8 +1174,9 @@ F.
 
 
 11.
-       
- 2004.1078D 
+<<Project End>>
+<<Project Start>>
+2004.1078D 
                  
  
    
@@ -1607,8 +1308,6 @@ There is simply no planning code requiring the removal of the rear structure
  ABSENT:
          
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
                                                                                    
@@ -1616,8 +1315,9 @@ There is simply no planning code requiring the removal of the rear structure
 
                
  12.
-         
- 2005.0728U
+<<Project End>>
+<<Project Start>>
+2005.0728U
         
  
                                                                      
@@ -1671,8 +1371,9 @@ SPEAKERS:
 
            
  13a.
-     
- 2004.1106
+<<Project End>>
+<<Project Start>>
+2004.1106
 C
 V
                                                                        
@@ -1801,8 +1502,9 @@ MOTION:
 
            
  13b.
-     
- 2004.1106C
+<<Project End>>
+<<Project Start>>
+2004.1106C
 V
                                                                           
  
@@ -1843,8 +1545,9 @@ ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND HAS TAKEN THE MATTER UNDER ADVISE
 
 
 14a.
-     
- 2004.1326A
+<<Project End>>
+<<Project Start>>
+2004.1326A
 C
 V
                                      
@@ -1902,8 +1605,9 @@ SPEAKERS:
 
            
  14b.
-     
- 2004.1326
+<<Project End>>
+<<Project Start>>
+2004.1326
 A
 CV
      
@@ -1961,8 +1665,9 @@ SPEAKERS:
 
            
  14c.
-     
- 2004.1326AC
+<<Project End>>
+<<Project Start>>
+2004.1326AC
 V
                                                                     
  (
@@ -2025,8 +1730,9 @@ SPEAKERS:
 
 
 15a.
-     
- 2004.1266
+<<Project End>>
+<<Project Start>>
+2004.1266
 C
 DZ
                                                               
@@ -2246,8 +1952,9 @@ In favor of project.
 
 
 15b.
-     
- 2004.1266C
+<<Project End>>
+<<Project Start>>
+2004.1266C
 D
 Z
                                                   
@@ -2311,8 +2018,9 @@ ACTION:
 
 
 15c.
-     
- 2004.1266CD
+<<Project End>>
+<<Project Start>>
+2004.1266CD
 Z
                                                   
  
@@ -2382,8 +2090,9 @@ RESOLUTION:
 
 
 16a.
-     
- 2004.0374
+<<Project End>>
+<<Project Start>>
+2004.0374
 C
 R
                             
@@ -2479,8 +2188,9 @@ Espanola Jackson
 
            
  16b.
-     
- 2004.0374C
+<<Project End>>
+<<Project Start>>
+2004.0374C
 R
                             
  
@@ -2533,8 +2243,6 @@ SPEAKERS:
  ABSENT:
          
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2547,8 +2255,9 @@ SPEAKERS:
 
 
 17.
-       
- 2003.0672
+<<Project End>>
+<<Project Start>>
+2003.0672
 E
 C 
    
@@ -2651,8 +2360,9 @@ Jim Ruben, Representing Project Sponsor
 
            
  18a.
-     
- 2003.0672C
+<<Project End>>
+<<Project Start>>
+2003.0672C
                                                       
  
    
@@ -2887,8 +2597,9 @@ Totally delighted to endorse this project.
 
            
  18b.
-     
- 2003.0672C
+<<Project End>>
+<<Project Start>>
+2003.0672C
 K
     
  
@@ -2952,16 +2663,15 @@ SPEAKERS:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-       
- 2005.0524T
+<<Project End>>
+<<Project Start>>
+2005.0524T
                   
  
             

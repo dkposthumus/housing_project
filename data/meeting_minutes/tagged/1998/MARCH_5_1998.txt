@@ -1,75 +1,4 @@
 <<Project Start>>
-MINUTES OF MEETING AND CALENDAR 
-
-
-OF THE 
-
-
-SAN FRANCISCO 
-
-
-PLANNING COMMISSION 
-
-
-REGULAR MEETING 
-
-
-THURSDAY 
-
-
-MARCH 5, 1998 
-
-
-ROOM 428 
-
-
-WAR MEMORIAL BUILDING 
-
-
-401 VAN NESS AVENUE 
-
-
-1:30 P.M. 
-
-
-PRESENT: Commissioners Hector Chinchilla, Anita Theoharis, Dennis Antenore,
-    Richard Hills, Cynthia Joe, Larry Martin, Beverly Mills
- 
-
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 1:45 P.M.
- 
-
-
-
-
-
-
-STAFF IN ATTENDANCE: Gerald Green - Director of Planning, Robert Passmore -
-    Zoning Administrator; Paul Lord, Paul Deutsch, Joy Navarrete, Elizabeth Gordon, Corey
-    Alvin, Julian Ba?ales, Angelica Chiong, Linda Avery - Commission Secretary
- 
-
-
-
-
-
-
-A. 
-ITEMS TO BE CONTINUED
-<<Project End>>
-<<Project Start>>
- 
-
-
-
-
-
-
 1. 97.771D (MILLER) 
 
 
@@ -98,9 +27,6 @@ ACTION: Continued as proposed
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
 2. 97.686C (LI) 
 
 
@@ -130,13 +56,6 @@ ACTION: Continued as proposed
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 3. 97.629E 
 Appeal of Preliminary Negative Declaration
  (NAVARRETE) 
@@ -177,13 +96,6 @@ ACTION: Continued as amended
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 4. 97.629
 C
  (FALLAY) 
@@ -217,13 +129,6 @@ ACTION: Continued as amended
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 5. 97.536D (LI) 
 
 
@@ -347,9 +252,6 @@ Hills: 1045 - 17th Street/101 Mississippi Street - status on demolition
 Chinchilla: 1234 - 33rd Avenue Report on site visit/meeting.
 <<Project End>>
 <<Project Start>>
- 
-
-
 6. Consideration of Adoption: Draft Minutes from 2/19/98. 
 
 
@@ -377,21 +279,12 @@ DIRECTOR'S REPORT
 (ROSETTER)
 <<Project End>>
 <<Project Start>>
-
-
 7. Introduce Extended Stay Hotel - Informational Only 
 
 
 DELETED
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 8. 
 DIRECTOR'S ANNOUNCEMENTS
  
@@ -400,13 +293,6 @@ DIRECTOR'S ANNOUNCEMENTS
 NONE
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 9. 
 REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF APPEALS & BOARD OF SUPERVISORS
 
@@ -434,8 +320,6 @@ CONSIDERATION OF FINDINGS AND FINAL MOTION - PUBLIC HEARING CLOSED
 (GREEN/LORD)
 <<Project End>>
 <<Project Start>>
-
-
 10. 
 PROPOSED LIVE/WORK DISCRETIONARY REVIEW POLICY
  -- The Planning Commission
@@ -466,13 +350,6 @@ ACTION: Without hearing, continued to 3/12/98
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 11. 97.409C (WASHINGTON) 
 
 
@@ -537,13 +414,6 @@ All matters listed hereunder constitute a Consent Calendar, are
     from the Consent Calendar and considered as a separate item.
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 12. 98.019Q (PURVIS) 
 
 
@@ -581,13 +451,6 @@ G.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 13. 97.526E (NAVARRETE) 
 
 
@@ -635,13 +498,6 @@ NOES: Antenore, Joe, Martin
 MOTION No.: 14554
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 14. 97.568C (ZWIERZYCKI) 
 
 
@@ -687,7 +543,7 @@ AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 , southwest corner at Church Street, Lot 01 in Assessor's Block
 <<Project End>>
 <<Project Start>>
-    6509. Request for authorization of Conditional Use to reinstate the hours of operation
+6509. Request for authorization of Conditional Use to reinstate the hours of operation
     between 2:00 a.m. and 6:00 a.m. (cabaret permit) for an existing donut shop/coffee shop
     under Planning Code Sections 728.27 and 790.48 in the 24th Street-Noe Valley Neighborhood
     Commercial District. The proposal would reestablish 24 hours of operation. Conditional Use
@@ -833,12 +689,6 @@ AT APPROXIMATELY 4:30 P.M. THE PLANNING COMMISSION CONVENED
     INTO A SPECIAL DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 18. 97.876D (WASHINGTON) 
 
 
@@ -855,9 +705,6 @@ AT APPROXIMATELY 4:30 P.M. THE PLANNING COMMISSION CONVENED
 DISCRETIONARY REVIEW WITHDRAWN
 <<Project End>>
 <<Project Start>>
- 
-
-
 19. 97.072D (GORDON) 
 
 
@@ -888,13 +735,6 @@ ACTION: Public hearing closed. Extended probation for 3 months
 AYES: Chinchilla, Theoharis, Mills, Antenore, Hills, Joe, Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 20. 97.481D (BA?ALES) 
 
 

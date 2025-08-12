@@ -1,334 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 12, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ May 12, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-May 12, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes 
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, May 12, 2011
-
-
-
-
-12:00 PM
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS PRESENT: 
-Olague, Antonini, Borden, Fong, Moore, Sugaya
-
-
-
-
-COMMISSIONER ABSENT:      
-Miguel
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS CALLED TO 
-ORDER BY PRESIDENT OLAGUE AT 12:09 PM
-
-
-
-
- 
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â Zoning 
-Administrator, Aaron Hollister, Jonas Ionin, Chelsea Fordham, Corey Teague, 
-Aaron Starr, Kevin Guy, Sharon Lai, Elizabeth Watty, Linda Avery â Commission 
-Secretary
-
-
- 
-
-
-A.
-                 
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-
-
-
-
-            
-
-
-
-
-B.         CONSENT CALENDAR
-
-
-
- 
-
-
-
-
-All matters listed hereunder 
-constitute a Consent Calendar, are considered to be routine by the Planning 
-Commission, and will be acted upon by a single roll call vote of the 
-Commission.  There will be no separate discussion of these items unless a member 
-of the Commission, the public, or staff so requests, in which event the matter 
-shall be removed from the Consent Calendar and considered as a separate item at 
-this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.        
-
-
 2010.1114C
                                                                    
      (M. WOODS: (415) 558-6315)
@@ -391,8 +61,6 @@ C.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -603,8 +271,6 @@ huge growth in their population numbers.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -661,9 +327,7 @@ We had a few applications submitted prior to this becoming effective. Some of
 those will not be coming before you because of the legislative change. Others 
 will be coming before you because they required Conditional Use for other 
 aspects of the project. We have a hearing next week and I wanted to inform the 
-commission of the change.
-<<Project End>>
-<<Project Start>>
+commission of the change. 
 
 
 
@@ -861,8 +525,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 The Commission did not meet 
 this week.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -870,9 +532,9 @@ this week.
 
 
 
-5.        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0149I
                                                         
            (A. HOLLISTER: (415) 575-9078)
@@ -1027,9 +689,9 @@ F.
 
 
 
-6a.       
-
-
+6a.
+<<Project End>>
+<<Project Start>>
 2011.0063DV
                                                                  
          (J. IONIN: (415) 558-6309)
@@ -1095,9 +757,9 @@ ABSENT:          Miguel
 
 
 
-6b.       
-
-
+6b.
+<<Project End>>
+<<Project Start>>
 2011.0063DV     
                                                             
       
@@ -1152,8 +814,6 @@ NAYES:            Antonini and Fong
 
 
 ABSENT:          Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1161,9 +821,9 @@ ABSENT:          Miguel
  
 
 
-7.        
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2008.0723E
                                                                    
 (C. FORDHAM: (415) 575-9071)
@@ -1226,22 +886,20 @@ ABSENT:          Miguel
 
 
 MOTION:           18357
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+8.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
- 
-
-
- 
-
-
-8.        
-
-
 2008.0723V
                                                                    
           (K. GUY: (415) 558-6163)
@@ -1286,8 +944,6 @@ listed for item 7
 ACTION:           Zoning 
 Administrator Scott Sanchez closed the public hearing and granted the variances 
 subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1297,9 +953,9 @@ subject to the standard conditions of approval
 
 
 
-9.        
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2010.0771EC
                                                                  
    (C. TEAGUE: (415) 575-9081)
@@ -1379,13 +1035,9 @@ MOTION:           18358
 
 
 
-10a.      
-
-
-
-
-
-
+10a.
+<<Project End>>
+<<Project Start>>
 2010.0137D
                                                                 
          (A. STARR: (415) 558-6362)  
@@ -1463,9 +1115,9 @@ DRA:                0207
 
 
 
-10b.     
-
-
+10b.
+<<Project End>>
+<<Project Start>>
 2010.0137V
                                                                           
 (A. STARR: (415) 558-6362)
@@ -1505,8 +1157,6 @@ ACTION:           Zoning
 Administrator Scott Sanchez closed the public hearing and granted the variances 
 subject to the standard conditions of approval and those adopted by the 
 Commission today
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1514,9 +1164,9 @@ Commission today
  
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0556D
                                           
 
@@ -1606,8 +1256,6 @@ ABSENT:          Miguel
 
 
 DRA:                0208
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1618,9 +1266,9 @@ DRA:                0208
 
 
             
-12.       
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2011.0194D
                                                                    
              (S. LAI: (415) 575-9087)
@@ -1699,8 +1347,6 @@ DRA:                0209
 
 
 5:00 PM
-<<Project End>>
-<<Project Start>>
 
 
 

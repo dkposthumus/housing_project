@@ -1,320 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 1, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ May 1, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-May 1, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, May 1, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:11
-  
-P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez –
-  
-Zoning Administrator, 
-
-Omar Masry, Rich Sucre, Aaron Starr, Mary Woods, Kate Conner, Diego Sanchez, Jessica Look, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1. 
-            
 2013.1166T
                                                           
                    
@@ -355,15 +39,14 @@ Continued to June 5, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2010.0726X
                                                           
                                                    
@@ -409,15 +92,14 @@ Continued to June 5, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.0465D
                                                                                          
     
@@ -476,15 +158,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2011.1395C
  
                                                                                          
@@ -537,7 +218,8 @@ MOTION:
 
 
 5a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                        
             
@@ -625,7 +307,8 @@ Sugaya
 
 
 5b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                                     
 (R. SUCRE: (415) 575-9108)
@@ -713,8 +396,6 @@ Sugaya
 C.
             
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -796,8 +477,6 @@ Commissioners, if you notice there is someone shadowing me here I’d like to in
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -812,8 +491,6 @@ Director’s Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1004,8 +681,6 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
         
@@ -1111,16 +786,15 @@ Privatization of public spaces
 
 ACTION:
                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2014.0180T
                                           
                                                             
@@ -1245,7 +919,8 @@ RESOLUTION:
 
 
 11a.
-        
+<<Project End>>
+<<Project Start>>
 2014.0187C
                                                                                           
         
@@ -1290,7 +965,8 @@ MOTION:
 
 
 11b.
-        
+<<Project End>>
+<<Project Start>>
 2014.0192C
                                           
    
@@ -1336,7 +1012,8 @@ MOTION:
 
 
 11c.
-        
+<<Project End>>
+<<Project Start>>
 2014.0196C
                                           
        
@@ -1382,7 +1059,8 @@ MOTION:
 
 
 11d.
-        
+<<Project End>>
+<<Project Start>>
 2014.0233C
  
  
@@ -1428,7 +1106,8 @@ MOTION:
 
 
 11e.
-        
+<<Project End>>
+<<Project Start>>
 2014.0234C
  
  
@@ -1474,7 +1153,8 @@ MOTION:
 
 
 11f.
-         
+<<Project End>>
+<<Project Start>>
 2014.0236C
         
                                                   
@@ -1520,7 +1200,8 @@ MOTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2014.0103XVC
  
                                                                                    
@@ -1593,7 +1274,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2014.0103XVC
  
    
@@ -1667,7 +1349,8 @@ MOTION:
 
 
 12c.
-        
+<<Project End>>
+<<Project Start>>
 2014.0103XVC
  
    
@@ -1727,8 +1410,9 @@ ZA closed the PH; and indicated an intent to Grant
  
 
 
-13a. 
-       
+13a.
+<<Project End>>
+<<Project Start>>
 2012.1574KX
  
                                                                       
@@ -1799,8 +1483,9 @@ MOTION:
  
 
 
-13b. 
-       
+13b.
+<<Project End>>
+<<Project Start>>
 2012.1574KX
                                                                                        
       
@@ -1864,15 +1549,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19137
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2012.0493X
                                                                                                        
 (R. SUCRE: (415) 575-9108)
@@ -1967,7 +1651,8 @@ Please be advised that the DR requestor and project sponsor teams include: the D
 
 
 15a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0408ADV
  
    
@@ -2016,8 +1701,9 @@ DRA No:
  
 
 
-15b. 
-       
+15b.
+<<Project End>>
+<<Project Start>>
 2013.0408ADV
  
                                                                                                 
@@ -2047,8 +1733,6 @@ ACTION
 :
                
 ZA closed the PH; and indicated an intent to Grant
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2061,7 +1745,8 @@ ZA closed the PH; and indicated an intent to Grant
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2013.0314D
                                                                                          
                
@@ -2148,15 +1833,14 @@ Wu, Antonini, Borden, Hillis, Moore, Sugaya
 ABSENT:
                 
 Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.1340D
                                                                                          
                

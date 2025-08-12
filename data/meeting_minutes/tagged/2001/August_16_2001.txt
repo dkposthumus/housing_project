@@ -1,222 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 16, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ August 16, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-August 16, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 16, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, August 16, 2001
-1:30 PM
-Regular Meeting
-PRESENT:                    Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
-ABSENT:                    Theoharis
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT FAY AT 1:37 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green, Director of Planning; Larry Badiner, Zoning Administrator; Vahram Massehian; Adam Light; Matt Snyder; Michael Smith; Mary Woods; Glenn Cabreros; Allison Borden; Nora Priego, Transcription Secretary; Andrea Green, Acting Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-          1.          2001.0604C          (WOLOSHYN: 558-6612)
+1.          2001.0604C          (WOLOSHYN: 558-6612)
                     3928 GEARY BOULEVARD - north side between Third and Fourth Avenues and Divisadero Streets, Lot 016 in Assessor's Block 1435 - Request for Conditional Use Authorization under Planning Code Section 712.61 to operate an automobile rental establishment within an NC-3 (Moderate-Scale Neighborhood Commercial) District and a 40-X Height and Bulk District.  The proposal is to convert an existing automobile repair establishment (Harry's Auto Repair) to an automobile rental establishment (Hertz).  The proposed automobile rental facility will operate within the current footprint of the building.  Minor internal changes are proposed as part of the conversion.
                     Preliminary Recommendation: Approval with Conditions
                     (Proposed for Continuance to August 23, 2001)
@@ -258,7 +41,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          3.          2000.1165B          (BRESSANUTTI: 558-6892)
+3.          2000.1165B          (BRESSANUTTI: 558-6892)
                     2 HENRY ADAMS STREET - west side between Division Street and Alameda Street; Lot 1 in Assessor’s Block 3910 - Request under Planning Code Sections 320-322 for project authorization of an office development consisting of the conversion of up to 49,900 square feet in an existing building (San Francisco Design Center) from wholesale design showroom space to office space.  This notice shall also set forth an initial determination of the net addition of gross square feet of office space, pursuant to Planning Code Section 313.4.  The subject property is located in an M-2 (Heavy Industrial) District and the Industrial Protection Zone, and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Pending
                     (Continued from Regular Meeting of July 19, 2001)
@@ -294,7 +77,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          5.          2001.0552C          (SIROIS: 558-6313)
+5.          2001.0552C          (SIROIS: 558-6313)
                     4610 MISSION STREET - north side of Mission Street, between San Juan Avenue and Norton Street, Lot 003 Assessor’s Block 3206 - Request for Conditional Use Authorization to install a wireless telecommunications facility pursuant to Planning Code Section 712.83, which includes the installation of eight panel antennas, one GPS antenna and associated equipment cabinets in an NC-3 (Moderate-Scale Neighborhood Commercial) District and a 65-A Height and Bulk District. The subject site is a Preference Location 4.
                     Preliminary Recommendation: Pending
                     (Proposed for Continuance to September 6, 2001) September 13, 2001
@@ -304,7 +87,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          6.          2000.0173C          (LIGHT: 558-6254)
+6.          2000.0173C          (LIGHT: 558-6254)
                     500 FRANCISCO STREET (A.K.A. 401-499 BAY STREET & 501-599 BAY STREET) - north side of Francisco Street between Mason Street and Columbus Avenue; Lot 1 in both Assessor’s Blocks 42 and 43 - Request for a Conditional Use Authorization of a planned unit development to demolish an existing 229-unit public housing complex (North Beach Housing Project) and replace it with a mixed use development that would include approximately 360 affordable housing units, about 48 of which would be senior housing units; a child care center for up to 38 children; a computer learning center; ground floor retail uses; incubator office space for businesses operated by project residents and community-serving businesses; and approximately 330 below grade parking spaces.  The proposed project would include about 338,000 square feet of residential space, about 4,000 square feet for the child care center, about 8,000 square feet for the computer learning center and other community space, and approximately 20,000 square feet of commercial space, in an RM-3 (Residential, Mixed, Medium Density) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Approval with Conditions
                     (Continued from Regular Hearing of July 19, 2001)
@@ -315,7 +98,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          7.          2001.0502C          (SANCHEZ: 558-667)
+7.          2001.0502C          (SANCHEZ: 558-667)
                     4715-4723 GEARY BOULEVARD - southside between 11th and 12th Avenues; Lot 044 in Assessor’s Block 1533 - Request for Conditional Use authorization pursuant to Section 712.83 of the Planning Code to install a total of six antennas and related equipment on the rooftop and an equipment shelter on the ground level of an existing six story, mixed-use (residential above commercial) building, as part of Metro PCS's wireless telecommunications network within an NC-3 (Moderate-Scale Neighborhood Commercial) District and 40-X Height and Bulk District.  As per the City & County of San Francisco's Wireless Transmission Services (WTS) Facilities Siting Guidelines the proposal is a Location Preference 5 (Mixed-Use Building in High Density Districts).
                     Preliminary Recommendation: Pending
                     (Proposed for Continuance to October 4, 2001)
@@ -325,7 +108,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          8.          2001.0254D          (CABREROS:  558-6169)
+8.          2001.0254D          (CABREROS:  558-6169)
                     3040 STEINER STREET - east side between Filbert and Union Streets, Lot 050 in Assessor’s Block 0534 - Request for Discretionary Review of Building Permit Application No. 9913355S, proposing to construct a one-story penthouse measuring approximately 10x15 feet (150 square feet) on top of the flat roof of the existing two-unit building, with access to a new 300 square-foot roof deck to contain a spa in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and approve the project with modifications.
                     (Proposed for Continuance to October 11, 2001)
@@ -336,14 +119,14 @@ ABSENT:          Theoharis
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          9.          Consideration of Adoption - draft minutes of June 14 and June 28, 2001.  
+9.          Consideration of Adoption - draft minutes of June 14 and June 28, 2001.  
 SPEAKER(S):          None
 ACTION:          Approved
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          10.          Commission Matters
+10.          Commission Matters
 Commissioner Baltimore:
 Re:  Bay View 
 She would like to request that staff invite members of the PAC of Bay View Hunters Point and the Redevelopment Agency.
@@ -357,7 +140,7 @@ He is opposed to the kind of continuances which are happening at the Planning Co
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          11.          Director's Announcements
+11.          Director's Announcements
 Re:  Continuances
 - He realizes the frustration everyone is having regarding continuances.
 - Many times the request for a continuance is because the case might be close to being settled.  This would justify the continuance.
@@ -375,13 +158,13 @@ Re:  Neighborhoods Program
 - They are working on a workshop in early October for the Market and Octavia workshops.
 <<Project End>>
 <<Project Start>>
-          12.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+12.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
           BOS – None
           BOA – None
 D.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          13.          2001.0558C          (MASSEHIAN: 558-6363)
+13.          2001.0558C          (MASSEHIAN: 558-6363)
                     225 CLEMENT STREET - south side between 3rd and 4th Avenues, Lot 41 in Assessor’s Block 1435 - Request for Conditional Use Authorization under Section 186.1(c)(3)(A) of the Planning Code to convert a non-conforming Large Fast Food Restaurant (London Fish and Chips) to a Full-Service Restaurant (Q Restaurant) in the Inner Clement NCD (Neighborhood Commercial District) and a 40-X Height and Bulk District.  The new use shall be classified as a non-conforming use.
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -395,7 +178,7 @@ ABSENT:          Theoharis
 MOTION:          16206
 <<Project End>>
 <<Project Start>>
-          14.          2000.1140X          (LIGHT:  558-6254)
+14.          2000.1140X          (LIGHT:  558-6254)
                     1 POWELL STREET - west side between Eddy and Ellis Streets, Lot 5 in Assessor’s Block 330 - Request under Planning Code Section 309 (Downtown Code) for Determination of Compliance to make minor modifications to the ground floor entrance and windows of the subject property to accommodate a retail store, and to seismically retrofit the existing 138-foot tall, seven-story over basement building containing a ground level retail banking office with office uses on the upper floors.  The seismic retrofitting will be accomplished by infilling a large light well on the north side of the property with a structural system that will provide proper seismic reinforcement for the building.  No Exceptions under Section 309 of the Planning Code are requested by the proposed project.  The project is in a C-3-R (Downtown, Retail) zoning district, a 110-X height and bulk district, and in the Kearny-Market-Mason-Sutter Conservation District.  The building is rated as a Category I building under the Downtown Plan.
                     Preliminary Recommendation:  Approval with Conditions
 SPEAKER(S):          None
@@ -404,7 +187,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          15.          2000.1104C          (M. SNYDER:  575-6891)
+15.          2000.1104C          (M. SNYDER:  575-6891)
                     488 BRYANT STREET - north side between 2nd and 3rd Street, Lot 18 in Assessor's Block 3763 - Request for Conditional Use authorization under Planning Code Section 817.73 and 227(h) to install three panel antennas on the building rooftop and related backup equipment within the building in an SLI (Service Light Industrial Mixed-Use) District and a 40-X Height and Bulk District. This is a Preference Location 4.
                     Preliminary Recommendation:  Approval with Conditions
                     (Continued from Regular Meeting of August 9, 2001)
@@ -415,7 +198,7 @@ NAYES:          Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          16.          2001.0503C          (M.SNYDER: 575-6891)
+16.          2001.0503C          (M.SNYDER: 575-6891)
                     434-450 HARRISON STREET - A.K.A. THE SAILOR'S UNION OF THE PACIFIC - northeast corner of Harrison and 1st Streets, Lot 12 in Assessor's Block 3748 - Request for Conditional Use authorization under Planning Code Section 209.6(b) to allow three sectors of antennas (three in each sector for a total of nine antennas) flush mounted on the top of the building's south, east and west walls, and a base transceiver station on the property, in an RC-4 (Residential -Commercial Combined, High Density) District, the Rincon Hill Special Use District (Residential Subdistrict), and a 250-R Height and Bulk District.  The installation of the antennas and related equipment would be part of a wireless transmission network operated by Metro PCS. This is a preference Location 2, a co-location site, a site on which legal wireless telecommunication facilities are currently located.
                     Recommendation: Approval with Conditions
 SPEAKER(S):
@@ -430,7 +213,7 @@ ABSENT:          Theoharis
 MOTION:          16207
 <<Project End>>
 <<Project Start>>
-          17.          2000.581C          (SMITH: 558-6322)
+17.          2000.581C          (SMITH: 558-6322)
                     455 & 457 BUENA VISTA AVENUE EAST  - east side of the street between Upper Terrace and Park Hill Avenue, Lot 270 (formerly Lots 059 & 060) in Assessor’s Block 2607- Request for Conditional Use Authorization for dwelling unit density at a density ratio of one dwelling unit per 1,000 square feet of lot area per Planning Code Section 209.1(h) to construct one four unit building in a RH-3 (Residential, House, Three-Family) District and a 40-X Height and Bulk District. 
                     Preliminary Recommendation:  Approval with Conditions
 SPEAKER(S):
@@ -445,7 +228,7 @@ E.          DISCRETIONARY REVIEW HEARING
 At Approximately 3:00 PM the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-          18.          2001.0665D          (WOODS:  558-6315)
+18.          2001.0665D          (WOODS:  558-6315)
                     830 LAKE STREET - north side between 9th and 10th Avenues, Lot 11 in Assessor’s Block 1349 - Staff-initiated request for Discretionary Review of Building Permit Application No. 2001/03/19/4652S, proposing to merge two dwelling units in a six-unit building resulting in a five-unit building in an RM-1 (Residential, Mixed, Low Density) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the application as submitted.
 SPEAKER(S):
@@ -473,7 +256,7 @@ NAYES:          Chinchilla
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          19.          2001.0123D          (CABREROS:  558-6169)
+19.          2001.0123D          (CABREROS:  558-6169)
                     2252 BEACH STREET - north side between Baker and Broderick Streets, Lot 009C in Assessor’s Block 0915 - Request for Discretionary Review of Building Permit Application No. 2000/10/20/3640 proposing to add a full third story (approximately 2,000 square feet), a three-story rear addition extending to the required rear yard line, and a one-story extension with deck above projecting into the rear yard as a permitted obstruction to an existing one-story over garage, single-family residence in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.  
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the plans as submitted.
 SPEAKER(S):          None
@@ -482,7 +265,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          20.          2001.1183DDD          (BORDEN:  558-6321)
+20.          2001.1183DDD          (BORDEN:  558-6321)
                     1725 LAKE STREET - south side between 18th and 19th Avenues, Lot 035 in Assessor’s Block 1378 - Requests for Discretionary Review of Building Permit Application No. 2000/07/03/4299’S’ proposing to add two floors, an extension to the rear and additions to both sides and the front of an existing single-family house in an RH-2 (House, Two-Family) District and a 40-X Height and Bulk District. 
                     Preliminary Recommendation: Do not take Discretionary Review and approve the building permit application as revised.
 SPEAKER(S):
@@ -575,7 +358,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          21.          2001.0758D          (SIROIS:  558-6313)
+21.          2001.0758D          (SIROIS:  558-6313)
                     63-65 BUENA VISTA TERRACE - east side of Buena Vista Terrace, between Buena Vista Avenue and 14th Street, Lot 032 Assessor’s Block 2609.  Staff initiated Discretionary Review of Building Permit Application No. 2001/05/25/0011 requesting authorization to merge two units in a four unit building located in an RH-2 (Residential, Two Family House) District and a 40-X height and Bulk District pursuant to Planning Commission Resolution No. 16053.
                     Preliminary Recommendation: Do not take Discretionary Review and approve the project as submitted.
 SPEAKER(S):
@@ -599,7 +382,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          22.          2001.0525DDD          (SIROIS:  558-6313)
+22.          2001.0525DDD          (SIROIS:  558-6313)
 1489--5TH AVENUE- west side of 5th Avenue, between Kirkham Street and Judah Street, Lot 022, Assessor’s Block 1848. Request for Discretionary Review of Building Permit Applications 2001/02/23/2854 and 2001/02/23/2857 proposing  the demolition of a single-family dwelling, and construction of a two-unit residential building in an RH-2 (Residential, Two Family House) District and a 40-X Height and Bulk District. 
                     Preliminary Recommendation: Take Discretionary Review and approve project with conditions.
 SPEAKER(S):          None
@@ -609,7 +392,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          23.          2001.0559D          (S. SNYDER:  558-6543)
+23.          2001.0559D          (S. SNYDER:  558-6543)
                     337-339 MISSISSIPPI STREET - on the west side of Mississippi Street, north of the intersection of Mississippi and 19th Streets, on Lot 15 of Assessor’s Block 4039.  Mandatory Discretionary Review of Building Permit Application No. 2001/04/16/6901 proposing to merge a two-unit dwelling into a one-unit dwelling in an RH-2 (Residential House, Two-Family) District and a 40-X Height and Bulk District pursuant to Planning Commission Resolution 16078.
                     Preliminary Recommendation: Take Discretionary Review and do not approve the project as submitted.
 SPEAKER(S):          None

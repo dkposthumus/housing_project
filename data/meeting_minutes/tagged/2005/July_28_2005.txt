@@ -1,299 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ July 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-July 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 28, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 28, 2005
-
-
-2:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT
-:
- 
- 
-Sue Lee;
- 
-Michael J. Antonini;
- 
-Shelley Bradford Bell
-;
-
-
-                                               
- Kevin Hughes; William L. Lee; Christina Olague
-
-
- 
-
-
-COMMISSIONER ABSENT
-: 
-     
- 
-Dwight S. Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 2:50 P.M
-.
-
-
- 
-
-
-STAFF IN ATTENDANCE
-: Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Jonathan Purvis; Mathew Snyder; Kate McGee; Paul Maltzer; Rana Ahmadi; Tammy Chan; Linda Avery - Commission Secretary
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-           
-  The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may
-
-
-choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-        
- 
 2003.0672
 E
 C 
@@ -352,16 +57,15 @@ AYES:
 ABSENT:
          
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-        
- 2003.0672
+<<Project End>>
+<<Project Start>>
+2003.0672
 E
 C 
    
@@ -424,8 +128,8 @@ ABSENT:
 
             
  3a.
-     
- 
+<<Project End>>
+<<Project Start>>
 2005.0626D
         
  
@@ -488,8 +192,9 @@ ABSENT:
 
            
  3b.
-       
- 2004.1022D
+<<Project End>>
+<<Project Start>>
+2004.1022D
                   
  
            
@@ -541,8 +246,6 @@ AYES:
 ABSENT:
          
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -550,8 +253,9 @@ ABSENT:
 
            
  4.
-        
- 2005.0459T
+<<Project End>>
+<<Project Start>>
+2005.0459T
                                                                 
  
         
@@ -622,8 +326,9 @@ AYES:
 
            
  5a.
-       
- 2003.0295
+<<Project End>>
+<<Project Start>>
+2003.0295
 C
 DV
                          
@@ -688,8 +393,9 @@ ABSENT:
 
            
  5b.
-       
- 2003.0295C
+<<Project End>>
+<<Project Start>>
+2003.0295C
 D
 V
                                                  
@@ -754,8 +460,9 @@ ABSENT:
 
            
  5c.
-       
- 2003.0295CD
+<<Project End>>
+<<Project Start>>
+2003.0295CD
 V
                                                  
  
@@ -803,8 +510,6 @@ AYES:
 ABSENT:
          
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -812,8 +517,9 @@ ABSENT:
 
  
  6.
-       
- 2004.0545DDDDD
+<<Project End>>
+<<Project Start>>
+2004.0545DDDDD
                                  
  
                               
@@ -865,8 +571,9 @@ ABSENT:
 
 
 7a.
-       
- 2004.1266
+<<Project End>>
+<<Project Start>>
+2004.1266
 C
 DZ
                                                               
@@ -917,8 +624,9 @@ ABSENT:
 
 
 7b.
-       
- 2004.1266C
+<<Project End>>
+<<Project Start>>
+2004.1266C
 D
 Z
                                                   
@@ -970,8 +678,9 @@ ABSENT:
 
 
 7c.
-       
- 2004.1266CD
+<<Project End>>
+<<Project Start>>
+2004.1266CD
 Z
                                                   
  
@@ -1027,8 +736,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1322,8 +1029,6 @@ An email was sent to Supervisor Peskin yesterday by the Convention and Visitor�
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1431,16 +1136,15 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 ITEM #11 HEARD OUT OF ORDER.
  
  FOLLOWED ITEM # 12:
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-       
- 2004.0533C
+<<Project End>>
+<<Project Start>>
+2004.0533C
                                                                
  
       
@@ -1504,8 +1208,6 @@ ABSENT:
 MOTION:
           
  17068
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1513,8 +1215,9 @@ MOTION:
 
            
  12.
-       
- 2005.0579C
+<<Project End>>
+<<Project Start>>
+2005.0579C
                                                       
  
               
@@ -1585,8 +1288,8 @@ F.
            
  
 13a.
-     
- 
+<<Project End>>
+<<Project Start>>
 2005.0106B
 C
 K
@@ -1714,8 +1417,6 @@ This project would impact the City in a very positive way.
 ACTION:
           
  Approved with modified amendments:
-<<Project End>>
-<<Project Start>>
 
 
 19.
@@ -1807,8 +1508,9 @@ ABSENT:
 
            
  13b.
-     
- 2005.0106
+<<Project End>>
+<<Project Start>>
+2005.0106
 B
 C 
                                        
@@ -1852,8 +1554,6 @@ SPEAKERS:
 ACTION:
           
  Approved with modified amendments:
-<<Project End>>
-<<Project Start>>
 
 
 19.
@@ -1937,16 +1637,15 @@ ABSENT:
 MOTION:
           
  17070
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 2000.1164E
+<<Project End>>
+<<Project Start>>
+2000.1164E
                                                                
  
   
@@ -2130,8 +1829,6 @@ ACTION:
  Meeting held.
  
  No Action
-<<Project End>>
-<<Project Start>>
 
 
                        
@@ -2139,8 +1836,8 @@ ACTION:
 
            
  15.
-       
- 
+<<Project End>>
+<<Project Start>>
 2003.0347E
                                                       
  
@@ -2281,8 +1978,6 @@ G.
  Each member of the public may address the
  
 Commission for up to three minutes.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2293,8 +1988,9 @@ Commission for up to three minutes.
 
            
  16.
-       
- 2001.0062E
+<<Project End>>
+<<Project Start>>
+2001.0062E
                                           
  
                                  
@@ -3376,8 +3072,9 @@ MOTION:
 
 
 17a.
-     
- 2001.0062U
+<<Project End>>
+<<Project Start>>
+2001.0062U
  
  
                                                                 
@@ -3820,8 +3517,9 @@ MOTION:
 
 
 17b.
-     
- 2001.0062E
+<<Project End>>
+<<Project Start>>
+2001.0062E
 DD
  
  
@@ -3861,8 +3559,6 @@ SPEAKERS:
 ACTION:
           
  Took Discretionary Review and approved as modified with the following conditions:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -3872,8 +3568,6 @@ ACTION:
  identified and discussed in the Draft EIR document with “Access Alternative F” as identified and discussed the “Response to Comments” document.
  
  The project sponsor shall be permitted to provide up to 585 parking spaces.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -3884,22 +3578,16 @@ ACTION:
  For the proposed project, it is estimated that approximately 140,000 gross square feet shall be subject to the Jobs Linkage Housing Fee (an equivalent in-lieu fee of approximately $1,953,000 (Planning Code Section 313.6))
  
  This amount may change slightly, depending on the final square footage of the new structure.
-<<Project End>>
-<<Project Start>>
 
 
 3.
  
  The minimum one-hundred (100) positions that the project sponsor has committed to providing residents of the Bayview Hunters Point area through its First Source Hiring Agreement with the City shall be permanent year-round positions.
-<<Project End>>
-<<Project Start>>
 
 
 4.
   
  Home Depot shall make a good faith effort to work with the City to accommodate a day laborer program in the City of San Francisco.
-<<Project End>>
-<<Project Start>>
 
 
 5.
@@ -3907,8 +3595,6 @@ ACTION:
  The project sponsor shall submit a report to the Planning Director on the traffic conditions of the site eighteen months after opening, which shall be made available to the public and the Planning Commission.
  
  At the Commission’s discretion, an informational hearing may be held.
-<<Project End>>
-<<Project Start>>
  
 
 

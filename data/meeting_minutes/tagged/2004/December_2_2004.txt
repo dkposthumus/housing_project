@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 2, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ December 2, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-December 2, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 2, 2004
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 2, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Dwight Alexander; Michael J. Antonini, Shelley Bradford Bell,
-
-Kevin Hughes, Sue Lee; William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Dean Macris - Interim Director of Planning; Larry Badiner - Zoning Administrator; Elaine Tope; Dario Jones; Nora Priego - Transcription Secretary; Jonas Ionin - Acting Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2004.0798D                                                      (M. SMITH: (415) 558-6322)
 
 
@@ -382,8 +142,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 3. (M. FOSTER (415) 558 - 6362)
 
 
@@ -418,12 +176,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 4. 2003.0228E (N. TURRELL: (415) 558-5995)
 
 
@@ -559,12 +311,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 6. 2004.0939TZ (P. LORD: (415) 558-6311) 
 
 
@@ -600,8 +346,6 @@ SPEAKER(S): None
 ACTION: Withdrawn
 <<Project End>>
 <<Project Start>>
-
-
 7. 2004.0666DD (S. SNYDER: (415) 558-6543)
 
 
@@ -638,12 +382,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review Application was Withdrawn.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 8. 2004.0760DDDD (T. TAM: (415) 558-6325)
 
 
@@ -702,9 +440,6 @@ ABSENT: Alexander and Hughes
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 9.  Commission Comments/Questions
 
 
@@ -717,8 +452,6 @@ Commissioner Bradford Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 10. Director's Announcements
 
 
@@ -774,8 +507,6 @@ Re:  Rincon Hill
 - It would be a good idea to schedule something in the future.  He will be meeting with the Commission individually and will schedule something in mid January 2005.
 <<Project End>>
 <<Project Start>>
-
-
 11. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -811,8 +542,6 @@ Re:  Reports
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12. 2004.0649C                                                  (E. TOPE: (415) 558-6316)
 
 
@@ -884,8 +613,6 @@ ABSENT: Alexander and Hughes
 MOTION: 16893
 <<Project End>>
 <<Project Start>>
-
-
 13.  2004.1029C                        (D. JONES:  (415) 558-6477)
 
 
@@ -972,8 +699,6 @@ ABSENT: Alexander and Hughes
 MOTION: 16894
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0964C                    (G. NELSON: (415) 558-6257)
 
 
@@ -1018,8 +743,6 @@ ABSENT: Alexander and Hughes
 MOTION: 16895
 <<Project End>>
 <<Project Start>>
-
-
 15. 2004.0353C                  (G. NELSON at (415) 558-6257)
 
 
@@ -1051,8 +774,6 @@ ABSENT: Alexander and Hughes
 MOTION: 16896
 <<Project End>>
 <<Project Start>>
-
-
 16. 2004.0501C                                             (G. NELSON: (415) 558-6257)
 
 
@@ -1082,8 +803,6 @@ ABSENT: Alexander and Hughes
 MOTION: 16897
 <<Project End>>
 <<Project Start>>
-
-
 17. 1996.546E      (N. TURRELL: (415)  558-5994)
 
 
@@ -1340,8 +1059,6 @@ Aurelius Walker
 ACTION: Hearing Held.  No action required at this time.
 <<Project End>>
 <<Project Start>>
-
-
 18. 2004.1209U                        (J. LAU: (415) 558-6383)
 
 
@@ -1398,8 +1115,6 @@ ABSENT: Hughes and Olague
 MOTION: 16898
 <<Project End>>
 <<Project Start>>
-
-
 19. 2004.1207DD        (G. NELSON: (415) 558-6257)
 
 
@@ -1488,8 +1203,6 @@ rd
 AYES: Alexander, Antonini, Bradford Bell, W. Lee, S. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
 20. 2004.0837D                                             (M. WOODS: (415) 558-6315)
 
 
@@ -1579,8 +1292,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 21. 2004.1167DD                          (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1606,8 +1317,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 22. 2004.0361D                                    (M. SMITH: (415) 558-6322)
 
 
@@ -1751,8 +1460,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 23. 2004.1180D                                                    (M. SMITH: (415) 558-6322)
 
 
@@ -1776,8 +1483,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee, Olague
 ABSENT: Alexander and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 24. 2004. 0899D           (D. WASHINGTON: (415) 558-6443)
 
 

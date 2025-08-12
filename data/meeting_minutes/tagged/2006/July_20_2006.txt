@@ -1,275 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 20, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ July 20, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-July 20, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 20, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 20, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Dwight Alexander; Michael Antonini; William Lee; Kathrin Moore; Christina Olague; and Hisashi Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT DWIGHT ALEXANDER AT 1:48 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Larry Badiner – Zoning Administrator; Sarah Dennis; Dan Sider; Glen Cabreros; Elaine Tope; Susan Cleveland-Knowles – Deputy City Attorney; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2006.0274D
+2006.0274D
  
  
  
@@ -311,8 +41,9 @@ AYES:
 
 
 1b.
- 
- 2006.0276D
+<<Project End>>
+<<Project Start>>
+2006.0276D
  
  
  
@@ -360,8 +91,9 @@ AYES:
 
 
 2a.
- 
- 2006.0385D 
+<<Project End>>
+<<Project Start>>
+2006.0385D 
  
  
  
@@ -408,8 +140,9 @@ AYES:
 
 
 2b.
- 
- 2006.0386V
+<<Project End>>
+<<Project Start>>
+2006.0386V
  
  
  
@@ -447,16 +180,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2004.0745E
+<<Project End>>
+<<Project Start>>
+2004.0745E
  
  
  
@@ -512,8 +244,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -521,8 +251,9 @@ AYES:
 
  
  4.
- 
- 2006.0745C
+<<Project End>>
+<<Project Start>>
+2006.0745C
  
  
  
@@ -560,16 +291,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2002.1263U
+<<Project End>>
+<<Project Start>>
+2002.1263U
  
  
  
@@ -632,8 +362,6 @@ Adoption of Commission Minutes
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
  
  A vote on the minutes is different from a vote on a permit; the vote doesn't have the same adjudicative and due process implications.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -675,8 +403,6 @@ AYES:
 EXCUSED:
  
  Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1111,8 +837,6 @@ I will let you know this week a date for the discussion.
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1129,8 +853,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1757,8 +1479,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  10a.
- 
- 2005.0328D
+<<Project End>>
+<<Project Start>>
+2005.0328D
  
  
  
@@ -1803,8 +1526,9 @@ AYES:
 
  
  10b.
- 
- 2005.0332D
+<<Project End>>
+<<Project Start>>
+2005.0332D
  
  
  
@@ -1848,16 +1572,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0402D
+<<Project End>>
+<<Project Start>>
+2005.0402D
  
  
  
@@ -1961,8 +1684,6 @@ EXCUSED:
 F.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1970,8 +1691,9 @@ F.
 
 
 12.
- 
- 2006.0409D
+<<Project End>>
+<<Project Start>>
+2006.0409D
  
  
  

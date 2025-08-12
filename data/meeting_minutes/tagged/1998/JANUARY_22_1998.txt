@@ -1,77 +1,4 @@
 <<Project Start>>
-` 
-MINUTES OF MEETING AND CALENDAR 
-
-
-OF THE 
-
-
-SAN FRANCISCO 
-
-
-PLANNING COMMISSION 
-
-
-REGULAR MEETING 
-
-
-THURSDAY 
-
-
-JANUARY 22, 1998 
-
-
-ROOM 428 
-
-
-WAR MEMORIAL BUILDING 
-
-
-401 VAN NESS AVENUE 
-
-
-1:30 P.M. 
-
-
-PRESENT: Hector Chinchilla - President, Dennis Antenore, Richard Hills, Cynthia
-Joe, Beverly Mills, Anita Theoharis - Vice President
- 
-
-
-ABSENT: Larry Martin
- 
-
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 1:40 P.M.
- 
-
-
-
-
-
-
-STAFF IN ATTENDANCE: Gerald Green - Director of Planning, Robert PASSMORE -
-Zoning Administrator, Augustine Fallay, Paul Maltzer, Grace Hing, Caron Parker, Susana
-Monta?a, Delvin Washington, Adam Light, Paul Rosetter, Jonathan Purvis, Linda Avery -
-Commission Secretary
-. 
-
-
-
-
-
-
-A. 
-ITEMS TO BE CONTINUED
-<<Project End>>
-<<Project Start>>
- 
-
-
 1. 96.641T (ARCE) 
 
 
@@ -107,13 +34,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 2. 97.848C (NICHOL) 
 
 
@@ -144,13 +64,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 3. 96.099E (NISHIMURA) 
 
 
@@ -193,13 +106,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 4. 97.214C (OMOKARO) 
 
 
@@ -234,13 +140,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 5. 97.629E (NAVARRETE) 
 
 
@@ -278,13 +177,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 6. 97.676C (PURVIS) 
 
 
@@ -315,13 +207,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 7. 97.655E (GLASNER) 
 
 
@@ -362,13 +247,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 8. 97.215X (NIXON) 
 
 
@@ -408,13 +286,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 9. 97.215B (NIXON) 
 
 
@@ -450,13 +321,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 10. 96.643X (NIXON) 
 
 
@@ -489,13 +353,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 11. 96.643B (NIXON) 
 
 
@@ -601,9 +458,6 @@ Chinchilla: Calendar the live/work policy matter on 2/26 with material in
 Commission packets and available to the public by 2/19
 <<Project End>>
 <<Project Start>>
- 
-
-
 12. Consideration of Adoption: Draft Minutes from 1/8/98. 
 
 
@@ -666,13 +520,6 @@ F.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 13. 97.439E (PARKER) 
 
 
@@ -718,13 +565,6 @@ ABSENT: Martin
 MOTION No.: 14533
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 14. 97.481E (PARKER) 
 
 
@@ -769,13 +609,6 @@ ABSENT: Martin
 MOTION No.: 14534
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 15. 97.526E (NAVARRETE) 
 
 
@@ -808,13 +641,6 @@ AYES: : Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 16. 97.669C (HING) 
 
 
@@ -852,13 +678,6 @@ ABSENT: Martin
 MOTION No.: 14535
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 17. 97.376
 C
 V (PUTRA) 
@@ -909,13 +728,6 @@ ABSENT: Martin
 MOTION No.: 14536
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 18. 97.863ET (ROSETTER) 
 
 
@@ -968,13 +780,6 @@ ABSENT: Martin
 MOTION No.: 14537
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 19. 97.783C (ZWIERZYCKI) 
 
 
@@ -1015,8 +820,6 @@ AT APPROXIMATELY 4:40 P.M. THE PLANNING COMMISSION CONVENED
 INTO A SPECIAL DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
 20. 97.733D (WASHINGTON) 
 
 
@@ -1060,13 +863,6 @@ NOES: Antenore, Joe
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 21. 97.226D (ARCE) 
 
 
@@ -1097,13 +893,6 @@ AYES: : Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 22. 97.731D/DD (LIGHT) 
 
 
@@ -1131,13 +920,6 @@ AYES: : Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 23. 97.735D (BEATTY) 
 
 
@@ -1166,13 +948,6 @@ AYES: : Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 24. 97.733D (LIGHT) 
 
 
@@ -1199,13 +974,6 @@ AYES: : Chinchilla, Theoharis, Mills, Hills, Joe, Antenore
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 25. 97.881D (LIGHT) 
 
 
@@ -1219,13 +987,6 @@ single-family dwelling in a RH-2 (House, Two-Family) District.
 DISCRETIONARY REVIEW WITHDRAWN
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 26. 97.865D (GORDON) 
 
 
@@ -1239,13 +1000,6 @@ currently vacant lot in a R-2 (House, Two-Family) District.
 DISCRETIONARY REVIEW WITHDRAWN
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 27. 97.496D (BA?ALES) 
 
 
@@ -1298,13 +1052,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills
 NOES: Antenore, Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 28. 97.838D (PURVIS) 
 
 
@@ -1330,13 +1077,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Antenore, Joe
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 29. 97.839D (PURVIS) 
 
 
@@ -1362,13 +1102,6 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Antenore, Joe
 ABSENT: Martin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 30. 97.439D/DD (ANDRADE) 
 
 

@@ -1,275 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 6, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ April 6, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-April 6, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 6, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 6, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Sue Lee; Dwight Alexander; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; Christina Olague; William Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris-Director of Planning, Larry Badiner-Zoning Administrator, Louis Scott, Diana Sokolove, Bill Wycko, Mary Woods, Shaun Mendrin, Michael E. Smith, Elaine Forbes, Craig Nikitas, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.1042D
+2005.1042D
  
  
  
@@ -306,8 +36,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 
 
 2a.
- 
- 2005.0946
+<<Project End>>
+<<Project Start>>
+2005.0946
 X
 V
  
@@ -369,8 +100,9 @@ ABSENT:
 
 
 2b.
- 
- 2005.0946X
+<<Project End>>
+<<Project Start>>
+2005.0946X
 V
  
  
@@ -417,16 +149,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2004.0973C
+<<Project End>>
+<<Project Start>>
+2004.0973C
  
  
  
@@ -480,16 +211,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.1071C 
+<<Project End>>
+<<Project Start>>
+2005.1071C 
  
  
  
@@ -611,8 +341,6 @@ I wish you would vote no on the continuance.
 B.
  
  COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1117,8 +845,6 @@ Amit Ghosh, Chief Planner
  The entire program was videotaped.
  
  The video is also available on our Planning web page.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1703,8 +1429,6 @@ Bradley Wiedmayer
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1713,8 +1437,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 9.
- 
- 2001.1149E
+<<Project End>>
+<<Project Start>>
+2001.1149E
  
  
 (Tape IB)
@@ -1766,16 +1491,14 @@ AYES:
 MOTION:
  
  17217
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2003.0410E
  
  
@@ -1861,8 +1584,6 @@ MOTION:
 G.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1870,8 +1591,9 @@ G.
 
 
 11.
- 
- 2003.0410C
+<<Project End>>
+<<Project Start>>
+2003.0410C
  
  
 (Tape IB; IIA; IIB; IIIA)
@@ -3309,16 +3031,14 @@ AYES:
 MOTION:
  
  17219
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0088C
  
  
@@ -3386,16 +3106,15 @@ ABSENT:
 MOTION:
  
  17220
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2005.0804C
+<<Project End>>
+<<Project Start>>
+2005.0804C
  
  
 (Tape IIIB)
@@ -3504,16 +3223,15 @@ NAYES:
  MOTION:
  
  17221
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2005.0740C
+<<Project End>>
+<<Project Start>>
+2005.0740C
  
  
  
@@ -3557,8 +3275,9 @@ AYES:
 
 
 15a.
- 
- 2005.1056
+<<Project End>>
+<<Project Start>>
+2005.1056
 C
 V
  
@@ -3641,8 +3360,9 @@ MOTION:
 
 
 15b.
- 
- 2005.1056C
+<<Project End>>
+<<Project Start>>
+2005.1056C
 V
  
  (M. SMITH:
@@ -3678,16 +3398,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0076D
+<<Project End>>
+<<Project Start>>
+2006.0076D
  
  
 (Tape IIIA; IIIB)
@@ -3860,16 +3579,15 @@ AYES:
  ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.0218D
+<<Project End>>
+<<Project Start>>
+2006.0218D
  
  
  
@@ -3903,16 +3621,15 @@ ACTION:
 AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague; W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0384B
+<<Project End>>
+<<Project Start>>
+2006.0384B
  
  
 (Tape IIIB)
@@ -3993,16 +3710,15 @@ ABSENT:
 MOTION:
  
  17223
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2006.0093E
+<<Project End>>
+<<Project Start>>
+2006.0093E
 T
  
  
@@ -4321,8 +4037,6 @@ MOTION:
  
  (
 J. Ionin: (415) 558-6309)
-<<Project End>>
-<<Project Start>>
 
 
 20.

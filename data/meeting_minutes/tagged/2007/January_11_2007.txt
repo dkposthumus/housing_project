@@ -1,281 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ January 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-January 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 11, 2007
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 11, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY ACTING CHAIR ANTONINI AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Craig Nikitas, Michael Li, April Hesik, Sara Vellve, Michelle Glueckert, Scott Sanchez, Sara Jones, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2006.0451A
+2006.0451A
 C
 V
  
@@ -326,8 +50,9 @@ ABSENT:
 
 
 1b.
- 
- 2006.0451AC
+<<Project End>>
+<<Project Start>>
+2006.0451AC
 V
  
  
@@ -370,16 +95,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2005.0030E 
+<<Project End>>
+<<Project Start>>
+2005.0030E 
  
  
  
@@ -434,16 +158,15 @@ AYES:
 ABSENT:
  
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0070
+<<Project End>>
+<<Project Start>>
+2006.0070
 E
 T
  
@@ -519,8 +242,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -551,8 +272,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -766,8 +485,6 @@ In the Examiner about a week ago there was an article about absences.
  I just wanted members of the public to know that in the case of Mr. Alexander it had to do with his mother passing.
  
  It was a long process that was off and on for about a year.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -780,8 +497,6 @@ In the Examiner about a week ago there was an article about absences.
  6.
  
  Proposed adoption of Planning Commission hearing schedule for
-<<Project End>>
-<<Project Start>>
  
 2007.
 
@@ -818,8 +533,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -859,8 +572,6 @@ AYES:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1098,16 +809,14 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1407U
  
  
@@ -1158,8 +867,6 @@ AYES:
 
 
 F.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1168,8 +875,8 @@ F.REGULAR CALENDAR
 
 
 11.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1333D 
  
  
@@ -1383,8 +1090,9 @@ NAYES:
 
 
 12a.
- 
- 2005.0259V
+<<Project End>>
+<<Project Start>>
+2005.0259V
 D
  
  
@@ -1434,8 +1142,9 @@ AYES:
 
 
 12b.
- 
- 2005.0259
+<<Project End>>
+<<Project Start>>
+2005.0259
 V
 D 
  
@@ -1466,16 +1175,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.0102D
+<<Project End>>
+<<Project Start>>
+2006.0102D
  
  
  
@@ -1547,8 +1255,9 @@ NAYES:
 
 
 14a.
- 
- 2005.0739
+<<Project End>>
+<<Project Start>>
+2005.0739
 C
 P
  
@@ -1619,8 +1328,8 @@ ABSENT:
 
 
 14b
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0739C
 P
  
@@ -1672,16 +1381,15 @@ AYES:
  MOTION:
  
  17353
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.0734C 
+<<Project End>>
+<<Project Start>>
+2006.0734C 
  
  
  
@@ -1805,8 +1513,9 @@ AYES:
 
 
 16a.
- 
- 2004.1245EKV
+<<Project End>>
+<<Project Start>>
+2004.1245EKV
 X
  
  
@@ -1854,8 +1563,9 @@ ABSENT:
 
 
 16b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -1898,8 +1608,9 @@ ABSENT:
 
 
 17a.
- 
- 2006.0134EV
+<<Project End>>
+<<Project Start>>
+2006.0134EV
 X
  
  
@@ -1952,8 +1663,9 @@ AYES:
 
 
 17b.
- 
- 2006.0134E
+<<Project End>>
+<<Project Start>>
+2006.0134E
 V
 X
  
@@ -1998,16 +1710,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.1284E
+<<Project End>>
+<<Project Start>>
+2006.1284E
 T
  
  
@@ -2046,8 +1757,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2055,8 +1764,8 @@ AYES:
 
  
  19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1399E
 T
  
@@ -2111,8 +1820,6 @@ AYES:
  RESOLUTION:
  
  17355
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2121,8 +1828,9 @@ AYES:
  
  
 20.
- 
- 2006.1400E
+<<Project End>>
+<<Project Start>>
+2006.1400E
 T
  
  
@@ -2334,8 +2042,6 @@ Emeric Kalman
 
 
 -Requested that the Commission not approve the certification.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2343,8 +2049,9 @@ Emeric Kalman
 
  
  21.
- 
- 2002.1129E
+<<Project End>>
+<<Project Start>>
+2002.1129E
  
  
  
@@ -2415,16 +2122,15 @@ RESOLUTION:
 
 
 7:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2003.0347MTZ
+<<Project End>>
+<<Project Start>>
+2003.0347MTZ
  
  
  
@@ -2482,8 +2188,6 @@ Draft Schedule for Planning Commission Hearing
 
 
 This calendar gives notice that the Planning Commission will be hearing the following aspects of the Market & Octavia Plan on or after December 14,
-<<Project End>>
-<<Project Start>>
  
  2006.
  

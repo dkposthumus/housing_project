@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ October 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-October 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 12, 2006
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 12, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
- 
- Alexander, Olague, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- 
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT: 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner; Craig Nikitas, Isolde Wilson, Michael E. Smith, Michael Jacinto, Kate Conner, Michael Li, Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2006.0734C
+2006.0734C
  
  
 (M. GLUECKERT: (415) 558-6543)
@@ -326,8 +43,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -340,8 +55,9 @@ AYES:
 
 
 2.
- 
- 2006.0821D
+<<Project End>>
+<<Project Start>>
+2006.0821D
  
  
  
@@ -385,8 +101,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -850,8 +564,6 @@ There will be a full calendared hearing; public notice on this in the future and
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1619,8 +1331,6 @@ The vote was 5 to 0.
 
 
 The nice guy won.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2041,8 +1751,6 @@ You have a very important responsibility that would be chartered out to provide 
 
 
 E.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2051,8 +1759,9 @@ E.REGULAR CALENDAR
 
 
 7.
- 
- 2006.1018D
+<<Project End>>
+<<Project Start>>
+2006.1018D
  
  
  
@@ -2087,16 +1796,15 @@ ACTION:
  
  
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.0898D
+<<Project End>>
+<<Project Start>>
+2006.0898D
  
  
  
@@ -2384,16 +2092,15 @@ ACTION:
  NAYES:
  
  Moore and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2005.0634E
+<<Project End>>
+<<Project Start>>
+2005.0634E
  
  
  
@@ -2507,8 +2214,6 @@ ACTION:
  Hearing held to receive public/commission comment only.
  
  No action taken.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2516,8 +2221,8 @@ ACTION:
 
  
  10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1024C
  
  
@@ -2604,16 +2309,15 @@ AYES:
 MOTION:
  
  17320
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0522C
+<<Project End>>
+<<Project Start>>
+2006.0522C
  
  
  

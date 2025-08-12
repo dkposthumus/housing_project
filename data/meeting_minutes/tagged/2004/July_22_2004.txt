@@ -1,257 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 22, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ July 22, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-July 22, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 22, 2004
- 
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 22, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, 
-    Shelley Bradford Bell, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- Shelley Bradford Bell 
-    and Kevin Hughes
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT 
-    SUE LEE AT 1:32 p.m.
-
-
-STAFF IN ATTENDANCE:
- Gerald Green - Director 
-    of Planning and Acting Zoning Administrator; Susan Cleveland-Knowles - Deputy 
-    City Attorney; Jim Miller; Rick Crawford; Elaine Tope, Sara Vellve, Nora Priego 
-    - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The Commission will consider a request for continuance to a later date. The 
-    Commission may choose to continue the item to the date proposed below, to 
-    continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
 1. 2004.0365DD (G. CABREROS: (415) 558-6169)
 
 
@@ -415,8 +162,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 3. 2004.0338DDD (D. DIBARTOLO: (415) 558-6291)
 
 
@@ -463,8 +208,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 4. 2004.0251C (S. VELLVE: (415) 558-6263)
 
 
@@ -508,8 +251,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.1177C (E. TOPE: (415) 558-6316)
 
 
@@ -560,13 +301,6 @@ ACTION: Project Application Withdrawn
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 6. Consideration of Adoption - Draft Minutes of June 24, 2004
 
 
@@ -582,8 +316,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 7. Commission Comments/Questions
 
 
@@ -746,12 +478,6 @@ Re: Code of Order for Choosing a Planning Director
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 8. Director's Announcements
 
 
@@ -762,8 +488,6 @@ Re Newspaper Article
         his resignation. This information is not true.
 <<Project End>>
 <<Project Start>>
-
-
 9. Review of Past Week's Events at the Board of Supervisors and Board 
         of Appeals
 
@@ -1284,8 +1008,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 11. 2004.0421C (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1341,8 +1063,6 @@ ABSENT: Bradford Bell and Hughes
 MOTION: 16840
 <<Project End>>
 <<Project Start>>
-
-
 12. 2004.0506D (R. CRAWFORD: (415) 558-6358)
 
 
@@ -1434,8 +1154,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.1254D (E. TOPE: (415) 558-6316)
 
 
@@ -1642,8 +1360,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 14. 2004.0409D (E. TOPE: (415) 558-6316)
 
 
@@ -1788,8 +1504,6 @@ AYES: Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 15. 2004.0299DDD (S. VELLVE: (415) 558-6263)
 
 
@@ -2242,12 +1956,6 @@ Item 16 was taken out of order and followed item
     11:
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 16. 2004.0127D (G. NELSON: (415) 558-6257)
 
 

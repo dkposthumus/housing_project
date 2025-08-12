@@ -1,314 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 17, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ November 17, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-November 17, 2011 - Regular Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 17, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Fong, Moore, and Sugaya
-
-
-COMMISSIONER ABSENT: Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT MIGUEL AT 12:25 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Aaron Starr, Ben Fu, Sharon Young, Sharon Lai, Adrian Putra,  and Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-            1.         2009.0156E                                                                         (J. BATTIS: (415) 575-9022)  
-
-
-89 BELGRAVE AVENUE
- 
-- south side between Stanyan and Shrader Streets; Lot 072 of Assessor’s Block 2688 - 
-Appeal of Preliminary Mitigated Negative Declaration
- for the proposed project entailing 
-1) subdivision of an existing 7,500-square foot parcel into two lots, resulting in an approximately 4,200-sq ft lot with 42 feet of frontage along Belgrave Avenue containing an existing single-family residence, and a second undeveloped approximately 3,300-sq ft parcel with 33 feet of frontage along Belgrave Avenue to the west of the existing building; 2) enlarging an existing 2,270-sq ft residence by approximately 2,000 sq ft, resulting in an approximately 4,210-sq ft, approximately 37-foot-high building with two off-street parking spaces; and 3) construction of a new approximately 3,971-sq ft, 37-foot-high three-story-over two-car garage single-family residence. The project site is located within an RH-1(D) (Residential House, One-Family (Detached Dwelling)) District and a 
-40-X 
-Height and Bulk District in the Haight-Ashbury neighborhood. The proposed project would require a variance from the minimum lot area requirements.
-
-
-                        
-(Continued from Regular Meeting of October 6, 2011)
-
-
-                        
-(Proposed for Continuance to 
-January 12
- February 9
-, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued to February 9, 2012
-
-
-AYES:              Olague, 
-Miguel, Antonini, Fong, Moore, and Sugaya
-
-
-ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.             
 2011.0471
 C
                                                                                 
@@ -350,7 +40,9 @@ ABSENT:          Borden
 
 
 3a
-.        
+.
+<<Project End>>
+<<Project Start>>
 2010.0959CV 
                                                                     (D. SANCHEZ: (415) 575-9082)
 
@@ -391,7 +83,9 @@ ABSENT:          Borden
  
 
 
-3b.       
+3b.
+<<Project End>>
+<<Project Start>>
 2010.0959CV
                                                                      (D. SANCHEZ: (415) 575-9082)
 
@@ -424,8 +118,6 @@ Miguel, Antonini, Fong, Moore, and Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -479,14 +171,14 @@ B.        CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
                                                                             
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.0256C
                                                                          (A. PUTRA: (415) 575-9079)
 
@@ -535,8 +227,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -569,8 +259,6 @@ Miguel, Antonini, Fong, Moore, and Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -632,8 +320,6 @@ The latest issue of the San Francisco Times is carrying an article on the new co
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -648,9 +334,7 @@ D.         DIRECTOR’S REPORT
 Director Rahaim:
 
 
-I just want to report on the zoning conference in New York. This was unusually good. Basically, this was to give ideas to New York City on how to get along with the zoning changes. The City is growing at an incredible pace with 200,000 residents. The growth in New York is almost unprecedented. They are expected to be about 9 million soon. This was a very interesting topic because they looked at the zoning with speakers from the city, and in the afternoon they had speakers from other cities including Washington and London, to talk about future changes. This was very well organized and I was happy to be part of the discussion.  Following Commissioner Miguel and his comments about rental housing -- the actual project will move forward in the discussion, the largest of which is the Crescent Heights Development, which started construction a couple of weeks ago. This is a very large project. Behind that, there is the affordable housing that they are also moving ahead with. I would just like to remind the Commissioners that in light of the Thanksgiving Holidays the Department will be closed on Wednesday, Thursday and Friday. The office will be closed for three days next week.
-<<Project End>>
-<<Project Start>>
+I just want to report on the zoning conference in New York. This was unusually good. Basically, this was to give ideas to New York City on how to get along with the zoning changes. The City is growing at an incredible pace with 200,000 residents. The growth in New York is almost unprecedented. They are expected to be about 9 million soon. This was a very interesting topic because they looked at the zoning with speakers from the city, and in the afternoon they had speakers from other cities including Washington and London, to talk about future changes. This was very well organized and I was happy to be part of the discussion.  Following Commissioner Miguel and his comments about rental housing -- the actual project will move forward in the discussion, the largest of which is the Crescent Heights Development, which started construction a couple of weeks ago. This is a very large project. Behind that, there is the affordable housing that they are also moving ahead with. I would just like to remind the Commissioners that in light of the Thanksgiving Holidays the Department will be closed on Wednesday, Thursday and Friday. The office will be closed for three days next week. 
 
 
  
@@ -739,15 +423,15 @@ Sue Hestor
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
                         
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2011.0172T
                                                                          (A. STARR: (415) 558-6362)
 
@@ -781,14 +465,14 @@ ABSENT:          Borden
 
 RESOLUTION:   
 18497
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2005.0233C
                                                                                  (B. FU: (415) 558-6613)
 
@@ -826,14 +510,14 @@ Miguel, Antonini, Fong, Sugaya
 
 
 ABSENT:          Borden, Moore
-<<Project End>>
-<<Project Start>>
 
 
             
 
 
-         12.           
+         12.
+<<Project End>>
+<<Project Start>>
 2011.0879D
                                                                         (S. YOUNG: (415) 558-6346)
 
@@ -864,14 +548,14 @@ Moore
 
 DRA:                
 0242
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-         13.           
+         13.
+<<Project End>>
+<<Project Start>>
 2011.0682DD
                                                                              (S. LAI: (415) 575-9087)
 
@@ -901,14 +585,14 @@ Miguel, Antonini, Fong, Moore, and Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.           
+14.
+<<Project End>>
+<<Project Start>>
 2010.0506DD
                                                                         (A. PUTRA: (415) 575-9079)
 
@@ -940,14 +624,14 @@ Miguel, Antonini, Fong, Moore, and Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2010.0468DD
                                                                        (A. PUTRA: (415) 575-9079)
 

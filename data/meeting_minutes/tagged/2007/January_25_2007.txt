@@ -1,284 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ January 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-January 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 25, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 25, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER
- 
- AT
- 
- 1:31 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Alicia John-Baptiste, Glenn Cabreros, April Hasik, Elizabeth Watty, Michael Li, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0949DDDDDDD
+2006.0949DDDDDDD
  
  
  
@@ -346,16 +67,15 @@ AYES:
 ABSENT
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.1374C
+<<Project End>>
+<<Project Start>>
+2006.1374C
  
  
  
@@ -402,16 +122,15 @@ AYES:
 ABSENT
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.1379D
+<<Project End>>
+<<Project Start>>
+2006.1379D
  
  
  
@@ -664,8 +383,6 @@ Commissioner Sugaya
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -720,8 +437,6 @@ ACTION:
  Informational presentation only.
  
  No action required by Commission
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -810,8 +525,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -822,8 +535,9 @@ REGULAR CALENDAR
 
 
 9.
- 
- 2006.1064D
+<<Project End>>
+<<Project Start>>
+2006.1064D
  
  IB; IIA
  
@@ -926,16 +640,14 @@ AYES:
 ABSENT
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0339C
  
  IIA; IIB
@@ -1052,16 +764,15 @@ ABSENT
 MOTION:
  
  17364
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0690U
+<<Project End>>
+<<Project Start>>
+2005.0690U
  
  
  
@@ -1113,16 +824,15 @@ ABSENT
 MOTION:
  
  17365
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.1121G
+<<Project End>>
+<<Project Start>>
+2006.1121G
  
  IIB
  
@@ -1173,16 +883,15 @@ ABSENT
 MOTION:
  
  17366
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.1215G
+<<Project End>>
+<<Project Start>>
+2006.1215G
  
  IIB
  
@@ -1245,16 +954,14 @@ MOTION:
 
 
 Item 14 was taken out of order and followed the 15 minute Public Comment category
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1343M
  
  IA; IB

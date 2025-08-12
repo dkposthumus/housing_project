@@ -1,363 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ February 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-February 01, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 01, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-San Francisco Planning Commission --Feb 01, 01 -- Minutes
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-        
-      
-
-
-
-
-Commission Chambers 
-      - Room 400
-
-
-City Hall, 1 
-      Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 
-      1, 2001
-
-
-1:30 PM
-
-
-
-
-
-        
-      
-
-
-
-
-Regular Meeting
-
-
-
-
-
-        
-      
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-PRESENT:
- 
-Baltimore, 
-      Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
- 
-None
-
-
-
-
-
-        
-      
-
-
-
-
-THE MEETING WAS 
-      CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:38 p.m.
-
-
-
-
-
-        
-      
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. Green - Director 
-      of Planning; Larry Badiner - Zoning Administrator; Kenneth Chin; Scott Sanchez; 
-      Michael Li; Andrea Wong; Fallay; Matt Snyder; Craig Nikitas; Isolde Wilson; 
-      Nora Priego - Transcription Secretary; Linda Avery – Commission Secretary
-
-
-
-
-
-        
-      
-
-
-
-
-A.
- 
-ITEM 
-      PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-        
-      
-
-
-
-
- 
-1.
- 
 2000.428D
 
 
@@ -445,8 +86,6 @@ Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -488,8 +127,6 @@ Approved
 AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -526,9 +163,7 @@ He would like to have
       Windows.
  
 This was a matter brought 
-      to the Commission during Public Comment at the hearing held on January 25,
-<<Project End>>
-<<Project Start>>
+      to the Commission during Public Comment at the hearing held on January 25, 
       2001.
 
 
@@ -580,8 +215,6 @@ Visitation Valley Community Groups Update on February 15, 2001.
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -603,8 +236,6 @@ Director’s Announcements
 Jobs 
       Housing Linkage Program will be heard during the Finance Committee meeting 
       on February 8, 2001.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -687,8 +318,6 @@ D.
  
 REGULAR 
       CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -702,7 +331,8 @@ REGULAR
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.1031C
 
 
@@ -726,9 +356,7 @@ Request
 
 
 As per the City & County of San Francisco’s Wireless Transmission 
-      Services (WTS) Facilities Siting Guidelines the proposal is a Preference
-<<Project End>>
-<<Project Start>>
+      Services (WTS) Facilities Siting Guidelines the proposal is a Preference 
       6.
 
 
@@ -823,8 +451,6 @@ Baltimore, Chinchilla, Fay, Joe, Salinas,
 MOTION:
  
 16083
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -838,7 +464,8 @@ MOTION:
 
  
 7.
- 
+<<Project End>>
+<<Project Start>>
 2000.385C
 
 
@@ -956,8 +583,6 @@ Salinas
 MOTION:
  
 16084
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -972,7 +597,8 @@ MOTION:
 
 
 8.
- 
+<<Project End>>
+<<Project Start>>
 2000.1221C
 
 
@@ -1292,8 +918,6 @@ The Project Sponsor is then
  
 At the conclusion, each side (not each person) 
       is provided with two (2) minutes for a rebuttal.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1308,8 +932,8 @@ At the conclusion, each side (not each person)
 
  
 9.
-
-
+<<Project End>>
+<<Project Start>>
 2001.0036D
 
 
@@ -1427,8 +1051,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
       Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1442,8 +1064,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas,
 
  
 10.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1200D
 
 
@@ -1644,8 +1266,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
       Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1659,8 +1279,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas,
 
  
 11.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1203D
 
 
@@ -1784,8 +1404,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
       Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1799,7 +1417,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas,
 
  
 12.
- 
+<<Project End>>
+<<Project Start>>
 2000.945D
 
 
@@ -1943,8 +1562,6 @@ AYES:
  
 Baltimore, Chinchilla, Fay, Joe, Salinas, 
       Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1958,7 +1575,8 @@ Baltimore, Chinchilla, Fay, Joe, Salinas,
 
  
 13.
- 
+<<Project End>>
+<<Project Start>>
 1999.770DDDDD
 
 

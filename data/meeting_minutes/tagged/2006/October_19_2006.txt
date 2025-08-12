@@ -1,273 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 19, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ October 19, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-October 19, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 19, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 19, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Alexander, Olague, Antonini, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 2:00 P.M .
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning , Larry Badiner – Zoning Administrator, Jonathan Purvis, Scott Sanchez, Elizabeth Watty, Dan Dibartolo, Ken Rich, Lisa Gibson, Tim Frye, Rick Crawford, Michelle Glueckert, Kate Conner, Isolde Wilson, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0897D
+2006.0897D
  
  
  
@@ -324,8 +56,9 @@ AYES:
 
 2a
 .
- 
- 2006.0318
+<<Project End>>
+<<Project Start>>
+2006.0318
 D
 V
  
@@ -374,8 +107,9 @@ AYES:
 
 
 2b.
- 
- 2005.0318D
+<<Project End>>
+<<Project Start>>
+2005.0318D
 V
  
  
@@ -423,8 +157,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -576,8 +308,6 @@ Director's Announcements
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1057,8 +787,6 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1067,8 +795,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
  
  
 6.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0893C
  
  
@@ -1117,16 +845,15 @@ AYES:
 MOTION:
  
  17322
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2006.1052E
+<<Project End>>
+<<Project Start>>
+2006.1052E
 T
  
  
@@ -1181,8 +908,6 @@ RESOLUTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1191,8 +916,9 @@ REGULAR CALENDAR
 
 
 8.
- 
- 2006.0896C 
+<<Project End>>
+<<Project Start>>
+2006.0896C 
  
  
  
@@ -1313,8 +1039,8 @@ MOTION:
 
  
  9a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0356C
 R
  
@@ -1433,8 +1159,9 @@ MOTION:
 
  
  9b.
- 
- 2006.0356
+<<Project End>>
+<<Project Start>>
+2006.0356
 C
 R
  
@@ -1484,8 +1211,6 @@ NAYES:
 MOTION:
  
  17236
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1524,8 +1249,6 @@ ACTION:
  Meeting held.
  
  No action required.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1533,8 +1256,8 @@ ACTION:
 
  
  11.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1221E
  
  
@@ -1683,8 +1406,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Olague, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1694,8 +1415,9 @@ AYES:
 
 
 12.
- 
- 2006.0571L
+<<Project End>>
+<<Project Start>>
+2006.0571L
  
  
  
@@ -1750,8 +1472,6 @@ AYES:
 RESOLUTION
  
  17327
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1759,8 +1479,9 @@ RESOLUTION
 
  
  13.
- 
- 2005.0570D
+<<Project End>>
+<<Project Start>>
+2005.0570D
  
  
  
@@ -1787,16 +1508,15 @@ Preliminary Recommendation:
 
 
 DISCRETIONARY REVIEW APPLICATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0751D
+<<Project End>>
+<<Project Start>>
+2006.0751D
  
  
  
@@ -2202,8 +1922,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2216,8 +1934,9 @@ AYES:
 
 
 15.
- 
- 2006.0834D
+<<Project End>>
+<<Project Start>>
+2006.0834D
  
  
  
@@ -2351,16 +2070,15 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Olague, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.1085D
+<<Project End>>
+<<Project Start>>
+2006.1085D
  
  
  

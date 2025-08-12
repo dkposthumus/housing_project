@@ -1,281 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 16, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ April 16, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-April 16, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 16, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 16, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, Miguel, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:46 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, AnMarie Rodgers, Rick Crawford, Mary Woods, Michael Jacinto, Teresa Ojeda, Sara Dennis-Phillips, Scott Dowdee, Johnny Jaramillo, Michael Webster, Kearstin Dischinger, Debra Dwyer, Sarah Jones, Jonas Ionin, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.0135
+2008.0135
 U
 TZ
 U
@@ -318,16 +42,15 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.0388D
+<<Project End>>
+<<Project Start>>
+2008.0388D
  
  (S. VELLVE: (415) 558-6263)
 
@@ -386,16 +109,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0072C
+<<Project End>>
+<<Project Start>>
+2007.0072C
  
  
  
@@ -452,8 +174,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -722,8 +442,6 @@ Commissioner Lee:
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -751,8 +469,6 @@ Director Rahaim:
  There is a community plan open house next week on Tuesday, 4/21, from 6:30 to 8:30 p.m. at the Glenn Park Elementary School auditorium.
  
  Department staff is organizing this meeting along with the staff of the MTA, who is doing the environmental review on that project since it involves some specific improvements to the Glenn Park station area.
-<<Project End>>
-<<Project Start>>
  
  
 
@@ -956,8 +672,6 @@ None
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -966,8 +680,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 7.
- 
- 2008.0940C
+<<Project End>>
+<<Project Start>>
+2008.0940C
  
  
  
@@ -1032,16 +747,15 @@ NAYES:
  MOTION:
  
  17863
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2003.0527E
+<<Project End>>
+<<Project Start>>
+2003.0527E
  
  
  
@@ -1105,8 +819,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1174,8 +886,9 @@ ACTION:
 
 
 10a.
- 
- 2006.1065DDDD
+<<Project End>>
+<<Project Start>>
+2006.1065DDDD
  
  
  
@@ -1224,8 +937,9 @@ AYES:
 
  
  10b.
- 
- 2006.1065V
+<<Project End>>
+<<Project Start>>
+2006.1065V
  
  
  
@@ -1267,16 +981,15 @@ ACTION:
 AYES:
  
  Miguel, Antonini, Borden, Lee, Moore, Olague, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.1431E
+<<Project End>>
+<<Project Start>>
+2006.1431E
  
  
  
@@ -1337,8 +1050,9 @@ MOTION:
 
 
 12a.
- 
- 2006.1431E
+<<Project End>>
+<<Project Start>>
+2006.1431E
 U
 C
 U
@@ -1398,8 +1112,9 @@ AYES:
 
 
 12b.
- 
- 2006.1431EC
+<<Project End>>
+<<Project Start>>
+2006.1431EC
 U
 V
 U

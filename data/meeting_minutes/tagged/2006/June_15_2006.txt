@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 15, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ June 15, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-June 15, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 15, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-&
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 15, 2006
-
-
-2:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- President Sue Lee; Vice President Dwight Alexander; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; William Lee; and Christina Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 2:15 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Amit Ghosh; Jonathan Lau; Jonas Ionin; Isolde Wilson; Michael Jacinto; Mat Snyder; Moses Corrette; Elaine Tope; Ben Fu; Dan Sirois; Glen Cabreros; Kate McGee; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0661D
+2006.0661D
  
  
  
@@ -315,8 +43,6 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee, and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -324,8 +50,9 @@ AYES:
 
  
  2.
- 
- 2006.0087D
+<<Project End>>
+<<Project Start>>
+2006.0087D
  
  
  
@@ -375,8 +102,9 @@ AYES:
 
 
 3a.
- 
- 2005.1090
+<<Project End>>
+<<Project Start>>
+2005.1090
 C
 V
  
@@ -433,8 +161,9 @@ AYES:
 
 
 3b.
- 
- 2005.1090C
+<<Project End>>
+<<Project Start>>
+2005.1090C
 V
  
  
@@ -486,16 +215,14 @@ ACTION:
 AYES:
  
  Alexander, Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee, and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0688
 D
  
@@ -543,8 +270,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -583,8 +308,6 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1126,8 +849,6 @@ I'll thank Commissioner Shelley Bradford-Bell later.
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1144,8 +865,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1223,8 +942,6 @@ homeless housing at 150 Otis
 .
  
  It's informational, but I thought you might be interested in it.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1233,8 +950,8 @@ homeless housing at 150 Otis
 
 
 9.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074 
 U
  
@@ -1570,8 +1287,6 @@ What were your expectations a year ago?
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1660,16 +1375,15 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.1129C
+<<Project End>>
+<<Project Start>>
+2005.1129C
  
  
  
@@ -1724,8 +1438,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1735,8 +1447,9 @@ REGULAR CALENDAR
 
 
 12.
- 
- 2005.0552E
+<<Project End>>
+<<Project Start>>
+2005.0552E
  
  
  
@@ -1794,8 +1507,9 @@ MOTION:
 
 
 13a.
- 
- 2004.0552X
+<<Project End>>
+<<Project Start>>
+2004.0552X
  
  
  
@@ -1935,8 +1649,9 @@ MOTION:
 
 
 13b.
- 
- 2004.0552V
+<<Project End>>
+<<Project Start>>
+2004.0552V
  
  (M. SNYDER (415) 558-6891)
 
@@ -1974,8 +1689,9 @@ ACTION:
 
 
 14a.
- 
- 2006.0358X
+<<Project End>>
+<<Project Start>>
+2006.0358X
  
 (M. SNYDER (415) 558-6891)
 
@@ -2218,8 +1934,6 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2401,8 +2115,6 @@ Block 3548 lots:
 
 
 The Planning Commission will consider the following actions:
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2411,8 +2123,6 @@ The Planning Commission will consider the following actions:
 1. Endorse the revised 2005 Inner Mission North Cultural Resource Survey
  
  Context Statement.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2440,8 +2150,6 @@ f. Inner Mission reconstruction locally significant theme
 
 
 g. Inner Mission 1906 Earthquake Survivor theme
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2537,8 +2245,9 @@ MOTION:
 
  
  16a.
- 
- 2005.1081D
+<<Project End>>
+<<Project Start>>
+2005.1081D
  
  
  
@@ -2757,8 +2466,9 @@ AYES:
 
  
  16b.
- 
- 2006.0057D
+<<Project End>>
+<<Project Start>>
+2006.0057D
  
  
  
@@ -2813,8 +2523,9 @@ ABSENT:
 
  
  16c.
- 
- 2006.0663D
+<<Project End>>
+<<Project Start>>
+2006.0663D
  
  
  
@@ -2865,8 +2576,9 @@ ABSENT:
 
  
  16d.
- 
- 2005.1080V
+<<Project End>>
+<<Project Start>>
+2005.1080V
  
  (E. TOPE: (415) 558-6316)
 
@@ -2898,8 +2610,9 @@ ACTION:
 
 
 17a.
- 
- 2005.0713D
+<<Project End>>
+<<Project Start>>
+2005.0713D
  
  
  
@@ -2980,8 +2693,9 @@ ABSENT:
 
 
 17b.
- 
- 2005.1070D
+<<Project End>>
+<<Project Start>>
+2005.1070D
  
  
  
@@ -3051,8 +2765,9 @@ ABSENT:
 
  
  18a.
- 
- 2005.0328D
+<<Project End>>
+<<Project Start>>
+2005.0328D
  
  
  
@@ -3092,8 +2807,9 @@ AYES:
 
 
 18b.
- 
- 2005.0332D
+<<Project End>>
+<<Project Start>>
+2005.0332D
  
  
  
@@ -3143,8 +2859,9 @@ AYES:
 
  
  19a.
- 
- 2005.0089DDDDDDDDDDDE
+<<Project End>>
+<<Project Start>>
+2005.0089DDDDDDDDDDDE
  
  
  
@@ -3946,8 +3663,9 @@ AYES:
 
  
  19b.
- 
- 2005.0387DDDDDDDDDDD 
+<<Project End>>
+<<Project Start>>
+2005.0387DDDDDDDDDDD 
  
  
  
@@ -3999,8 +3717,9 @@ AYES:
 
 
 20a.
- 
- 2006.0422E
+<<Project End>>
+<<Project Start>>
+2006.0422E
 M
 TZ
  
@@ -4049,8 +3768,9 @@ AYES:
 
 
 20b.
- 
- 2006.0422EM
+<<Project End>>
+<<Project Start>>
+2006.0422EM
 TZ
  
  

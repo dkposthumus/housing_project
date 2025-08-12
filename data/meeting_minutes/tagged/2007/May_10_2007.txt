@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 10, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ May 10, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-May 10, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 10, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 10, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Michelle Glueckert, Edgar Oropeza, Jim Miller, Kate Conner, Michael Smith, Tina Tam, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2004.1245E
+2004.1245E
  
  (R. SCHOHN: (415) 558-5985)
 
@@ -352,8 +71,9 @@ NAYES:
 
 
 2a.
- 
- 2004.1245EKV
+<<Project End>>
+<<Project Start>>
+2004.1245EKV
 X
  
  
@@ -412,8 +132,9 @@ NAYES:
 
 
 2b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -470,8 +191,9 @@ NAYES:
 
 
 3a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -524,8 +246,9 @@ NAYES:
 
 
 3b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -576,8 +299,6 @@ AYES:
 NAYES:
  
  Olague, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -585,8 +306,9 @@ NAYES:
 
  
  4.
- 
- 2006.0070E
+<<Project End>>
+<<Project Start>>
+2006.0070E
 T
  
  
@@ -644,16 +366,14 @@ AYES:
 NAYES:
  
  Olague, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0351E 
  
  
@@ -807,16 +527,15 @@ AYES:
 NAYES:
  
  Olague, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.0297D 
+<<Project End>>
+<<Project Start>>
+2007.0297D 
  
  
  
@@ -875,8 +594,6 @@ AYES:
 NAYES:
  
  Olague, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -889,8 +606,9 @@ NAYES:
 
 
 7.
- 
- 2006.1182Q
+<<Project End>>
+<<Project Start>>
+2006.1182Q
  
  
  
@@ -937,8 +655,8 @@ NAYES:
 
 
 Addendum Item
-
-
+<<Project End>>
+<<Project Start>>
 2006.0074TZ
  
  
@@ -981,8 +699,8 @@ Preliminary Recommendation:
 
 
 B)
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074T – Initiation of a Planning Code Text Amendment
 .
  
@@ -1000,9 +718,9 @@ Preliminary Recommendation:
  
 
 
-C) 
- 
- 
+C)
+<<Project End>>
+<<Project Start>>
 2006.0074Z – Initiation of a Zoning Map Amendment
 .
  
@@ -1061,8 +779,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1107,8 +823,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1494,8 +1208,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA; IB)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1507,8 +1219,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1867,16 +1577,15 @@ F.
 
 
 President Alexander re-opened the Public Hearing on item 13.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.0734C       
+<<Project End>>
+<<Project Start>>
+2006.0734C       
 (Tape IB; IIA)
                                     (M. GLUECKERT: (415) 558-6543)
 
@@ -2295,8 +2004,6 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item 14 was taken off the Consent Calendar and heard as part of the Regular Calendar
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2305,8 +2012,8 @@ Item 14 was taken off the Consent Calendar and heard as part of the Regular Cale
  
  
 14.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0084D
  
  
@@ -2421,8 +2128,6 @@ NAYES:
 
 
 H.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2431,8 +2136,9 @@ H.REGULAR CALENDAR
 
 
 15.
- 
- 2007.0256C
+<<Project End>>
+<<Project Start>>
+2007.0256C
  
  
 (Tape IIB)
@@ -2482,16 +2188,15 @@ AYES:
 MOTION:
  
  17425
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0766E
+<<Project End>>
+<<Project Start>>
+2006.0766E
 X
  
  
@@ -2571,8 +2276,9 @@ MOTION:
 
 
 17a.
- 
- 2005.1062
+<<Project End>>
+<<Project Start>>
+2005.1062
 B
 V             
  
@@ -2674,8 +2380,9 @@ NAYES:
 
 
 17b.
- 
- 2005.1062B
+<<Project End>>
+<<Project Start>>
+2005.1062B
 V
  
  
@@ -2721,16 +2428,15 @@ AYES:
 NAYES:
  
  Olague, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.1340D         
+<<Project End>>
+<<Project Start>>
+2006.1340D         
 (Tape IIB)
  
  
@@ -2855,8 +2561,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2864,8 +2568,9 @@ AYES:
 
  
  19.
- 
- 2007.0192D
+<<Project End>>
+<<Project Start>>
+2007.0192D
  
  
 (Tape IIB)
@@ -2916,16 +2621,14 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0125D
  
  
@@ -3141,16 +2844,15 @@ Remove front stair penthouse, parapet and require a rear setback.
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2007.0041DD
+<<Project End>>
+<<Project Start>>
+2007.0041DD
  
  
 (Tape IIIA)
@@ -3240,8 +2942,6 @@ Second Requestor
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3249,8 +2949,8 @@ AYES:
 
  
  22.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0949DDDDDDD
  
  
@@ -3735,8 +3435,6 @@ Motion Failed
 ACTION:
  
  In the absence of a successful substitute motion, the project is approved as proposed.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3745,8 +3443,8 @@ ACTION:
  
  
 23.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0922I 
  
  

@@ -1,307 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : Septenber 22, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ Septenber 22, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-Septenber 22, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
- 
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, September 22, 2011
-
-
-
-
-12:00 P.M.
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS PRESENT: 
-Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS CALLED TO 
-ORDER BY PRESIDENT OLAGUE AT 12:10
-
-
-
-
- 
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â Zoning 
-Administrator, Adrian Putra, Viktoriya Wise, Jon Swae, Sophie Hayward, AnMarie 
-Rodgers, Kim Durandet, Aaron Hollister, Brittany Bendix, Ben Fu, Diego Sanchez, 
-Corey Teague, Sara Vellve, and Linda Avery â Commission Secretary
-
-
- 
-
-
-A.
-                 
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-
-
-
-
-            
-
-
-
-
-
-
-1a.        
 2011.0063DV                                                                 
          (J. IONIN: (415) 558-6309)
 
@@ -458,8 +155,6 @@ AYES:             
 
 Olague, Miguel, Antonini, 
 Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -469,7 +164,9 @@ Borden, Fong, Moore, and Sugaya
 
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2011.0165C                                                                            
 (S. YOUNG: (415) 558-6346)     
 
@@ -544,8 +241,6 @@ AYES:             
 
 Olague, Miguel, Antonini, 
 Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -555,7 +250,9 @@ Borden, Fong, Moore, and Sugaya
 
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2011.0812T
                                                        
            (J. Jaramillo: (415) 575-6818)
@@ -622,8 +319,6 @@ AYES:             
 
 Olague, Miguel, Antonini, 
 Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -700,25 +395,23 @@ Commission.  There will be no separate discussion of these items unless a membe
 of the Commission, the public, or staff so requests, in which event the matter 
 shall be removed from the Consent Calendar and considered as a separate item at 
 this or a future hearing
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+5.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-5.        
-
-
 2011.0557C
                                                                    
      (A. PUTRA: (415) 575-9079)
@@ -809,8 +502,6 @@ Section 4.104 requires all commissioners to vote yes or no on all matters unless
 that commissioner is excused by a vote of the Commission.  Commissioners may not 
 be automatically excluded from a vote on the minutes because they did not attend 
 the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -856,8 +547,6 @@ AYES:             
 
 Olague, Miguel, Antonini, 
 Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1118,8 +807,6 @@ that request.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1165,8 +852,6 @@ Long-Range Planning projects along with the Central Core Plan we're getting
 underway. The Commission is off next week due to the Jewish Holiday and I will 
 be taking a few days off at that time.  Bill Wycko will be in charge during that 
 time.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1555,12 +1240,8 @@ REGULAR CALENDAR 
 
 
 
-Item 10 followed item number
-<<Project End>>
-<<Project Start>>
+Item 10 followed item number 
 5.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1609,8 +1290,6 @@ Timothy Papandreou â MTA
 
 
 ACTION:           Informational only. No action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1620,9 +1299,9 @@ ACTION:           Informational only. No action required
 
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2005.1004MTZR
                                      
                    
@@ -1675,8 +1354,6 @@ Lokeef, Nicolas Dewar, and Carolyn Deacy
 
 
 ACTION:           Informational only. No action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1686,9 +1363,9 @@ ACTION:           Informational only. No action required
 
 
 
-12.       
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2011.0710T
                                
                                      
@@ -1747,8 +1424,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 RESOLUTION:   18446
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1758,9 +1433,9 @@ RESOLUTION:   18446
 
 
 
-13.       
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2011.0707T 
                                                       
              
@@ -1824,8 +1499,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 RESOLUTION:   18447
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1835,9 +1508,9 @@ RESOLUTION:   18447
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2008.1395X
                                                                  
 
@@ -1906,8 +1579,6 @@ AYES:             
 
 Olague, Miguel, Antonini, 
 Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1915,9 +1586,9 @@ Borden, Fong, Moore, Sugaya
  
 
 
-15.       
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2010.1083C
                                                           
           (A. HOLLISTER:  (415) 575-9078)
@@ -1987,8 +1658,6 @@ ABSENT:          Moore
 
 
 MOTION:           18448
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1998,7 +1667,9 @@ MOTION:           18448
 
 
 
-16.        
+16.
+<<Project End>>
+<<Project Start>>
 2010.0681C                                                    
                     (B. BENDIX:  (415) 575-9114) 
 
@@ -2067,9 +1738,9 @@ MOTION:           18449
 
 
 
-17a.     
-
-
+17a.
+<<Project End>>
+<<Project Start>>
 2011.0079CV
                                                      
                         
@@ -2141,9 +1812,9 @@ MOTION:           18450
 
 
 
-17b.     
-
-
+17b.
+<<Project End>>
+<<Project Start>>
 2011.0079CV
                                         
 
@@ -2195,8 +1866,6 @@ Same as those listed for item 17a
 
 ACTION:           
 ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND GRANTED THE VARIANCE
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2206,9 +1875,9 @@ ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND GRANTED THE VARIANCE
 
 
 
-18.       
-
-
+18.
+<<Project End>>
+<<Project Start>>
 2011.0382C
                                            
                            
@@ -2269,8 +1938,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 MOTION:           18451
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2280,9 +1947,9 @@ MOTION:           18451
 
 
 
-19.       
-
-
+19.
+<<Project End>>
+<<Project Start>>
 2011.0270C
                                                                    
      (D. SANCHEZ: (415) 575-9082)
@@ -2337,8 +2004,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 MOTION:           18452
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2348,9 +2013,9 @@ MOTION:           18452
 
 
 
-20.       
-
-
+20.
+<<Project End>>
+<<Project Start>>
 2011.0464C
                                            
                             
@@ -2422,8 +2087,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 MOTION:           18453
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2433,9 +2096,9 @@ MOTION:           18453
 
 
 
-21.       
-
-
+21.
+<<Project End>>
+<<Project Start>>
 2010.0367DD
                                                          
 
@@ -2520,8 +2183,6 @@ Borden, Fong, Moore, and Sugaya
 
 
 DRA:                0227
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2531,9 +2192,9 @@ DRA:                0227
 
 
 
-22.       
-
-
+22.
+<<Project End>>
+<<Project Start>>
 2010.1104D
                                                        
                  (S. VELLVE: (415) 558-6263)

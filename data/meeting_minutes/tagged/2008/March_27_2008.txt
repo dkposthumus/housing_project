@@ -1,342 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 27, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ March 27, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-March 27, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 27, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 27, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Kelly Amdur, Kearstin Dischinger, David Alumbaugh, Angela Heitter, Tara Sullivan-Lenane, Aaron Hollister, Michael Smith, David Lindsay, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
- 
- (M. SNYDER: (415) 575-6891)
-
-
-INFORMATIONAL PRESENTATION TO THE COMMISSION ON SAN FRANCISCO HOPE/HUNTERS VIEW REDEVELOPMENT PROJECT
- 
-–
- 
- 
-227 West Point Road,
- 
- Assessor's Block 4624; Lots 003 and 004; and Assessor's Block 4720, Lot 027
- 
- 
-Informational Presentation on HopeSF and Hunters View Housing Project
-.
- 
- The City is embarking on a project to transform the existing Housing Authority project sites into new mixed-income residential neighborhoods that provide variety of housing types and are better integrated into their surrounding neighborhood fabrics.
- 
- This presentation is to discuss the overarching "SF Hope Principals," the first proposed project at Hunters View, and the next steps
- 
-for the overall effort.
- 
-
-
-(Proposed for continuance to April 3, 2008)
-
-
- 
-
-
-SPEAKER(S):
- 
- None
-
-
-ACTION:
- 
- Continued as proposed
-
-
-AYES:
- 
- Olague, Antonini, S. Lee, Moore and Sugaya
-
-
-ABSENT:
- 
- W. Lee
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.
- 
- 2007.1267X
+2007.1267X
  
  
  
@@ -385,16 +48,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.1355T
+<<Project End>>
+<<Project Start>>
+2007.1355T
  
  
  
@@ -438,16 +100,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.0142E 
+<<Project End>>
+<<Project Start>>
+2005.0142E 
  
  
  
@@ -504,8 +165,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -540,8 +199,6 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -713,8 +370,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -750,8 +405,6 @@ Other cities approach it differently, where San Francisco has an interesting mix
  Secondly, there is a memorandum in your packets about your request on Van Ness corridor and we came up with the same numbers as the article in the Businesses Times. 
  
 It is about 2,000 units with a potential for about 1,000 more.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -871,8 +524,6 @@ NONE
 
 
 Item taken out of order followed item 11
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -932,8 +583,6 @@ ACTION:
 
 
 Item 10 was taken out of order and followed item 8
-<<Project End>>
-<<Project Start>>
 
 
 10.
@@ -976,8 +625,6 @@ ACTION:
 
 
 Item 11 was taken out of order and followed item 10
-<<Project End>>
-<<Project Start>>
 
 
 11.
@@ -1118,8 +765,6 @@ ACTION:
 
 
 Item 12 was taken out of order and followed item 9
-<<Project End>>
-<<Project Start>>
 
 
 12.
@@ -1275,16 +920,15 @@ Sarah Karlinsky
 E.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2003.0347
+<<Project End>>
+<<Project Start>>
+2003.0347
 UU
  
  
@@ -1469,16 +1113,15 @@ RESOLUTION:
  
  
 17573
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2001.1398
+<<Project End>>
+<<Project Start>>
+2001.1398
  
  
 (Tapes IIB; IIIA)
@@ -1582,8 +1225,8 @@ ACTION:
 
  
  15a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0014
 G
 U
@@ -1713,8 +1356,9 @@ RESOLUTION:
 
  
  15b.
- 
- 2008.0014G
+<<Project End>>
+<<Project Start>>
+2008.0014G
 U
  
  
@@ -1775,8 +1419,9 @@ RESOLUTION:
 
 
 16a.
- 
- 2007.0166
+<<Project End>>
+<<Project Start>>
+2007.0166
 D
 V
  
@@ -1855,8 +1500,9 @@ ABSENT:
 
 
 16b.
- 
- 2007.0166D
+<<Project End>>
+<<Project Start>>
+2007.0166D
 V
  
  (T. SULLIVAN-LENANE: (415) 558-6257)
@@ -1892,16 +1538,15 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator granted variance subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0973DDD
+<<Project End>>
+<<Project Start>>
+2007.0973DDD
  
  
 (Tapes IIIB; IVA; IVB)
@@ -2249,16 +1894,15 @@ NAYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1467DD
+<<Project End>>
+<<Project Start>>
+2007.1467DD
  
  
 (Tape IIIA; IIIB)
@@ -2305,16 +1949,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.1193D
+<<Project End>>
+<<Project Start>>
+2007.1193D
  
  
  

@@ -1,355 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ September 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-September 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 6, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:05 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Christina Lamorena, Aaron Starr,  Elizabeth Watty, Anmarie Rodgers, Aaron Hollister, Glenn Cabreros, Thomas Wang, Rich Sucre, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.         CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-                                                
-
-
-1.
-         2012.0543
-T
-                                                                   (A. RODGERS (415) 558-6395)
-
-
-INTENTION TO INITIATE DEPARTMENT-SPONSORED PLANNING CODE AMENDMENTS TO FIX ERRORS IN THE PLANNING CODE
- - Pursuant to Planning Code Section 302, the Planning Commission will consider a 
-Resolution of Intention 
-to initiate amendments to the Planning Code. The amendments are intended to (1) correct clerical errors in Planning Code text, (2) revise existing graphics to be consistent with the existing text, (3) amend various zoning control tables, (4) improve Planning Code readability, and (5) adopt findings, including findings under the California Environmental Quality Act, Planning Code Section 302 findings, and findings of consistency with the General Plan and Planning Code Section 101.1.
-
-
-Preliminary Recommendation:
- Approve a draft Resolution of Intention to initiate amendments to the Planning Code and schedule a public hearing to consider the amendments on or after October 4, 2012.
-
-
-(Proposed for Continuance to September 27, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, 
-Hillis,
- Moore, Sugaya
-
-
-ABSENT:          Borden
-
-
-            
-
-
-                                                                                                           (j. linsangan: (415) 575-9119)
-<<Project End>>
-<<Project Start>>
-
-
-2.         
-Public Outreach and Engagement
- (Memo | Resolution) - 
-In 2011, staff (with support from Pepperdine University’s Davenport Institute for Public Engagement and Civic Leadership) conducted a Public Outreach and Engagement Effectiveness survey on the department’s outreach efforts. Based on the results, a program has been created to better serve staff, stakeholders and the community at large through a supported outreach and engagement program. This presentation provides a review of the survey’s findings, an overview of the program, and a 
-request to endorse the program’s principles
-. 
-
-
-Preliminary Recommendation:
- Endorsement of program principles.
-
-
-            
-            (Continued from Regular Meeting of August 9, 2012)
-
-
-                        (Proposed for Continuance to October 25, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, 
-Hillis,
- Moore, Sugaya
-
-
-ABSENT:          Borden
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-3.         
 2012.0947T
                                                                          (A. STARR: (415) 558-6362)
 
@@ -389,14 +38,14 @@ NAYES:            Sugaya
 
 RESOLUTION:   
 18695
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2012.0716C
                                                                    
 (C. Lamorena: (415) 575-9085)
@@ -427,14 +76,14 @@ Hillis,
 
 MOTION:           
 18694
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2012.0548C
                                                                          
 (E. Watty: (415) 558-6620)
@@ -485,8 +134,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -525,8 +172,6 @@ ACTION:           Approved
 AYES:              Fong, Wu, Antonini, Borden, 
 Hillis,
  Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -574,8 +219,6 @@ I had a couple of meeting with the Japantown Neighborhood Planning process. I th
 
 D.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -597,8 +240,6 @@ The promenade, as you are aware, won a design award from architects from Oakland
 
 
 Lastly, I wanted to reinforce what Commissioner Antonini was mentioning about the RENA allocation (Regional Housing Needs Allocation). This is a process that of course goes on every few years. I think the region is doing better at coordinating this process, which is a shorter term than the longer term AB375 process - the Sustainable Community Strategy process. That bill requires us to do a 30-year plan. The RENA allocation is I think 8.8 years. It is an odd number. The idea is regional agencies are doing better at coordinating those two things. The first time we did RENA after AB375 was passed, they were not well-coordinated. It is getting better. It is shifting, as you know, some of the preferred growth to larger cities where it transfers to the most served. It is better allocated and coordinated than in the past. There's still work to be done on that, however. It does front-load some of the growth, the 30-year growth. It does front-load some of that growth in this allocation. The number is still relatively high, over 3,000 units a year in San Francisco, which is beyond what we've been able to produce in the past, but is something that I think reflects the demand I think in the region for new housing. We are proposing a hearing on the whole package, including the SCS, so we will get you more details in the coming weeks.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -772,15 +413,15 @@ Re: Non-authentic neighborhood/merchant originations.
 
 F.
           
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.0791T
                                                                     
 (A. Rodgers: (415) 558-6395)
@@ -812,14 +453,14 @@ Moore
 
 RESOLUTION:   
 18697
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2011.0931EC
                                                                 
 (
@@ -862,14 +503,14 @@ Hillis
 
 MOTION:           
 18698
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2012.0641C
                                                                          (E. WATTY: (415) 558-6620)
 
@@ -909,7 +550,9 @@ MOTION:          
  
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2012.0110CEV    
                                                                  (M. SMITH: (415) 558-6322)
 
@@ -944,7 +587,9 @@ AYES:             Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2012.0110CEV
                                                                     
 (
@@ -969,14 +614,14 @@ SPEAKERS:     None
 
 
 ACTION:           Without hearing, the Zoning Administrator continued item to 9/20/12
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            14.        
+            14.
+<<Project End>>
+<<Project Start>>
 2012.0847D
                                                                 (G. CABREROS: (415) 558-6159)  
 
@@ -1003,14 +648,14 @@ ACTION:           Following hearing, continued to 10/4/12. Public hear
 
 
 AYES:             Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2011.0761DD
                                                                         (T. WANG: (415) 558-6335)
 
@@ -1050,14 +695,14 @@ NAYES:            Antonini and Hillis
 
 DRA #:             
 0290
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.      
+16.
+<<Project End>>
+<<Project Start>>
 2012.0723D
                                                                        (R. SUCRE: (415) 575-9108)
 

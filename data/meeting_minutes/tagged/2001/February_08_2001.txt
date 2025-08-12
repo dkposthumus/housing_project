@@ -1,344 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ February 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-February 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 08, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-Minutes of Meeting
-
-
-
-
-
-        
-      
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-      Place
-
-
-Thursday, February 8, 2001
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-
-
-
-        
-      
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-
-
-
-        
-      
-
-
-
-
-PRESENT:
-
-
-Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
-
-
-
-
-
-        
-      
-
-
-
-
-STAFF 
-      IN ATTENDANCE: Gerald G. Green - Director of Planning; Larry Badiner - Zoning 
-      Administrator; Sharon Young; Elizabeth Gordon; Michael Kometani; Rick Crawford; 
-      Tina Tam; Kenneth Chin; Matthew Snyder; Craig Nikitas; Dan DiBartolo; Patricia 
-      Gerber – Transcription Secretary; Linda D. Avery – Commission Secretary
-
-
-
-
-
-        
-      
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT 
-      THEOHARIS AT 1:36 P.M
-.
-
-
-
-
-
-        
-      
-
-
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-
-        
-      
-
-
-
-
- 
-1a.
- 
 2000.552
 X
 BCV
@@ -438,7 +98,8 @@ Theoharis, Fay, Baltimore,
 
  
 1b.
- 
+<<Project End>>
+<<Project Start>>
 2000.552X
 B
 CV
@@ -547,7 +208,8 @@ Theoharis, Fay, Baltimore,
 
  
 1c.
- 
+<<Project End>>
+<<Project Start>>
 2000.552XB
 C
 V
@@ -645,7 +307,8 @@ Theoharis, Fay, Baltimore,
 
  
 1d.
- 
+<<Project End>>
+<<Project Start>>
 2000.552XBC
 V
 
@@ -731,8 +394,8 @@ Theoharis, Fay, Baltimore,
 
  
 2a.
-
-
+<<Project End>>
+<<Project Start>>
 2000.171C
 X
 
@@ -817,8 +480,8 @@ Theoharis, Fay, Baltimore,
 
  
 2b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.171
 C
 X: 
@@ -908,8 +571,8 @@ Theoharis, Fay, Baltimore,
 
  
 3a.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1269
 R
 B
@@ -1001,8 +664,8 @@ Theoharis, Fay, Baltimore,
 
  
 3b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1269R
 B
 
@@ -1080,8 +743,6 @@ AYES:
  
 Theoharis, Fay, Baltimore, 
       Chinchilla , Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1096,7 +757,8 @@ Theoharis, Fay, Baltimore,
 
 
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.677C
 
 
@@ -1176,7 +838,8 @@ Theoharis, Fay, Baltimore,
 
 
 5a.
- 
+<<Project End>>
+<<Project Start>>
 2000.190
 B
 X
@@ -1261,8 +924,8 @@ Theoharis, Fay, Baltimore,
 
  
 5b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.190B
 X
 
@@ -1330,8 +993,6 @@ AYES:
  
 Theoharis, Fay, Baltimore, 
       Chinchilla , Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1345,7 +1006,8 @@ Theoharis, Fay, Baltimore,
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.1118DDDD
  
  
@@ -1392,8 +1054,6 @@ B.
  
 COMMISSIONERS' 
       QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1436,8 +1096,6 @@ AYES:
  
 Theoharis, Fay, Baltimore, 
       Chinchilla, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1564,8 +1222,6 @@ C.
  
 DIRECTOR'S 
       REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1634,8 +1290,6 @@ Letter from Mr. Butler will be referred to
 
 
 Department Work Program and Budget
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1712,8 +1366,6 @@ D.
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1727,7 +1379,8 @@ REGULAR CALENDAR
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 1997.433A 
 
 
@@ -1736,9 +1389,7 @@ REGULAR CALENDAR
 
 22 ALTA STREET
  - north 
-      side between Montgomery and Sansome Streets, Lot 34A in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      side between Montgomery and Sansome Streets, Lot 34A in Assessor’s Block 
       106. Request for Certificate of Appropriateness authorization, under Article 
       10 of the Planning Code, to construct a new, one-unit, residential building, 
       two-stories at the front (Alta Street) elevation and five-stories at the 
@@ -1944,8 +1595,6 @@ Theoharis, Fay, Baltimore,
 MOTION NO.
  
 16086
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1953,7 +1602,8 @@ MOTION NO.
 
  
 12.
- 
+<<Project End>>
+<<Project Start>>
 2000.1099X
  
  
@@ -1964,8 +1614,6 @@ MOTION NO.
 57 
       JESSIE STREET
  - Lot 020 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
  
 3708. Request under Planning 
       Code Sections 309 Permit Review in C-3 Districts) for approval of Building 
@@ -2118,8 +1766,6 @@ Theoharis, Fay, Baltimore,
 MOTION NO.
  
 16087
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2135,7 +1781,8 @@ MOTION NO.
 
 
 13.
- 
+<<Project End>>
+<<Project Start>>
 2000.591C
 
 
@@ -2993,8 +2640,6 @@ Theoharis, Fay, Baltimore,
 MOTION NO.
  
 16088
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3008,7 +2653,8 @@ MOTION NO.
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.682C 
 
 
@@ -3297,8 +2943,6 @@ MOTION NO
 :
  
  16089
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3312,8 +2956,8 @@ MOTION NO
 
  
 15.
-
-
+<<Project End>>
+<<Project Start>>
 2000.336C 
 
 
@@ -3652,8 +3296,6 @@ MOTION NO
 .:
  
 16090
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3667,8 +3309,8 @@ MOTION NO
 
  
 16.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1105C
 
 
@@ -3925,8 +3567,6 @@ MOTION NO
 .
  
 16091
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3940,8 +3580,8 @@ MOTION NO
 
  
 17.
-
-
+<<Project End>>
+<<Project Start>>
 2000.824C
 
 
@@ -3952,9 +3592,7 @@ MOTION NO
  
 1351 GRANT AVENUE
  
-      - west side between Vallejo and Green Streets; Lot 002 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      - west side between Vallejo and Green Streets; Lot 002 in Assessor’s Block 
       0131. Consideration of the possible revocation of conditional use or the 
       possible modification of or placement of additional conditions per Planning 
       Code Section 303(f) of a prior authorization to allow the establishment 
@@ -3973,9 +3611,7 @@ The proposed
       full-service restaurant and bar is located on the ground floor level of 
       an existing three-story residential over commercial building.
  
-The proposal was approved under Building Permit Application No.
-<<Project End>>
-<<Project Start>>
+The proposal was approved under Building Permit Application No. 
       9912999.
  
 There have been unresolved 
@@ -4043,8 +3679,6 @@ At Approximately
  the Planning Commission convened 
       into a Special Discretionary Review (DR) Hearing to hear and act on Discretionary 
       Review matters.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -4058,7 +3692,8 @@ At Approximately
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 2000.354D
 
 
@@ -4731,15 +4366,14 @@ AYES
 :
  
 Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.654D
 
 
@@ -4749,9 +4383,7 @@ Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
 
 412 LOMBARD STREET
  - north 
-      side between Grant Avenue and Stockton Street, Lot 010 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+      side between Grant Avenue and Stockton Street, Lot 010 in Assessor’s Block 
       0062. Request for Discretionary Review of Building Permit Application No. 
       2000/03/03/3468 to construct a two-story vertical addition to an existing 
       one-story over basement single-family dwelling in an RH-3 (Residential, 
@@ -5650,8 +5282,6 @@ AYES
  
 Theoharis, Fay, Baltimore, 
       Chinchilla, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -5665,7 +5295,8 @@ Theoharis, Fay, Baltimore,
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.877D
  
  
@@ -6277,8 +5908,6 @@ AYES:
  
 Theoharis, Fay, Baltimore, Chinchilla, 
       Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -6292,8 +5921,8 @@ Theoharis, Fay, Baltimore, Chinchilla,
 
  
 21.
-
-
+<<Project End>>
+<<Project Start>>
 2000.428D
 
 
@@ -6877,8 +6506,6 @@ Do not take Discretionary Review and approve permit as
 AYES:
  
 Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -6892,8 +6519,8 @@ Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
 
  
 22.
-
-
+<<Project End>>
+<<Project Start>>
 2001.0078D
 
 

@@ -1,275 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 10, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ May 10, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-May 10, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 10, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-                                                                                                                        
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Miguel, Moore
-
-
-COMMISSIONER ABSENT:   Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:08 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Kevin Guy, Corey Teague, Christina Lamorena, Tara Sullivan, Diego Sanchez, Sharon Young, Joshua Switzky, Aaron Starr, Glenn Cabreros, Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-                  
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.   
-None
-
-
-            
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         
 2012.0150C
                                                                        
 (E. Jackson: (415) 558-6363)
@@ -308,14 +37,14 @@ ABSENT:          Sugaya
 
 MOTION:           
 18617
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2011.0492C
                                                                   
 (R. Crawford: (415) 558-6358)
@@ -349,17 +78,17 @@ ABSENT:          Sugaya
 
 MOTION:           
 18620
+
+
+ 
+
+
+ 
+
+
+3.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
- 
-
-
-3.         
 2011.1090C
                                                                           
 (A. Putra:  (415) 575-9079)
@@ -394,14 +123,14 @@ ABSENT:          Sugaya
 
 MOTION:           
 18618
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0068C
                                                                      
 (A. Hollister: (415) 575-9078)
@@ -437,14 +166,14 @@ ABSENT:          Sugaya
 
 MOTION:           
 18621
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.1425C
                                                                    
 (A. Hollister: (415) 575-9078)
@@ -481,14 +210,14 @@ ABSENT:          Sugaya
 
 MOTION:           
 18622
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-6.         
+6.
+<<Project End>>
+<<Project Start>>
 2011.1147B
                                                                            
 (
@@ -534,8 +263,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -606,8 +333,6 @@ And finally, another thing that I thought was quite important and interesting wa
 
 
 D.                   DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -627,9 +352,7 @@ Director Rahaim:
 Just a couple of things related to Commissioner Moore's comments and we will send you a link to that article. It is an interesting report. 
 
 
-There is a report on Commerce and Industry in today's packet that is actually for the year 2010. We are a bit behind on that, but it gives you an interesting trend for these different segments of the economy.  And related to that, recently we had a conversation with the nonprofit that is the umbrella organization for San Francisco based manufacturers.  One of the interesting things that she told us was that a significant number of her members, I think about one-third, are businesses that are less than three years old. There is an interesting trend toward micro manufacturing, for lack of a better term, often related around food and electronics. I think we are seeing an increasing demand for potential PDR space. The challenge that we are having, and we're talking to the Mayor's Office about this, is that it is very difficult to build new PDR from scratch that is viable. We're looking at if there are ways to combine PDR space. We are having conversations with folks about that. Because PDR's rely on very low rent, it is hard to make it viable on its own.
-<<Project End>>
-<<Project Start>>
+There is a report on Commerce and Industry in today's packet that is actually for the year 2010. We are a bit behind on that, but it gives you an interesting trend for these different segments of the economy.  And related to that, recently we had a conversation with the nonprofit that is the umbrella organization for San Francisco based manufacturers.  One of the interesting things that she told us was that a significant number of her members, I think about one-third, are businesses that are less than three years old. There is an interesting trend toward micro manufacturing, for lack of a better term, often related around food and electronics. I think we are seeing an increasing demand for potential PDR space. The challenge that we are having, and we're talking to the Mayor's Office about this, is that it is very difficult to build new PDR from scratch that is viable. We're looking at if there are ways to combine PDR space. We are having conversations with folks about that. Because PDR's rely on very low rent, it is hard to make it viable on its own. 
 
 
             
@@ -844,15 +567,15 @@ SPEAKERS:     Patricia Vaughey
 
 F.
          
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.0354C
                                                                   
 (R. Crawford: (415) 558-6358)
@@ -886,8 +609,6 @@ ABSENT:          Sugaya
 
 MOTION:           
 18623
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -914,14 +635,14 @@ SPEAKERS:     Michelle Brant, Linda Chapman, Wayne Keiser, Patricia Vaughey
 
 
 ACTION:            Information only. No Action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            12.        
+            12.
+<<Project End>>
+<<Project Start>>
 2012.0084DD
                                                                       (M. WOODS: (415) 558-6315)
 
@@ -957,7 +678,9 @@ ABSENT:          Sugaya
  
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2010.0636D
                                                                     (G. CABREROS: (415) 558-6169)
 
@@ -1000,7 +723,9 @@ DRA#:              
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2012.0259D
                                                                     (G. CABREROS: (415) 558-6169)
 

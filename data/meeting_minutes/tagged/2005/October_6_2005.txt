@@ -1,276 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 6, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ October 6, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-October 6, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 6, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
- Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 6, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Dwight Alexander; Michael Antonini; Shelley Bradford-Bell; Sue Lee; William Lee; Christina Olague
-
-
- 
-
-
-COMMISSIONER ABSENT:
-      
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Michael E. Smith; Glenn Cabreros; Daniel Sirois; Shaun Mendrin; Jonathan Purvis; Sara Vellve; Isolde Wilson; Paul Maltzer; Tammy Chan; Mathew Snyder; Lisa Gibson; Dan Sider; Kate McGee; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                                   
-
-
-1.
-        
- 2004.0876C
+2004.0876C
                                                                   
  
    
@@ -319,8 +48,6 @@ Request for Conditional Use authorization
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -328,8 +55,9 @@ Request for Conditional Use authorization
 
            
  2.
-        
- 2004.0303C
+<<Project End>>
+<<Project Start>>
+2004.0303C
                                                       
  
            
@@ -373,8 +101,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -413,8 +139,6 @@ Would like know how other commissioners feel about this and maybe for next year 
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -431,8 +155,6 @@ C.
            
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -492,8 +214,6 @@ th
 
            
  None
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -623,16 +343,15 @@ F.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-        
- 2005.0866Q
+<<Project End>>
+<<Project Start>>
+2005.0866Q
                                                       
  
                  
@@ -687,16 +406,15 @@ with the General Plan
  MOTION:
           
  17113
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-        
- 2005.0865Q
+<<Project End>>
+<<Project Start>>
+2005.0865Q
                                                                   
  
     
@@ -761,8 +479,9 @@ with the General Plan
 
 
 9a.
-       
- 2004.1087D
+<<Project End>>
+<<Project Start>>
+2004.1087D
                                                       
  
          
@@ -812,8 +531,9 @@ Preliminary Recommendation:
 
 
 9b.
-       
- 2004.1088D
+<<Project End>>
+<<Project Start>>
+2004.1088D
                                                       
  
          
@@ -855,16 +575,14 @@ Preliminary Recommendation:
  AYES:
              
  Antonini, Alexander, Bradford-Bell, Hughes, Olague, S. Lee, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
            
 
 
 10.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0451C
                                                       
  
@@ -919,16 +637,15 @@ Preliminary Recommendation: Approval with Conditions
  MOTION:
           
  17115
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-       
- 2005.0612D
+<<Project End>>
+<<Project Start>>
+2005.0612D
                   
  
                          
@@ -968,16 +685,14 @@ Preliminary Recommendation: Do not take Discretionary Review and approved dwelli
  AYES:
              
  Antonini, Alexander, Bradford-Bell, Hughes, Olague, S. Lee, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0663C
                                           
  
@@ -1030,16 +745,15 @@ Preliminary Recommendation:
  AYES:
              
  Antonini, Alexander, Bradford-Bell, Hughes, Olague, S. Lee, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-       
- 2004.0647C
+<<Project End>>
+<<Project Start>>
+2004.0647C
  
                                   
  
@@ -1094,8 +808,6 @@ Preliminary Recommendation: Approval with Conditions
 G.
         
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1104,8 +816,9 @@ G.
 
            
  14.
-       
- 2004.0175
+<<Project End>>
+<<Project Start>>
+2004.0175
 D
 V
                                                     
@@ -1136,8 +849,6 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the bui
  ACTION:
           
  Discretionary Review Application Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1145,8 +856,9 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the bui
 
            
  15.
-      
- 2004.1233D
+<<Project End>>
+<<Project Start>>
+2004.1233D
                                                                   
  
    
@@ -1246,8 +958,6 @@ Urged the Commission to approve the project
  NAYES:
            
  Antonini and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1255,8 +965,9 @@ Urged the Commission to approve the project
 
            
  16.
-       
- 2005.0527D
+<<Project End>>
+<<Project Start>>
+2005.0527D
                                           
  
                         
@@ -1414,16 +1125,15 @@ Asked the Commission to deny the Discretionary Review application.
  AYES:
           
  Antonini, Alexander, Bradford-Bell, Hughes, Olague, S. Lee, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
            
 
 
 17.
-       
- 2005.0698C
+<<Project End>>
+<<Project Start>>
+2005.0698C
                                                                   
  
     
@@ -1675,16 +1385,15 @@ S. Lee
 MOTION:
        
  17117
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-       
- 2005.0632C
+<<Project End>>
+<<Project Start>>
+2005.0632C
                                                                   
  
     
@@ -1916,16 +1625,14 @@ NOTE
 : Items 19 and 20a & b were called and heard together.
  
  The public hearing for item 19 is closed.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-       
- 
+<<Project End>>
+<<Project Start>>
 2000.1164E
  
  
@@ -1995,8 +1702,9 @@ MOTION:
 
 
 20a.
-     
- 2000.1164E 
+<<Project End>>
+<<Project Start>>
+2000.1164E 
                                   
  
                                    
@@ -2622,9 +2330,10 @@ MOTION:
  
 
 
-20b. 
-    
- 2003.0758C
+20b.
+<<Project End>>
+<<Project Start>>
+2003.0758C
  
  
                                                              
@@ -2685,16 +2394,15 @@ authorization
 MOTION:
        
  17120
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
-       
- 2002.0449E
+<<Project End>>
+<<Project Start>>
+2002.0449E
                                           
  
        
@@ -2778,8 +2486,9 @@ MOTION:
 
 22a
 .
-     
- 2002.0449
+<<Project End>>
+<<Project Start>>
+2002.0449
 C
 v
                             
@@ -2999,8 +2708,9 @@ MOTION:
 
 22b
 .
-     
- 2002.0449C
+<<Project End>>
+<<Project Start>>
+2002.0449C
 V
                             
  
@@ -3048,16 +2758,15 @@ Zoning Administrator closed the public hearing and granted the parking and loadi
  
  He has taken the upper floor setback variance under advisement
 .
-<<Project End>>
-<<Project Start>>
 
 
                                                          
 
 
 23.
-       
- 2002.1129E
+<<Project End>>
+<<Project Start>>
+2002.1129E
                                             
  
                            
@@ -3297,16 +3006,15 @@ ACTION:
 
 
 6:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
-       
- 2005.0868E
+<<Project End>>
+<<Project Start>>
+2005.0868E
 T
 M
                                         
@@ -3501,8 +3209,9 @@ RESOLUTION
 
 
 25
-        
- 2005.0868ET
+<<Project End>>
+<<Project Start>>
+2005.0868ET
 M
  
  
@@ -3554,8 +3263,6 @@ RESOLUTION
 :
    
  17124
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3616,16 +3323,15 @@ SPEAKERS:
 ABSENT:
       
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 27.
-       
- 2005.0524T
+<<Project End>>
+<<Project Start>>
+2005.0524T
                   
  
                                                        

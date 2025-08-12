@@ -1,309 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ March 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-March 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, March 27, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 09 
- 
-P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Omar Masry, Debra Dwyer, Aaron Starr, Menaka Mohan, Jessica Look, Michael E. Smith, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2010.0641M
                                                                  
                       
@@ -342,15 +37,14 @@ Continued to April 3, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0306T
                                                                                           
             
@@ -390,7 +84,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 3a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627
 B
 C
@@ -439,7 +134,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 3b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627B
 C
  
@@ -494,15 +190,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0880C
                                                           
                                           
@@ -548,8 +243,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -596,8 +289,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -699,8 +390,6 @@ I wanted to let the Commission know that I was able to take part in a shift at t
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -794,8 +483,6 @@ under construction and about 150 units. So that, Mercy is still assessing the da
 I am certainly happy to keep you informed on this project, especially to see how much the construction they can salvage.
   
 Thank you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -844,16 +531,12 @@ FULL BOARD OF SUPERVISORS:
 Sharp Park Safety, Infrastructure Improvement, and Habitat Enhancement Project. 
 The Board considered an appeal of the Final Mitigated Negative Declaration (Mit. Neg. Dec.)for this project in Pacifica.
   
-Many people attend the hearing to speak both for and against the project and CEQA decision. Supervisors Campos, Kim, and Mar articulated their concerns generally in two areas
-<<Project End>>
-<<Project Start>>
+Many people attend the hearing to speak both for and against the project and CEQA decision. Supervisors Campos, Kim, and Mar articulated their concerns generally in two areas 
 
 
 1.
     
-the project’s impacts on the speed and amount of water flowing into the wetland; and
-<<Project End>>
-<<Project Start>>
+the project’s impacts on the speed and amount of water flowing into the wetland; and 
 
 
 2.
@@ -959,15 +642,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2011.0558E (
 Part 1
 , 
@@ -1055,15 +737,14 @@ Antonini
 MOTION:
                
 19105
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2014.0290T
                                                                           
    
@@ -1100,15 +781,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19106
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2013.0936U
  
                                                         
@@ -1149,15 +829,14 @@ Continued to April 10, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1255U
                                                          
                                               
@@ -1249,22 +928,16 @@ Robert Paris – Opposed to softening legislation
 ACTION:
                                 
 Adopted with Modifications to Department Recommendations:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Add DR findings of Exisitng MCD’s;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Conduct further study into allowing MCD’s in more zoning districts; and;
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1287,15 +960,14 @@ Antonini
 MOTION:
                
 19107
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2007.1275EM
  
                                                                                      
@@ -1347,15 +1019,14 @@ Fong
 MOTION:
                
 19108
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2010.0726X
                                                           
                                                     
@@ -1431,15 +1102,14 @@ Continued to May 1, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0638C 
                                                                          
                                
@@ -1511,15 +1181,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2013.0314D
                                                                                          
                
@@ -1554,15 +1223,14 @@ Continued to April 3, 2014
 AYES:
                      
 Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2012.1552D
                                                                                          
            
@@ -1667,7 +1335,8 @@ DRA No:
 
 18a
 .
-      
+<<Project End>>
+<<Project Start>>
 2013.0094D
                                                          
                            
@@ -1714,7 +1383,8 @@ DRA No:
 
 
 18b.
-        
+<<Project End>>
+<<Project Start>>
 2014.0393D
                                                          
                                           
@@ -1760,15 +1430,14 @@ Wu, Moore
 DRA No:
                                 
 0358
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-          
+<<Project End>>
+<<Project Start>>
 2013.1762D 
                                                                                         
                    

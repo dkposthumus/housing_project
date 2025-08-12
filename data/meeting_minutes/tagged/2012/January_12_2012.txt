@@ -1,415 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ January 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-January 12, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-        Commission Chambers - Room 400
-
-
-
-
-
-        City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, January
-        12, 2012
-
-
-
-
-
-        12:00 PM
-
-
-
-
-
-        Regular Meeting
-
-
-
-
-
-         
-
-
-
-
-COMMISSIONERS
-        PRESENT:  Antonini, Borden, Fong, Moore and Sugaya
-
-
-
-
-
-        COMMISSIONER ABSENT:  Miguel
-
-
-
-
-
-         
-
-
-
-
-THE MEETING WAS
-        CALLED TO ORDER BY ACTING CHAIR FONG AT 12:20 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN
-        ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez- Zoning
-        Administrator, Adrian Putra, Brittany Bendix, Tom Disanto, Keith Demartini,
-        David Winslow, Lily Langlois, Michael Smith, Michelle Stahlhut, Sara Vellve,
-        Kevin Guy, Diego Sanchez and Linda Avery – Commission Secretary.
-
-
-
-
- 
-
-
-A.
-           
-        
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-         
-
-
-The Commission
-        will consider a request for continuance to a later date.  The Commission may
-        choose to continue the item to the date proposed below, to continue the item to
-        another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-                
-
-
-
-
-
-        1.         2004.0976E                                                      
-                                       (D. LEWIS: (415) 575-9095)
-
-
-
-
-
-        376 Castro Street
-
-        - northwest corner of the intersection of Castro and Market Streets; Lot 6 in
-        Assessor’s Block 2623 - 
-Appeal of a Preliminary Mitigated Negative
-        Declaration
- - The proposed project would involve demolition of an existing
-        automotive gasoline and service station, and construction of a six-story,
-        approximately 65-foot-tall, 43,070-square-foot, mixed-use building with 24
-        residential units, approximately 2,990 square feet of ground-floor commercial
-        space and a 14-space underground parking garage with ingress and egress from
-        Castro Street. The project site is located within the Upper Market Street
-        Neighborhood Commercial District and a 65-B Height and Bulk District.
-
-
-
-
-Preliminary Recommendation: Uphold the Preliminary Mitigated
-        Negative Declaration
-
-
-
-
-
-        (Proposed for Continuance to February 9, 2012)
-
-
-
-
-
-         
-
-
-
-
-
-        SPEAKERS:     None
-
-
-
-
-
-        ACTION:           Continued as proposed
-
-
-
-
-AYES:             
-        Antonini, Fong, Moore, Sugaya, and Olague
-
-
-
-
-            
-
-
-ABSENT:          Borden and Miguel
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-2.        
-        2011.0207C                                                                   
+2011.0207C                                                                   
         (D. SANCHEZ: (415) 575-9082)
 
 
@@ -480,8 +70,6 @@ AYES:             
 
 
 ABSENT:          Borden and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -493,8 +81,10 @@ ABSENT:          Borden and Miguel
 
 
 
-            3.        
-        2011.0101C                                                                   (D.
+            3.
+<<Project End>>
+<<Project Start>>
+2011.0101C                                                                   (D.
         SANCHEZ: (415) 575-9082)
 
 
@@ -557,8 +147,6 @@ AYES:             
 
 
 ABSENT:          Borden and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -662,8 +250,6 @@ B.        
         unless a member of the Commission, the public, or staff so requests, in which
         event the matter shall be removed from the Consent Calendar and considered as a
         separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -673,10 +259,9 @@ B.        
 
 
 
-5.        
-        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0773C
                                                       
                            
@@ -749,8 +334,6 @@ ABSENT:          Miguel
         
 
         18515
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -761,10 +344,9 @@ ABSENT:          Miguel
 
 
 
-        6.        
-        
-
-
+        6.
+<<Project End>>
+<<Project Start>>
 2011.0951CV 
 
                                                                                (B.
@@ -837,8 +419,6 @@ ABSENT:          Miguel
         
 
         18516
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -849,10 +429,9 @@ ABSENT:          Miguel
 
 
 
-        7.        
-        
-
-
+        7.
+<<Project End>>
+<<Project Start>>
 2011.0951CV
                                                     
                         (B. BENDIX:  (415) 575-9114) 
@@ -937,8 +516,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
         matters unless that commissioner is excused by a vote of the Commission. 
         Commissioners may not be automatically excluded from a vote on the minutes
         because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1076,8 +653,6 @@ AYES:             
 
 
 ABSENT:          Borden and Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1369,9 +944,7 @@ st
             discussion. If you want us to schedule a hearing on this, we can certainly
             do that in a few weeks. It may make sense to do that when we have a few more
             of the questions answered, six to eight weeks down the road or something
-            like that.
-<<Project End>>
-<<Project Start>>
+            like that. 
 
 
 
@@ -1670,9 +1243,7 @@ Sharp
  
         The Board heard an appeal to the Commission's certification of the Museum of
         Modern Art Expansion/Fire Station Relocation and Housing Project Environmental
-        Impact Report. The Appellant, the W Hotel, alleged 3 primary arguments:
-<<Project End>>
-<<Project Start>>
+        Impact Report. The Appellant, the W Hotel, alleged 3 primary arguments: 
 
 
 
@@ -1686,9 +1257,7 @@ Sharp
 
 
         that the EIR  and the project analyzed in the EIR did not match the schematic
-        design submitted to the Department
-<<Project End>>
-<<Project Start>>
+        design submitted to the Department 
 
 
 
@@ -1701,8 +1270,6 @@ Sharp
 
         that the expansion's visual impacts were not appropriately analyzed,
         particularly those related to effects on private views to the W hotel; and
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2348,9 +1915,7 @@ At this time,
 F.
             
 
-        REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+        REGULAR CALENDAR  
 
 
  
@@ -2395,8 +1960,6 @@ F.
 
 
         ACTION:           Informational only; no action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2408,10 +1971,10 @@ F.
 
 
 
-        13.       
-        
-
-        2011.1423B
+        13.
+<<Project End>>
+<<Project Start>>
+2011.1423B
                                           
                                  (
 D. Winslow: 
@@ -2472,8 +2035,6 @@ The
 
 
         ACTION:           Informational only; no action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2533,8 +2094,6 @@ on the WalkFirst project, a collaborative effort between the San Francisco
 
 
         ACTION:           Informational only; no action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2546,10 +2105,9 @@ on the WalkFirst project, a collaborative effort between the San Francisco
 
 
 
-        15.       
-        
-
-
+        15.
+<<Project End>>
+<<Project Start>>
 2011.0716C
                                           
                                         
@@ -2630,8 +2188,6 @@ ABSENT:          Miguel
 
 
 18517
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2641,10 +2197,9 @@ ABSENT:          Miguel
 
 
 
-16.       
-        
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2011.0566C
                                                       
                      
@@ -2718,8 +2273,6 @@ ABSENT:          Miguel
 
 
 18518
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2729,10 +2282,9 @@ ABSENT:          Miguel
 
 
 
-17.       
-        
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2010.0791C
                                                       
                           
@@ -2773,8 +2325,6 @@ Preliminary Recommendation: Approval with Conditions
 
         This case was previously advertised for a hearing on December 1 and/or December
         8, 2011. At the December 1, 2011 hearing, the case was continued to January 12,
-<<Project End>>
-<<Project Start>>
         2012.
 
 
@@ -2793,8 +2343,6 @@ Preliminary Recommendation: Approval with Conditions
 
 
         ACTION:           The project was withdrawn
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2804,10 +2352,9 @@ Preliminary Recommendation: Approval with Conditions
 
 
 
-18.       
-        
-
-
+18.
+<<Project End>>
+<<Project Start>>
 2011.1327C 
 
                                                                                        
@@ -2877,8 +2424,6 @@ NAYES:            Moore
 
 
 ABSENT:          Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2889,10 +2434,9 @@ ABSENT:          Miguel
 
 
 
-        19.       
-        
-
-
+        19.
+<<Project End>>
+<<Project Start>>
 2011.1249C  
 
                                                                                  (B.
@@ -2966,10 +2510,10 @@ ABSENT:          Borden and Miguel
 
 
 
-            20a.     
-        
-
-        2011.0379DV
+            20a.
+<<Project End>>
+<<Project Start>>
+2011.0379DV
                                                                 
         (D. SANCHEZ: (415) 575-9082)
 
@@ -3062,13 +2606,9 @@ ABSENT:          Miguel
 
 
 
-        20b.      
-
-
-
-
-
-
+        20b.
+<<Project End>>
+<<Project Start>>
 2011.0379DV    
         
 
@@ -3115,27 +2655,25 @@ to Planning Code Section 242 to construct a stair and deck in the
 
         ACTION:           The Zoning Administrator closed the public hearing and stated
         his inclination to grant the variances
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+        21.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-        21.       
-        
-
-        2011.0945DD
+2011.0945DD
                                                                
              (A. PUTRA: (415) 575-9079)
 
@@ -3216,8 +2754,6 @@ ABSENT:          Miguel
 
 
 0250
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3227,10 +2763,9 @@ ABSENT:          Miguel
 
 
 
-            22.       
-        
-
-
+            22.
+<<Project End>>
+<<Project Start>>
 2011.0625D
                                                       
                         

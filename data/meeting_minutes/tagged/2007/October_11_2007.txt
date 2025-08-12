@@ -1,285 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ October 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-October 11, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 11, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-October 11, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:34 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Scott Sanchez, Kelly Amdur, Adam Light, Craig Nikitas, Diana Sokolove, AnMarie Rodgers, Kate McGee, Ken Rich, John Billovits, Jim Miller, Sharon Young, Aaron Hollister, Michelle Glueckert, Elizabeth Watty, Edgar Oropeza and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0594D
+2007.0594D
  
  
  
@@ -332,16 +52,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
  
@@ -377,8 +96,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -386,8 +103,6 @@ AYES:
 
  
  3.
-<<Project End>>
-<<Project Start>>
  
  2007.
 0584C
@@ -451,8 +166,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -668,8 +381,6 @@ Commissioner Moore
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -683,8 +394,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -929,13 +638,12 @@ No Action is required of the Commission
 
 
 Item 8 was taken out off order and followed item 10
-<<Project End>>
-<<Project Start>>
 
 
 8.
- 
- 2007.0682E
+<<Project End>>
+<<Project Start>>
+2007.0682E
 T
  
  
@@ -993,16 +701,15 @@ AYES:
 RESOLUTION:
  
  17496
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2007.0511T
+<<Project End>>
+<<Project Start>>
+2007.0511T
  
  
 (Tape IIA; IIB)
@@ -1307,13 +1014,12 @@ RESOLUTION:
 
 
 Item 10 was taken out of order followed item 7
+
+
+10.
 <<Project End>>
 <<Project Start>>
-
-
-10. 
- 
- 2005.0159E
+2005.0159E
  
  
  
@@ -1512,8 +1218,6 @@ ACTION:
 This was an informational presentation and action by the Commission is not required.
  
  Commissioner Sugaya was excused.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1576,8 +1280,9 @@ Informational presentation.
 
 
 12a.
- 
- 2007.0242
+<<Project End>>
+<<Project Start>>
+2007.0242
 C
 V
  
@@ -1721,8 +1426,9 @@ ABSENT:
 
 
 12b.
- 
- 2007.0242C
+<<Project End>>
+<<Project Start>>
+2007.0242C
 V
  
  
@@ -1755,16 +1461,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator continued this item to October 25, 2007
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0708C
+<<Project End>>
+<<Project Start>>
+2007.0708C
  
  
 (Tape IIIA)
@@ -1870,16 +1575,15 @@ ABSENT:
 MOTION:
  
  17498
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.1148K
+<<Project End>>
+<<Project Start>>
+2006.1148K
 C
  
  
@@ -2002,8 +1706,6 @@ ABSENT:
 MOTION:
  
  17499
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2012,8 +1714,8 @@ MOTION:
  
  
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0579D
  
  
@@ -2325,8 +2027,6 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2334,8 +2034,9 @@ ABSENT:
 
  
  16.
- 
- 2007.0673D 
+<<Project End>>
+<<Project Start>>
+2007.0673D 
  
  
 (Tape IVA)
@@ -2699,8 +2400,6 @@ NAYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2709,8 +2408,8 @@ ABSENT:
  
  
 17.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0631D
  
  
@@ -2910,16 +2609,15 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.0628D
+<<Project End>>
+<<Project Start>>
+2007.0628D
  
  
  
@@ -2957,13 +2655,12 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
 19.
- 
- 2006.1413D
+<<Project End>>
+<<Project Start>>
+2006.1413D
  
  
 (Tape IVB)

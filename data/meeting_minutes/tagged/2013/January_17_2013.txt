@@ -1,276 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 17, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ January 17, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-January 17, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 17, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                        
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:08 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Aaron Starr, Tom Disanto, Keith DeMartini, Kate McGee, Mary Brown, Ben Fu, Elizabeth Watty, and Jonas P. Ionin – Acting Commission Secretary.
-
-
- 
-
-
-                        
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-1.
-             
 2012.1291C                                                                              (
 S. YOUNG: (415) 558-6346)
 
@@ -301,15 +29,14 @@ Continued as Proposed
 
 
 AYES:              Fong, Wu, Antonini, Borden, Moore, Hillis, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2011.0430E                                                                              (D. LEWIS: (415) 575-9095)
 
 
@@ -347,8 +74,6 @@ AYES:              Fong, Wu, Antonini, Borden, Moore, Hillis, Sugay
 B.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -372,8 +97,6 @@ ACTION:           Elected Rodney Fong as President and Cindy Wu as Vic
 AYES:              
 Fong, Wu, 
 Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -451,8 +174,6 @@ I wanted to update the Commission on the Permit Tracking System that's being wor
 
 C.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -467,9 +188,7 @@ Director Rahaim
 :
 
 
-Let me add my congratulations to President Fong and Vice President Wu. The beginning of the year is a good time to look back and look ahead. If I could refer to my written director's report there were a couple of items to bring to your attention that I think are interesting to look at how the Department and the Commissions are doing right now. First is that you have now adopted and the Board has adopted nine neighborhood plans and we have two more on the way. And those plans only cover about 20% of the total area of the City, but cover about 80% of what is being built in the City. We now have plans in place that will cover a vast majority of the City where building is happening. If you compare the kind of projects that come to you and the types of controversies that come to you and to the Department, it is pretty striking that the projects within the plan areas tend to be less controversial than the projects outside of the plan areas that are requiring -- asking for some kind of change in zoning or change in procedure. So I would argue that the intent of the plans is working, that the plans are doing exactly what they intended to do. The other reason that I believe that is because within the plan areas we have not had to do one full EIR for any single project. It's always been community plan exemptions or other type of lesser environmental review, which saves time and money and means those projects are generally consistent with the plans, which is what the intent was all along. So I feel pretty good about that. As I say in the report, we are also more involved now in a broader range of implementation of those plans. Secondly, looking ahead at the year, I do think we are -- it is unlikely that we will take on a major new neighborhood planning effort of that same type in the coming couple of years. Rather, I think -- as I point out, we are looking at an unusually large number of publicly owned sites that are in play, the Port, Housing, UCSF, Laurel Heights property on the market. So it's incumbent on us to look at those sites -- if those sites play out as intended by the owners today there could be 10 million square feet of development on those sites. It's a huge site of development. Those will consume a lot of our time over the next couple of years, on the environmental and entitlement side and urban design issues, and its incumbent on us to look at the policy implications putting those public sites in play for development. Secondly, the second piece of the work that I think is interesting, is the work in the neighborhood commercial districts, partially related to the Mayor's investment in neighborhood strategy which is looking at not necessarily up-zoning those districts, but looking at how we invest in those districts, support businesses, and encourage investment where it can happen. So that is also, to me, a very interesting part of our upcoming work plan. There's a lot of work on our plate. Our revenues as you will hear are way up, and we are looking at how to kind of catch up with the workload because we are seeing substantial increases in development applications. But I just wanted to give you a flavor of where we were, where we're heading over the next year or two, and also ask for your input on the kind of things we should be doing, and I'm happy to have a broader discussion or even hearing on that topic in the coming weeks.
-<<Project End>>
-<<Project Start>>
+Let me add my congratulations to President Fong and Vice President Wu. The beginning of the year is a good time to look back and look ahead. If I could refer to my written director's report there were a couple of items to bring to your attention that I think are interesting to look at how the Department and the Commissions are doing right now. First is that you have now adopted and the Board has adopted nine neighborhood plans and we have two more on the way. And those plans only cover about 20% of the total area of the City, but cover about 80% of what is being built in the City. We now have plans in place that will cover a vast majority of the City where building is happening. If you compare the kind of projects that come to you and the types of controversies that come to you and to the Department, it is pretty striking that the projects within the plan areas tend to be less controversial than the projects outside of the plan areas that are requiring -- asking for some kind of change in zoning or change in procedure. So I would argue that the intent of the plans is working, that the plans are doing exactly what they intended to do. The other reason that I believe that is because within the plan areas we have not had to do one full EIR for any single project. It's always been community plan exemptions or other type of lesser environmental review, which saves time and money and means those projects are generally consistent with the plans, which is what the intent was all along. So I feel pretty good about that. As I say in the report, we are also more involved now in a broader range of implementation of those plans. Secondly, looking ahead at the year, I do think we are -- it is unlikely that we will take on a major new neighborhood planning effort of that same type in the coming couple of years. Rather, I think -- as I point out, we are looking at an unusually large number of publicly owned sites that are in play, the Port, Housing, UCSF, Laurel Heights property on the market. So it's incumbent on us to look at those sites -- if those sites play out as intended by the owners today there could be 10 million square feet of development on those sites. It's a huge site of development. Those will consume a lot of our time over the next couple of years, on the environmental and entitlement side and urban design issues, and its incumbent on us to look at the policy implications putting those public sites in play for development. Secondly, the second piece of the work that I think is interesting, is the work in the neighborhood commercial districts, partially related to the Mayor's investment in neighborhood strategy which is looking at not necessarily up-zoning those districts, but looking at how we invest in those districts, support businesses, and encourage investment where it can happen. So that is also, to me, a very interesting part of our upcoming work plan. There's a lot of work on our plate. Our revenues as you will hear are way up, and we are looking at how to kind of catch up with the workload because we are seeing substantial increases in development applications. But I just wanted to give you a flavor of where we were, where we're heading over the next year or two, and also ask for your input on the kind of things we should be doing, and I'm happy to have a broader discussion or even hearing on that topic in the coming weeks. 
 
 
             
@@ -567,8 +286,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 There were two items that were on their calendar, that I think are noteworthy to share with you. One was the review and approval of an interpretive display for the site occupied by the Roache Building at the intersection of Mission and 15th Street. The building was demolished to make way for 181 off-street parking spaces. The project was reviewed and cleared through CEQA in 2000 by this Commission and one of the mitigation measures outlined in the final environmental impact report was the creation of an interpretive display that was publicly accessible, that outlined not only the history of the Roache Building, which was an important lithography and printing business in the City, but the building functioned as a social hall for the German-American Community. It was meant to cover all of the history of the building and be located adjacent to a public right-of-way. The Historic Preservation Commission reviewed the content and found it to be adequate however the design, which includes a series of printed ceramic tiles, felt was disruptive to the content on the interpretive display. While they did approve the content and the location, they did ask the project sponsor to continue working with the Planning Department on either a suitable material to properly display the information, or to redesign the interpretive display to better follow the ceramic tiles that are being proposed as the mounting mechanism for the display. The second item, the Commission provided a recommendation on a Mills Act contract for 201 Buchanan. This is the Nightingale House on Buchanan Street near Waller, constructed in 1882 this is the first Mill's Act contract to be heard by the Commission and the Board of Supervisors since Supervisor Wiener sponsored it for property owners to take advantage of the property tax savings. The Commission commended the new property owners to their commitment to fully restore the Nightingale House. Much of the property tax savings will go into the full restoration of the property. The Commission did unanimously approve the project and offered a positive recommendation to the Board of Supervisors, with a couple of caveats or conditions to continue working with staff on a few minor details of the contract, mainly the phasing of the restoration to make sure that staff has the most updated information about when work will occur, and when staff needs to go out there to review the completion of that work, according to the state mandated requirements of the program
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -587,8 +304,6 @@ SPEAKERS:     Joe Butler, Rowena Jen, Hiroshi Fukuda, Dawn Tranner, Natasha 
 
 
 ACTION:           No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -606,8 +321,6 @@ SPEAKERS:     Judith Berkowitz, Sue Hestor
 
 
 ACTION:           Continued indefinitely
-<<Project End>>
-<<Project Start>>
 
 
   
@@ -666,9 +379,7 @@ At this time, members of the public may address the Commission on items of inter
 
 E.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -691,8 +402,6 @@ SPEAKERS:     Sue Hestor
 
 
 ACTION:           Informational. No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -715,8 +424,6 @@ SPEAKERS:     Sue Hestor
 
 
 ACTION:           Informational. No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -739,14 +446,14 @@ SPEAKERS:     None
 
 
 ACTION:           Informational. No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.0683L
                                                                            (M. BROWN: (415) 575-9074)
 
@@ -775,11 +482,11 @@ AYES:              Fong, Wu, Antonini, Borden, Moore, Hillis, Sugay
 
 RESOLUTION:   
 18781
+
+
+14.
 <<Project End>>
 <<Project Start>>
-
-
-14.        
 2010.0627C
                                                                                     
 (B. FU: (415) 558-6613)
@@ -814,7 +521,9 @@ MOTION:          
 18782
 
 
-15a.      
+15a.
+<<Project End>>
+<<Project Start>>
 2011.1043CEKUX
                                                                     (E. WATTY: (415) 558-6620)
 
@@ -852,7 +561,9 @@ MOTION:          
  
 
 
-15b.      
+15b.
+<<Project End>>
+<<Project Start>>
 2011.1043CEKUX
                                                                     (E. WATTY: (415) 558-6620)
 

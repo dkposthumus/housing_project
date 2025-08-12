@@ -1,333 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 16, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ June 16, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-June 16, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 16, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 16, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander,
- 
-Michael J. Antonini,
- 
-Shelley Bradford Bell, Kevin Hughes, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:35 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Kate Stacey – Deputy City Attorney; Jonathan Purvis; Geoffrey Nelson; Joy Navarrete; Kate McGee; Tina Tam; Dan Sider; Paul Lord; Tammy Chan; Matt Snyder; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                                            
-  
-                                                          
- (L. AVERY: (415) 558-6407)
-
-
-PLANNING COMMISSION RULES AND REGULATIONS
- 
-– 
-Consideration of amendment
- to Article IV, Sections 3 & 6 to address notice and voting; add a new Section 7 to address jurisdiction; and renumber remaining sections of Article IV.
-
-
-(Continued from Regular Meeting of May 12, 2005)
-
-
-(Proposed for Continuance to July 14, 2005)
-
-
- 
-
-
-SPEAKER(S):
-  
-  None
-
-
-ACTION:
-          
-  Without hearing, item continued July 14, 2005
-
-
-AYES:
-             
-  Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
-
-
-ABSENT:
-         
-  Bradford Bell
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-           
- 2.
-        
- 
 2005.0372D 
                                                                                   
  (D. SIROIS 558-6313)
@@ -370,8 +41,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -427,8 +96,6 @@ ACTION:
 AYES:
              
   Alexander, Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -548,8 +215,6 @@ Re:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -558,8 +223,6 @@ C.
 5.
         
   Director’s Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -777,8 +440,6 @@ F.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
   There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -786,8 +447,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
            
   7.
-        
- 2005.0031ER
+<<Project End>>
+<<Project Start>>
+2005.0031ER
 Z
                             
  
@@ -845,8 +507,6 @@ EXCUSED:
 MOTION:
           
   17034
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -854,8 +514,9 @@ MOTION:
 
            
   8.
-        
- 2005.0031E
+<<Project End>>
+<<Project Start>>
+2005.0031E
 R
 Z
                         
@@ -916,8 +577,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -927,8 +586,8 @@ REGULAR CALENDAR
 
 
 9.
-        
-  
+<<Project End>>
+<<Project Start>>
 2004.1078D 
                              
  
@@ -979,8 +638,6 @@ AYES:
 ABSENT:
          
   Bradford Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -988,8 +645,9 @@ ABSENT:
 
            
   10.
-       
- 2005.0375D
+<<Project End>>
+<<Project Start>>
+2005.0375D
                                                                           
  (G. NELSON (415) 558-6257)
 
@@ -1171,8 +829,9 @@ MOTION:
 
            
   11b.
-     
- 2005.0175C
+<<Project End>>
+<<Project Start>>
+2005.0175C
 V
                                                                      
  (G.NELSON: (415) 558-6257)
@@ -1201,8 +860,6 @@ ACTION:
  “
 any recommendation that would require removal of the tree shall be reviewed and subject to the approval of the Zoning Administrator.
 ”
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1511,8 +1168,6 @@ AYES:
 RESOLUTION:
  
   17038
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1786,8 +1441,6 @@ NAYES:
 RESOLUTION:
   
   17039
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1901,8 +1554,6 @@ AYES:
 RESOLUTION:
   
   17040
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1968,8 +1619,6 @@ ABSENT:
 RESOLUTION:
   
   17041
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1977,8 +1626,9 @@ RESOLUTION:
 
            
   17.
-       
- 2005.0345T
+<<Project End>>
+<<Project Start>>
+2005.0345T
    
  
                      
@@ -2149,8 +1799,6 @@ AYES:
 ABSENT:
          
   W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2158,8 +1806,9 @@ ABSENT:
 
            
   18.
-       
- 2005.0394T
+<<Project End>>
+<<Project Start>>
+2005.0394T
                                                       
  
                      
@@ -2261,8 +1910,6 @@ ABSENT:
 RESOLUTION:
   
   17042
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2270,8 +1917,9 @@ RESOLUTION:
 
            
   19.
-       
- 2005.0459T
+<<Project End>>
+<<Project Start>>
+2005.0459T
                                              
  
           
@@ -2394,8 +2042,6 @@ AYES:
 ABSENT:
          
   W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2474,8 +2120,6 @@ ABSENT:
 MOTION:
           
   17043
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2488,8 +2132,8 @@ MOTION:
 
 
 21.
-       
-  
+<<Project End>>
+<<Project Start>>
 2002.1263
 C
                                                       

@@ -1,319 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ September 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-September 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, September 4, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 05 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director,
-  
-Britany Bendix, Sharon Lai, Diego Sanchez, Michael Jacinto, Rich Sucre, Laura Ajello, Christine Lamorena, Erica Jackson, Doug Vu, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.1340D 
                                                                                         
                
@@ -379,15 +64,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0848C
                                                                                           
           
@@ -429,22 +113,16 @@ ACTION:
                 
 After being pulled off of Consent; 
 Approved with Conditions as amended to require:
-<<Project End>>
-<<Project Start>>
 
 
 1.
           
 A soundproofing mechanism around the front door; with drapery as a minimum;
-<<Project End>>
-<<Project Start>>
 
 
 2.
           
-6 month informational report to the Commission; and
-<<Project End>>
-<<Project Start>>
+6 month informational report to the Commission; and 
 
 
 3.
@@ -460,15 +138,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19225
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.1220C
                                                                           
                                   
@@ -538,8 +215,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -586,8 +261,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -655,8 +328,6 @@ Thank you to Commissioner Moore for fulfilling that roll.
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -684,8 +355,6 @@ th
  and Mission.
   
 The public is welcome to join us and give your thoughts on the new Preservation Element of the General Plan. And I just also want to call your attention Commissioners, secondly, that we have a new quarterly pipeline report in the Director's Report that highlights the residential production of the last quarter in the three categories of above moderate, moderate, and low income housing. With that, I'll close my report unless you have questions. Thank you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -856,8 +525,6 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1004,15 +671,14 @@ Sue Hestor – Housing policy, general plan
 ACTION:
                                 
 Reviewed and Commented
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2014.1107T
  
                                                                                          
@@ -1105,15 +771,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 RESOLUTION:
       
 19227
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2010.0043X
                                                                                           
             
@@ -1262,8 +927,6 @@ Wu, Antonini, Hillis, Johnson, Moore, Richards
 NAYES:
                   
 Fong
-<<Project End>>
-<<Project Start>>
       
 
 
@@ -1271,7 +934,8 @@ Fong
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2014.0739C
                                                                                           
            
@@ -1325,7 +989,8 @@ MOTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0205CEKSV 
  
                                               
@@ -1469,7 +1134,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0205CEKSV 
                                                                                
   
@@ -1519,15 +1185,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2014.0797D
                                                                                          
              
@@ -1574,7 +1239,8 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 
 
 14a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0520D
                                                                                          
        
@@ -1623,7 +1289,8 @@ DRA No:
 
 
 14b.
-        
+<<Project End>>
+<<Project Start>>
 2014.0108D 
  
                                                                        
@@ -1667,15 +1334,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 DRA No:
                                 
 0374
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2014.0529D
  
                                                                                                         

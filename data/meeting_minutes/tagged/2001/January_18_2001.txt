@@ -1,355 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 18, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ January 18, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-January 18, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 18, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
- 
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett
-Place
-
-
-Thursday, January 18, 2001
-
-
-1:30 PM
-
-
- 
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
-PRESENT:
- 
-Baltimore, Chinchilla, Fay,
-Joe, Mills, Salinas
-
-
-ABSENT:
- 
-Theoharis
-
-
- 
-
-
-NOTE:
- 
-The Commission voted to have Commissioner
-Chinchilla act as Chairperson for today's hearing.
-
-
- 
-
-
-THE
-MEETING WAS CALLED TO ORDER BY COMMISSIONER CHINCHILLA AT 1:40 p.m.
-
-
- 
-
-
-STAFF IN
-ATTENDANCE:
- Gerald G. Green - Director of Planning; Larry Badiner - Zoning
-Administrator; Andrea Wong; Thomas Wang; Nora Priego - Transcription Secretary;
-Isolde Wilson – Acting Commission Secretary
-
-
- 
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-1.
- 
-Election of Officers
-
-
-(Proposed for
-Continuance to January 25, 2001)
-
-
- 
-
-
- 
-SPEAKER(S):
- 
-None
-
-
- 
-ACTION:
- 
-Continued to January 25, 2001
-
-
- 
-AYES:
- 
-Baltimore, Chinchilla, Fay,
-Joe, Salinas
-
-
- 
-ABSENT:
- 
-Theoharis
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 
-2.
- 
 2000.1049DDD
  
 (WONG:
@@ -408,8 +57,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -418,7 +65,8 @@ Theoharis
  
  
 3.
- 
+<<Project End>>
+<<Project Start>>
 1999.770DDDDD
  
 (WANG:
@@ -459,8 +107,6 @@ Placed in Calendar in
 Error.
  
 No Action Required.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -469,7 +115,8 @@ No Action Required.
  
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.654D
  
 (YOUNG:
@@ -568,8 +215,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -578,7 +223,8 @@ Theoharis
  
  
 5.
- 
+<<Project End>>
+<<Project Start>>
 2000.877D
  
  
@@ -641,8 +287,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -651,7 +295,8 @@ Theoharis
  
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.677C
  
 (CHIN:
@@ -713,8 +358,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -723,7 +366,8 @@ Theoharis
  
  
 7.
- 
+<<Project End>>
+<<Project Start>>
 2000.1026C
  
 (WOODS:
@@ -774,8 +418,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -784,7 +426,8 @@ Theoharis
  
  
 8.
- 
+<<Project End>>
+<<Project Start>>
 2000.739E
  
 (BLOMGREN:
@@ -856,8 +499,6 @@ Theoharis
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -891,8 +532,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -930,8 +569,6 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -953,8 +590,6 @@ None
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -968,8 +603,6 @@ Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1031,8 +664,6 @@ D.
                  
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1439,15 +1070,14 @@ Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
+<<Project End>>
+<<Project Start>>
 1999.346TZ
  
 (MALTZER:
@@ -1662,15 +1292,14 @@ Thoharis
 MOTION:
  
 16079
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
+<<Project End>>
+<<Project Start>>
 2000.1007T
  
 (LORD:
@@ -1751,7 +1380,8 @@ Joe
 
  
 17a.
- 
+<<Project End>>
+<<Project Start>>
 2000.265
 C
 V 
@@ -2007,7 +1637,8 @@ MOTION:
 
  
 17b.
- 
+<<Project End>>
+<<Project Start>>
 2000.265C
 V
 
@@ -2039,8 +1670,6 @@ See Item 17a.
 ACTION:
  
 Variance taken under advisement by Zoning Administrator
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2048,7 +1677,8 @@ Variance taken under advisement by Zoning Administrator
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 1997.433A 
  
 (KOMETANI:
@@ -2136,8 +1766,6 @@ person) is provided with 2 minutes for a rebuttal.
 Those cases that are scheduled on this calendar prior to 5:00 PM,
 but have not been called or heard by 5:00 PM, could be continued to a later
 time or date as determined by the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2145,7 +1773,8 @@ time or date as determined by the Commission.
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.923DD
  
 (WANG:
@@ -2365,8 +1994,6 @@ Joe
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2374,7 +2001,8 @@ Theoharis
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.1029D
  
 (WONG:
@@ -2536,8 +2164,6 @@ Baltimore, Chinchilla, Fay, Joe, Salinas
 ABSENT:
  
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2545,7 +2171,8 @@ Theoharis
 
  
 21.
- 
+<<Project End>>
+<<Project Start>>
 2000.1118DDDD
  
 (NIKITAS:

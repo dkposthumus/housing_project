@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 8, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ May 8, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-May 8, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 8, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 8, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Lee, Miguel, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Adam Light, Cecilia Jaroslawsky, Aaron Starr, Adrian Putra, Paul Lord, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.0291T
+2008.0291T
  
  
  
@@ -317,16 +40,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, Lee, Miguel, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.1280C
+<<Project End>>
+<<Project Start>>
+2007.1280C
  
  
  
@@ -372,16 +94,15 @@ ACTION:
 AYES:
  
  Olague, Antonini, Lee, Miguel, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.0308C
+<<Project End>>
+<<Project Start>>
+2008.0308C
  
  
  
@@ -431,8 +152,9 @@ AYES:
 
 
 4a.
- 
- 2006.0828
+<<Project End>>
+<<Project Start>>
+2006.0828
 C
 V
  
@@ -486,8 +208,9 @@ AYES:
 
 
 4b.
- 
- 2006.0828C
+<<Project End>>
+<<Project Start>>
+2006.0828C
 V
  
  
@@ -542,8 +265,6 @@ C.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -678,8 +399,6 @@ AYES:
 NAYES:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -858,8 +577,6 @@ D.
  DIRECTOR'S REPORT
  
  (Tape IB)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -956,8 +673,6 @@ We did the survey and we were ahead of the process and expected to be done about
 There will be a response to Commissioner Lee's request about restaurants and the expediting process in next week's packet.
  
  I believe the Hospital's memorandum is in today's packet.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1056,8 +771,6 @@ There was a DR filed and the Commission took DR and denied the project.
  
  
 Continued to June giving the opportunity for the project sponsor, staff and DR requestor to work on the design.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1167,8 +880,8 @@ REGULAR CALENDAR
 
 
 10a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0296X
  
  
@@ -1236,8 +949,9 @@ ACTION:
 
 
 10b.
- 
- 2007.1267X
+<<Project End>>
+<<Project Start>>
+2007.1267X
  
  
  
@@ -1333,8 +1047,6 @@ AYES:
 NAYES:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1342,8 +1054,9 @@ NAYES:
 
  
  11.
- 
- 2007.0585D
+<<Project End>>
+<<Project Start>>
+2007.0585D
  
  
 (Tapes IIA; IIB; IIIA)
@@ -1592,8 +1305,6 @@ AYES:
 ABSENT:
  
  Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1635,8 +1346,9 @@ DISCRETIONARY REVIEW WITHDRAWN
 
 
 13a.
- 
- 2008.0246D
+<<Project End>>
+<<Project Start>>
+2008.0246D
  
  
 (Tape IIIA)
@@ -1742,8 +1454,8 @@ ABSENT:
  
  
  13b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1344V
  
  
@@ -1772,16 +1484,15 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2008.0141D
+<<Project End>>
+<<Project Start>>
+2008.0141D
  
  
 (Tape IIIA)
@@ -1854,8 +1565,6 @@ ABSENT:
 
 
 5:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  

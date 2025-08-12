@@ -1,375 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ January 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-January 24, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 24, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 24, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Scott Sanchez, Jessica Range, Angela Heitter, Tara Sullivan-Lenane, Aaron Hollister, Ken Rich, Sue Exline, Jonathan Swae, Claudia Flores, Sarah Dennis, Tim Frye, Andres Power, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CLOSED SESSION
- 
- 
-(Tape IA; IB)
-
-
- 
-
-
-The Planning Commission will take public comment on the matter to be discussed in Closed Session and will consider a motion on whether to assert the attorney-client privilege regarding the matter listed below as Conference with Legal Counsel.
-
-
- 
- 
-
-
- 
- SPEAKERS:
- 
- 
-None
-
-
- 
-
-
-THE PLANNING COMMISSION WILL GO INTO CLOSED SESSION TO DISCUSS THE FOLLOWING ITEM:
-
-
- 
- 
-
-
-Conference with Legal Counsel - Pursuant to California Government Code Section 54956.9(c) and San Francisco Administrative Code Section 67.10(d) to discuss whether to initiate litigation against the Academy of Art University.
-
-
- 
-
-
-ACTION:
- 
- 
-Passed a motion to go into closed session
-
-
- 
- VOTE:
- 
- 
-Alexander, Antonini, S. Lee, W. Lee, Moore, Olague, and Sugaya
-
-
- 
-
-
-FOLLOWING THE CLOSED SESSION, THE PLANNING COMMISSION WILL RECONVENE IN OPEN SESSION.
-
-
- 
-
-
-The Planning Commission will make an announcement following Closed Session and will consider a motion regarding whether to disclose the discussions during Closed Session.
-
-
- 
-
-
-ACTION:
- 
- 
-Passed a motion to not disclose any information
-
-
-AYES:
- 
- 
-Alexander, Olague, Antonini, Moore, S. Lee, W. Lee, and Sugaya
-
-
- 
-
-
- 
-
-
-B.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
- 
- (Tape IIA)
-
-
- 
-
-
-The
- Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.1163C
+2007.1163C
  
  
  
@@ -417,16 +47,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.1164V
+<<Project End>>
+<<Project Start>>
+2007.1164V
  
  
  
@@ -464,8 +93,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -473,8 +100,9 @@ AYES:
 
  
  3.
- 
- 2007.0916C
+<<Project End>>
+<<Project Start>>
+2007.0916C
  
  
  
@@ -519,16 +147,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0703D
+<<Project End>>
+<<Project Start>>
+2007.0703D
  
  
  
@@ -568,16 +195,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.0072C
+<<Project End>>
+<<Project Start>>
+2007.0072C
  
  
  
@@ -616,16 +242,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.1113E
+<<Project End>>
+<<Project Start>>
+2007.1113E
 T
  
  
@@ -682,8 +307,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IIA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -797,8 +420,6 @@ That raises some questions but the original application was for a small fast foo
  
  
  (S. SANCHEZ: (415) 558-6326)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -926,8 +547,6 @@ D.
  DIRECTOR'S REPORT
  
  (Tape IIB)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -966,8 +585,6 @@ John Rahaim, Director
 -
  
  There was also an item about the Japantown boundaries and I am having a discussion about this and trying to figure it all out.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1025,8 +642,6 @@ upheld
  it because it is in the interim zoning controls requiring conditional use for most uses in the Bayview.
  
  They filed a conditional use and it is coming to this Commission as soon as possible in order to address the enforcement issue.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1034,8 +649,9 @@ upheld
 
  
  11.
- 
- 2001.1398
+<<Project End>>
+<<Project Start>>
+2001.1398
  
  
  
@@ -1153,8 +769,6 @@ G.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1213,16 +827,14 @@ H.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 
+<<Project End>>
+<<Project Start>>
 1999.0536E
 C
  
@@ -1455,13 +1067,12 @@ MOTION:
  
  
 17539
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 2006.0689D
+<<Project End>>
+<<Project Start>>
+2006.0689D
  
  (e. jackson: (415) 558-6363)
 
@@ -1502,16 +1113,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.1266
+<<Project End>>
+<<Project Start>>
+2007.1266
 T
  
  
@@ -1752,16 +1362,15 @@ RESOLUTION:
  
  
 17540
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.1444E
+<<Project End>>
+<<Project Start>>
+2007.1444E
 T
  
  
@@ -1802,8 +1411,9 @@ AYES:
 
 
 17a.
- 
- 2006.0660BE
+<<Project End>>
+<<Project Start>>
+2006.0660BE
 K
 X 
  
@@ -1849,8 +1459,9 @@ AYES:
 
 
 17b.
- 
- 2006.0660BEK
+<<Project End>>
+<<Project Start>>
+2006.0660BEK
 X
  
  
@@ -1896,8 +1507,9 @@ AYES:
 
 
 17c.
- 
- 2006.0660
+<<Project End>>
+<<Project Start>>
+2006.0660
 B
 EKX 
  
@@ -1938,8 +1550,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1948,8 +1558,8 @@ AYES:
  
  
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1211D
  
  
@@ -1999,14 +1609,12 @@ ABSENT:
 
 
 Item 19 and 20 were called together
-<<Project End>>
-<<Project Start>>
 
 
  
  19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2002.0194C
  
  
@@ -2063,8 +1671,6 @@ ACTION:
  No Action is required of the Commission.
  
  Informational item
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2072,8 +1678,9 @@ ACTION:
 
  
  20.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
  
@@ -2219,8 +1826,8 @@ MOTION:
 
 
 21a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -2264,8 +1871,9 @@ AYES:
 
 
 21b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -2301,16 +1909,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2007.1218C
+<<Project End>>
+<<Project Start>>
+2007.1218C
  
  
  
@@ -2344,16 +1951,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2007.0827C
+<<Project End>>
+<<Project Start>>
+2007.0827C
  
  (a. ben-PAZI: (415) 575-9077)
 
@@ -2408,8 +2014,6 @@ AYES:
  
 7
 :00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  

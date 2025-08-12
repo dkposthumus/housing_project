@@ -1,309 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ February 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-February 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
- 
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, February 13, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 11 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Tina Chang, Marcelle Boudreaux, Kanishka Burns, Doug Vu, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.1791T
                                                                           
                       
@@ -339,15 +34,14 @@ Continued Indefinitely
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0518C
                                                           
                                          
@@ -391,15 +85,14 @@ Continued to February 20, 2014
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.1529Z
                                                           
                                              
@@ -461,11 +154,8 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-
-
- 
-
-
+<<Project End>>
+<<Project Start>>
 2013.1688Q
  
                                                                         
@@ -505,15 +195,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19077
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1828Q
  
                                                                                         
@@ -554,15 +243,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19078
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1192Q
                                                                                          
           
@@ -599,15 +287,14 @@ Continued to February 27, 2014
 AYES:
                      
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1817C
                                                                           
                
@@ -652,8 +339,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -703,8 +388,6 @@ Fong, Wu, Antonini, Borden, Hillis, Moore
 NAYES:
                   
 Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -798,8 +481,6 @@ cities, is they’re actually spending less to house homeless in individual unit
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -827,8 +508,6 @@ so we are anxious to complete that review, as well. We will be working with othe
 That sometimes creates some problems, if one department wants to change things, but that is the reason for the Ombudsman in the Planning Department to make that that doesn’t happen, so this will also save time in the review process as well.
   
 A couple of other items to highlight, under Task 2, which specifically addresses the Discretionary Review for loss of housing units, this proposal will essentially bring any unit that is being proposed for elimination to the Planning Commission as a Mandatory DR. Right now, there are certain types of units that do not come to you, this would change that, and essentially allow -- if the building is more than two units it would come to you as a Mandatory Discretionary Review, so you will be seeing some more of these than you today, in your current practice. Finally, under Task 3, the Department -- both departments will review notices from the Rent Board on any projects and proposals for elimination of units or evictions. The proposal at the request of the Mayor is that the Department of Building Inspection will actually go out and review these projects and these buildings for any code violations. There are some issues to work out in terms of the notices and such. The first step will be for the Rent Board to actually give notice to both the Planning Department and to DBI when those evictions happen. That's a quick summary. I probably can answer simple questions, but we are happy to get a calendared hearing as well, for a more robust conversation on this.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -954,8 +633,6 @@ Jordan Engle – Broadway Corridor – Liquor License Moratorium
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -963,7 +640,8 @@ REGULAR CALENDAR
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1648C
                                                                           
                            
@@ -1016,7 +694,8 @@ MOTION:
 
 
 13a.
-        
+<<Project End>>
+<<Project Start>>
 2011.1373CV
                                                       
                 
@@ -1077,7 +756,8 @@ MOTION:
 
 
 13b.
-        
+<<Project End>>
+<<Project Start>>
 2011.1373CV
                                                                        
                                   

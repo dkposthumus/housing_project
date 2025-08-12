@@ -1,287 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ October 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-October 25, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 25, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 25, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:34 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Erika Jackson, Susan Exline, Sophie Middlebrook, Richard Cooper, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2007.0701C
  
  
@@ -351,16 +68,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
  
@@ -412,16 +128,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0628D
+<<Project End>>
+<<Project Start>>
+2007.0628D
  
  
  
@@ -461,16 +176,15 @@ ACTION:
  
  
 Discretionary Review Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0936T
+<<Project End>>
+<<Project Start>>
+2007.0936T
  
  
  
@@ -508,16 +222,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
  
@@ -561,16 +274,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2005.0490E
+<<Project End>>
+<<Project Start>>
+2005.0490E
  
  
  
@@ -616,16 +328,14 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.1245E
  
  
@@ -716,8 +426,6 @@ AYES:
 
 
 8a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -770,8 +478,9 @@ AYES:
 
 
 8b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -821,8 +530,9 @@ Add 1 is from the Addendum
 
 
 Add 1.
- 
- 2007.0584C
+<<Project End>>
+<<Project Start>>
+2007.0584C
  
  
  
@@ -884,8 +594,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -921,8 +629,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1466,8 +1172,6 @@ Commissioner W. Lee
 The Commission decided to schedule a special hearing on December 6
 th
 , 2007 at 10 a.m. to discuss THE City College issues.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1514,8 +1218,6 @@ C.
 12
  
  Director's Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1911,8 +1613,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 Add 2a.
- 
- 2007.0242
+<<Project End>>
+<<Project Start>>
+2007.0242
 C
 V
  
@@ -1978,8 +1681,9 @@ MOTION:
 
 
 Add 2b.
- 
- 2007.0242C
+<<Project End>>
+<<Project Start>>
+2007.0242C
 V
  
  
@@ -2040,13 +1744,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item taken off consent and out of order followed item 15
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 2007.0683C
+<<Project End>>
+<<Project Start>>
+2007.0683C
  
  
 (Tape IB)
@@ -2113,13 +1816,12 @@ MOTION:
 
 
 Item taken off consent and out of order followed Addendum 2a. and b.
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2007.0787C
+<<Project End>>
+<<Project Start>>
+2007.0787C
  
  
 (Tape IB)
@@ -2174,8 +1876,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2183,8 +1883,8 @@ REGULAR CALENDAR
 
 
 16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0514T
  
  
@@ -2245,16 +1945,15 @@ AYES:
 RESOLUTION:
  
  17506
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1111T
+<<Project End>>
+<<Project Start>>
+2007.1111T
  
  
  
@@ -2288,16 +1987,14 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1106A
  
  
@@ -2360,16 +2057,15 @@ AYES:
 MOTION:
  
  17507
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2004.1059E
+<<Project End>>
+<<Project Start>>
+2004.1059E
  
  
 (Tape IIA)

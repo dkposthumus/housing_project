@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 15, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ November 15, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-November 15, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 15, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 15, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Jonas Ionin, Nannie Turrell, Rosemary Dudley, Ken Rich, Joan Kugler, Tom Wang, Adrian Putra, Aaron Hollister, and Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.0490E
+2005.0490E
  
  
  
@@ -338,16 +61,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2005.0490C 
+<<Project End>>
+<<Project Start>>
+2005.0490C 
  
  
  
@@ -396,16 +118,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.1227C
+<<Project End>>
+<<Project Start>>
+2006.1227C
  
  
  
@@ -456,16 +177,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0725C
+<<Project End>>
+<<Project Start>>
+2007.0725C
  
  (E. OROPEZA: (415) 558-6381)
 
@@ -518,8 +238,6 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -529,8 +247,9 @@ ABSENT:
 
 
 5.
- 
- 2005.0893E
+<<Project End>>
+<<Project Start>>
+2005.0893E
  
  
  
@@ -577,16 +296,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2006.1354D
+<<Project End>>
+<<Project Start>>
+2006.1354D
  
  
  
@@ -630,16 +348,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2007.1099C
+<<Project End>>
+<<Project Start>>
+2007.1099C
  
  
  
@@ -710,8 +427,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -784,8 +499,6 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1064,8 +777,6 @@ C.
 
 
 [Revisited after item 15]
-<<Project End>>
-<<Project Start>>
 
 
 10.
@@ -1101,8 +812,6 @@ And while it is pending before the Board of Supervisors, the two parties are wor
  I had said that he Board of Appeals could not get a quorum but I neglected to say why.
  
  There was an unexpected death in the family of one of the Commissioners.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1443,16 +1152,15 @@ F.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0838C
+<<Project End>>
+<<Project Start>>
+2007.0838C
  
  
 (Tape IA)
@@ -1517,16 +1225,15 @@ ABSENT:
 MOTION:
  
  17512
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2004.0194E
+<<Project End>>
+<<Project Start>>
+2004.0194E
  
  
 (Tape IA)
@@ -1611,13 +1318,12 @@ REGULAR CALENDAR
 
 
 Item 14 was taken out of order and followed item 21
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 1999.0536E
+<<Project End>>
+<<Project Start>>
+1999.0536E
  
  
 (Tape IB)
@@ -1686,8 +1392,6 @@ ACTION:
  Item is for public comments only.
  
  No action is required of the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1696,10 +1400,8 @@ ACTION:
  
  
 15.
- 
- 
- 
- 
+<<Project End>>
+<<Project Start>>
 1996.281E
  
  
@@ -2051,8 +1753,8 @@ ACTION:
 
 
 16a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1207D
  
  
@@ -2161,8 +1863,9 @@ ABSENT:
 
 
 16b.
- 
- 2007.1210D
+<<Project End>>
+<<Project Start>>
+2007.1210D
  
  
 (Tape IIA)
@@ -2204,16 +1907,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0905D
+<<Project End>>
+<<Project Start>>
+2007.0905D
  
  
 (Tape IIA; IIB)
@@ -2367,16 +2069,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.0920C
+<<Project End>>
+<<Project Start>>
+2007.0920C
  
  
  
@@ -2504,16 +2205,15 @@ ABSENT:
 MOTION:
  
  17514
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.0461C
+<<Project End>>
+<<Project Start>>
+2007.0461C
  
  
 (Tape IIB)
@@ -2689,16 +2389,15 @@ AYES:
 ABSENT:
  
  Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2007.0971C
+<<Project End>>
+<<Project Start>>
+2007.0971C
  
  
  

@@ -1,260 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 21, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ June 21, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-June 21, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 21, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-
-
-Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 21, 2001
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-PRESENT:                        Theoharis; Fay; 
-    Baltimore; Chinchilla; Joe; Lim; Salinas
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT 
-    THEOHARIS AT 1:50 P.M.
-
-
-STAFF IN ATTENDANCE: Gerald G. Green – Director 
-    of Planning, Larry Badiner – Zoning Administrator, Isolda Wilson; David Alumbaugh, 
-    Amith Ghosh; Sam Assefa; Tina Tam; Alison Borden; Scott Sanchez; Michael Kometani; 
-    Paul Maltzer; Patricia Gerber – Transcription Secretary; Linda D. Avery – 
-    Commission Secretary
-
-
- 
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-1.            
-    2000.1261E
+2000.1261E
 C
 
 
@@ -294,8 +39,6 @@ AYES:
     
                         Theoharis; Baltimore; Chinchilla; Fay; Joe; Lim; 
     Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -355,8 +98,6 @@ AYES:
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -376,8 +117,6 @@ ACTION
 AYES:
               
                             Theoharis; Baltimore; Chinchilla; Fay; Joe; Lim; Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -393,8 +132,6 @@ Commissioner Lim:            Urged the Finance Committee of the Board
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 5.            Director's Announcements
@@ -415,9 +152,7 @@ th
     sponsored by Supervisor Tom Ammiano would create Interim Zoning within the 
     Mission District.  Director appeared before the Board Committee on 6/20 to 
     comment on this legislation and to communicate that the Department carried 
-    out the necessary review.
-<<Project End>>
-<<Project Start>>
+    out the necessary review.   
 
 
  6.
@@ -434,8 +169,6 @@ th
 
  
 B of A: None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -512,8 +245,6 @@ SPEAKER (s):
     
  Does seem to him that the Controller's Office is doing a good 
     job, the entire process has been politicized
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -549,8 +280,6 @@ ACTION
 AYES:
               
                             Theoharis; Baltimore; Chinchilla; Fay; Joe; Lim; Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -864,8 +593,6 @@ AYES:
                   
     
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -923,8 +650,6 @@ ACTION
 AYES:
               
                             Theoharis; Baltimore; Chinchilla; Fay; Joe; Lim; Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1131,9 +856,7 @@ Supports the proposed
  Respectfully requested that the Planning Department reconsider 
     the boundaries of the                    proposed perminent Industrial Protection 
     Zone. To exclude from the proposed perminent Industrial Controls the land 
-    within Assessor's blocks 4355, 4356, 4357, 4377, 78, 5217, 5226, 5304 and
-<<Project End>>
-<<Project Start>>
+    within Assessor's blocks 4355, 4356, 4357, 4377, 78, 5217, 5226, 5304 and 
     5313.  These blocks are either directly adjacent to 3
 rd
 . Street 
@@ -1187,12 +910,12 @@ AYES:
 MOTION No.
                         
     16177
-<<Project End>>
-<<Project Start>>
 
 
 12.
-            2001.0602 E, 
+<<Project End>>
+<<Project Start>>
+2001.0602 E, 
     T, Z                                                                       
               (GREEN: 558-6411)
 
@@ -1339,8 +1062,6 @@ AYES:
 ABSENT
 :                         
     Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1441,8 +1162,6 @@ AYES:
 ABSENT:
                         
     Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 14.            2001.0150R      
@@ -1465,8 +1184,6 @@ Preliminary Recommendation: Finding proposal not
 
 
 PROJECT WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
 15.            2001.0140C      
@@ -1572,8 +1289,6 @@ ABSENT:
 MOTION No.
                         
     16178
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1628,9 +1343,7 @@ ABSENT:
 At Approximately 
 6:07
  PM the Planning Commission convened into a Discretionary 
-    Review (DR) Hearing to hear and act on Discretionary Review matters.
-<<Project End>>
-<<Project Start>>
+    Review (DR) Hearing to hear and act on Discretionary Review matters.  
 
 
  
@@ -1876,8 +1589,6 @@ AYES:
 ABSENT:
                         
     Theoharis
-<<Project End>>
-<<Project Start>>
 
 
             18. 2001.0251DD (BORDEN: 558-6321)
@@ -2030,8 +1741,6 @@ AYES:
 ABSENT:
                         
     Theoharis; Fay; Joe
-<<Project End>>
-<<Project Start>>
 
 
 19.        2001.0042D                                                       
@@ -2276,25 +1985,17 @@ Supports project
 ACTION
 :            Take Discretionary 
     Review and approve as revised:
-<<Project End>>
-<<Project Start>>
 
 
 1.            Elimination of the roof deck;
-<<Project End>>
-<<Project Start>>
 
 
 2.            Reduction of the proposed floor 
     height for portions of the master bedroom from 20 to 16 feet;
-<<Project End>>
-<<Project Start>>
 
 
 3.            Removal of the roof overhang 
-    adjacent to the D.R requestor’s property; and
-<<Project End>>
-<<Project Start>>
+    adjacent to the D.R requestor’s property; and 
 
 
 4. Usage of obscure rather than 
@@ -2313,8 +2014,6 @@ AYES:
 ABSENT:
                         
     Theoharis; Fay; Joe
-<<Project End>>
-<<Project Start>>
 
 
 20.        2001.0542D                               
@@ -2445,8 +2144,6 @@ AYES:
 ABSENT:
                         
     Theoharis, Fay, Joe
-<<Project End>>
-<<Project Start>>
 
 
 21.     2001.0542D                                           
@@ -2455,9 +2152,7 @@ ABSENT:
 
 290 UNION STREET
  - 
-    north side between Montgomery and Sansome Streets, Lot 15 in Assessor’s Block
-<<Project End>>
-<<Project Start>>
+    north side between Montgomery and Sansome Streets, Lot 15 in Assessor’s Block 
     106. Request for Discretionary Review of Building Permit Application Nos. 
     200012057228, 9706246S, 9906666, 200004076744, 200004217904, with respect 
     to a 4th floor balcony/fire escape at the rear, a chimney pipe at the rear 

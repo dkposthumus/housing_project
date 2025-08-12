@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 21, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ June 21, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-June 21, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 21, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 21, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT
- 
- 1:50 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Mary Woods, Kate Conner, Michelle Glueckert, Elizabeth Watty, Glenn Cabreros, Rick Crawford, Aaron Starr, Cecilia Jaroslawsky, Sharon Young, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0428
+2007.0428
 C
  
  
@@ -331,16 +48,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0572C
+<<Project End>>
+<<Project Start>>
+2006.0572C
  
  
  
@@ -390,8 +106,9 @@ AYES:
 
 
 3a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -485,8 +202,9 @@ AYES:
 
 
 3b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -530,16 +248,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0193D
+<<Project End>>
+<<Project Start>>
+2007.0193D
  
  
  
@@ -604,8 +321,9 @@ AYES:
 
 
 5a.
- 
- 2007.0388
+<<Project End>>
+<<Project Start>>
+2007.0388
 C
 V
  
@@ -652,8 +370,9 @@ AYES:
 
 
 5b.
- 
- 2007.0388C
+<<Project End>>
+<<Project Start>>
+2007.0388C
 V
  
  (B. FU: (415) 558-6613)
@@ -710,8 +429,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -725,8 +442,6 @@ Adoption of Commission Minutes
 
 
 Draft Minutes of Regular Meeting of May 17,
-<<Project End>>
-<<Project Start>>
  
 2007.
 
@@ -751,8 +466,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -791,8 +504,6 @@ NONE
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -806,8 +517,6 @@ C.
  
  
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1213,8 +922,6 @@ Elizabeth Erhardt, Attorney for Ms. House
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1225,8 +932,8 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
  
  
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0084D
  
  
@@ -1310,8 +1017,9 @@ G.REGULAR CALENDAR
 
 
 11a.
- 
- 2006.0856
+<<Project End>>
+<<Project Start>>
+2006.0856
 C
 V
  
@@ -1523,8 +1231,9 @@ MOTION:
 
 
 11b.
- 
- 2006.0856C
+<<Project End>>
+<<Project Start>>
+2006.0856C
 V
  
  
@@ -1559,16 +1268,15 @@ ACTION:
 
 
 Items 12 – 16 were taken out of order and followed item 17
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.1303C
+<<Project End>>
+<<Project Start>>
+2006.1303C
  
  
 (Tape IIB; IIIA)
@@ -1664,16 +1372,15 @@ AYES:
 MOTION:
  
  17451
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0136C
+<<Project End>>
+<<Project Start>>
+2007.0136C
  
  
  
@@ -1722,16 +1429,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0157C
+<<Project End>>
+<<Project Start>>
+2006.0157C
  
  
  
@@ -1804,8 +1510,6 @@ AYES:
 NAYES:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1814,8 +1518,8 @@ NAYES:
  
  
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0072C
  
  
@@ -2223,8 +1927,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2232,8 +1934,8 @@ AYES:
 
  
  16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0431C
  
  
@@ -2472,8 +2174,6 @@ MOTION:
 
 
 Item 17 was taken out of order followed item #19
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2481,8 +2181,9 @@ Item 17 was taken out of order followed item #19
 
  
  17.
- 
- 2007.0115D
+<<Project End>>
+<<Project Start>>
+2007.0115D
  
  
 (Tape IB; IIA; IIB)
@@ -3570,8 +3271,8 @@ Item 18 was taken out or order and followed item 16
 
 
 18a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0636DD
  
  
@@ -3981,8 +3682,9 @@ AYES:
 
 
 18b.
- 
- 2006.0636
+<<Project End>>
+<<Project Start>>
+2006.0636
 V
 DD
  
@@ -4029,8 +3731,6 @@ ACTION:
 
 
 Item 19 was taken out of order followed item #11
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4038,8 +3738,9 @@ Item 19 was taken out of order followed item #11
 
  
  19.
- 
- 2007.0292D
+<<Project End>>
+<<Project Start>>
+2007.0292D
  
  
 (Tape IB)
@@ -4411,16 +4112,15 @@ AYES:
 NAYES:
  
  Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2007.0212D
+<<Project End>>
+<<Project Start>>
+2007.0212D
  
  
  
@@ -4463,16 +4163,15 @@ AYES:
 
 
 Items 21 & 22 were taken out or order and followed item 18
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2007.0164D
+<<Project End>>
+<<Project Start>>
+2007.0164D
  
  
 (Tape IVA)
@@ -4705,16 +4404,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2007.0436D
+<<Project End>>
+<<Project Start>>
+2007.0436D
  
  
 (Tape IVA; IVB)

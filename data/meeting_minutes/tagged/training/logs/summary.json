@@ -1,0 +1,29 @@
+{
+  "years": [
+    {
+      "year": 1998,
+      "labels": 69,
+      "blocks_found": 69,
+      "paired": 69,
+      "labels_without_block": 0,
+      "unmatched_blocks": 0
+    },
+    {
+      "year": 1999,
+      "labels": 11,
+      "blocks_found": 11,
+      "paired": 10,
+      "labels_without_block": 1,
+      "unmatched_blocks": 2
+    },
+    {
+      "year": 2000,
+      "labels": 11,
+      "blocks_found": 11,
+      "paired": 10,
+      "labels_without_block": 1,
+      "unmatched_blocks": 1
+    }
+  ],
+  "total_examples": 89
+}

@@ -1,338 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 4, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ August 4, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-August 4, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
- 
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, August 
-4, 2011
-
-
-
-
-
-12:00 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-
-
-
-COMMISSIONERS PRESENT:  
-Olague, Miguel, Borden, Fong, Moore, Sugaya
-
-
-
-
-
-
-COMMISSIONERS ABSENT:     
-Antonini
-
-
-
-
-
-
- 
-
-
-
-
-
-
-THE MEETING WAS CALLED TO 
-ORDER BY PRESIDENT OLAGUE AT: 12:20 PM
-
-
-
-
-
-
- 
-
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Rick Crawford, 
-Christina LaMorena, Diego Sanchez, Ben Fu, Corey Teague, Sara Vellve, Joshua 
-Switzky, Susan Exline, Linda Avery â Commission Secretary
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2011.0101C                                                                  
 
 (
@@ -398,8 +64,6 @@ AYES:              Olague, Miguel, Borden, Fong, Moore, Sugaya
 
 ABSENT:          
 Antonini
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -409,7 +73,9 @@ Antonini
 
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2010.0094X                                                                               
 (
 B. 
@@ -476,8 +142,6 @@ AYES:              Olague, Miguel, Borden, Fong, Moore, Sugaya
 
 ABSENT:          
 Antonini
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -595,8 +259,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -607,9 +269,9 @@ separate item at this or a future hearing.
 
 
 
-4.        
-
-
+4.
+<<Project End>>
+<<Project Start>>
 2011.0026C
                                                                  
 (R. 
@@ -670,8 +332,6 @@ Antonini
 
 MOTION:           
 18420
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -681,9 +341,9 @@ MOTION:          
 
 
 
-5.        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0543C
                                                                 
 (C. 
@@ -752,8 +412,6 @@ Antonini
 
 MOTION:           
 18421
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -764,9 +422,9 @@ MOTION:          
 
 
 
-6.        
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2011.0513C
                                                                
  
@@ -829,8 +487,6 @@ Antonini
 
 MOTION:           
 18422
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -840,9 +496,9 @@ MOTION:          
 
 
 
-7.        
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2011.0253C
                                                                   
 
@@ -908,8 +564,6 @@ Antonini
 
 MOTION:           
 18423
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -919,9 +573,9 @@ MOTION:          
 
 
 
-8.        
-
-
+8.
+<<Project End>>
+<<Project Start>>
 2010.0978C
                                                        
                
@@ -996,9 +650,9 @@ MOTION:          
 
 
 
-9a.       
-
-
+9a.
+<<Project End>>
+<<Project Start>>
 2011.0325CV
                                                                              
 (
@@ -1080,9 +734,9 @@ MOTION:          
 
 
 
-9b.      
-
-
+9b.
+<<Project End>>
+<<Project Start>>
 2011.0325CV
                                                                              
 (
@@ -1137,8 +791,6 @@ None
 ACTION: 
            Acting Zoning Administrator John Rahaim granted the requested 
 extension
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1149,9 +801,9 @@ extension
 
 
 
-10.       
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2011.0394C
                                                                    
   
@@ -1238,8 +890,6 @@ C.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1326,8 +976,6 @@ of the California Nurses Association.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1360,8 +1008,6 @@ conducting a second workshop on the Chinatown - Broadway Street Design Project.
 That will take place on Thursday, August 16, from 4:30 until 7:00 at the 
 Elementary School at 950 Clay Street. They will present several plans for 
 Chinatown, at the Gordon Lau Elementary School.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1652,8 +1298,6 @@ F.        
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1666,9 +1310,9 @@ REGULAR CALENDAR
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2011.0450C
                                                                    
     
@@ -1748,8 +1392,6 @@ Antonini
 
 MOTION:           
 18427
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1829,8 +1471,6 @@ AYES:              Olague, Miguel, Borden, Fong, Moore, Sugaya
 
 ABSENT:          
 Antonini
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1886,24 +1526,24 @@ None
 
 ACTION: 
            Informational Only.  No action required
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+            17.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-            17.        
 2010.0641M                                                                  
     (S. EXLINE: (415) 558-6332)
 
@@ -1949,8 +1589,6 @@ Arthur Feinstein, Meredith Thomas
 
 ACTION: 
            Informational Only. No action required
-<<Project End>>
-<<Project Start>>
 
 
 

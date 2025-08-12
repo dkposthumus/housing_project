@@ -1,346 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 1, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ December 1, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-December 1, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 1, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:04 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Rick Crawford, Michael E. Smith, Elizabeth Watty, Corey Teague, Adrian Putra, Don Lewis, and Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-1.         2011.0726C                                                                       
- (S. Vellve:  (415) 558-6263)
-
-
-1188 FRANKLIN STREET
- - southeast corner of Geary and Franklin Streets; Lot 017 in Assessor’s Block 0714 - 
-Request for Conditional Use Authorization
-, pursuant to Planning Code Sections 712.83 and 303, to allow AT&T Mobility to locate up to nine (9) WTS panel antennas flush mounted to the building’s exterior and related equipment on the roof of a four-story office building occupied by the International Longshore and Warehouse Union within a NC-3 (Neighborhood Commercial, Moderate Scale)  District and 130-E Height and Bulk District. The site is a Location Preference 3 (wholly commercial structure).
-
-
-Preliminary Recommendation: Approval with Conditions
-
-
-(Proposed for Continuance to December 8, 2011)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              Olague, 
-Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.         2010.0791C                                                                        
-(S. Vellve:  (415) 558-6263)
-
-
-900 BAKER STREET
- - northwest corner of Turk Street and Saint Joseph’s Avenue; Lot 005 in Assessor’s Block 1118 - 
-Request for Conditional Use Authorization
-, pursuant to Planning Code Sections 209.6(b) and 303, to allow T-Mobile to locate up to five (5) WTS panel antennas within three existing church cupolas and related equipment at the St. John the Baptist Serbian Orthodox Cathedral, within a RM-1 (Residential, Mixed, Low Density) District and 40-X Height and Bulk District. The site is a Location Preference 1 (publicly-used structure).
-
-
-Preliminary Recommendation: Approval with Conditions
-
-
-                        (Proposed for Continuance to January 12, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              Olague, 
-Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-3.         
 2011.0308D
                                                                 (R. CRAWFORD: (415) 558-6358)
 
@@ -372,14 +30,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0243
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0966C
                                                                           
 (M. Smith: (415) 558-6322)
@@ -409,14 +67,14 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18498
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.1116C
                                                                          
 (E. Watty:  (415) 558-6620)
@@ -463,8 +121,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -497,8 +153,6 @@ ACTION:           Approved
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -557,8 +211,6 @@ I notice there is a request for proposals for parklands, and one of the things I
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -576,8 +228,6 @@ Director Rahaim:
 
 
 As Commissioner Miguel mentioned we had a public meeting on Tuesday night to release our initial range of possible additions to the Central Corridor Plan. We prepared alternative scenarios and asked the public to give us feedback on those. Those will be on line today or tomorrow. We are asking for public feedback on the various developments and zoning scenarios for the Central Corridor, which reminds everyone that is roughly between Third and Fifth Streets. Secondly, I wanted to mention there is an upcoming community meeting related to the Landmark District, next Wednesday at the Harvey Milk Center for the Arts from 6:30 - 7:30 PM.  I wanted to let the Commission know that they are invited to the Memorial for Scott Dowdee.  That will be Saturday, December 3, 2011. The service will begin at noon, reception to follow at 1:00. It is at 100 Diamond Street.
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -716,15 +366,15 @@ Savania Willcock – SFSU
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2011.1067C
                                                                             
 (E. Watty:  (415) 558-6620)
@@ -757,14 +407,14 @@ NAYES:            Antonini, Fong, and Olague
 
 MOTION:           
 18500
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2011.0716C 
                                                                          (M. SMITH: (415) 558-6322)
 
@@ -797,7 +447,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-12a.      
+12a.
+<<Project End>>
+<<Project Start>>
 2010.0860D
                                                                       (C. TEAGUE: (415) 575-9081)
 
@@ -833,7 +485,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-12b.      
+12b.
+<<Project End>>
+<<Project Start>>
 2010.0858D
                                                                          (C. TEAGUE: (415) 575-9081)
 
@@ -869,7 +523,9 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-12c.      
+12c.
+<<Project End>>
+<<Project Start>>
 2010.0801D
                                                                       (C. TEAGUE: (415) 575-9081)
 
@@ -900,14 +556,14 @@ ACTION:           Without hearing, continued to 1/26/12
 
 AYES:              Olague, 
 Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.0861DD
                                                                       (M. SMITH: (415) 558-6322)
 
@@ -951,14 +607,14 @@ ABSENT:          Moore
 
 DRA:                
 0244
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            14.        
+            14.
+<<Project End>>
+<<Project Start>>
 2011.0817D
                                                                          (A. PUTRA: (
 415) 575.9079)
@@ -1000,14 +656,14 @@ DRA:               
 
 
 5:00 PM
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2010.0016E
                                                                            (D. LEWIS: (415) 575-9095)
 

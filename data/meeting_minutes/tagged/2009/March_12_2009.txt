@@ -1,270 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 12, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ March 12, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-March 12, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 12, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 12, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Moore, Olague, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Steve Wertheim, Corey Teague, Glenn Cabreros, Michael Smith, Sara Vellve, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2006.1065DDDD
+2006.1065DDDD
  
  
  
@@ -318,8 +53,9 @@ AYES:
 
 
 1b.
- 
- 2006.1065V
+<<Project End>>
+<<Project Start>>
+2006.1065V
  
  
  
@@ -362,8 +98,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -372,8 +106,9 @@ AYES:
 
 
 2.
- 
- 2008.1309D
+<<Project End>>
+<<Project Start>>
+2008.1309D
  
  
  
@@ -421,8 +156,9 @@ AYES:
 
 
 3a.
- 
- 2007.0129DDD
+<<Project End>>
+<<Project Start>>
+2007.0129DDD
  
  
  
@@ -473,8 +209,9 @@ AYES:
 
 
 3b.
- 
- 2007.0129V                                               
+<<Project End>>
+<<Project Start>>
+2007.0129V                                               
  
     (G. CABREROS: 415-558-6169)
 
@@ -529,8 +266,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -874,8 +609,6 @@ th
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -983,8 +716,6 @@ rd
  We want to allow time for many of the issues to surface.
  
  We would obviously have information in your packets before then.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1068,8 +799,6 @@ Re:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1079,8 +808,9 @@ REGULAR CALENDAR
 
  
  7.
- 
- 2009.0001Z
+<<Project End>>
+<<Project Start>>
+2009.0001Z
  
  
  
@@ -1133,8 +863,9 @@ RESOLUTION:
 
 8a
 .
- 
- 2008.1215
+<<Project End>>
+<<Project Start>>
+2008.1215
 C
 V
  
@@ -1184,8 +915,9 @@ AYES:
 
 
 8b.
- 
- 2008.1215C
+<<Project End>>
+<<Project Start>>
+2008.1215C
 V
  
  
@@ -1227,8 +959,9 @@ AYES:
 
 
 9
- 
- 2008.0862C
+<<Project End>>
+<<Project Start>>
+2008.0862C
  
  
  
@@ -1300,8 +1033,6 @@ NAYES:
 MOTION:
  
  17840
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1315,8 +1046,9 @@ MOTION:
 
  
  10.
- 
- 2006.0070T
+<<Project End>>
+<<Project Start>>
+2006.0070T
  
  
  
@@ -1354,16 +1086,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2009.0021DD
+<<Project End>>
+<<Project Start>>
+2009.0021DD
  
  
  
@@ -1424,16 +1155,15 @@ NAYES:
 DRA#:
  
  0068
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.0388D
+<<Project End>>
+<<Project Start>>
+2008.0388D
  
  (S. VELLVE: (415) 558-6263)
 

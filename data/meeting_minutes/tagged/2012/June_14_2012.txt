@@ -1,357 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 14, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ June 14, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-June 14, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 14, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:11 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Kimi Haddadan, Doug Vu, Adrian Putra, Mary Woods, Sara Dennis-Phillips, Lily Langlois, Aaron Starr, Irene Nishimura, Thomas Wang, Michael E. Smith, Ben Fu, Corey Teague, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-                  
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         2011.1344C                                                                       (B. BENDIX:  (415) 575-9114) 
-
-
-101 6
-th
- Street
- - southeast corner of the intersection of 6
-th
- and Mission Streets, Lot 081 in Assessor’s Block 3725 - 
-Request for Conditional Use Authorization
- under Planning Code Sections 186.1 and 303 to intensify a non-conforming entertainment use (d.b.a. Monarch). The proposal will expand the entertainment use to the basement of the approximately 3,111 square-foot bar and extend hours of operation for both the bar and entertainment use from 2AM to 4AM daily. The proposal does not include any increase to the existing building envelope or changes to the façade. The use is not identified as a formula retail use. The project is located within the SoMa NCT (South of Market Neighborhood Commercial Transit) Zoning District and an 85-X Height and Bulk District. 
-
-
-Preliminary Recommendation:  Approval with Conditions
-
-
-                        (Proposed for Continuance to June 28, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, 
-Borden
-, Miguel, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-            
-2.         2012.0527D                                                                        (B. BENDIX: (415) 575-9114)
-
-
-1340 Natoma Street
- 
-- west side between 14
-th
- and 15
-th
- Streets, Lot 065 in Assessor’s Block 3548 - 
-Mandatory Discretionary Review
- pursuant to Planning Code Section 317, of Building Permit Application No. 2007.12.17.0620, proposing the demolition of a two-story, single-family dwelling, located in the UMU (Urban Mixed Use) Zoning District and a 40-X Height and Bulk District.
-
-
-Preliminary Recommendation:  Do not take Discretionary Review and approve the demolition.
- 
-
-
-                        (Proposed for Continuance to June 28, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, 
-Borden
-, Miguel, Moore, Sugaya
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-3.         
 2011.1285C
                                                                                  (D. VU: (415) 575-9120)
 
@@ -388,14 +35,14 @@ Miguel, Moore, Sugaya
 
 MOTION:           
 18645
-<<Project End>>
-<<Project Start>>
 
 
                 
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2012.0205C
                                                                            
 (
@@ -434,14 +81,14 @@ Miguel, Moore, Sugaya
 
 MOTION:           
 18643
-<<Project End>>
-<<Project Start>>
 
 
                 
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.0939D
                                                                       (M. WOODS: (415) 558-6315)
 
@@ -485,8 +132,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -534,8 +179,6 @@ Moving in that direction, I am hopeful we can continue to build towards increasi
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -559,8 +202,6 @@ The other piece of good news on the front -- and you will see a memo in your pac
 
 
 The second thing I wanted to tell you about was that the Oversight Board of the Redevelopment Agency met this week, and we approved our first project instead of just looking at the financial payments that we have to make, which has been almost the entire subject of the previous meetings, it is a 273-unit product that investors would build on the south side of the channel. It is consistent with the zoning guidelines, and the Board unanimously approved the project on Monday morning.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -586,23 +227,17 @@ FULL BOARD OF SUPERVISORS:
 
 
 8 Washington.  
-The proposal is to demolish the existing Golden Gateway Swim and Tennis Club and the existing surface parking lot on Seawall 351, and construct a new health club, residential buildings ranging from four to twelve stores in height containing 134 dwelling units, ground-floor retail uses totaling approximately 20,000 square feet, and 382 off-street parking spaces.  In May the Board certified the EIR and upheld the CU authorization by an 8-3 vote. This week, the board considered three items related to 8 Washington:
-<<Project End>>
-<<Project Start>>
+The proposal is to demolish the existing Golden Gateway Swim and Tennis Club and the existing surface parking lot on Seawall 351, and construct a new health club, residential buildings ranging from four to twelve stores in height containing 134 dwelling units, ground-floor retail uses totaling approximately 20,000 square feet, and 382 off-street parking spaces.  In May the Board certified the EIR and upheld the CU authorization by an 8-3 vote. This week, the board considered three items related to 8 Washington: 
 
 
 1.
                    
 Approval of Public Trust Exchange/Agreement for Sale of Seawall Lot 351 to the project sponsor
-<<Project End>>
-<<Project Start>>
 
 
 2.
                    
 Ordinance for Zoning Map Amendment to increase allowable height on a portion of the property from the existing 84 feet to 92 feet in one area, and 136 feet in another area
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -693,8 +328,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 No report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -776,7 +409,9 @@ F.         REGULAR CALENDAR 
 
 
             10
-.        
+.
+<<Project End>>
+<<Project Start>>
 2011.1401M
                                           
                          
@@ -808,14 +443,14 @@ Borden
 
 RESOLUTION:   
 18646
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2012.0522TZ
                                                                        (A. STARR: (415) 558-6362)
 
@@ -851,14 +486,14 @@ Miguel, Moore, Sugaya
 
 RESOLUTION:   
 18647
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2004.0093E
                                                                     (I. NISHIMURA: (415) 575-9041)
 
@@ -886,14 +521,14 @@ SPEAKERS:     Jack Doherty, Dirk Hoekstru, Jeffrey Eade, William Sieper, Pam
 
 
 ACTION:           Public hearing on Draft EIR. No action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.1372C
                                                                            (T. WANG: (415) 558-6335)
 
@@ -936,15 +571,15 @@ NAYES:            Moore and Sugaya
 
 MOTION:           
 18648
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
             
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2012.0206C
                                                                          
 (
@@ -980,8 +615,6 @@ Miguel, Moore, Sugaya
 
 
 ABSENT:          Wu
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -989,7 +622,8 @@ ABSENT:          Wu
 
                 
 15.
-        
+<<Project End>>
+<<Project Start>>
 2012.0084DD
                                                                     (M. WOODS: (415) 558-6315)
 
@@ -1036,7 +670,9 @@ RECUSED:       Fong
  
 
 
-            16a.      
+            16a.
+<<Project End>>
+<<Project Start>>
 2012.0039D
                                                                                 (B. FU: (415) 558-6613)
 
@@ -1072,7 +708,9 @@ DRA#:              
  
 
 
-16b.      
+16b.
+<<Project End>>
+<<Project Start>>
 2012.0157D
                                                                                (B. FU:  (415) 558-6613)
 
@@ -1103,14 +741,14 @@ Borden
 
 DRA#:               
 0282
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2012.0577D
                                                                       (C. TEAGUE: (415) 575-9081)
 

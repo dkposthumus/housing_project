@@ -1,265 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 17, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ May 17, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-May 17, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 17, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
-Commission Chambers 
-    - Room 400
-
-
-City Hall, 1 Dr. Carlton 
-    B. Goodlett Place
-
-
-Thursday, May 17, 
-    2001
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
-
-
-ABSENT:                      
-None
-
-
-THE MEETING WAS CALLED 
-    TO ORDER BY PRESIDENT THEOHARIS AT 1:45 p.m.
-
-
-STAFF IN ATTENDANCE:
- Gerald G. Green, Director of Planning; Larry Badiner, Zoning Administrator; 
-    Rana Ahmadi; David Alumbaugh; Rick Crawford; Kenneth Chin; Michael Smith; 
-    Glenn Cabreros; Ben Fu; Daniel Sirois; Allison Borden; Nora Priego, Transcription 
-    Secretary; Linda Avery, Commission Secretary
-
-
-A.
-
-
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-1.         
-    2001.0147D                                                                                     
+2001.0147D                                                                                     
     (NIKITAS: 558-6306)
 
 
@@ -303,8 +43,6 @@ AYES:               Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 
 
 ABSENT:          Baltimore
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -312,8 +50,10 @@ ABSENT:          Baltimore
 
 
  
-2.         
-    2001.0251D                                                                                    
+2.
+<<Project End>>
+<<Project Start>>
+2001.0251D                                                                                    
     (BORDEN: 558-6321)
 
 
@@ -356,13 +96,13 @@ AYES:               Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 
 
 ABSENT:          Baltimore
-<<Project End>>
-<<Project Start>>
 
 
  
-3.         
-    2000.0173C                                                                                         
+3.
+<<Project End>>
+<<Project Start>>
+2000.0173C                                                                                         
     (LIGHT: 558-6254)
 
 
@@ -409,13 +149,13 @@ AYES:               Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 
 
 ABSENT:          Baltimore
-<<Project End>>
-<<Project Start>>
 
 
  
-4.         
-    2001.0261DDDD                                                                        
+4.
+<<Project End>>
+<<Project Start>>
+2001.0261DDDD                                                                        
     (WOLOSHYN: 558-6612)
 
 
@@ -459,13 +199,13 @@ AYES:               Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 
 
 ABSENT:          Baltimore
-<<Project End>>
-<<Project Start>>
 
 
  
-5.         
-    2001.0242C                                                                                  
+5.
+<<Project End>>
+<<Project Start>>
+2001.0242C                                                                                  
     (SANCHEZ: 558-6679)
 
 
@@ -486,8 +226,6 @@ Request
 
 
 ACTION:           Project Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -495,8 +233,10 @@ ACTION:           Project Withdrawn
 
 
  
-6.         
-    2000.1061E                                                                                     
+6.
+<<Project End>>
+<<Project Start>>
+2000.1061E                                                                                     
     (WYCKO: 558-5972)
 
 
@@ -557,8 +297,6 @@ ABSENT:          Baltimore
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -602,8 +340,6 @@ Commissioner Chinchilla:
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -617,8 +353,6 @@ New Commissioner
  
 The Director presented 
     the new Commissioner, Myrna Lim, to the public and welcomed her aboard.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -688,8 +422,6 @@ He attended a Building Inspection Commission regarding the formation
     involved in the building trades to develop a proposal that he believes everyone 
     can live with.  This will have some impact upon the Planning Code, particularly 
     the noticing provisions of Section 311.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -820,13 +552,12 @@ ACTION:           Informational Presentation Only.  No Action Required.
 
 
 D.         REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 2000.0173E                                                                                     
     (AHMADI: 558-5966)
 
@@ -894,13 +625,12 @@ EXCUSED:        Lim
 
 
 MOTION:          16164
-<<Project End>>
-<<Project Start>>
 
 
  
 12.
- 
+<<Project End>>
+<<Project Start>>
 2001.0150R
 
 
@@ -937,8 +667,6 @@ AYES:               Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 
 
 ABSENT:          Baltimore
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -946,8 +674,10 @@ ABSENT:          Baltimore
 
 
  
-13.        
-    2000.527C
+13.
+<<Project End>>
+<<Project Start>>
+2000.527C
 
 
 (CRAWFORD:  558-6358)
@@ -1025,8 +755,6 @@ ABSENT:          Baltimore
 
 
 MOTION:          16165
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1114,8 +842,6 @@ ABSENT:          Baltimore
 
 
 MOTION:          16166
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1123,8 +849,10 @@ MOTION:          16166
 
 
  
-15.        
-    2000.305C                                                                                          
+15.
+<<Project End>>
+<<Project Start>>
+2000.305C                                                                                          
     (SMITH: 558-6322)
 
 
@@ -1595,8 +1323,6 @@ At Approximately
  p.m.
  the Planning Commission convened 
     into a Special Discretionary Review (DR) Hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1674,13 +1400,13 @@ AYES:               Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
 
 
 ABSENT:          Lim
-<<Project End>>
-<<Project Start>>
 
 
  
-17.        
-    2001.0141D                                                                               
+17.
+<<Project End>>
+<<Project Start>>
+2001.0141D                                                                               
     (CABREROS: 558-6169)
 
 
@@ -2251,13 +1977,13 @@ AYES:               Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
 
 
 ABSENT:          Lim
-<<Project End>>
-<<Project Start>>
 
 
  
-18.        
-    2001.0426D                                                                                            
+18.
+<<Project End>>
+<<Project Start>>
+2001.0426D                                                                                            
     (FU: 558- 6613)
 
 
@@ -2476,13 +2202,13 @@ AYES:               Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
 
 
 ABSENT:          Lim
-<<Project End>>
-<<Project Start>>
 
 
  
-19.        
-    2001.0454D                                                                                       
+19.
+<<Project End>>
+<<Project Start>>
+2001.0454D                                                                                       
     (SIROIS: 558-6313)
 
 
@@ -2654,13 +2380,13 @@ ABSENT:          Lim
 
 
 F.         REGULAR CALENDAR CONTINUED
-<<Project End>>
-<<Project Start>>
 
 
  
-20.        
-    2001.0348I                                                                                     
+20.
+<<Project End>>
+<<Project Start>>
+2001.0348I                                                                                     
     (BORDEN: 558-6321)
 
 
@@ -2677,9 +2403,7 @@ F.         REGULAR CALENDAR CONTINUED
     Webster Street, Assessor’s Block 613, Lot 17; 2389 Washington Street, Assessor’s 
     Block 613, Lot 18; and 2472 Clay Street, Assessor’s Block 612, Lot 17 -- The 
     Planning Department received an Abbreviated Institutional Master Plan (Abbreviated 
-    IMP) for the Smith-Kettlewell Eye Research Institute (SKERI) on January 5,
-<<Project End>>
-<<Project Start>>
+    IMP) for the Smith-Kettlewell Eye Research Institute (SKERI) on January 5, 
     2001.  This Abbreviated IMP applies to SKERI’S properties, located in the 
     Fillmore Neighborhood Commercial District (NCD), the RM-2 (Mixed Residential, 
     Moderate Density) District, and the RH-2 (House, Two-Family) District and 

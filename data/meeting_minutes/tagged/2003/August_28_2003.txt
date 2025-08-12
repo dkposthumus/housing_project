@@ -1,242 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 28, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ August 28, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-August 28, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 28, 2003
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 28, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Kevin Hughes, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Lisa Feldstein and Sue Lee
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:31 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director; Jim Nixon - Acting Zoning Administrator; Susan Cleveland-Knowles - Deputy City Attorney; Matt Snyder; Michael Smith; Tina Tam; Jonathan Purvis; Dan Dibartolo; Dan Sirois; Jonas Ionin - Acting Commission Secretary (until 3:30 p.m.); Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2002.1021C (G. CABREROS: (415) 558-6169)
 
 
@@ -265,8 +27,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, W. Lee
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2002.0913C (G. NELSON: (415) 558-6257)
 
 
@@ -295,8 +55,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, W. Lee
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2002.0207C (R. CRAWFORD: (415) 558-6358)
 
 
@@ -326,8 +84,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, W. Lee
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 4. 2003.0620D (J. PURVIS: (415) 558-6354)
 
 
@@ -356,9 +112,6 @@ ABSENT: Feldstein and S. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 5. Consideration of Adoption - Minutes of May 8, May 22, and June 5, 2003.
 
 
@@ -410,8 +163,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, W. Lee
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 6.  Commission Comments/Questions
 
 
@@ -475,8 +226,6 @@ Acting Director, Larry Badiner responded:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 7. Director's Announcements
 
 
@@ -525,8 +274,6 @@ Commissioner Antonini's comments:
 As we go through the Housing Element and the draft Demolition Policy we will in fact make recommendations.  I'm not sure they will have the force of actual law, but they have the force of recommendation in terms of what we will consider before us for demolition and what we wont.  So part of this might evolve into a solution by the time we get to those two things.
 <<Project End>>
 <<Project Start>>
-
-
 8. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -536,8 +283,6 @@ None
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 9. 2003.0449L (M. SNYDER: (415) 575-6891)
 
 
@@ -577,8 +322,6 @@ ABSENT: Feldstein and S. Lee
 MOTION: 16638
 <<Project End>>
 <<Project Start>>
-
-
 10. 2003.0376C (M. SMITH: (415) 558-6322)
 
 
@@ -616,8 +359,6 @@ ABSENT: Feldstein and S. Lee
 MOTION: 16639
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0705C (T. TAM: (415) 558-6325)
 
 
@@ -735,8 +476,6 @@ ABSENT: Feldstein and S. Lee
 MOTION: 16640
 <<Project End>>
 <<Project Start>>
-
-
 12. 2002.1105C (T. TAM: (415) 558-6325)
 
 
@@ -782,8 +521,6 @@ NAYES: W. Lee
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 13. 2002.1306C (J. PURVIS: (415) 558-6354)
 
 
@@ -832,8 +569,6 @@ NAYES: Boyd
 ABSENT: Feldstein and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0440C (D. DIBARTOLO: (415) 558-6291)
 
 
@@ -897,8 +632,6 @@ At approximately
   the Planning  Commission  convened into a Discretionary Review (DR) Hearing  to hear  and act  on  Discretionary  Review  matters.
 <<Project End>>
 <<Project Start>>
-
-
 15. 2001.0840D (D. SIROIS: (415) 558-6313)
 
 

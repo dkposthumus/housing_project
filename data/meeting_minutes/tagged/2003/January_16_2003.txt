@@ -1,222 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 16, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ January 16, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-January 16, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 16, 2003
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-SAN FRANCISCO
-PLANNING COMMISSION
-Meeting Minutes
-Thursday,
-January 16, 2003
-PRESENT:          Antonini; Boyd; Feldstein; Hughes; S. Lee; W. Lee
-ABSENT:          Bradford Bell
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT ANTONIN AT 1:34 P.M.
-STAFF IN ATTENDANCE:  Gerald G. Green – Director of Planning; Larry Badiner – Zoning Administrator; Paul Lord; Mark Luellen; Ben Helber; Paul Maltzer; Mathew Snyder; Jim Miller; Adam Light; Kate McGee; Patricia Gerber – Transcription Secretary; Linda D. Avery – Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 1.          2002.0876D                (D. JONES: (415) 558-6477)
 67 GRANADA AVENUE - west side, between Grafton and Lake View Avenues, Lot 005 in Block 7016 - Discretionary Review request, for a building permit (No. 2002/04/30/5347) to allow the construction of a two-story, rear horizontal extension to an existing two-story, single-family dwelling.  The property is located in the RH-1 (Residential, House, Single-Family) District and a 40-X Height and Bulk District.
 Preliminary Recommendation:  Do not take Discretionary Review and approve the building permit as submitted.
@@ -227,7 +9,7 @@ ACTION:             Continued as proposed
           ABSENT:          Bradford Bell
 <<Project End>>
 <<Project Start>>
-          2.          2002.0967C                                                           (G. NELSON: (415) 558-6257)
+2.          2002.0967C                                                           (G. NELSON: (415) 558-6257)
 2000 VAN NESS AVENUE - northeast corner of Van Ness Avenue and Jackson Street; Lot 005 in Assessor’s Block 0595:  Request for Conditional Use authorization pursuant to Section 209.6(b) of the Planning Code to install a total of three (3) antennas and six (6) related equipment cabinets on the roof of an 8-story, 100-foot tall commercial structure, known as the Medical Arts Building, as part of Sprint's wireless telecommunications network within an RC-4 (Residential-Commercial Combined) District and an 80-D Height and Bulk District.  Per the City & County of San Francisco's Wireless Telecommunications Services (WTS) Facilities Siting Guidelines the proposal is a Preferred Location Preference 4 as it is a wholly commercial structure.  
 Preliminary Recommendation: Approval with conditions
 (Proposed for Continuance to February 20, 2003)
@@ -237,7 +19,7 @@ ACTION:             Continued as proposed
           ABSENT:          Bradford Bell
 <<Project End>>
 <<Project Start>>
-          3.          2000.0413DD & 2002.0874DD                                (M. WOODS: (415) 558-6315)
+3.          2000.0413DD & 2002.0874DD                                (M. WOODS: (415) 558-6315)
                     226   17th   AVENUE  - east side   between California and Clement Streets, Lot 29A in Assessor’s Block 1417 - Mandatory Discretionary Review, under the Planning Commission's policy requiring review of housing demolition, of Permit Application No. 9914684 for the demolition of a two-story, single-family dwelling and Discretionary Review of Building Permit Application No. 9914683S, requested by the public, proposing to construct a three-story, two-unit building.  The subject property is located within an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Staff Recommendation: Do not take Discretionary Review and approve both applications as proposed.
                     (Continued from Regular Meeting of November 14, 2002)
@@ -266,7 +48,7 @@ ACTION:             Continued as proposed
           ABSENT:          Bradford Bell
 <<Project End>>
 <<Project Start>>
-          5.          2002.0395C                                                            (G. NELSON: (415) 558- 6257)
+5.          2002.0395C                                                            (G. NELSON: (415) 558- 6257)
 417 31ST AVENUE - southwest corner of Clement Street and 31st Avenue; Lot 001 in Assessor’s Block 1463 - Request for Conditional Use authorization pursuant to Section 710.83 of the Planning Code to install a total of six antennas and related equipment within the belfry of an existing two-story, 40-foot tall (58 feet to top of tower), publicly-used structure known as the Lincoln Park Presbyterian Church, as part of Cingular's wireless telecommunications network within an NC-1 (Neighborhood Commercial Cluster) District and a 40-X Height and Bulk District.  Per the City & County of San Francisco's Wireless Telecommunications Services (WTS) Facilities Siting Guidelines the proposal is a Preferred Location Preference 1 as it is a publicly-used structure.  
                     Preliminary Recommendation: Approval with Conditions
                     (Continued from Regular Meeting of December 5, 2002)
@@ -298,7 +80,7 @@ ACTION:             Approved
                     ABSENT:          Bradford Bell
 <<Project End>>
 <<Project Start>>
-                    9.           Commission Comments/Questions          
+9.           Commission Comments/Questions          
 Commissioner W. Lee:   Requested a presentation from Landmarks Board, Mayor's Office of Housing, Mayor's Office of Community Development; Transportation Authority; Redevelopment Agency; Coalition of S.F. Neighbors; S.F. Tomorrow; Mayor's Small Business Commission; Chamber of Commerce, and SPUR
 Commissioner S. Lee:  Commented on action taken at last week's meeting (1/9/03) on the Fourth and Freelon Streets Special Use District legislation.  The Commission agreed to endorse the legislation with a number of amendments.  However, they (the Commission) did not receive a copy of the actual legislation with their amendments prior to it being transmitted to the Board of Supervisors.  She requested that, in future, the Director should make sure the Commission also receives a copy of that transmittal.  She thought that the Commission was very clear that they wanted the project to come back to the Commission, in its entirety, as a conditional use.  She would like to see that actual language in the transmittal to the Board and in the legislation.  She has had second thoughts and now feels that the Department should charge fees that are commiserate with a conditional use.  She recalls that there is language in there (the amended legislation) that is less than what is normally charged.  What can the Commission now do if they want to change that?
 Commissioner Feldstein:  Also concerned with the language in the final draft of the legislation on the Special Used District forwarded to the Board.  Last week, she specifically wanted to see what they had done in writing, but in the interest of the late hour, we moved on with an oral summary.  She is concerned that the language contained in the preliminary draft of the resolution does not reflect all the changes requested by the commissioners.  She is very uncomfortable that something might be forwarded that is not an accurate reflection.
@@ -327,7 +109,7 @@ Board of Appeals (reported by the Zoning Administrator):
 D.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-                    12.                    2002.1153T.                                                                                  (P. LORD: (415) 558-6311)
+12.                    2002.1153T.                                                                                  (P. LORD: (415) 558-6311)
 CONDITIONAL USE REVOCATION UPON A FINDING THAT THE APPLICANT PROVIDED FALSE INFORMATION  - Consideration of an Ordinance amending the San Francisco Planning Code by amending Section 303 to provide for the revocation of a conditional use authorization upon a finding that the applicant provided false information in obtaining the conditional use; adopting findings under Planning Code Section 302. 
                     Preliminary Recommendation: Approval 
                     
@@ -346,8 +128,7 @@ CONDITIONAL USE REVOCATION UPON A FINDING THAT THE APPLICANT PROVIDED FALSE INFO
 RESOLUTION No.        16509
 <<Project End>>
 <<Project Start>>
-                    
-          13.          2002.1204C                                                         (M. LUELLEN: (415) 558-6478)
+13.          2002.1204C                                                         (M. LUELLEN: (415) 558-6478)
 222 COLUMBUS AVENUE - east side, between Broadway and Pacific Avenue, on Assessors Block 0162, Lot 003.  The subject property is in the Broadway Neighborhood Commercial District, the Washington-Broadway Special Use District No. 1, and a 65-A-1 Height and Bulk District.  The project requires Conditional Use authorization pursuant to Planning Code Section 714.40 to convert an existing vacant retail storefront into  Pearlina's Tea Shop,  a Retail Coffee Store, as defined in Section 790.102(n).  No exterior modifications to the building are proposed.  The shop will consist of approximately 630 square feet located on the ground floor and will contain no more than 15 seats.  
                               Preliminary Recommendation: Approval with conditions
           SPEAKER(S):          None
@@ -396,8 +177,7 @@ Preliminary Recommendation:  Approval with Conditions
           ZONING ADMINISTRATOR, WITHOUT HEARING, CONTINUED THIS MATTER TO FEBRUARY 20, 2003
 <<Project End>>
 <<Project Start>>
-          
-          16.          2002.0915EC                                                                      (J. MILLER: (415) 558-6344)
+16.          2002.0915EC                                                                      (J. MILLER: (415) 558-6344)
 1635 CALIFORNIA STREET - south side between Polk Street and Van Ness Avenue, Lot 14 in Assessor’s Block 646 - Request for authorization to modify a previously authorized Conditional Use (Case No. 2000.527C, Motion No. 16165).  The current request would permit construction of a seven-story building containing 36 dwelling units on six floors over a ground floor with a retail space of up to 5,000 square feet and a below-grade, two-level garage containing 53 off-street parking spaces, on a lot in excess of 10,000 square feet (10.321.5 square feet), after demolition of an automobile storage garage, in the Polk Street Neighborhood Commercial District and a 50-X Height and Bulk District.
                               Preliminary Recommendation: Approval with conditions
 (Continued from Regular Meeting of December 19, 2002)
@@ -414,7 +194,7 @@ Preliminary Recommendation:  Approval with Conditions
                     MOTION NO.          16511
 <<Project End>>
 <<Project Start>>
-           17.           2001.0690L                                                                  (A. LIGHT: (415) 558-6254)
+17.           2001.0690L                                                                  (A. LIGHT: (415) 558-6254)
 88 5TH STREET (OLD SAN FRANCISCO U.S. MINT) - west side between Mission and Jessie Streets, Assessor’s Block 3704, Lot 11 - Consideration of landmark designation and adoption of a resolution recommending landmark designation of the Old San Francisco U.S. Mint as Landmark No. 236.  The subject property is zoned P (Public), and is in a 40-X Height and Bulk District.
 Preliminary Recommendation:  Adopt a resolution approving Landmark designation and recommending that the Board of Supervisors approves the landmark designation.
           SPEAKER(S):          None
@@ -425,7 +205,7 @@ Preliminary Recommendation:  Adopt a resolution approving Landmark designation a
 E.          DISCRETIONARY REVIEW HEARING
 <<Project End>>
 <<Project Start>>
-          18.          2002.0650D                                                               (K. McGEE:  (415) 558-6367)
+18.          2002.0650D                                                               (K. McGEE:  (415) 558-6367)
                     3358 CESAR CHAVEZ STREET -  north side between Mission Street and  South Van Ness Street;  Lot 16  in  Assessor's  Block 6571 - Staff-Initiated Discretionary Review of Building Permit Application No. 2002.05.23.7284, for a change of use.  The existing use is classified as a Bar; the proposed use is Other Institution, Large per Planning Code Section 712.81 for La Raza Centro Legal, an organization committed to promoting day labor leadership and self-sufficiency.  The property is located in an NC-3 (Moderate Scale Neighborhood Commercial) Zoning District, and in a 50-X Height and Bulk District.
                     (Continued from Regular Meeting of January 9, 2003)
           Preliminary Recommendation:  Approval with conditions
@@ -674,28 +454,28 @@ NOTE: On November 21, 2002, the Planning Commission continued this matter to Jan
           ACTION:             Approved with amendments:
 <<Project End>>
 <<Project Start>>
- 1.          A staff person shall be stationed outside the building during work peak hours, from 8-10a.m., ensuring that employers park in the designated white zone spaces in order to hire workers from the Program.
+1.          A staff person shall be stationed outside the building during work peak hours, from 8-10a.m., ensuring that employers park in the designated white zone spaces in order to hire workers from the Program.
 <<Project End>>
 <<Project Start>>
- 2.          Staff will conduct outreach to the day laborers gathering on Cesar Chavez Street to promote neighborhood cleanliness.
+2.          Staff will conduct outreach to the day laborers gathering on Cesar Chavez Street to promote neighborhood cleanliness.
 <<Project End>>
 <<Project Start>>
 3.          Twice a year, the Project Sponsor will hold a Day Labor Program Open House/Community Meeting at the new site.  All interested individuals will be welcome to learn about how the program is operating, discuss the program, and provide input.  The Project Sponsor will provide a mailed notice similar to that required per Planning Code Section 312, meetings shall be held within three months and nine months following the first certificate of occupancy of the project.  Specific groups will receive a notice in addition to regular notice recipients required under Planning Code Section 312, these groups include; East Mission Improvement Association, Cesar Chavez Neighbors in Action, Rolph Playground Neighborhood Association, Northwest Bernal Alliance, Coalition of San Francisco Neighbors, Bernal Heights Neighborhood Center, the District Supervisor, and the Mayor's Office of Neighborhood Services.
 <<Project End>>
 <<Project Start>>
- 5.          One year from the date of the first certificate of occupancy for the project, a program report, including a traffic analysis, shall be given to the Planning Commission at a properly noticed public hearing.
+5.          One year from the date of the first certificate of occupancy for the project, a program report, including a traffic analysis, shall be given to the Planning Commission at a properly noticed public hearing.
 <<Project End>>
 <<Project Start>>
- 6.          Staff for the facility shall maintain the white zone in front of the project site and monitor parking activity in order to avoid congestion.
+6.          Staff for the facility shall maintain the white zone in front of the project site and monitor parking activity in order to avoid congestion.
 <<Project End>>
 <<Project Start>>
 11.          The Project Sponsor shall obtain all Building Permits and commence construction within one year (to commence date commission action is final).  This authorization may be extended by the ZA where failure to construct the project is caused by a delay by another permit approval agency, or by legal challenge.
 <<Project End>>
 <<Project Start>>
-  12.          The use of the ground floor of 3358 Cesar Chavez is restricted to the Day Labor Program.  No other uses are permitted.  The kitchen on the ground floor is restricted to use for employees.
+12.          The use of the ground floor of 3358 Cesar Chavez is restricted to the Day Labor Program.  No other uses are permitted.  The kitchen on the ground floor is restricted to use for employees.
 <<Project End>>
 <<Project Start>>
- 13.          The Project Sponsor shall make a good faith effort to locate a more suitable space within the year (to commence date commission action is final). The results of this effort are to be presented to the Commission after the one-year period has expired.  The groups identified in Condition 4 above, and other interested parties, shall be invited to participate in the site selection process.
+13.          The Project Sponsor shall make a good faith effort to locate a more suitable space within the year (to commence date commission action is final). The results of this effort are to be presented to the Commission after the one-year period has expired.  The groups identified in Condition 4 above, and other interested parties, shall be invited to participate in the site selection process.
                     PRESENT:          Antonini; Boyd;  Feldstein; Hughes; S. Lee; W. Lee
                     ABSENT:          Bradford-Bell
 <<Project End>>
@@ -709,7 +489,7 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the pro
                     ABSENT:          Bradford Bell
 <<Project End>>
 <<Project Start>>
-                    20.                                                                                                        (M.CHION: (415) 558-6314)
+20.                                                                                                        (M.CHION: (415) 558-6314)
                     EASTERN NEIGHBORHOODS COMMUNITY PLANNING PROCESS - Presentation on the community planning program of the Eastern Neighborhoods of Bayview, Mission, Showplace Square/Potrero Hill, South of Market, and Visitation Valley.  Overview of a spectrum of land use options to be considered in the rezoning effort.  There is no action to be taken by the Planning Commission at this hearing.  The objective of this hearing is to explain the various options which have been developed through the community workshops in preparation for future hearings in February.
           SPEAKER(S):          None
           ACTION:             Without hearing, continued indefinitely.

@@ -1,303 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 7, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ November 7, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-November 7, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, November 7, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-  
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya 
-
-
-COMMISSIONER ABSENT: 
-      
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:05 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Planning Director, Kate Conner, Pilar LaValley, Diego Sanchez, Casey Noel, Paolo Ikezoe, Omar Masry, Jeanie Poling, Sharon Lai, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
-          
 2013.0401C                                                                                                  (K. CONNER: (415) 575-6914)
 
 
@@ -333,7 +34,8 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 1b.
-          
+<<Project End>>
+<<Project Start>>
 2013.1130C                                                                                                   (K. CONNER: (415) 575-6914)
 
 
@@ -367,15 +69,14 @@ Continued to January 23, 2013
 AYES:
                    
 Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.0921C
                                                                           
                       
@@ -424,15 +125,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2011.0544C
                                                                                           
           
@@ -488,15 +188,14 @@ Fong, Wu, Antonini, Borden
 NAYES:
                 
 Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2013.0486C
                                                                           
                              
@@ -552,15 +251,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
              
 19015
-<<Project End>>
-<<Project Start>>
 
 
                               
 
 
 5.
-             
+<<Project End>>
+<<Project Start>>
 2013.1285C
                                                                                           
      
@@ -600,8 +298,6 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -654,8 +350,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -778,8 +472,6 @@ There was a lot of resonance on Ms. Wu’s comments on affordability and the fut
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -809,8 +501,6 @@ rd
 And lastly, I want to report briefly on a recent conference that occurred here, a National Green Roofs Conference, called Cities Alive 11
 th
  Annual Conference, which brought experts and aficionados from the Green Roof and Green Wall realm to San Francisco. The Conference, coming here, prompted Planning and SPUR to initiate a task force, which resulted in a greener and better road map for San Francisco. Participating in that task force were a number of other Departments, PUC, DBI, SF Environment, as well as representatives from the trades, and real estate, and armed with that, and the results of the Conference, the Department is now forwarding, with those associated agencies, a plan for moving forward to define some potential policy and regulations around future green roofs for the City. If there are no questions that concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -978,8 +668,6 @@ Also you may be aware there was a fire that broke out on the Juliuss Castle, on 
 And finally, I want to let you know, I’ll be at next week regularly schedule Graffiti Advisory Board Hearing, in light of the recent tagging of a couple building in downtown, and in particular Hibernia Bank. The Advisory Board, has asked how Planning can work more closely with them, just on education, law enforcement and abatement, especially when it pertains to graffiti on local landmark buildings.
   
 I will also report back to you the outcome of that hearing, next week. That concludes my comments unless you have any questions.
-<<Project End>>
-<<Project Start>>
 
 
 10.
@@ -1103,8 +791,6 @@ Michelle McGill – Warriors Arena
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1112,7 +798,8 @@ REGULAR CALENDAR
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2011.1306E
                                                                                           
           
@@ -1153,15 +840,14 @@ Patricia Loveluck – Reliability of traffic statistics, and analysis
 ACTION:
                 
 Accepted public comment
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.0361C
                                                                           
                                   

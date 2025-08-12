@@ -1,268 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 25, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ February 25, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-February 25, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 25, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONERS ABSENT:     Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Larry Badiner â Zoning Administrator, Corey Teague, David Alumbaugh,  Sharon Lai, Elizabeth Watty, Mary Woods, Jim Miller, Tim Frye, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
 1.         2008.0494C                                                          (C. JAROSLAWSKY: (415) 558-6348)
 
 
@@ -310,11 +46,6 @@ E.         CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 2.         2009.1109C                                                                      (C. TEAGUE: (415) 575-9081)
 
 
@@ -358,12 +89,6 @@ B.
 COMMISSIONERSâ QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
- 
-
-
 3.         Commission Comments/Questions
 
 
@@ -433,11 +158,6 @@ th
 C.         DIRECTORâS REPORT
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 4.         Directorâs Announcements
 
 
@@ -518,11 +238,6 @@ Director Rahaim:
 Iâm sorry.  You should have been on the mailing list.  I donât know why that happened.  On the Departmentâs home page there is now a calendar that is showing public events.  Itâs not completely all there yet, but we are working to make that happen.  You will be able to click on the event and then it will take you to the page that describes the project.  Again, I apologize for not being notified.  You should have been on the list.  There must have been some glitch on the list.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 5.         Review of Past Weekâs Events at the Board of Supervisors, Board of Appeals, and Historic Preservation Commission.
 
 
@@ -598,11 +313,6 @@ There was no hearing this week
 .
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 6.                                                                                        (D. ALUMBAUGH: (415) 558-6601)
 
 
@@ -610,13 +320,9 @@ INFORMATIONAL PRESENTATION:  GREEN DEVELOPMENT AGREEMENTS
  â The Office of Economic and Workforce Development (OEWD) is developing two ordinances in support of Green Development Agreements:
 <<Project End>>
 <<Project Start>>
-
-
 1.   An ordinance creating a Green Development Agreement (GDA) âfast trackâ approval process for interim uses on vacant lots with previously entitled projects.  This ordinance would provide stalled development projects with legally-binding protection from future uncertainty in exchange for the provision of certain interim public benefits, including greening and/or art-related uses.
 <<Project End>>
 <<Project Start>>
-
-
 2.   An ordinance approving a âPilot Projectâ GDA for the 399 Fremont development site.  This ordinance would grant approval of the Cityâs first GDA, which would incorporate an interim use agreement & schematic design plan at the vacant site of the 399 Fremont project.
 
 
@@ -665,9 +371,6 @@ Sue Hestor â Re:  Supplemental documents and/or revised plans coming from 
 E.         REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-
 7.         2009.0996C                                                                              
   (S. Lai:  (415) 575-9087)
 
@@ -705,12 +408,6 @@ MOTION:          
 18036
 <<Project End>>
 <<Project Start>>
-   
-
-
- 
-
-
 8.         2009.0531C                                                                          
 (E. Watty:  (415) 558-6620)  
 
@@ -752,12 +449,6 @@ MOTION:          
 18037
 <<Project End>>
 <<Project Start>>
-   
-
-
- 
-
-
 9.         2009.0550I                                                                        (M. Woods:  (415) 558-6315)
 
 
@@ -852,11 +543,6 @@ RECUSED:       Sugaya
 ABSENT:          Borden
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 11.        2010.0050T                                          (T. SULLIVAN: (415) 558-6257)
 
 
@@ -885,12 +571,7 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 ABSENT:          Borden
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-            12.       
+12.       
 2009.0914D
                                                  (T. FRYE: (415) 575-6822)
 
@@ -939,11 +620,6 @@ ACTION:           In the absence of a successful substitute motion, th
 DRA No:           0140
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
 13.        2009.1028D                                                                            (T. FRYE: (415) 575-6822)
 
 

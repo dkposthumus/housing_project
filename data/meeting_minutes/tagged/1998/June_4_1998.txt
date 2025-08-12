@@ -1,148 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-Minutes of the San Francisco Planning Commission June 1998
-
-
-
-
-
-
-
-
-
-
-Minutes of Planning Commission Calendars 
-
-
-
-
-
-
-June 1998
-
-
-
-
-Presented below are Minutes of the Planning Commission. The top of the this page lists
-Commission meeting dates for the month. 
- Click on the date and you will reach the minutes
-for that that week. The minutes present a summary of actions taken at the Planning
-Commission hearing and provides a Motion or Resolution number for that action.
-
-
-
-With most browsers you will be able to search for any text item by using the Ctrl-F keys.
-It is recommended you search by case number and suffix, if you know it, as that will
-always be a unique item. You may search by any identifying phrase, including project
-addresses. 
-
-
-(Please note, commission minutes generally are approved and finalized two weeks
-following the hearing date.) 
-
-
-
-June 4, 1998
- 
-
-
-June 11, 1998
- 
-
-
-June 18, 1998
- 
-
-
-June 25, 1998
- 
-
-
-
-
-
-
- 
-MINUTES OF MEETING AND
-CALENDAR
-
-
-OF THE
-
-
- 
- SAN FRANCISCO
-
-
-PLANNING COMMISSION 
-
-
-REGULAR MEETING
-
-
-THURSDAY
-
-
-JUNE 4, 1998
-
-
-ROOM 428
-
-
-WAR MEMORIAL BUILDING
-
-
-401 VAN NESS AVENUE
-
-
-
-
-                                1:30 P.M.
-
-
-
-
-PRESENT: Chinchilla, Theoharis, Antenore, Hills, Joe, Martin, Mills
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT
-1:30 P.M.
-
-
-
-
-STAFF IN ATTENDANCE: Gerald Green - Director of Planning, Robert Passmore
-- Zoning
-Administrator, Jim McCormick, Lou Andrade, Larry Badiner, Amit Ghosh, Michael
-Berkowitz, David Alaumbaugh, Luly Hwang, Micheal Sanders, Alton Chin, Larry Collins,
-Jill Slater, Cynthia Hillmon, Scott Dowdee, Adam Light, Susana Montaña, Joy Navarrete,
-Paul Maltzer, Linda Avery - Commission Secretary.
-
-
-
-
-A.  
-ITEMS TO BE CONTINUED
-<<Project End>>
-<<Project Start>>
-
-
-
-
-  1.   98.226D                  (WASHINGTON)
+1.   98.226D                  (WASHINGTON)
 
          571 JERSEY STREET
 , south side between Diamond and Douglass
@@ -167,11 +24,7 @@ suite and roof deck to an existing two-story, single-family residence in a RH-2
     AYES: Chinchilla, Theoharis, Antenore, Hills, Joe, Martin, Mills
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  2.   98.251C   (MILLER) 
+2.   98.251C   (MILLER) 
 
  
 154 COLERIDGE STREET
@@ -197,11 +50,7 @@ Height and Bulk District.
     AYES: Chinchilla, Theoharis, Antenore, Hills, Joe, Martin, Mills
 <<Project End>>
 <<Project Start>>
-
-
-
-
-       3.  97.686C    (LI)
+3.  97.686C    (LI)
 
  
   1100 GRANT AVENUE
@@ -294,11 +143,7 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  4.   Consideration of Adoption for Minutes of 5/14/98.
+4.   Consideration of Adoption for Minutes of 5/14/98.
 
  
 ACTION: Approved as drafted
@@ -313,19 +158,11 @@ D.
  DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  5.    
+5.    
 DIRECTOR'S ANNOUNCEMENTS
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  6.  
+6.  
    REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF APPEALS
 &          BOARD OF SUPERVISORS
 
@@ -349,11 +186,7 @@ DIRECTOR'S ANNOUNCEMENTS
              -   1271 Lombard Street
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  7.        (BERKOWITZ)
+7.        (BERKOWITZ)
 
  
 COMPUTER SERVICES FOR DCP
@@ -363,9 +196,7 @@ COMPUTER SERVICES FOR DCP
 INFORMATIONAL ONLY.  NO ACTION.
 <<Project End>>
 <<Project Start>>
-
-
-     8.     (GREEN)
+8.     (GREEN)
 
        Informational presentation on the conceptual design of a proposed residential
 development in the Redevelopment Agency Yerba Buena Center East Block 1- the
@@ -388,11 +219,7 @@ E.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  9.   98.238ET  (MONTAÑA)
+9.   98.238ET  (MONTAÑA)
 
  
 BRIDGE DISTRICT AMENDMENT
@@ -425,11 +252,7 @@ EXCUSED: Hills
     RESOLUTION No.: 14633
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  10.  98.341T   (MONTAÑA)
+10.  98.341T   (MONTAÑA)
 
  
 AFFORDABLE CHILD CARE AMENDMENT
@@ -456,11 +279,7 @@ SPEAKERS: None
 RESOLUTION No.: 14634
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  11.  97.470E   (NAVARRETE)
+11.  97.470E   (NAVARRETE)
 
  
 475 BRANNAN STREET - PUBLIC HEARING ON THE DRAFT
@@ -495,13 +314,7 @@ Coleen
     ACTION: Meeting held.  Public hearing closed.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-  12.  98.136C   (BEATTY)   
+12.  98.136C   (BEATTY)   
 
  
 1081 PINE STREET
@@ -527,11 +340,7 @@ SPEAKERS: Shawn Willhim, Ally Pollick, Jonathan Pearlman
 MOTION No.: 14635
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  13.  98.197C   (BILLOVITS)
+13.  98.197C   (BILLOVITS)
 
  
 540 and 590 VAN NESS AVENUE (aka 595 GOLDEN GATE AVENUE)
@@ -556,11 +365,7 @@ SPEAKERS: Robert McCarthy
 RESOLUTION No.: 14636
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  14.  98.186C   (ZWIERZYCKI)
+14.  98.186C   (ZWIERZYCKI)
 
  
 4207 JUDAH STREET
@@ -589,11 +394,7 @@ SPEAKERS: Patrick Than, Lil Palermo
 MOTION No.: 14637
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  15.  98.127C   (IONIN)
+15.  98.127C   (IONIN)
 
  
 1200 - 9TH AVENUE
@@ -653,11 +454,7 @@ Quinn, James Hanley, Harvey Vickens, John Bardis,
 MOTION No.: 14638
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  16.  98.285C   (LI)
+16.  98.285C   (LI)
 
  
 1640 STOCKTON STREET
@@ -690,11 +487,7 @@ COMMISSION CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  17.  98.307D   (SMITH)
+17.  98.307D   (SMITH)
 
  
 2425 HYDE STREET
@@ -714,11 +507,7 @@ SPEAKERS: None
     AYES: Chinchilla, Theoharis, Antenore, Hills,  Joe, Martin, Mills
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  18.  98.246D
+18.  98.246D
 
      (LIGHT)
 
@@ -734,11 +523,7 @@ an existing single-unit house in a RH-1 (House, One-Family) District.
 DISCRETIONARY REVIEW REQUEST WITHDRAWN
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  19.  98.254D   (MILLER)
+19.  98.254D   (MILLER)
 
  
 41 NORFOLK STREET
@@ -866,11 +651,7 @@ A.
 ITEMS TO BE CONTINUED
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  1.   98.274C   (GORDON)
+1.   98.274C   (GORDON)
 
  
 1401-18TH STREET
@@ -899,11 +680,7 @@ SPEAKERS: None
     ABSENT:   Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  2.   98.222D                            (ALVIN)
+2.   98.222D                            (ALVIN)
 
          135 MIGUEL STREET
 , north side between Fairmount and Laidley
@@ -931,11 +708,7 @@ SPEAKERS: None
     ABSENT:   Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  3.   98.377D                            (MILLER)
+3.   98.377D                            (MILLER)
 
          1 LA AVANZADA STREET (AKA 250 PALO ALTO AVENUE)
 ,
@@ -961,11 +734,7 @@ broadcasting equipment in a RH-1(D) (House, One-Family, Detached) District.
     ABSENT:   Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  4.   98.290D/DD                    (TAEB)
+4.   98.290D/DD                    (TAEB)
 
          253 - 29TH AVENUE
 , west side between Lake and California
@@ -978,11 +747,7 @@ of a two-story, single-family dwelling in a RH-1 (House, One-Family) District.
 DISCRETIONARY REVIEW WITHDRAWN
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  5.   98.229D   (LIGHT)
+5.   98.229D   (LIGHT)
 
          253 -26TH AVENUE
 , west side between Lake and California Streets,
@@ -1049,11 +814,7 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  6.   Consideration of Adoption for Minutes of 5/21/98 and 5/28/98.
+6.   Consideration of Adoption for Minutes of 5/21/98 and 5/28/98.
 
  
 ACTION: Approved as drafted
@@ -1072,22 +833,14 @@ D.
  DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  7.    
+7.    
 DIRECTOR'S ANNOUNCEMENTS
 
 
     - Department budget update
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  8.  
+8.  
    REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF APPEALS
 &          BOARD OF SUPERVISORS
 
@@ -1105,11 +858,7 @@ E.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  9.   98.227ETZ (MONTAÑA) 
+9.   98.227ETZ (MONTAÑA) 
 
  
 HISTORIC SIGN DISTRICT
@@ -1165,11 +914,7 @@ MOTION No.: 14640
 MOTION No.: 14641
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  10.  89.589
+10.  89.589
 B
 XHE   (BADINER)
 
@@ -1195,11 +940,7 @@ employment to conform to current city and State regulations.
     ABSENT: Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  11.  97.629
+11.  97.629
 C
       (FALLAY)
 
@@ -1250,13 +991,7 @@ public hearing will be held on new information presented only.
     ABSENT: Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-  12.  98.251C   (MILLER) 
+12.  98.251C   (MILLER) 
 
  
 154 COLERIDGE STREET
@@ -1293,11 +1028,7 @@ COMMISSION  CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  13. 98.506D/DD                (BANALES)
+13. 98.506D/DD                (BANALES)
 
          1415 INDIANA STREET
 , east side between 25th and 26th Streets,
@@ -1320,11 +1051,7 @@ parking spaces on a vacant lot in a M-2 (Heavy Industrial) District.
     ABSENT: Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  14.  98.311D                  (WASHINGTON)
+14.  98.311D                  (WASHINGTON)
 
          1738 - 44TH AVENUE
 , east side between Moraga and Noriega
@@ -1348,11 +1075,7 @@ will disapprove
     ABSENT: Chinchilla, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  15.  97.367D                                      (BANALES)
+15.  97.367D                                      (BANALES)
 
          1233 HOWARD STREET
 , east side between 8th and 9th Streets, Lot
@@ -1487,11 +1210,7 @@ A.
 ITEMS TO BE CONTINUED
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  1.   98.313D                                                (WASHINGTON)
+1.   98.313D                                                (WASHINGTON)
 
          378 DIAMOND STREET
 , west side between 20th and 21st Streets,
@@ -1515,11 +1234,7 @@ an existing single-family residence in a RH-2 (House, Two-Family) District.
     ABSENT:   Antenore
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  2.   98.410D/DD                                             (SMITH)
+2.   98.410D/DD                                             (SMITH)
 
          483 HOFFMAN AVENUE
 , east side between 24th and 25th Streets,
@@ -1545,11 +1260,7 @@ approximately 22 feet above grade and to construct a rear deck in a RH-2
     ABSENT:   Antenore
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  3.   98.287C   (NICHOL) 
+3.   98.287C   (NICHOL) 
 
  
 492 BROADWAY
@@ -1635,11 +1346,7 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  4.   Consideration of Adoption of Minutes from 6/4/98.
+4.   Consideration of Adoption of Minutes from 6/4/98.
 
  
 ACTION: Approved as drafted
@@ -1657,11 +1364,7 @@ D.
  DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  5.    
+5.    
 DIRECTOR'S ANNOUNCEMENTS
 
 
@@ -1669,11 +1372,7 @@ DIRECTOR'S ANNOUNCEMENTS
 None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  6.  
+6.  
    REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF APPEALS
 &          BOARD OF SUPERVISORS
 
@@ -1699,11 +1398,7 @@ matter shall be
 removed from the Consent Calendar and considered as a separate item.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  7.   97.499Q   (FALLAY)
+7.   97.499Q   (FALLAY)
 
  
 987-97 - 14TH STREET
@@ -1733,11 +1428,7 @@ F.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  8.   98.155ET  (MONTAÑA)
+8.   98.155ET  (MONTAÑA)
 
  
 24th/NOE FOOD SERVICE AMENDMENT
@@ -1843,11 +1534,7 @@ Saint-Pierre, John Hussey, Anthony Y. Kelly
     ABSENT:   Antenore
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  10.  97.629
+10.  97.629
 C
       (FALLAY)
 
@@ -1892,9 +1579,7 @@ public hearing will be held on new information presented only.
     ACTION: Approved as amended:
 <<Project End>>
 <<Project Start>>
-
-
-    1. 
+1. 
     Housing:
 
 
@@ -1925,9 +1610,7 @@ the issuance of Certificate of Occupancy by the Department of Building
 Inspection.
 <<Project End>>
 <<Project Start>>
-
-
-    3.   
+3.   
 Transportation:
 
 
@@ -1942,15 +1625,10 @@ Walgreen's control shall access the garage from Linden Street and exit
 onto Fell Street.
 <<Project End>>
 <<Project Start>>
-
-
-    4.   
+4.   
 General:
 <<Project End>>
 <<Project Start>>
-
-
- 
 6.    Failure to comply with Condition Nos. 3(b) and 4(c) would
 be considered a
 violation, subject to a fine of $10,000.00 payable into the Mayor's
@@ -1978,11 +1656,7 @@ such in these minutes.
     MOTION No.: 14645
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  11.  98.274C   (GORDON)
+11.  98.274C   (GORDON)
 
  
 1401-18TH STREET
@@ -2010,11 +1684,7 @@ Overholt, Charles Patton
     ABSENT:   Antenore, Theoharis
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  12.  98.105C   (HING)
+12.  98.105C   (HING)
 
  
 300 GAVEN STREET
@@ -2033,17 +1703,13 @@ Esperanza Martinez, Emily Huang, Ravi Anand, Terry Edeli
     ACTION: Approved as amended:
 <<Project End>>
 <<Project Start>>
-
-
-    3.   The operator or staff shall monitor drop-off and pick-up of students to
+3.   The operator or staff shall monitor drop-off and pick-up of students to
 discourage double parking and excessive noise.  Notices shall be sent to
 parents on a quarterly basis requesting no double parking in front of the
 building.
 <<Project End>>
 <<Project Start>>
-
-
-    5.   The Applicant/Project Sponsor shall appoint a community liaison to deal
+5.   The Applicant/Project Sponsor shall appoint a community liaison to deal
 with such issues as parking and other related matters of concern to
 nearby residents.  The Applicant shall report the name and telephone
 number of the liaison to residents within a 150-foot radius and the Zoning
@@ -2070,11 +1736,7 @@ COMMISSION CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  13.  98.307D   (SMITH)
+13.  98.307D   (SMITH)
 
  
 2425 HYDE STREET
@@ -2100,11 +1762,7 @@ single-family dwelling in a RH-3 (House, Three-Family) District.
 Theoharis
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  14.  98.222D                            (ALVIN)
+14.  98.222D                            (ALVIN)
 
          135 MIGUEL STREET
 , north side between Fairmount and Laidley
@@ -2130,11 +1788,7 @@ structures and construct a new three-story, single-family dwelling in a RH-1
 Theoharis
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  15.  98.334D                                                (WASHINGTON)
+15.  98.334D                                                (WASHINGTON)
 
          381 DOUGLASS STREET
 , east side between 19th and 20th Streets,
@@ -2158,11 +1812,7 @@ Effie Curlock
 Theoharis
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  16.  98.350D/DD                                                       (KEYLON)
+16.  98.350D/DD                                                       (KEYLON)
 
          2646 BRODERICK STREET
 , east side between Green and Vallejo
@@ -2202,7 +1852,7 @@ STREET, condition #4.
 General:
 <<Project End>>
 <<Project Start>>
-  6.  Failure to comply with
+6.  Failure to comply with
 Condition Nos. 3(b) and 4(c) would be
 considered a violation, subject to a fine of
 $10,000.00 payable into the Mayor's
@@ -2309,11 +1959,7 @@ A.
 ITEMS TO BE CONTINUED
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  1.   98.252C   (MARTIN)
+1.   98.252C   (MARTIN)
 
  
 445 VALENCIA STREET 
@@ -2341,11 +1987,7 @@ Beverage Special Use Subdistrict.
     ABSENT: Antenore, Joe
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  2.   97.226D   (ARCE)
+2.   97.226D   (ARCE)
 
  
 2959 - 21ST AVENUE
@@ -2375,11 +2017,7 @@ Detached) District.
     ABSENT: Antenore, Joe
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  3.   98.321C   (PURVIS)
+3.   98.321C   (PURVIS)
 
  
 3178 - 16TH STREET
@@ -2449,11 +2087,7 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  4.   Consideration of Adoption of Minutes from 6/11/98.
+4.   Consideration of Adoption of Minutes from 6/11/98.
 
  
 ACTION: Approved as drafted
@@ -2473,11 +2107,7 @@ D.
  DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  5.    
+5.    
 DIRECTOR'S ANNOUNCEMENTS
 
 
@@ -2493,11 +2123,7 @@ to fill four new positions -- 2 in Environmental Review and 2 in Neighborhood
 Planning.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-    6.  REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF
+6.  REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF
 APPEALS &            BOARD OF SUPERVISORS
 
 
@@ -2509,10 +2135,6 @@ Mt. Sutro Corp. has decided that they will go forward with an
 analysis of the Tower.
 <<Project End>>
 <<Project Start>>
-
-
-
-
 7.         (BAUMAN)
 
 
@@ -2544,11 +2166,7 @@ E.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  8.   97.678E                                                     (GITELMAN)
+8.   97.678E                                                     (GITELMAN)
 
          640 BATTERY STREET OFFICE BUILDING EXPANSION -- PUBLIC
 HEARING
@@ -2587,13 +2205,7 @@ AYES: Chinchilla, Theoharis, Mills, Hills, Martin,
  ABSENT: Antenore, Joe
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-  9.   98.335C   (ZWIERZYCKI
+9.   98.335C   (ZWIERZYCKI
 
  
 30 0NONDAGA (AKA 1875 ALEMANY BLVD)
@@ -2626,11 +2238,7 @@ network in a NC-3 (Neighborhood Commercial, Moderate-Scale) District and a
     MOTION No.: 14647
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  10.  98.317C   (ZWIERZYCKI)
+10.  98.317C   (ZWIERZYCKI)
 
  
 4516-4518 MISSION STREET
@@ -2663,11 +2271,7 @@ the area in front of 4516 Mission Street at least once per month.
     MOTION No.: 14648
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  11.  98.237C   (WANG)
+11.  98.237C   (WANG)
 
  
 2970 - 25TH AVENUE
@@ -2686,9 +2290,7 @@ Benita
     ACTION: Approved with conditions as modified:
 <<Project End>>
 <<Project Start>>
-
-
-    1. plans involve no horizontal; or vertical expansion of the existing
+1. plans involve no horizontal; or vertical expansion of the existing
 dwelling
 
 
@@ -2701,11 +2303,7 @@ dwelling
     MOTION No.: 14649
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  12.  98.080C   (BEATTY)
+12.  98.080C   (BEATTY)
 
  
 4314 CALIFORNIA STREET
@@ -2732,11 +2330,7 @@ Height and Bulk District.
     MOTION No.: 14650
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  13.  98.296C   (WASHINGTON)
+13.  98.296C   (WASHINGTON)
 
  
 3600-16TH STREET
@@ -2755,9 +2349,7 @@ Commercial District.
     ACTION: Approved with conditions as modified:
 <<Project End>>
 <<Project Start>>
-
-
-    7.   The Project Sponsor shall be responsible for ensuring that 
+7.   The Project Sponsor shall be responsible for ensuring that 
 street
 sidewalk
 
@@ -2781,11 +2373,7 @@ COMMISSION  CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  14.  98.313D                                                (WASHINGTON)
+14.  98.313D                                                (WASHINGTON)
 
          378 DIAMOND STREET
 , west side between 20th and 21st Streets,
@@ -2809,11 +2397,7 @@ Mak
     ABSENT: Antenore, Joe, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  15.  98.226D                  (WASHINGTON)
+15.  98.226D                  (WASHINGTON)
 
          571 JERSEY STREET
 , south side between Diamond and Douglass
@@ -2837,11 +2421,7 @@ suite and roof deck to an existing two-story, single-family residence in a RH-2
     ABSENT: Antenore, Joe, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  16.  98.307D   (SMITH)
+16.  98.307D   (SMITH)
 
  
 2425 HYDE STREET
@@ -2865,11 +2445,7 @@ single-family dwelling in a RH-3 (House, Three-Family) District.
     ABSENT: Antenore, Joe, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  17.  98.222D                            (ALVIN)
+17.  98.222D                            (ALVIN)
 
          135 MIGUEL STREET
 , north side between Fairmount and Laidley
@@ -2906,11 +2482,7 @@ beginning 18 feet from the front property line.
     ABSENT: Antenore, Joe, Martin
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  18.  98.506D/DD                    (BANALES)
+18.  98.506D/DD                    (BANALES)
 
          1415 INDIANA STREET
 , east side between 25th and 26th Streets,
@@ -2925,11 +2497,7 @@ parking spaces on a vacant lot in a M-2 (Heavy Industrial) District.
 DISCRETIONARY REVIEW REQUEST WITHDRAWN
 <<Project End>>
 <<Project Start>>
-
-
-
-
-  19.  98.377D                            (MILLER)
+19.  98.377D                            (MILLER)
 
          1 LA AVANZADA STREET (AKA 250 PALO ALTO AVENUE)
 ,
@@ -2993,10 +2561,7 @@ Department to fill four new positions -- 2 in Environmental Review
 and 2 in Neighborhood Planning.
 <<Project End>>
 <<Project Start>>
-
-
- 
-  6.   REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF
+6.   REVIEW OF PAST WEEK'S EVENTS AT THE BOARD OF
 APPEALS & 
 BOARD OF SUPERVISORS
 

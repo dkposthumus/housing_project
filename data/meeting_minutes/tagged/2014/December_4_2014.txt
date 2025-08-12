@@ -1,296 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ December 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-December 4, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, December 4, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 1:21 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Planning Director, Carly Grob, Rachel Schuett, Debra Dwyer, Kearstin Dischinger, Diego Sanchez, Thomas Wang, Tina Chang, 
- 
-and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2014.1176Q
                                                                          
                           
@@ -329,15 +37,14 @@ Continued to December 11, 2014
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0756D                                                                                                  
      
 (J. SPEIRS: (415) 575-9106)
@@ -389,8 +96,6 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 B.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -488,8 +193,6 @@ One of the things I wanted to bring up and this has been in the news a lot latel
 C.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -505,8 +208,6 @@ Director’s Announcements
 
                                 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -619,43 +320,31 @@ Supe Tang commented that deciding when new housing produced is more valuable tha
 
 
 In taking their vote, the Board referenced the following findings from Section 317 to support their action:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
-Whether the project converts rental housing to other forms of tenure or occupancy;
-<<Project End>>
-<<Project Start>>
+Whether the project converts rental housing to other forms of tenure or occupancy; 
 
 
 2.
        
-Whether the project removes rental units subject to the Rent Stabilization and Arbitration Ordinance or affordable housing;
-<<Project End>>
-<<Project Start>>
+Whether the project removes rental units subject to the Rent Stabilization and Arbitration Ordinance or affordable housing; 
 
 
 3.
        
-Whether the project conserves existing housing to preserve cultural and economic diversity;
-<<Project End>>
-<<Project Start>>
+Whether the project conserves existing housing to preserve cultural and economic diversity; 
 
 
 4.
        
-Whether the project conserves neighborhood character to preserve neighborhood;
-<<Project End>>
-<<Project Start>>
+Whether the project conserves neighborhood character to preserve neighborhood; 
 
 
 5.
        
 Whether the project protects the relative affordability of existing housing; and
-<<Project End>>
-<<Project Start>>
 
 
 6.
@@ -810,15 +499,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2011.0312CEKUVX
                                                                             
               
@@ -845,15 +533,14 @@ SPEAKERS:
 ACTION:
                                 
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2011.1374E
  
                                                                          
@@ -917,15 +604,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19284
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2007.0347E
                                                                                           
           
@@ -959,15 +645,14 @@ SPEAKERS:
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2014.0966T
                                           
               
@@ -1000,15 +685,14 @@ SPEAKERS:
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2014.1237Z
  
                                                                                          
@@ -1052,15 +736,14 @@ Hillis
 RESOLUTION:
       
 19285
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2014.0417C
                                                                                           
              
@@ -1120,15 +803,14 @@ Hillis
 MOTION:
                
 19288
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2014.0985C
                                                                                           
           
@@ -1177,15 +859,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19286
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2014.1190C
                                                                                           
           
@@ -1275,7 +956,8 @@ Please be advised that the DR requestor and project sponsor teams include: the D
 
 
 15a.
-        
+<<Project End>>
+<<Project Start>>
 2013.1521DDV
  
                                                                                    
@@ -1369,7 +1051,8 @@ Hillis
 
 
 15b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1521DDV
  
                                                                    
@@ -1403,7 +1086,8 @@ ZA After Hearing and Closing Public Comment; Continued to February 5, 2015
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2013.1522DDV
  
                                                                                    
@@ -1448,7 +1132,8 @@ Hillis
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1522DDV
  
                                                                    

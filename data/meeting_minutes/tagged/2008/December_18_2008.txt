@@ -1,276 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 18, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ December 18, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-December 18, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 18, 2008
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 18, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:41 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Lois Scott, Diana Sokolove, Randall Dean, Debra Dwyer, Joy Navarrete, Stephen Shotland, Joshua Switzky, Jonas Ionin, Mary Woods, Aaron Starr, Cecilia Jaroslawsky, Sophie Middlebrook, and Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2008.0658C
  
  
@@ -333,8 +61,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -368,8 +94,6 @@ Future Meetings/Agendas
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -403,8 +127,6 @@ SPEAKER(S):
 ACTION:
  
  Informational only – no action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -492,16 +214,14 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0118E 
  
  
@@ -630,8 +350,6 @@ SPEAKER(S) -- (the following people spoke in favor if item 8):
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -640,8 +358,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 6.
- 
- 2007.0427E
+<<Project End>>
+<<Project Start>>
+2007.0427E
  
  (R. DEAN (415)
  
@@ -693,16 +412,15 @@ EXCUSED:
 MOTION:
  
  17784
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2006.0881E
+<<Project End>>
+<<Project Start>>
+2006.0881E
  
  (D. DWYER (415) 575-9031)
 
@@ -761,16 +479,15 @@ ABSENT:
 MOTION:
  
  17785
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.1308
+<<Project End>>
+<<Project Start>>
+2006.1308
 E
 MTZRUU
  
@@ -833,8 +550,6 @@ MOTION:
 H.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -842,8 +557,9 @@ H.
 
 
 9.
- 
- 2006.1308EMTZRUU 
+<<Project End>>
+<<Project Start>>
+2006.1308EMTZRUU 
  
  (S. SHOTLAND (415) 558-6308)
 
@@ -869,8 +585,8 @@ The Redevelopment Plan area has the following general boundaries:
 
 
 9a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1308
 E
 MTZRUU
@@ -915,8 +631,8 @@ MOTION:
 
 
 9b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1308E
 M
 TZRUU 
@@ -961,8 +677,9 @@ RESOLUTION:
 
 
 9c.
- 
- 2006.1308EM
+<<Project End>>
+<<Project Start>>
+2006.1308EM
 T
 ZRUU 
  
@@ -1005,8 +722,8 @@ RESOLUTION:
 
 
 9d.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1308EMT
 Z
 RUU 
@@ -1142,8 +859,9 @@ RESOLUTION:
 
 
 9e.
- 
- 2006.1308EMTZ
+<<Project End>>
+<<Project Start>>
+2006.1308EMTZ
 R
 UU
  
@@ -1194,8 +912,9 @@ MOTION:
 
 
 9f.
- 
- 2006.1308EMTZR
+<<Project End>>
+<<Project Start>>
+2006.1308EMTZR
 U
 U 
  
@@ -1248,8 +967,9 @@ MOTION:
 
 
 9g.
- 
- 2006.1308EMTZRU
+<<Project End>>
+<<Project Start>>
+2006.1308EMTZRU
 U
  
  (S. SHOTLAND (415) 558-6308)
@@ -1287,8 +1007,6 @@ AYES:
 MOTION:
  
  17796
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1333,8 +1051,9 @@ ACTION:
 
 
 11a.
- 
- 2006.0881
+<<Project End>>
+<<Project Start>>
+2006.0881
 E
 CVZ
  
@@ -1386,8 +1105,9 @@ MOTION:
 
 
 11b.
- 
- 2006.0881ECV
+<<Project End>>
+<<Project Start>>
+2006.0881ECV
 Z
  
  (J. IONIN (415) 558-6309)
@@ -1447,8 +1167,9 @@ RESOLUTION:
 
 
 11c.
- 
- 2006.0881E
+<<Project End>>
+<<Project Start>>
+2006.0881E
 C
 VZ
  
@@ -1506,8 +1227,9 @@ MOTION:
 
 
 11d.
- 
- 2006.0881EC
+<<Project End>>
+<<Project Start>>
+2006.0881EC
 V
 Z
  
@@ -1545,16 +1267,15 @@ SPEAKER(S):
 ACTION:
  
  The Director closed public hearing and granted the variances subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.0899D
+<<Project End>>
+<<Project Start>>
+2008.0899D
  
  
  
@@ -1605,16 +1326,15 @@ ABSENT:
 DRA No:
  
  0052
+
+
+ 
+
+
+13.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-13. 
- 
- 2008.1285D
+2008.1285D
  
  
 (A. Starr (415) 558-6362)
@@ -1655,16 +1375,15 @@ ABSENT:
 DRA No:
  
  0053
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2008.1071
+<<Project End>>
+<<Project Start>>
+2008.1071
 D
 V
  
@@ -1717,8 +1436,6 @@ ABSENT:
 DRA No:
  
  0054
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1728,8 +1445,9 @@ DRA No:
 
 
 15.
- 
- 2007.1439D
+<<Project End>>
+<<Project Start>>
+2007.1439D
 V
  
  
@@ -1770,16 +1488,15 @@ SPEAKER(S):
 ACTION:
  
  The Director closed the public hearing and granted the variance subject to the standard conditions of approval
+
+
+ 
+
+
+16.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-16. 
- 
- 2008.0600D
+2008.0600D
  
  
  

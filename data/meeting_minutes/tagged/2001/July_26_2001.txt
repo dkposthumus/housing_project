@@ -1,222 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ July 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-July 26, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 26, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, July 26, 2001
-1:30 PM
-Regular Meeting
-PRESENT:                    Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
-ABSENT:                    Theoharis
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT FAY AT 1:45 p.m.
-STAFF IN ATTENDANCE:  Larry Badiner, Zoning Administrator and Acting Director; Adam Light; Michael Li; Ben Fu; Tina Tam; Thomas Wang; Tim Woloshyn; Mary Woods; Dario Jones; Nora Priego, Transcription Secretary; Linda Avery, Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-          1.          2000.1104C          (M. SNYDER:  575-6891)
+1.          2000.1104C          (M. SNYDER:  575-6891)
                     488 BRYANT STREET - north side between 2nd and 3rd Street, Lot 18 in Assessor's Block 3763.  Request for Conditional Use authorization under Planning Code Section 817.73 and 227(h) to install three panel antennas on the building rooftop and related backup equipment within the building in an SLI (Service Light Industrial Mixed-Use) District and a 40-X Height and Bulk District. This is a Preference Location 4.
                     Preliminary Recommendation:  Pending
                     (Continued from Regular Meeting of June 28, 2001)
@@ -227,7 +10,7 @@ AYES:          Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Baltimore, Theoharis
 <<Project End>>
 <<Project Start>>
-          2.          2000.1140X          (LIGHT: 558-6254)
+2.          2000.1140X          (LIGHT: 558-6254)
                     1 POWELL STREET - west side between Eddy and Ellis Streets, Lot 5 in Assessor’s Block 330 - Request under Planning Code Section 309 (Downtown Code) for Determination of Compliance to make minor modifications to the ground floor entrance and windows of the subject Category I Building, which is located in the Kearny-Market-Mason-Sutter Conservation District, to accommodate a retail store and to seismically retrofit the existing 138-foot tall, seven-story over basement building containing a ground level banking institution with office uses on the upper floors.  The seismic retrofitting will be accomplished by infilling a large interior light well on the north side of the property with a structural system that will provide proper seismic reinforcement for the building.  No exceptions under Section 309 of the Planning Code are requested by the proposed project.  The project is located in a C-3-R (Downtown Retail) District and a 110-X Height and Bulk District.
                     Preliminary Recommendation:  Approval with Conditions
                     (Proposed for Continuance to August 16, 2001)
@@ -237,7 +20,7 @@ AYES:          Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Baltimore, Theoharis
 <<Project End>>
 <<Project Start>>
-          3.          2001.0015Z          (WOODS:  558-6315)
+3.          2001.0015Z          (WOODS:  558-6315)
                     1052 OAK STREET - north side between Divisadero and Scott Streets, Lot 5 in Assessor's Block 1216 - Request for reclassification of a portion (approximately 3,136 square feet) of Lot 5 (a part of the Touchless Car Wash site) from NC-2 (Small-Scale Neighborhood Commercial) District to RH-3 (Residential, House, Three-Family) District.  Currently, the entire lot area, approximately 4,199 square feet, of Lot 5 is zoned NC-2.  This reclassification is to allow the construction of three new residential units in accordance with Planning Commission Motion No. 16036 relating to a conditional use authorization approved on November 16, 2000 to expand the car wash.
                     Preliminary Recommendation: Adoption of the Draft Resolution for Reclassification.
                     (Continued from Regular Meeting of May 24, 2001)
@@ -249,7 +32,7 @@ ABSENT:          Baltimore, Theoharis
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          4.          Commission Matters
+4.          Commission Matters
 Commissioner Lim:
 During the last hearing of the Board of Supervisors, Supervisor Leno proposed a resolution that the Planning Commission should not approve projects that does not include housing even if a Conditional Use permit is not required for the approval.  Supervisor Leno gave an example of a project that was approved recently by the Planning Commission that is located on Market and Polk.  Because the project did not require a Conditional Use permit, the inclusionary affordable housing was only five percent.  Supervisor Leno suggested that the Commission not approve projects that don't have inclusionary housing.  She believes that the supervisor is misinformed.  She knows that the Commission has most always approved projects that have at least 10 percent of inclusionary housing.  Since Supervisor Leno is misinformed, she would like to clarify the policy of this Commission to the supervisor.  She urges the Commission to expedite Commissioner Chinchilla's request about looking into the policies that cover inclusionary housing.
 Commissioner Chinchilla:
@@ -259,13 +42,13 @@ He requested information on the timeline of projects that have inclusionary hous
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          5.          Director's Announcements
+5.          Director's Announcements
 Larry Badiner (Acting Director)
 Re:  Supervisor Leno's Concern:
 It is not that the Commission is avoiding applying 10 percent affordability.  He agrees that there is a drafting error and this was carried into Supervisor Leno's current proposal.  The project located on Market and Polk did not require a Conditional Use so this was an exception.  Another question and/or issue would be that another potential requirement should be a variance.  Director Green has committed to having a hearing regarding these issues.
 <<Project End>>
 <<Project Start>>
-          6.          Review of Past Week's Events at the Board of Supervisors (BOS) and Board of Appeals (BOA):
+6.          Review of Past Week's Events at the Board of Supervisors (BOS) and Board of Appeals (BOA):
                     BOS – None
                     BOA - None
 D.          REGULAR CALENDAR
@@ -318,7 +101,7 @@ D.          REGULAR CALENDAR
                     ACTION:          The Zoning Administrator Closed public comment and granted the variance
 <<Project End>>
 <<Project Start>>
-          8.          2001.0223C          (LI:  558-6396)
+8.          2001.0223C          (LI:  558-6396)
                     1330-1342 POLK STREET - northeast corner at Austin Street; Lot 006 in Assessor's Block 0668 -- Request for Conditional Use authorization to expand an existing yoga studio within the Polk Street Neighborhood Commercial District and a 65-A Height and Bulk District.  The proposal is to allow the Funky Door Yoga Center to expand from approximately 3,600 square feet to approximately 4,800 square feet through the conversion of existing retail space on the ground floor.  There will be no physical expansion of the existing building.
                     Preliminary Recommendation:  Approval with conditions
                     SPEAKER(s):
@@ -358,7 +141,7 @@ SPEAKER(S):          Same as those listed in item 9a above.
 ACTION:          The Zoning Administrator closed public comment and continued the item to August 9, 2001.
 <<Project End>>
 <<Project Start>>
-          10.          2000.1279C          (TAM: 558-6325)
+10.          2000.1279C          (TAM: 558-6325)
                     522-524 CLIPPER STREET - north side between Diamond and Douglass Streets, Lot 9 in Assessor’s Block 6545 - Request for Conditional Use authorization under Planning Code Section 121(f) to allow the subject lot to be subdivided into two lots.  One of the newly created lots will have a width of 19 feet, which is less than the required 25-foot minimum.  The proposal also includes construction of a new four-story, single-family dwelling on the newly created 19-foot wide lot. The property is located in a RH-2 (Residential, House, Two-Family) District and 40-X Height and Bulk District.  
                     Preliminary Recommendation: Disapproval
                     (Continued from Regular Meeting of July 12, 2001)
@@ -390,7 +173,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          11.          2001.0332C          (WANG:  558-6335)
+11.          2001.0332C          (WANG:  558-6335)
 777 BROTHERHOOD WAY - south side between Junipero Serra and Lake Merced Boulevards; Lot 033 in Assessor's Block 7380 ﷓ Request for Conditional Use authorization under Planning Code Sections 209.3(h) and 205.2(a) to add two temporary modular classroom buildings, each module measuring 1,440 square feet and increase the current enrollment from 92 to approximately 120 students in 2001 at the Lake Merced Church of Christ/the Bridgemont Junior High and high school site in an RH﷓1(D) (Residential, House, One﷓Family, Detached Dwelling) District and a 40﷓X Height and Bulk District.
                     Preliminary Recommendation: Approval with conditions.
                     SPEAKER(S):
@@ -408,7 +191,7 @@ ABSENT:          Theoharis
 MOTION:          16197
 <<Project End>>
 <<Project Start>>
-          12.          2000.0758C          (TAM:  558-6325)
+12.          2000.0758C          (TAM:  558-6325)
                     110 VALE AVENUE - east side of Vale Avenue between Crestlake Drive and Sloat Boulevard; Lot 13 in Assessor’s Block 2526A - Request for a Conditional Use authorization to allow the establishment of a residential care facility for 7 or more persons pursuant to Planning Code Section 209.3(c).  The proposal is to establish the Nobis Care Facility, providing long-term care for a maximum of 9 elderly individuals, who do not require skilled nursing care.  The proposal is located in an RH-1(D) (Residential, House, One-Family, Detached) District and a 40-X Height and Bulk District.  
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -426,7 +209,7 @@ E.          DISCRETIONARY REVIEW HEARING
 At Approximately 4:20 PM the Planning Commission convened into a Discretionary Review (DR) Hearing.
 <<Project End>>
 <<Project Start>>
-          13.          2001.0216D          (WOLOSHYN:  558-6612)
+13.          2001.0216D          (WOLOSHYN:  558-6612)
                     40-42 COLLINS STREET  - west side between Mayfair Drive and Euclid Avenue, Lot 019 in Assessor’s Block 1045 - Request for Discretionary Review of Building Permit Application No. 2000-1102-4756S proposing to add a one-story vertical addition to an existing two-family dwelling in an RH-2 (Residential House, Two-Family) District and a 40-X Height and Bulk District. 
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as proposed
 SPEAKER(S):
@@ -503,7 +286,7 @@ NAYES:          Fay
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          14.          2001.0612D          (WOODS:  558-6315)
+14.          2001.0612D          (WOODS:  558-6315)
 124-126 7th AVENUE - east side between Lake and California Streets, Lot 39 in Assessor’s Block 1366.  Staff-initiated request for Discretionary Review of Building Permit Application No. 2001/04/20/7373S, proposing to merge an existing two-unit building into a single-family dwelling in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Take Discretionary Review and disapprove the proposed merger.
 SPEAKER(S):
@@ -527,7 +310,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas
 ABSENT:          Theoharis
 <<Project End>>
 <<Project Start>>
-          15.          2001.0209D          (JONES: 558-6477)
+15.          2001.0209D          (JONES: 558-6477)
                     235 SANTA PAULA AVENUE - between Yerba Buena Avenue and San Jacinto Way, Lot 026 in Assessor's Block 3078, request for Discretionary Review of Building Permit Application No. 2001/12/21/8505, proposing for the construction of a two-story rear horizontal extension to the existing two-story, single-family residence in an RH-1(D) (Residential, House, One-Family Detached Dwellings) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Do not take DR and approve as submitted.
 SPEAKER(S):

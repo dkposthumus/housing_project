@@ -1,312 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 8, 2005 (minutes)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ September 8, 2005 (minutes)
-
-
-
-
-
-
-
-
-
-
-
-
-September 8, 2005 (minutes)
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 8, 2005 (minutes)
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 8, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-President:
- 
-Sue Lee
-
-
-Vice-President:
- 
- Dwight S. Alexander
-
-
-                       
- Commissioners:
- 
-Michael J. Antonini; Shelley Bradford Bell; Kevin Hughes;
-
-
-William L. Lee; Christina Olague
-
-
- 
-
-
-Commission Secretary: Linda D. Avery
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- S. Lee, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-
-
- 
-
-
-COMMISSIOENER ABSENT:
-    
- D. Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:45 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Sharon Young; Michael Smith; Winslow Hastie; Ben Fu; Glenn Cabreros; Jonathan Purvis; Thomas Wang; Mary Woods; Daniel Sirois; Isolde Wilson; Sarah Dennis; Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-           
- 1.
-        
- 
 2005.0256T
                                              
  
@@ -368,8 +60,6 @@ as a conditional use
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -377,8 +67,9 @@ as a conditional use
 
 
 2.
-        
- 2004.1166C
+<<Project End>>
+<<Project Start>>
+2004.1166C
                                           
  
                             
@@ -433,8 +124,6 @@ Preliminary Recommendation: Approval with Conditions
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -443,8 +132,9 @@ Preliminary Recommendation: Approval with Conditions
 
            
  3.
-        
- 2004.0175
+<<Project End>>
+<<Project Start>>
+2004.0175
 D
 V
                                                     
@@ -493,8 +183,6 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the bui
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -502,8 +190,9 @@ Preliminary Recommendation: Do not take Discretionary Review and approve the bui
 
 
 4.
-        
- 2004.0303C
+<<Project End>>
+<<Project Start>>
+2004.0303C
                                                       
  
            
@@ -570,8 +259,6 @@ roposed for Continuance to October 6, 2005)
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -580,8 +267,9 @@ roposed for Continuance to October 6, 2005)
 
            
  5.
-        
- 2004.0392AC
+<<Project End>>
+<<Project Start>>
+2004.0392AC
 E
                                      
  
@@ -632,8 +320,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -667,8 +353,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -733,8 +417,6 @@ Re: Asked everyone to pray for and help all Katrina’s Survivors.
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -847,8 +529,6 @@ th
  We are going to continue to provide you with this kind of summary as we get the legislations.
  
  It will be a very brief outline of just the facts contained within without creating any policy issues.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -874,8 +554,6 @@ th
  Meeting Held.
  
  No Action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1011,8 +689,6 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1025,8 +701,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 13.
-       
- 2005.0197C 
+<<Project End>>
+<<Project Start>>
+2005.0197C 
                                          
  
                               
@@ -1090,16 +767,15 @@ MOTION:
  
   
  17091
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 2005.0529C
+<<Project End>>
+<<Project Start>>
+2005.0529C
                                                                            
  (M. SMITH:
  
@@ -1154,16 +830,15 @@ MOTION:
  
   
  17092
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-       
- 2005.0485C
+<<Project End>>
+<<Project Start>>
+2005.0485C
                                           
  
                               
@@ -1234,8 +909,9 @@ REGULAR CALENDAR
 
 
 16a.
-     
- 2004.1326A
+<<Project End>>
+<<Project Start>>
+2004.1326A
 C
 V
                                      
@@ -1406,8 +1082,9 @@ MOTION:
 
            
  16b.
-     
- 2004.1326
+<<Project End>>
+<<Project Start>>
+2004.1326
 A
 CV
      
@@ -1487,8 +1164,9 @@ MOTION:
 
            
  16c.
-     
- 2004.1326AC
+<<Project End>>
+<<Project Start>>
+2004.1326AC
 V
                                                                      
  (
@@ -1533,16 +1211,15 @@ Request for Floor Area Ratio (FAR), Bay Projection, and Parking Variances
  ACTION:
        
  Zoning Administrator closed public hearing and granted the variances subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-       
- 2004.0076C 
+<<Project End>>
+<<Project Start>>
+2004.0076C 
                                                      
  
                            
@@ -1875,13 +1552,12 @@ MOTION:
  
   
  17096
-<<Project End>>
-<<Project Start>>
 
 
 18.
-       
- 2004.1257C
+<<Project End>>
+<<Project Start>>
+2004.1257C
                               
  
                                                      
@@ -1970,16 +1646,15 @@ MOTION:
  
   
  17097
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-       
- 2005.0094C
+<<Project End>>
+<<Project Start>>
+2005.0094C
                                                       
  
                         
@@ -2052,8 +1727,6 @@ MOTION:
  
   
  17098
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2064,8 +1737,9 @@ MOTION:
 
            
  20.
-       
- 2004.0392A
+<<Project End>>
+<<Project Start>>
+2004.0392A
 C
 E
                                      
@@ -2168,8 +1842,9 @@ MOTION:
 
 
 21a.
-     
- 2004.1272
+<<Project End>>
+<<Project Start>>
+2004.1272
 D
 DV
                                                              
@@ -2450,8 +2125,9 @@ This project has a lot of merits.
 
            
  21b.
-     
- 2004.1272D
+<<Project End>>
+<<Project Start>>
+2004.1272D
 D
 V
                                                              
@@ -2517,8 +2193,9 @@ SPEAKERS:
 
            
  21c.
-     
- 2004.1272DD
+<<Project End>>
+<<Project Start>>
+2004.1272DD
 V
                                                  
  
@@ -2562,8 +2239,9 @@ ACTION:
 
 
 22a.
-     
- 2005.0071D
+<<Project End>>
+<<Project Start>>
+2005.0071D
                                                                              
  (T. WANG: (415) 558-6335)
 
@@ -2625,8 +2303,9 @@ Jeffrey Chang, representing Project Sponsor
 
 
 22b.
-     
- 2005.0072D
+<<Project End>>
+<<Project Start>>
+2005.0072D
                                                                             
  (T. WANG: (415) 558-6335)
 
@@ -2692,8 +2371,9 @@ Jeffrey Chang, representing Project Sponsor
 
 
 22c.
-     
- 2005.0073D
+<<Project End>>
+<<Project Start>>
+2005.0073D
                                                                               
  (T.WANG: (415) 558-6335)
 
@@ -2753,8 +2433,6 @@ Jeffrey Chang, representing Project Sponsor
  ABSENT:
          
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
                        
@@ -2764,8 +2442,9 @@ Jeffrey Chang, representing Project Sponsor
 
 
 23.
-       
- 2005.0091D
+<<Project End>>
+<<Project Start>>
+2005.0091D
                                           
  
           
@@ -2832,8 +2511,8 @@ Described the project and the reasons for it.
  
 24
 .
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0472D
                                                                   
  
@@ -3020,8 +2699,6 @@ ACTION:
  ABSENT:
          
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3030,8 +2707,8 @@ ACTION:
            
  
 25.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.1233D
                                                                   
  
@@ -3082,16 +2759,15 @@ SPEAKERS:
 
 6:00 P.M.
 8:10 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 26.
-     
- 2005.0524T
+<<Project End>>
+<<Project Start>>
+2005.0524T
                   
  
                                                         
@@ -3387,8 +3063,6 @@ The Brown Act forbids a commission from taking action or discussing any item not
 
 
 SPEAKERS:
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3400,8 +3074,6 @@ John Bardis
 
 
 Re: Application Permit Process.
-<<Project End>>
-<<Project Start>>
 
 
  

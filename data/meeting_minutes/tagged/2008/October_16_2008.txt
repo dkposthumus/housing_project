@@ -1,278 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 16, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ October 16, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-October 16, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 16, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Notice of Meeting
-
-
-&
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 16, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Aaron Hollister, Michael Smith, Corey Teague, Mark Luellen, Tara Sullivan-Lenane, AnMarie Rodgers, Jeremy Battis, Glenn Cabreros, Jonas Ionin, Brittany Bendix, Tim Frye, Adrian Putra, Shelley Perdue, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
- 
- 
- 
- 
-
-
- 
- 1a.
- 
- 2006.1294
+2006.1294
 B
 KMXZ
  
@@ -326,8 +53,9 @@ ABSENT:
 
  
  1b.
- 
- 2006.1294B
+<<Project End>>
+<<Project Start>>
+2006.1294B
 K
 MXZ
  
@@ -379,8 +107,9 @@ ABSENT:
 
  
  1c.
- 
- 2006.1294BK
+<<Project End>>
+<<Project Start>>
+2006.1294BK
 M
 XZ
  
@@ -432,8 +161,9 @@ ABSENT:
 
  
  1d.
- 
- 2006.1294BKM
+<<Project End>>
+<<Project Start>>
+2006.1294BKM
 X
 Z
  
@@ -485,8 +215,9 @@ ABSENT:
 
  
  1e.
- 
- 2006.1294BKMX
+<<Project End>>
+<<Project Start>>
+2006.1294BKMX
 Z
  
  
@@ -533,16 +264,15 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2008.0939
+<<Project End>>
+<<Project Start>>
+2008.0939
 Z
  
  
@@ -593,8 +323,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -651,8 +379,9 @@ ABSENT:
 
 
 4a.
- 
- 2008.0614D
+<<Project End>>
+<<Project Start>>
+2008.0614D
  
  
  
@@ -660,8 +389,9 @@ ABSENT:
  
  
 1a.
- 
- 2008.0614D
+<<Project End>>
+<<Project Start>>
+2008.0614D
  
  
  
@@ -728,8 +458,9 @@ ABSENT:
 
 
 4b.
- 
- 2007.0040
+<<Project End>>
+<<Project Start>>
+2007.0040
 D
 V
  
@@ -793,8 +524,9 @@ ABSENT:
 
 
 4c.
- 
- 2007.0040D
+<<Project End>>
+<<Project Start>>
+2007.0040D
 V
  
  
@@ -854,16 +586,15 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2008.0501DDD
+<<Project End>>
+<<Project Start>>
+2008.0501DDD
  
  
  
@@ -918,8 +649,9 @@ ABSENT:
 
 
 6a.
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
  
  
  
@@ -971,8 +703,9 @@ ABSENT:
 
 
 6b.
- 
- 2008.1155D
+<<Project End>>
+<<Project Start>>
+2008.1155D
  
  
  
@@ -1025,8 +758,9 @@ ABSENT:
 
  
  6c.
- 
- 2008.1156D
+<<Project End>>
+<<Project Start>>
+2008.1156D
  
  
  
@@ -1074,8 +808,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1172,16 +904,15 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.0432E 
+<<Project End>>
+<<Project Start>>
+2006.0432E 
  
  
  
@@ -1208,16 +939,15 @@ Preliminary Recommendation: Uphold Preliminary Mitigated Negative Declaration
 
  
  NOTE: On October 2, 2008 the Commission continued this item to November 6, 2008.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.0432CV
+<<Project End>>
+<<Project Start>>
+2006.0432CV
  
  
  
@@ -1241,8 +971,6 @@ Preliminary Recommendation: Approval with Conditions
 
  
  NOTE: On October 2, 2008 the Commission continued this item to November 6, 2008.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1321,8 +1049,6 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1388,16 +1114,15 @@ ABSENT:
 MOTION:
  
  17714
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.0965C
+<<Project End>>
+<<Project Start>>
+2008.0965C
  
  
  
@@ -1457,16 +1182,15 @@ ABSENT:
 MOTION:
  
  17715
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0816D
+<<Project End>>
+<<Project Start>>
+2007.0816D
  
  
  
@@ -1535,8 +1259,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1605,8 +1327,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1645,8 +1365,6 @@ Commissioner Antonini (with the support of President Olague) requested a hearing
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1655,8 +1373,6 @@ D.
 16.
  
  Director's Announcements
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1665,8 +1381,6 @@ D.
 17.
  
  Review of Past Week's Events at the Board of Supervisors and Board of Appeals
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1741,8 +1455,6 @@ David Villalobos
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1751,8 +1463,9 @@ REGULAR CALENDAR
 
 
 19.
- 
- 2008.1057T
+<<Project End>>
+<<Project Start>>
+2008.1057T
  
  
  
@@ -1820,16 +1533,15 @@ SPEAKER(S):
 ACTION:
  
  None – Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2008.0980T
+<<Project End>>
+<<Project Start>>
+2008.0980T
  
  
  
@@ -1873,16 +1585,14 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0441E
  
  
@@ -1933,16 +1643,15 @@ ABSENT:
 MOTION:
  
  17717
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2006.0441V
+<<Project End>>
+<<Project Start>>
+2006.0441V
  
  
  
@@ -1977,16 +1686,15 @@ ACTION:
  The Zoning Administrator closed the public hearing for now and continued the item indefinitely stating that he will re-notice the item when/if the DR comes before the commission.
  
  He further stated that he feels the variance is grantable but will take the matter under advisement.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2007.1397C
+<<Project End>>
+<<Project Start>>
+2007.1397C
  
  
  
@@ -2038,16 +1746,15 @@ ABSENT:
 MOTION:
  
  17718
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
- 
- 2007.0491C
+<<Project End>>
+<<Project Start>>
+2007.0491C
  
  
  
@@ -2181,8 +1888,9 @@ ABSENT:
 
 
 25b.
- 
- 2006.1485V
+<<Project End>>
+<<Project Start>>
+2006.1485V
  
  
  
@@ -2232,8 +1940,9 @@ NOTE:
 
 
 26a.
- 
- 2007.1399D      
+<<Project End>>
+<<Project Start>>
+2007.1399D      
  
  
  
@@ -2288,8 +1997,8 @@ DRA#:
 
 26b
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0716DD                                                                  (G. CABREROS: (415) 558-6169)
 
 
@@ -2341,8 +2050,8 @@ DRA#:
 
 27
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0847D
  
  
@@ -2386,8 +2095,6 @@ SPEAKER(S):
 ACTION:
  
  None – DR withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2395,8 +2102,9 @@ ACTION:
 
  
  28.
- 
- 2008.0099D
+<<Project End>>
+<<Project Start>>
+2008.0099D
  
  
  
@@ -2453,16 +2161,15 @@ ABSENT:
 DRA#:
  
  0027
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 29.
- 
- 2008.0644D
+<<Project End>>
+<<Project Start>>
+2008.0644D
  
  
  
@@ -2544,16 +2251,15 @@ AYES:
 ABSENT:
  
  Antonini and Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 30.
- 
- 2008.0881D and 2008.0941D
+<<Project End>>
+<<Project Start>>
+2008.0881D and 2008.0941D
  
  
  

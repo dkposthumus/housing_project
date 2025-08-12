@@ -1,338 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 4, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ June 4, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-June 4, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 4, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 4, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Olague and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- Moore
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1: P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Glenn Cabreros, Jonas Ionin, Christine Lamorena, Elizabeth Watty, Tara Sullivan, Steve Shotland, Mary Woods, Tom Wang, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
- 
- 
- 
-(R. DUDLEY: (415) 575-9068)
-
-
-JAPANTOWN BETTER NEIGHBORHOOD PLAN
- 
-- 
-Second of Two Informational Presentations on the Draft Japantown Better Neighborhood Plan.
- This two year community planning process has resulted in a draft plan that is seeking endorsement by the Commission on June 25
-th
-. The two informal presentations will be organized by topics. The first presentation provided an overview of the planning process and focused on the Draft Plan's recommendations for community and economic development and community heritage. The presentation on June 18
-th
- will focus on recommendations for land use, built form and public realm.
-
-
- 
- Preliminary Recommendation: No action required.
-
-
- 
- 
- 
- (Proposed for Continuance to June 18, 2009)
-
-
- 
-
-
-SPEAKERS:
- 
- None
-
-
-ACTION:
- 
- Continued as proposed
-
-
-AYES:
- 
- Miguel, Antonini, Lee, Olague and Sugaya
-
-
- 
- 
-ABSENT:
- 
- Borden and Moore
-
-
- 
-
-
-2a.
- 
- 
 2008.0788
 C
 V
@@ -389,8 +55,9 @@ ABSENT:
 
 
 2b.
- 
- 2008.0788C
+<<Project End>>
+<<Project Start>>
+2008.0788C
 V
  
  
@@ -440,16 +107,15 @@ AYES:
 ABSENT:
  
  Borden and Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2005.1106E
+<<Project End>>
+<<Project Start>>
+2005.1106E
  
  
  
@@ -496,16 +162,15 @@ AYES:
 ABSENT:
  
  Borden and Moore
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2008.1076C
+<<Project End>>
+<<Project Start>>
+2008.1076C
  
  
  
@@ -572,8 +237,9 @@ REGULAR CALENDAR
 
 
 5a.
- 
- 2007.0129DDD
+<<Project End>>
+<<Project Start>>
+2007.0129DDD
  
  
  
@@ -640,8 +306,9 @@ DRA:
 
 
 5b.
- 
- 2007.0129V                                               
+<<Project End>>
+<<Project Start>>
+2007.0129V                                               
  
     (G. CABREROS: (415) 558-6169)
 
@@ -681,8 +348,9 @@ ACTION:
 
 
 6a.
- 
- 2006.1431E
+<<Project End>>
+<<Project Start>>
+2006.1431E
 C
 V
  
@@ -752,8 +420,9 @@ ABSENT:
 
 
 6b.
- 
- 2006.1431EC
+<<Project End>>
+<<Project Start>>
+2006.1431EC
 V
  
  
@@ -788,16 +457,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the variances subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2009.0068C
+<<Project End>>
+<<Project Start>>
+2009.0068C
  
  
  
@@ -849,16 +517,15 @@ ABSENT:
  MOTION:
  
  17896
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2009.0273C
+<<Project End>>
+<<Project Start>>
+2009.0273C
  
  
  
@@ -908,16 +575,15 @@ ABSENT:
  MOTION:
  
  17897
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2008.0135
+<<Project End>>
+<<Project Start>>
+2008.0135
 U
  
  
@@ -971,8 +637,9 @@ ABSENT:
 
 
 10a.
- 
- 2007.0347E
+<<Project End>>
+<<Project Start>>
+2007.0347E
 M
 T
  
@@ -1032,8 +699,9 @@ ABSENT:
 
 
 10b.
- 
- 2007.0347EM
+<<Project End>>
+<<Project Start>>
+2007.0347EM
 T
  
  
@@ -1088,16 +756,15 @@ ABSENT:
  RESOLUTION:
  
  17899
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2008.1227D
+<<Project End>>
+<<Project Start>>
+2008.1227D
  
  
  
@@ -1147,16 +814,15 @@ ABSENT:
  DRA:
  
  0088
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.0285D
+<<Project End>>
+<<Project Start>>
+2008.0285D
  
  
  
@@ -1226,8 +892,6 @@ Adoption of Commission Minutes
 - Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1280,8 +944,6 @@ AYES:
 ABSENT:
  
  Borden, Miguel and Moore
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1369,8 +1031,6 @@ All of it.
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1408,8 +1068,6 @@ I granted a four month extension on a conditional use for 140 Ellis/317 Leavenwo
  I granted an additional four months to go through the process.
  
  I thought it was reasonable because they were pursuing the permit diligently through a city process.
-<<Project End>>
-<<Project Start>>
  
  
  
@@ -1562,8 +1220,6 @@ Japantown Better Neighborhoods Plan – The Historic Resource Survey component o
  Because we had lost our quorum, discussion on that item could not resume.
  
  Vice President Damkroger established a Committee of the Commission to hear this item on June 17.
-<<Project End>>
-<<Project Start>>
  
 
 

@@ -1,288 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ December 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-December 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 15, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Notice of Meeting
-
-
-&
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 15, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-     
- 
-Sue Lee;
- 
-Michael J. Antonini; Kevin Hughes; William L. Lee
-
-
- 
-
-
-COMMISSIONERS ABSENT:
-       
-  Dwight S. Alexander; Shelley Bradford-Bell; Christina Olague
-
-
- 
-
-
-THE MEEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT
- 
- 1:32 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator, Glen Cabreros, Michael Li, Jonathan Purvis, Joy Navarrete, Mathew Snyder, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-        
- 2005.0565C
+2005.0565C
                               
  
                                             
@@ -355,16 +72,15 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-        
- 2005.0751D
+<<Project End>>
+<<Project Start>>
+2005.0751D
                                                       
  
          
@@ -418,16 +134,15 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
- 2004.1160D
+<<Project End>>
+<<Project Start>>
+2004.1160D
                                                       
  
          
@@ -485,8 +200,9 @@ ABSENT:
 
 
 4a.
-       
- 2005.0480
+<<Project End>>
+<<Project Start>>
+2005.0480
 C
 V
                             
@@ -543,8 +259,9 @@ ABSENT:
 
            
  4b.
-       
- 2005.0480C
+<<Project End>>
+<<Project Start>>
+2005.0480C
 V
                             
  
@@ -596,9 +313,10 @@ ABSENT:
 
 
            
- 4c. 
-      
- 2005.0481
+ 4c.
+<<Project End>>
+<<Project Start>>
+2005.0481
 D
 V
     
@@ -657,9 +375,10 @@ ABSENT:
 
 
            
- 4d. 
-      
- 2005.0481D
+ 4d.
+<<Project End>>
+<<Project Start>>
+2005.0481D
 V
     
  
@@ -708,16 +427,15 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-        
- 2003.1108E 
+<<Project End>>
+<<Project Start>>
+2003.1108E 
                                                                  
  
         
@@ -778,16 +496,15 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-        
- 2005.0965C
+<<Project End>>
+<<Project Start>>
+2005.0965C
                                           
  
                             
@@ -836,16 +553,15 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-        
- 2005.0842D
+<<Project End>>
+<<Project Start>>
+2005.0842D
                                                                   
  
       
@@ -910,8 +626,9 @@ ABSENT:
 
            
  8a.
-       
- 2003.0295
+<<Project End>>
+<<Project Start>>
+2003.0295
 C
 DV
                          
@@ -977,8 +694,9 @@ ABSENT:
 
            
  8b.
-       
- 2003.0295C
+<<Project End>>
+<<Project Start>>
+2003.0295C
 D
 V
                          
@@ -1037,8 +755,9 @@ ABSENT:
 
            
  8c.
-       
- 2003.0295CD
+<<Project End>>
+<<Project Start>>
+2003.0295CD
 V
                                      
  
@@ -1097,8 +816,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1125,8 +842,6 @@ Gave the Commission a draft of the Commission Hearing Schedule for 2006 for cons
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1362,16 +1077,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-       
- 2005.0960C
+<<Project End>>
+<<Project Start>>
+2005.0960C
                                                                   
  
              
@@ -1466,8 +1180,9 @@ G.REGULAR CALENDAR
 
 
 13a.
-     
- 2005.0935
+<<Project End>>
+<<Project Start>>
+2005.0935
 T
 ZC
                                       
@@ -1593,8 +1308,9 @@ MOTION:
 
 
 13b.
-     
- 2005.0935T
+<<Project End>>
+<<Project Start>>
+2005.0935T
 Z
 C
                                                   
@@ -1653,8 +1369,9 @@ RESOLUTION:
 
 
 13c.
-     
- 2005.0935TZ
+<<Project End>>
+<<Project Start>>
+2005.0935TZ
 C
                                       
  
@@ -1706,16 +1423,15 @@ ABSENT:
 RESOLUTION:
               
  17163
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 2004.0027AC
+<<Project End>>
+<<Project Start>>
+2004.0027AC
 E
 K
                                    
@@ -1788,8 +1504,9 @@ MOTION:
 
 
 15a.
-     
- 2004.0027A
+<<Project End>>
+<<Project Start>>
+2004.0027A
 C
 EK
                                                
@@ -1900,8 +1617,9 @@ MOTION:
 
 
 15b.
-     
- 2004.0027
+<<Project End>>
+<<Project Start>>
+2004.0027
 A
 CEK
                                                
@@ -1962,8 +1680,9 @@ ABSENT:
 
 
 15c.
-     
- 2004.0027ACE
+<<Project End>>
+<<Project Start>>
+2004.0027ACE
 K
                                                
  
@@ -2022,16 +1741,15 @@ ABSENT:
 MOTION:
                       
  17166
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-       
- 2005.0991C
+<<Project End>>
+<<Project Start>>
+2005.0991C
                                                       
  
                 
@@ -2071,16 +1789,15 @@ AYES:
  ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-       
- 2005.0666D
+<<Project End>>
+<<Project Start>>
+2005.0666D
                                                       
  
                
@@ -2127,8 +1844,9 @@ AYES:
 
 
 18a.
-     
- 2004.0393
+<<Project End>>
+<<Project Start>>
+2004.0393
 C
 V
                                                     
@@ -2252,8 +1970,9 @@ MOTION:
 
 
 18b.
-     
- 2004.0393C
+<<Project End>>
+<<Project Start>>
+2004.0393C
 V
                                                     
  
@@ -2293,8 +2012,9 @@ ACTION:
 
 
 19a.
-     
- 2005.0620D
+<<Project End>>
+<<Project Start>>
+2005.0620D
       
  
  
@@ -2422,8 +2142,9 @@ RESULT:
 
 
 19b.
-     
- 2005.1112D
+<<Project End>>
+<<Project Start>>
+2005.1112D
                               
  
   
@@ -2477,8 +2198,9 @@ NAYES:
 
 
 20a.
-     
- 2005.0032
+<<Project End>>
+<<Project Start>>
+2005.0032
 D
 V
                                                     
@@ -2526,8 +2248,9 @@ ABSENT:
 
 
 20b.
-     
- 2005.0032D
+<<Project End>>
+<<Project Start>>
+2005.0032D
 V
                                                                 
  
@@ -2567,8 +2290,6 @@ AYES:
 ABSENT:
                      
  Alexander, Bradford Bell, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2580,8 +2301,8 @@ ABSENT:
            
  
 21.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.0884D
                                                       
  

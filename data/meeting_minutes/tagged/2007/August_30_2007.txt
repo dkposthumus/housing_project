@@ -1,283 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 30, 2007 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ August 30, 2007 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-August 30, 2007 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 30, 2007  Special Meeting
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Special Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 30, 2007
-
-
-1:00 PM
-
-
-Special Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:03 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris â Director of Planning, Larry Badiner â Zoning Administrator, Amit Ghosh â Chief Planner, Aaron Varat, Jonas Ionin, Ken Rich, Sarah Dennis, Nannie Turrell, Mathew Snyder, Linda Avery â Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2005.0490E
+2005.0490E
  
  
  
@@ -343,8 +65,6 @@ Adoption of Commission Minutes
 â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -404,8 +124,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -830,8 +548,6 @@ Commissioner Sugaya
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -843,8 +559,6 @@ C.
 
 
 NONE
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1268,16 +982,14 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  Item 6 was taken off consent and followed #7
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0534C
  
  
@@ -1388,8 +1100,6 @@ AYES:
 MOTION:
  
  17480
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1397,8 +1107,9 @@ MOTION:
 
  
  7.
- 
- 2007.0668C
+<<Project End>>
+<<Project Start>>
+2007.0668C
  
  
  
@@ -1463,8 +1174,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2235,8 +1944,6 @@ AYES:
 
 
 2:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2418,8 +2125,6 @@ Sue Hestor
 INFORMATIONAL ONLY.
  
  NO ACTION IS REQUIRED OF THE COMMISSION
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2917,16 +2622,15 @@ NAYES:
 RESOLUTION:
  
  17481
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0351E 
+<<Project End>>
+<<Project Start>>
+2005.0351E 
  
  
 (Tape IIIB)
@@ -3093,8 +2797,6 @@ AYES:
 MOTION:
  
  17482
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3102,8 +2804,8 @@ MOTION:
 
  
  12.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0297D 
  
  

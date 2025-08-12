@@ -1,400 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 15, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ March 15, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-March 15, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 15, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-President:  Rodney Fong
-
-
-Vice President:  Cindy Wu
-
-
-                        Commissioners: 
-Michael J. Antonini; Gwyneth Borden; Ron Miguel; Kathrin Moore; 
-
-
-Hisashi Sugaya
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:12 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez - Zoning Administrator, Sara Vellve, Brittany Bendix, Corey Teague, David Lindsay, Delvin Washington,  Linda Avery - Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.         2011.0605C                                                                                 
-(S. Lai: (415) 575-9087)
-
-
-2199 Market Street
- - east side between 15
-th
- and Sanchez Streets; Lot 036 in Assessor’s Block 3558 - 
-Request for Conditional Use Authorization
-, pursuant to Planning Code Sections 
-303(i) and 703.4 to convert a vacant commercial space into a formula retail use at the ground floor, (d.b.a. Verizon Wireless) within the Upper Market NCT (Neighborhood Commercial Transit) Zoning District and 50-X Height and Bulk District.
-
-
-Preliminary Recommendation:
-
-
-                        (Proposed for Continuance to April 5, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-2.         2011.0397T                                                                     
-(S. Hayward: (415) 558-6372)
-
-
-Amendments to Planning Code Sections 150, 155.1, 155.2, 155.3, 155.4, and 155.5
- –
- 
-Considering Amendments to the Planning Code to consolidate and clarify definitions, design standards, and requirements for bicycle parking; and adopt findings
- – including environmental findings, Planning Code Section 302 findings, and findings of consistency with the General Plan and the priority policies of Planning Code Section 101.
-
-
-Preliminary Recommendation:
-
-
-                        (Proposed for Continuance to April 5, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-3.         2011.1151D                                                                          (A. STARR: (415) 558-6362)
-
-
-640 HAYES STREET
- - north side between Laguna and Buchannan Streets; Lot 008 in Assessor’s Block 0806 - 
-Request for Discretionary Review
- of Building Permit Application No. 2010.12.08.6310, proposing to legalize a horizontal addition constructed without permit, and to add a new dwelling unit at the ground floor of the existing three-story, two-unit building within the RTO (Residential, Transit Oriented) Zoning District and 40-X Height and Bulk District.
-
-
-Staff Analysis:  Abbreviated Discretionary Review
-
-
-Preliminary Recommendation:  Do not take Discretionary Review and approve
-
-
-            (Continued from Regular Meeting of January 19, 2012)
-
-
-            
-(Proposed for Continuance to April 12, 2012)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:             Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-4.         
 2011.1143D                                                                          (A. STARR: (415) 558-6362)
 
 
@@ -427,14 +31,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2012.0080C
                                                                            
 (S. Young: (415) 558-6346)
@@ -472,8 +76,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -577,8 +179,6 @@ Commissioner Sugaya
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -602,8 +202,6 @@ Commissioner Antonini mentioned The Examiner’s article about the legitimizatio
 
 
 I actually do not have any other announcements today, unless you have questions.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -737,15 +335,15 @@ SPEAKERS:     Linda Chapman
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2011.0802C
                                                                         
 (S. Vellve:  (415) 558-6263)
@@ -775,14 +373,14 @@ AYES:             Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
 
             MOTION:           
 18557
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2011.1304C 
                                                                           (B. BENDIX:  (415) 575-9114) 
 
@@ -820,14 +418,14 @@ NAYES:            Moore, Sugaya, Wu
 
             MOTION:           
 18558
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2012.0014B
                                                                         
 (C. Teague: (415) 575-9081)
@@ -862,14 +460,14 @@ RECUSED:       Sugaya
 
             MOTION:           
 18559
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2011.1204D
                                                                   (G. CABREROS: (415) 558-6169)
 
@@ -900,14 +498,14 @@ AYES:             Fong, Wu, Antonini, Borden, Miguel, Moore, Sugaya
 
             DRA #:             
 0265
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2011.1337D
                                                                          (A. PUTRA: (415) 575-9079)
 

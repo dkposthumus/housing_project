@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 24, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ May 24, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-May 24, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 24, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 24, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee and Moore
-
-
-COMMISSIONER ABSENT:
- 
- Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:30 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Sophie Middlebrook, Aaron Starr, Viktoriya Wise, Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
- 
- 1a.
- 
- 2005.0633DDDD
+2005.0633DDDD
  
  
  
@@ -335,8 +58,9 @@ ABSENT:
  
  
 1b.
- 
- 2005.0633V
+<<Project End>>
+<<Project Start>>
+2005.0633V
  
  
  
@@ -391,8 +115,9 @@ ABSENT:
 
 
 2a.
- 
- 2006.1414C
+<<Project End>>
+<<Project Start>>
+2006.1414C
  
  
  
@@ -451,8 +176,9 @@ ABSENT:
 
 
 2b.
- 
- 2006.0741C
+<<Project End>>
+<<Project Start>>
+2006.0741C
  
  
  
@@ -513,8 +239,9 @@ ABSENT:
 
 
 2c.
- 
- 2004.0890
+<<Project End>>
+<<Project Start>>
+2004.0890
 C
 V 
  
@@ -570,8 +297,9 @@ ABSENT:
 
 
 2d.
- 
- 2004.0890C
+<<Project End>>
+<<Project Start>>
+2004.0890C
 V
  
  
@@ -624,8 +352,9 @@ ABSENT:
 
 
 3a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -678,8 +407,9 @@ ABSENT:
 
 
 3b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -730,16 +460,15 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.1303C
+<<Project End>>
+<<Project Start>>
+2006.1303C
  
  
  
@@ -798,8 +527,9 @@ ABSENT:
 
  
  5a.
- 
- 2005.0930
+<<Project End>>
+<<Project Start>>
+2005.0930
 D
 V
  
@@ -851,8 +581,9 @@ ABSENT:
 
  
  5b.
- 
- 2005.0930D
+<<Project End>>
+<<Project Start>>
+2005.0930D
 V
  
  (M. LI: (415) 558-6396)
@@ -913,8 +644,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -958,8 +687,6 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1488,8 +1215,6 @@ However, legislator may insert an effective clause into an ordinance [grandfathe
 
 
 I will follow up on the Rincon Hill and Visitacion Valley.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1620,8 +1345,6 @@ ABSENT:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1644,13 +1367,9 @@ Mr. Badiner, Zoning Administrator:
 -Multiple staff need to work together.
  
  Jonas Ionin from Planning is working on two issues:
-<<Project End>>
-<<Project Start>>
 
 
 1. Pre-applications: what and when do we involve DBI and the Fire Marshall?
-<<Project End>>
-<<Project Start>>
 
 
 2. Once permit is submitted, how do we get DBI and the Fire Marshall involved prior to sending out the 311 notices?
@@ -1702,8 +1421,6 @@ Passed to Board of Supervisors
 
 
 Board of Supervisors
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -1713,8 +1430,6 @@ Board of Supervisors
 
  
  Without hearing, continued to June 12.
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1913,8 +1628,6 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1922,8 +1635,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  11.
- 
- 2006.1182Q
+<<Project End>>
+<<Project Start>>
+2006.1182Q
  
  
 (Tape IB)
@@ -1987,8 +1701,6 @@ MOTION:
 
 
 F.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1997,8 +1709,9 @@ F.REGULAR CALENDAR
 
 
 12.
- 
- 2006.0208C
+<<Project End>>
+<<Project Start>>
+2006.0208C
  
  (Tape IB)
  
@@ -2080,16 +1793,15 @@ ABSENT:
 MOTION:
  
  17433
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.1396D
+<<Project End>>
+<<Project Start>>
+2006.1396D
  
  
 (Tape IB)
@@ -2249,8 +1961,8 @@ ABSENT:
  
 14
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0557E
  
  

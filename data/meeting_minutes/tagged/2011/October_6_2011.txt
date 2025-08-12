@@ -1,303 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 6, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ October 6, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-October 6, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 6, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:10
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Sharon Young, Rich Sucre, Brittany Bendix, Aaron Starr, Jessica Range, Kimberly Durandet, Pilar LaValley, Glenn Cabreros, Thomas Wang, Michael Smith, and Jonas Ionin – Acting Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-            1.         2009.0156E                                                                         (J. BATTIS: (415) 575-9022)  
-
-
-89 BELGRAVE
- 
-- south side between Stanyan and Shrader Streets; Lot 072 of Assessor’s Block 2688 - 
-Appeal of Preliminary Mitigated Negative Declaration
- for the proposed project entailing 
-1) subdivision of an existing 7,500-square foot parcel into two lots, resulting in an approximately 4,200-sq ft lot with 42 feet of frontage along Belgrave Avenue containing an existing single-family residence, and a second undeveloped approximately 3,300-sq ft parcel with 33 feet of frontage along Belgrave Avenue to the west of the existing building; 2) enlarging an existing 2,270-sq ft residence by approximately 2,000 sq ft, resulting in an approximately 4,210-sq ft, approximately 37-foot-high building with two off-street parking spaces; and 3) construction of a new approximately 3,971-sq ft, 37-foot-high three-story-over two-car garage single-family residence. The project site is located within an RH-1(D) (Residential House, One-Family (Detached Dwelling)) District and a 
-40-X 
-Height and Bulk District in the Haight-Ashbury neighborhood. The proposed project would require a variance from the minimum lot area requirements.
-
-
-                        
-(Proposed for Continuance to November 17, 2011)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed
-
-
-AYES:              
-Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
- 
-
-
-2a
-.        
 2010.0959CV 
                                                                     (D. SANCHEZ: (415) 575-9082)
 
@@ -334,7 +35,9 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
  
 
 
-2b.       
+2b.
+<<Project End>>
+<<Project Start>>
 2010.0959CV
                                                                      (D. SANCHEZ: (415) 575-9082)
 
@@ -364,8 +67,6 @@ ACTION:           Continued as proposed
 
 AYES:              
 Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -402,14 +103,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-4.         
+4.
+<<Project End>>
+<<Project Start>>
 2011.0591Q
                                                                   (C. LAMORENA: (415) 575-9085)
 
@@ -436,14 +137,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18457
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.0539C 
                                                                          
 (
@@ -475,14 +176,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18454
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            6.         
+            6.
+<<Project End>>
+<<Project Start>>
 2011.0307C
                                                                         
  
@@ -521,15 +222,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18455
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-         
+<<Project End>>
+<<Project Start>>
 2011.0571C
                                                                           
 (B. Bendix:  (415) 575-9114)
@@ -581,8 +281,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -637,8 +335,6 @@ ACTION:           Approved as corrected
 
 AYES:              
 Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -731,8 +427,6 @@ We did have a request to hear an item that we always have scheduled for the end 
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -759,9 +453,7 @@ On a more positive note, I would like to let you know that the Small Business Co
 
 I just wanted to mention that I met with the new Director of Engineering at the VA Hospital. 
 
-        Finally, after a while of trying to somehow connect with them, we had a very productive discussion about their plans and we understand that they will be considering a lot of new options in the Master Plan. That was very good to hear. We agreed to have regular meetings and ongoing discussions on that, even though technically we do not have entitlement power over them.  It is a Federal Agency, but it was important for us to have that discussion.
-<<Project End>>
-<<Project Start>>
+        Finally, after a while of trying to somehow connect with them, we had a very productive discussion about their plans and we understand that they will be considering a lot of new options in the Master Plan. That was very good to hear. We agreed to have regular meetings and ongoing discussions on that, even though technically we do not have entitlement power over them.  It is a Federal Agency, but it was important for us to have that discussion. 
 
 
  
@@ -930,16 +622,15 @@ Re: question about item number four.
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
 12.
-        
+<<Project End>>
+<<Project Start>>
 2011.0172T
                                                                          (A. STARR: (415) 558-6362)
 
@@ -968,14 +659,14 @@ ACTION:           Without a hearing, continued to 11/17/11.
 
 AYES:              
 Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2005.1912E
                                                                            (J. Range: (415) 575-9018)
 
@@ -1000,15 +691,15 @@ SPEAKERS:     Linda Chapman, Renee Pittin, Bo Links, Linda Shaffer, Sarah Ba
 
 
 ACTION:           Public Hearing on Draft EIR – No action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
             
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2011.0294C
                                                                         
 (B. Bendix:  (415) 575-9114)
@@ -1046,14 +737,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 MOTION:           
 18458
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2008.1395X
                                                                  (K. DURANDET:  (415) 575-6816)
 
@@ -1098,7 +789,9 @@ MOTION:          
  
 
 
-16a.      
+16a.
+<<Project End>>
+<<Project Start>>
 2011.0567XV
                                                                 (
 P. LaValley
@@ -1134,7 +827,9 @@ MOTION:          
  
 
 
-16b.      
+16b.
+<<Project End>>
+<<Project Start>>
 2011.0567XV
                                                                 
 (P. LaValley
@@ -1148,14 +843,14 @@ Request for three year time extension of Variances
 
 
 ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND GRANTED THE EXTENSION.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2010.0394D
                                                                  (G. CABREROS: (415) 558-6169)
 
@@ -1187,14 +882,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0229
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.        
+18.
+<<Project End>>
+<<Project Start>>
 2011.0547D
                                                                           (T. WANG: (415) 558-6335)
 
@@ -1230,14 +925,14 @@ Olague, Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 DRA:                
 0230
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.        
+19.
+<<Project End>>
+<<Project Start>>
 2011.0254D
                                                                         (M. SMITH: (415) 558-6322)
 

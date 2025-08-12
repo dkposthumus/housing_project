@@ -1,223 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2002
-
-
-/ March 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-March 21, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 21, 2002
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, March 21, 2002
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
-ABSENT:          
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 1:40 p.m.
-STAFF IN ATTENDANCE:  Larry Badiner -Zoning Administrator/Acting Director; Pete Vollman; Adam Light; Mary Woods; Geoffrey Nelson; Dan DiBartolo; Dan Sider; Jonathan Purvis; John Billovits; Dario Jones; Rick Crawford; Michael Smith; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-          1.          2002.0067D          (V. MASSEHIAN: 415-558-6363)
+1.          2002.0067D          (V. MASSEHIAN: 415-558-6363)
                     650A 45TH AVENUE - east side between Balboa Street and Anza Street, Lot 030A in Assessor’s Block 1587 - Request for Discretionary Review of Building Permit Application No. 2001/12/06/4728 proposing to build a two-story addition to the existing one-story, single-family dwelling in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as submitted.
                     DISCRETIONARY REVIEW HAS BEEN WITHDRAWN
@@ -238,13 +20,13 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theohari
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          3.          Consideration of Adoption - draft minutes of March 7, 2002.  
+3.          Consideration of Adoption - draft minutes of March 7, 2002.  
 SPEAKER(S):          None
 ACTION:          Approved
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 <<Project End>>
 <<Project Start>>
-          4.          Commission Matters
+4.          Commission Matters
 Commission Secretary:  Reminded the Commissioners to turn in their Conflict of Interest forms before April 1, 2002.
 Commissioner Salinas:  Last week he was taken back by the fact that the Commission did not have demo and soundness reports.  He would just like to clarify to project sponsors and their representatives that this is very important.  His comments were not directed at planning staff.
 Commissioner Theoharis:
@@ -253,11 +35,11 @@ She would like clarification regarding the Leno legislation regarding inclusiona
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          5.          Director's Announcements
+5.          Director's Announcements
 Larry Badiner, Acting Director, thanked Commissioner Salinas for his comments and for the clarification.
 <<Project End>>
 <<Project Start>>
-          6.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+6.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS
 Transportation and Land Use Committee
 1) Re:  Interim Zoning 
@@ -276,7 +58,7 @@ Board of Supervisors Meeting
 BOA - None
 <<Project End>>
 <<Project Start>>
-          7.          2002.0132I          (P. VOLLMANN: 415-558-6405)
+7.          2002.0132I          (P. VOLLMANN: 415-558-6405)
                     415 JACKSON STREET (a.k.a. 407 JACKSON STREET) - south side between Sansome and Montgomery Streets - Lot 022 in Assessor’s Block 0196.  Request for notification to the Planning Commission from the Zoning Administrator pursuant to Planning Code Section 304.5, regarding an abbreviated institutional master plan for an 8,500 square foot post-secondary advertising school (Miami Ad School) occupying the existing basement.  The site is located in a C-2 Zone, a 65-A height and bulk district, and the Washington-Broadway-1 Special Use District. The Commission may or may not opt to hold a future public hearing, for the receipt of public testimony only.
 SPEAKER(S):          None
 ACTION:          The Commission opted not to hold a public hearing.
@@ -286,7 +68,7 @@ SPEAKER(S):          None
 E.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          8.          2002.0113L          (A. LIGHT:  415-558-6254)
+8.          2002.0113L          (A. LIGHT:  415-558-6254)
                               1-33 COLUMBUS AVENUE (A.K.A. 612-624 WASHINGTON STREET) - Drexler Building/Colombo Building, northwest corner of Columbus Avenue and Washington Street.  Assessor’s Block 195, Lot 4. Request for Planning Commission approval on the proposed landmark designation, which was initiated by the Board of Supervisors on January 28, 2002. The two-story, concrete and marble, classical revival, retail and office building was constructed in 1913.  The subject property is zoned CCB (Chinatown Community Business) District and is in a 65-D/2 Height and Bulk District.  
                     Preliminary Recommendation:  Approval
 ACTION:          Motion to excuse Commissioner Lim
@@ -301,7 +83,7 @@ EXCUSED:          Lim
 MOTION:          16363
 <<Project End>>
 <<Project Start>>
-          9.          2001.0015Z          (M. WOODS: 415-558-6315)
+9.          2001.0015Z          (M. WOODS: 415-558-6315)
                     1052 OAK STREET - north side between Divisadero and Scott Streets, Lot 5 in Assessor's Block 1216 - Request for reclassification of a portion (approximately 3,136 square feet) of Lot 5 (a part of the Touchless Car Wash site) from NC-2 (Small-Scale Neighborhood Commercial) District to RH-3 (Residential, House, Three-Family) District.  Currently, the entire lot area, approximately 4,199 square feet, of Lot 5 is zoned NC-2.  This reclassification is to allow the construction of three new residential units in accordance with Planning Commission Motion No. 16036 relating to a conditional use authorization approved on November 16, 2000 to expand the car wash.
                     Preliminary Recommendation: Adoption of the Draft Resolution for Reclassification.
                     (Continued from Regular Meeting of January 17, 2002)
@@ -320,7 +102,7 @@ ACTION:          Without hearing on the case, continued to April 4, 20
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 <<Project End>>
 <<Project Start>>
-          10.          2001.1169C          (G.NELSON: 415-558-6257)
+10.          2001.1169C          (G.NELSON: 415-558-6257)
                     1101-1123 FILLMORE STREET -  at the northwest corner of Fillmore Street and Golden Gate Avenue; Lot 002 in Assessor’s Block 0755 -  Request for Conditional Use authorization under Section 712.83 of the Planning Code to mount a total of three panel antennas on the roof of a 49-foot tall, five-story apartment building, within a Moderate Scale Neighborhood Commercial (NC-3) Zoning District and a 50-X Height and Bulk District.  The project site is a Preferred Location Preference 2 per the City & County of San Francisco’s Wireless Telecommunications Services (WTS) Facilities Siting Guidelines, as it is a co-location site.  The project site is currently occupied by a Sprint PCS installation.  The proposed site would be operated as part of MetroPCS’ wireless telecommunications network.
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -333,7 +115,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theohari
 MOTION:          16364
 <<Project End>>
 <<Project Start>>
-          11.          2002.0068C          (D. DIBARTOLO: 415-558-6291)
+11.          2002.0068C          (D. DIBARTOLO: 415-558-6291)
                     965 SUTTER STREET -  Between Hyde and Leavenworth Streets; Lot 022 in Assessor’s Block 0300 - Request for Conditional Use Authorization pursuant to Section 209.6(b) of the Planning Code to install a total of six panel antennas at the roof, and associated equipment cabinets within the basement, of the 80-foot tall mixed-use structure. Each panel antenna would measure approximately 52 inches high by 6 inches wide by 2 inches deep, and would be mounted on the existing 98" tall penthouse and will be painted to match its color. Two antennas each would be mounted on the east, west and south faces of the existing rooftop penthouse, not extending above the height of the penthouse. The associated equipment cabinets would be located within the basement and a small accessory antenna for the reception of GPS data would be mounted on the roof, all as part of the Metro PCS wireless network.  The site is a Preference 5 location under the WTS Guidelines. 
                     Preliminary Recommendation: approval with conditions
 SPEAKER(S):
@@ -418,7 +200,7 @@ ACTION:          Without hearing, continued to April 25, 2002
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 <<Project End>>
 <<Project Start>>
-          14.                    (J. BILLOVITS: 415-558-6390)
+14.                    (J. BILLOVITS: 415-558-6390)
                     MARKET AND OCTAVIA BETTER NEIGHBORHOODS PLAN - Informational Presentation.
 SPEAKER(S):          None
 ACTION:          Informational presentation only.
@@ -426,7 +208,7 @@ F.          DISCRETIONARY REVIEW HEARING
 At Approximately 4:30 PM the Planning Commission convened into a Discretionary Review (DR) Hearing.
 <<Project End>>
 <<Project Start>>
-          15.          2001.0908DDDDDDD          (F. JONES: 415-558-6477)
+15.          2001.0908DDDDDDD          (F. JONES: 415-558-6477)
                     166-168 YERBA BUENA AVENUE - west side between Maywood Drive and Santa Paula Avenue, Lot 036 and Lot 037 in Assessor’s Block 3078 - Requests for Discretionary Review of Building Permit Application Nos. 2001/07/24/4359 and 2001/07/24/4356, proposing for each permit the new construction of a two-story, single-family dwelling on two adjacent interior vacant lots in an RH-1(D) (Residential, House, One-Family, Detached) District and a 40-X Height District.
                     Preliminary Recommendation: Do not take Discretionary Review and approve as revised. 
 SPEAKER(S):
@@ -483,7 +265,7 @@ AYES:          Baltimore, Lim, Fay, Salinas
 NAYES:          Theoharis, Joe, Chinchilla
 <<Project End>>
 <<Project Start>>
-          16.          2001.527D          (R. CRAWFORD: 415-558-6358)
+16.          2001.527D          (R. CRAWFORD: 415-558-6358)
                     115 ELLINGTON AVENUE - southeast side between Mt Vernon and Ottawa Avenues.  Assessor’s Block 7043 Lot 003F - Request for Discretionary Review of Building Permit Application 2000/12/18/8198 proposing a one story vertical addition and a 12 foot horizontal addition at the rear of a single family dwelling in an RH-1, (Residential House, One Family) district and a 40-X Height and Bulk district.  
                     Preliminary Recommendation: Take Discretionary Review and modify the Project.
 SPEAKER(S):          None
@@ -491,7 +273,7 @@ ACTION:          Without hearing, continued to April 4, 2002
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Salinas, Theoharis
 <<Project End>>
 <<Project Start>>
-          17.          2001.1175DDD          (M. SMITH: 415-558-6422)
+17.          2001.1175DDD          (M. SMITH: 415-558-6422)
                     630 28TH AVENUE STREET-  north side of the street between Douglass and Diamond Streets, Lot 004A in Assessors Block 6605, request for Discretionary Review of Building Permit Application No. 2001/10/31/2129, proposing to construct a three-story rear horizontal addition on an existing two-story single-family house, located in a RH-1 (Residential, House, One-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and modify the Project.
 SPEAKER(S):          None

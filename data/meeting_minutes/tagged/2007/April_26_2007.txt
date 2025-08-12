@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ April 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-April 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 26, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 26, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, AnMarie Rodgers, Michael Smith, Sharon Young, Kate Conner, Sophie Middlebrook, Ken Rich, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.0156C
+2005.0156C
  
  
  
@@ -335,16 +54,15 @@ AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
 .
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0074TZ
+<<Project End>>
+<<Project Start>>
+2006.0074TZ
  
  
  
@@ -385,8 +103,8 @@ Preliminary Recommendation:
 
 
 B)
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074T – Initiation of a Planning Code Text Amendment
 .
  
@@ -404,9 +122,9 @@ Preliminary Recommendation:
  
 
 
-C) 
- 
- 
+C)
+<<Project End>>
+<<Project Start>>
 2006.0074Z – Initiation of a Zoning Map Amendment
 .
  
@@ -476,16 +194,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0447C
+<<Project End>>
+<<Project Start>>
+2006.0447C
  
  
  
@@ -531,8 +248,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -540,8 +255,9 @@ AYES:
 
  
  4.
- 
- 2007.0115D
+<<Project End>>
+<<Project Start>>
+2007.0115D
  
  
  
@@ -583,16 +299,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.0193D
+<<Project End>>
+<<Project Start>>
+2007.0193D
  
  
  
@@ -666,8 +381,6 @@ B.
 COMMISSIONERS' QUESTIONS AND MATTERS
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -954,8 +667,6 @@ Commissioner Olague
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -967,8 +678,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1210,8 +919,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 9a.
- 
- 2005.1062
+<<Project End>>
+<<Project Start>>
+2005.1062
 B
 V
  
@@ -1294,8 +1004,8 @@ AYES:
 
  
  9b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1062B
 V
  
@@ -1338,16 +1048,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.0198C
+<<Project End>>
+<<Project Start>>
+2007.0198C
  
  
 (Tape IA)
@@ -1409,8 +1118,6 @@ MOTION:
 
 
 F.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1419,8 +1126,9 @@ F.REGULAR CALENDAR
 
 
 11.
- 
- 2006.1095C 
+<<Project End>>
+<<Project Start>>
+2006.1095C 
  
  
 (Tape IB)
@@ -1639,16 +1347,15 @@ AYES:
 MOTION:
  
  17422
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0126C
+<<Project End>>
+<<Project Start>>
+2007.0126C
  
  
 (Tape IB; IIA)
@@ -1735,8 +1442,6 @@ AYES:
 MOTION:
  
  17423
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1745,8 +1450,8 @@ MOTION:
  
  
 13.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1502C
  
  (Tape IIA)
@@ -1823,8 +1528,6 @@ AYES:
 MOTION:
  
  17424
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1833,8 +1536,9 @@ MOTION:
  
  
 14.
- 
- 2007.0125D
+<<Project End>>
+<<Project Start>>
+2007.0125D
  
  
 (Tape IIA)
@@ -1945,16 +1649,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2007.0125D
+<<Project End>>
+<<Project Start>>
+2007.0125D
  
  
  
@@ -1991,8 +1694,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2000,8 +1701,8 @@ AYES:
 
  
  16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.1488DDDD 
  
  
@@ -2386,8 +2087,6 @@ NAYES:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  

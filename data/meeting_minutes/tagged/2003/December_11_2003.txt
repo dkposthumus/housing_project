@@ -1,242 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ December 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-December 11, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 11, 2003
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 11, 2003
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:45 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Jim Nixon - Acting Zoning Administrator; Sara Vellve; Kate McGee; Elaine Tope; Dan DiBartolo; Glen Cabreros; Jonathan Purvis; Kelley Amdur; Craig Nikitas; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
- 
-
-
 1. 2002.0376E (N. TURRELL: (415) 558-5904)
 
 
@@ -259,8 +21,6 @@ ACTION: Without hearing, item continued to February 5, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0106D (M. WOODS: (415) 558-6315)
 
 
@@ -285,8 +45,6 @@ ACTION: Without hearing, item continued to February 12, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0183D (G. NELSON: (415) 558-6257)
 
 
@@ -370,8 +128,6 @@ ACTION: Without hearing, item continued to January 22, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.1012D (D. JONES: (415) 558-6477)
 
 
@@ -403,8 +159,6 @@ B. COMMISSIONERS' QUESTIONS AND MATTERS
 Item 6 was taken out of order and immediately followed Roll Call:
 <<Project End>>
 <<Project Start>>
-
-
 6.
  EXECUTIVE SESSION RESULTS
 
@@ -427,8 +181,6 @@ ACTION: Commission moved to not disclose information relative to the Executive S
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 7. Consideration of Adoption - Draft Minutes of November 6, 2003.
 
 
@@ -447,8 +199,6 @@ AYES: Antonini, Feldstein, Hughes, S. Lee
 EXCUSED: Bradford Bell, Boyd, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 8. Commission Comments/Questions
 
 
@@ -482,8 +232,6 @@ Re:  Entertainment Commission
 - He requested that the Planning Department work with the Entertainment Commission regarding rules and regulations that would affect any type of entertainment permits that the Entertainment Commission staff would approve.
 <<Project End>>
 <<Project Start>>
-
-
 9.  
 ALTERNATING CASE TYPES
  - In September, 2003, the Commission instituted a policy, on a trial basis, to alter how project types were to be scheduled on their public hearing calendars.  At that time, it was felt that with all case types on the same calendar, some were being heard consistently while others  were being continued consistently.  In an attempt to address this, it was established that case types would be alternated with Discretionary Review (DR) cases scheduled on one hearing day and other non DR cases on an alternate hearing day.  
@@ -553,8 +301,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 10. Director's Announcements
 
 
@@ -606,8 +352,6 @@ Re:  Workforce Housing
 - It also includes two million dollars for the Department to do environmental review and long range planning to implement this.  It does not broaden staff for neighborhood planning to expedite the permits that come in.  If this passes, staff will be looking to the Board of Supervisors to implement this in a timely manner.
 <<Project End>>
 <<Project Start>>
-
-
 11. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -671,8 +415,6 @@ None
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0444D (S. VELLVE: (415) 558-6263)
 
 
@@ -744,8 +486,6 @@ NAYES: Antonini and Hughes
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0931D (K. MCGEE; (415) 558-6367)
 
 
@@ -777,8 +517,6 @@ ABSENT: Feldstein
 This item was taken out of order and followed item 11.
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0901D (E. TOPE: (415) 558-6316)
 
 
@@ -813,8 +551,6 @@ ACTION: Did not take Discretionary Review and approved the merger.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 15. 2003.0905D (E. TOPE: (415) 558-6316)
 
 
@@ -846,8 +582,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 NAYES: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0872D (D. DIBARTOLO: (415 558-6291)
 
 
@@ -867,8 +601,6 @@ ACTION: Without hearing, item continued to January 22, 2004
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.1093D (G. CABREROS: (415) 558-6169)
 
 
@@ -921,8 +653,6 @@ AYES: Antonini, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 NAYES: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.0893D (G. CABREROS: (415) 558-6169)
 
 
@@ -1011,8 +741,6 @@ ACTION: Did not take Discretionary Review and approved the project.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 19. 2003.0736D (J. PURVIS: (415) 558-6354)
 
 
@@ -1029,8 +757,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review Withdrawn.
 <<Project End>>
 <<Project Start>>
-
-
 20. 2003.0620D (J. PURVIS: (415) 558-6354)
 
 
@@ -1063,8 +789,6 @@ ACTION: Did not take Discretionary Review and approved the demolition.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 21. 2003.1078D (K. AMDUR: (415) 558-6351)
 
 
@@ -1117,8 +841,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, S. Lee, W. Lee
 NAYES: Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 22. 2003.1167D (M. SMITH: (415) 558-6322)
 
 
@@ -1135,8 +857,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review Withdrawn.
 <<Project End>>
 <<Project Start>>
-
-
 23. 2003.1168D (M. SMITH: (415) 558-6322)
 
 
@@ -1156,8 +876,6 @@ ACTION: Discretionary Review Withdrawn.
 6:00 p.m.
 <<Project End>>
 <<Project Start>>
-
-
 24.  (C. NIKITAS; (415) 558-6306)
 
 
@@ -1253,27 +971,19 @@ Sue Hestor
 ACTION: Approved as Corrected and Amended:
 <<Project End>>
 <<Project Start>>
-
-
 1. On Page 2 of the case report, under SCOPE OF THE POLICY, delete the word 
 EXACTLY
  in the description of projects to be exempted from the mandatory DR policy. They are: structures determined to be public hazards or structures damaged beyond feasible repair by fire, earthquake, or other act of God to be demolished and replaced exactly in kind, and recommended for demolition by the Director of the Department of Building Inspection.
 .
 <<Project End>>
 <<Project Start>>
-
-
 2. Please note that Recommendation #2, page 3, regarding fee recovery has been revised to reflect hourly rates provided by Administration staff to reflect current costs to the Department. Note that the proposal allows 20 hours of staff time, including the initial filing fee, to be allocated to a project, without further notification of the applicant, for a total allowed billable cost of $1823.40.
 <<Project End>>
 <<Project Start>>
-
-
 3. In Recommendation #8, page 5, add "Contraction Cost Estimators" to the list of professionals allowed to author soundness reports. Also change the last sentence to read "
 . If the Commission rejects a Soundness Report, the Commission may require that any subsequent report for the project submitted to the Department be prepared by a new author meeting the requirements described above, not the original author."
 <<Project End>>
 <<Project Start>>
-
-
 4. Alter Recommendation #13, at the top of page 7, to read  " ... submit a 
 COMPLETED 
 supplemental information form 
@@ -1281,25 +991,16 @@ PROVIDED
  (RATHER THAN prepared) by the Department .."
 <<Project End>>
 <<Project Start>>
-
-
 5. Change  Recommendation #16 to read  "
 After an existing building is demolished, the replacement structure is built on what is briefly an infill lot. The Commission shall assess underlying zoning, neighborhood character, and surrounding unit density to encourage appropriate in-fill housing on sites in established neighborhoods, and to promote the construction of well-designed housing that preserves or enhances existing neighborhood character in conformity with the General Plan and the Residential Design Guidelines, where applicable. Therefore, the Discretionary Review of projects subject to this policy shall be advertised and noticed to include the permit application for the replacement structure, for the purpose of evaluating compliance of the project with Criteria 14 through 16. "
 <<Project End>>
 <<Project Start>>
- 
-
-
 6. On Exhibit 2, the proposed Demolition Application Form. delete the word "exactly" in the description of buildings replaced in kind following a disaster. Also, please change the word "units" in Criterion 9 , to read, How many bedrooms are subject to rent control?" On page two of the form, the next to last paragraph needs to be revised to reflect the current hourly costs  and staff hours for fee recovery, as described earlier.
 <<Project End>>
 <<Project Start>>
-
-
 7. On Exhibit 3, the Criteria Checklist, on Item 1, the last sentence of the first paragraph should read: If so, a hearing is not required , then add the words UNDER THIS POLICY.
 <<Project End>>
 <<Project Start>>
-
-
 8. Split criterion 16 into a & b, to read, does the project increase the number of housing units?, and Does the project increase the number of bedrooms on site? 
 
 

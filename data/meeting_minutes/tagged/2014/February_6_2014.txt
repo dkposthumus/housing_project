@@ -1,302 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ February 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-February 6, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, February 6, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Borden, Hillis, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:
-     
-Antonini
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 09 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Steve Wertheim, Casey Noel, Tina Chang, Keith DeMartini, Susan Gygi, Elizabeth Watty, Kanishka Burns, Kate Conner, 
- 
-and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2013.1896T
                                                                                           
    
@@ -360,15 +62,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.1373Q
                                                                                          
            
@@ -414,15 +115,14 @@ Antonini, Hillis
 MOTION:
                
 19068
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.1687Q
                                                                                          
            
@@ -462,15 +162,14 @@ Antonini, Hillis
 MOTION:
                
 19069
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2013.1698Q
                                                                                          
                
@@ -510,15 +209,14 @@ Antonini, Hillis
 MOTION:
                
 19070
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-             
+<<Project End>>
+<<Project Start>>
 2014.0111Q
                                                                                          
                
@@ -558,15 +256,14 @@ Antonini, Hillis
 MOTION:
                
 19071
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2013.1515C
                                                                           
                             
@@ -617,8 +314,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -670,8 +365,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -769,9 +462,7 @@ Yesterday there was a comment in the newspapers and again, this morning, that so
 Commissioner Sugaya:
 
 
-Just to elaborate a little bit, that was presented at the hearing in the following way: “the Geary BRT is going to move ahead without filling in the Fillmore underpass,” because of the cost factor and they feel they can do the improvements and not jeopardize anything in the future that might take place with respect to filling in that underpass, but it definitely is not a part of the Geary BRT at this time.
-<<Project End>>
-<<Project Start>>
+Just to elaborate a little bit, that was presented at the hearing in the following way: “the Geary BRT is going to move ahead without filling in the Fillmore underpass,” because of the cost factor and they feel they can do the improvements and not jeopardize anything in the future that might take place with respect to filling in that underpass, but it definitely is not a part of the Geary BRT at this time. 
 
 
  
@@ -828,8 +519,6 @@ Antonini
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -854,9 +543,7 @@ I just wanted to report to you that we have the Director of DBI Tom Hui and I, a
    
 The short-term changes were changes that could be made without legislation, without policy changes, that the Departments can implement immediately and we are directing staff this week to make some of those changes. The longer-term changes and mid-term changes we are recommending that they be taken up by the Mayor’s new task force, that he is in the process of forming, to talk about housing production, affordable, and middle income housing in particular, and we have packaged those, so to speak, as a separate package that will be transmitted to the Mayor’s new Task Force.
   
-I am happy to share all the memos and I we'll get them to you in the next day or so, as this process moves forward. I think and I know that Commissioner Wu has expressed interest on this, I think, we certainly, if you desire to have a separate hearing, to talk about this more robustly and more specifics if you like.
-<<Project End>>
-<<Project Start>>
+I am happy to share all the memos and I we'll get them to you in the next day or so, as this process moves forward. I think and I know that Commissioner Wu has expressed interest on this, I think, we certainly, if you desire to have a separate hearing, to talk about this more robustly and more specifics if you like. 
 
 
                 
@@ -1092,8 +779,6 @@ None
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1125,9 +810,7 @@ SPEAKERS:
 
 ACTION:
                                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
@@ -1171,16 +854,15 @@ SPEAKERS:
 
 ACTION:
                                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2013.1896T
                                                                                           
    
@@ -1236,15 +918,14 @@ Jim Meko – Offices in the PDR
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.1695T
                                                                                           
            
@@ -1336,7 +1017,8 @@ Antonini
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0628EHUVX
                                                                                
           
@@ -1393,7 +1075,8 @@ MOTION:
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0628EHUVX
                                                                
                           
@@ -1428,7 +1111,8 @@ After Closing the public hearing, Zoning Administrator indicated an intent to Gr
 
 17
 .
-          
+<<Project End>>
+<<Project Start>>
 2013.1331C
                                           
                                                            
@@ -1487,15 +1171,14 @@ Antonini
 MOTION:
                
 19074
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-          
+<<Project End>>
+<<Project Start>>
 2013.0401C
                                           
                                                          
@@ -1540,15 +1223,14 @@ Antonini, Hillis
 MOTION:
                
 19075
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-          
+<<Project End>>
+<<Project Start>>
 2013.1130C
                                                                           
                         
@@ -1599,7 +1281,8 @@ MOTION:
 
 
 20a.
-        
+<<Project End>>
+<<Project Start>>
 2013.1001DV
                                                                        
                              
@@ -1651,7 +1334,8 @@ Antonini, Hillis
 
 
 20b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1001DV
                                                                        
                              

@@ -1,321 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ February 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-February 3, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, 
-February 3, 2011
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Olague, Miguel, Antonini, Fong, Moore and Sugaya
-
-
-
-
-COMMISSIONERS 
-ABSENT:  Borden
-
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS 
-CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:38 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE:  John Rahaim â Director of Planning, AnMarie Rodgers, Tom Disanto, 
-David Alumbaugh, Kearstin Dischinger, Michael Smith, Elizabeth Watty, Mark 
-Luellen, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-
-                                                                                                                                                                       
-
-1.
-           
-
-
-
-
 2008.0021E                                                                       
   (R. COOPER: (415) 575-9027)
 
@@ -419,8 +102,8 @@ ABSENT:          Borden
 
 
 2a.
-        
-
+<<Project End>>
+<<Project Start>>
 2008.0021EPMTZW                                                          (E. 
 WATTY: (415) 558-6620)
 
@@ -478,7 +161,9 @@ ABSENT:          Borden
             
 
 
-2b.       
+2b.
+<<Project End>>
+<<Project Start>>
 2008.0021EPMTZW                                                          (E. 
 WATTY: (415) 558-6620)
 
@@ -534,7 +219,9 @@ ABSENT:          Borden
 
 
 
-            2c.        
+            2c.
+<<Project End>>
+<<Project Start>>
 2008.0021EPMTZW                                                          (E. 
 WATTY: (415) 558-6620)
 
@@ -590,7 +277,9 @@ ABSENT:          Borden
 
 
 
-            2d.       
+            2d.
+<<Project End>>
+<<Project Start>>
 2008.0021EPMTZW                                                          (E. 
 WATTY: (415) 558-6620)
 
@@ -646,7 +335,9 @@ ABSENT:          Borden
 
 
 
-            2e.        
+            2e.
+<<Project End>>
+<<Project Start>>
 2008.0021EPMTZW                                                          (E. 
 WATTY: (415) 558-6620)
 
@@ -722,8 +413,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -781,8 +470,6 @@ Antonini, Fong, Moore, Sugaya, Miguel and Olague
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -812,8 +499,6 @@ Regulations should be noticed for future Commission consideration (specific
 length of time for hearings; not call items after a certain time), the 
 Commission indicated its intent to calendar this item for possible action on 
 March 3, 2011
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -859,8 +544,6 @@ of the next meeting and other future meetings of the Planning Commission.
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -872,8 +555,6 @@ C.         DIRECTORâS REPORT
 
 6.         
 Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -979,9 +660,7 @@ Paulsen â he sang a song of Thank You for the History
 E.
            
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1021,8 +700,6 @@ SPEAKERS:     None
 
 
 ACTION:           Informational only â no action
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1094,8 +771,6 @@ ABSENT:          Borden
 
 
 MOTION:           18264
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1206,8 +881,6 @@ ABSENT:          Borden
 
 
 DRA No:           0193
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1287,8 +960,6 @@ ABSENT:          Borden
 
 
 DRA No:           0194
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1300,7 +971,9 @@ DRA No:           0194
 
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2010.0911D                                                            (S. 
 Caltagirone:  (415) 558-6625)
 
@@ -1355,8 +1028,6 @@ SPEAKERS:     None
 
 
 ACTION:           The DR was withdrawn prior to the hearing
-<<Project End>>
-<<Project Start>>
 
 
 

@@ -1,247 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ April 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-April 28, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 28, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-  Place
-
-
-Thursday, April 28, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Dwight Alexander, Kevin Hughes, Sue Lee,
-
-William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- Shelley Bradford Bell 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:45 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Dean Macris - Interim Director of Planning; Larry Badiner - Zoning Administrator; Judy Boyajian - Deputy City Attorney; Amit Ghosh; Michael Li; Sara Vellve; Jonas Ionin; Rick Cooper; Marshall Foster; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1.  2005.01947T                            (P. LORD: (415) 558-6311)
 
 
@@ -266,8 +23,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 2. 2000.1081
 E
 MTZ                                 (R. COOPER: (415) 558-5974)
@@ -322,8 +77,6 @@ AYES: Alexander, Antonini, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 3. 2004.0487C (W. HASTIE: (415) 558-6381)
 
 
@@ -362,10 +115,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
-
-
 4. 2004.0076C:                     (B. FU:  (415) 558-6613)
 
 
@@ -397,8 +146,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.0869E                                      (J. NAVARRETE: (415) 558-5975)
 
 
@@ -429,8 +176,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 6. 2004.1078D               (J. PURVIS: (415) 558-6354)
 
 
@@ -462,9 +207,6 @@ ABSENT: Bradford Bell
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 7. Consideration of Adoption - Draft Minutes of March 31 and April 7, 2005.
 
 
@@ -492,8 +234,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 8.  Commission Comments/Questions
 
 
@@ -527,8 +267,6 @@ Re:  Number of Public Housing Units
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 9. Director's Announcements
 
 
@@ -574,8 +312,6 @@ Zoning Administrator responded:
 - He recommended that the Commission email questions in order to be better prepared.
 <<Project End>>
 <<Project Start>>
-
-
 10. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -671,8 +407,6 @@ E. CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
 <<Project End>>
 <<Project Start>>
-
-
 11. 2005.0092C          (K. McGEE:  (415) 558-6367)
 
 
@@ -706,8 +440,6 @@ MOTION: 16995
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12. 2005.0096C                 (J. MILLER:  (415) 558-6344)
 
 
@@ -744,8 +476,6 @@ ABSENT: Bradford Bell
 MOTION: 16996
 <<Project End>>
 <<Project Start>>
-
-
 13. 2004.0296EK
 X
                     (M. LI: (415) 558-6396)
@@ -974,8 +704,6 @@ SPEAKER(S): Same as those listed for Item 14a.
 ACTION: Zoning Administrator Closed the Public Hearing and Continued the Item to May 12, 2005.
 <<Project End>>
 <<Project Start>>
-
-
 15. 2005.0068D          (S. VELLVE: (415) 558-6263)
 
 
@@ -1050,8 +778,6 @@ NAYES: Antonini, S. Lee, W. Lee
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 16. 2005.0226DDDD (S. VELLVE: (415) 558-6263)
 
 
@@ -1276,8 +1002,6 @@ NAYES: S. Lee and Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 17. 2005.0262D (J. IONIN: (415) 558-6309)
 
 
@@ -1371,8 +1095,6 @@ AYES: Alexander, Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 18. 2004.1310DD (G. NELSON: (415) 558-6257)
 
 

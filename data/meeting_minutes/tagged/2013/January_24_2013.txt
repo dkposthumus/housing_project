@@ -1,269 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ January 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-January 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 24, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
-COMMISSIONER ABSENT:        Fong
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12:05 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Aaron Hollister, Sharon Young, Christina LaMorena, Tom Disanto, Keith Demartini, Debra Dwyer, Ben Fu, Elizabeth Watty, Thomas Wang, Glenn Cabreros and Jonas P. Ionin - Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-SPEAKERS:     Sue Hestor, Steve Vettel
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2011.0800C                                                                          (S. VELLVE: (415) 558-6263)
 
 
@@ -296,8 +31,6 @@ AYES:              Wu, Antonini, Borden, Moore, Sugaya
 
 ABSENT:          Fong, 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -310,7 +43,8 @@ Hillis
 
 
 2.
-                     
+<<Project End>>
+<<Project Start>>
 2012.1168C                                                                      (D. SÁNCHEZ: (415) 575-9082)
 
 
@@ -343,15 +77,14 @@ AYES:              Wu, Antonini, Borden, Moore, Sugaya
 
             ABSENT:          Fong, 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                     
+<<Project End>>
+<<Project Start>>
 2012.1315T
                                                                 
 (S. HAYWARD: (415) 558-6372)
@@ -404,15 +137,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                     
+<<Project End>>
+<<Project Start>>
 2012.0690C
                                                                (A. HOLLISTER: (415) 575-9078)
 
@@ -446,14 +178,14 @@ ABSENT:          Fong
 
 MOTION:           
 18785
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2012.1291C
                                                                             (
 S. YOUNG: (415) 558-6346)
@@ -492,14 +224,14 @@ ABSENT:          Fong
 
 MOTION:           
 18787
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-6.         
+6.
+<<Project End>>
+<<Project Start>>
 2012.1057Q
                                                                    (C. LAMORENA: (415) 575-9085)
 
@@ -547,8 +279,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -579,8 +309,6 @@ AYES:              Wu, Antonini, Borden, Moore, Hillis, Sugaya
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -670,8 +398,6 @@ As a follow-up to your own comments Commissioner Wu, I actually meant to speak a
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -689,8 +415,6 @@ Director Rahaim:
 Good afternoon Commissioners, just two announcements.  There were public meetings this week kicking off two new streetscape projects; one was in the Castro where we are looking at the stretch of Market between Castro and 18
 th
 , and looking at potential sidewalk improvements, that is actually one of the busiest pedestrian thoroughfares, it has more pedestrian traffic than Columbus in North Beach.  We are looking at that stretch in Castro and we are also looking at the area in the Outer Mission often called the Persian Triangle a convergence of multiple streets, Mission and Ocean Avenue, I think, which is a long-standing desire of the public to make a better place there. Both of these streetscape projects look for better design of those areas. In both of these cases we would likely be able to move forward because these were projects that were identified for funding from the Streets Bond that was passed in 2011 and that Bond did have a small pot of money for streetscape improvements. We will be able to withdraw money for public works and move forward with implementation for both of those projects.  I should announce to the Commission that I'm speaking to SPUR on Tuesday night regarding the Department’s record and where I see the Department going in the next couple of years, and that concludes my presentation.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -748,8 +472,6 @@ Sue Vaughan, Linda Chapman, Sue Hestor
 
 F.         
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -785,14 +507,14 @@ NAYES:                        Sugaya
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2000.618E
                                                                              (D. DWYER: (415) 575-9031)
 
@@ -836,7 +558,9 @@ ABSENT:          Fong
  
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2012.0700X
                    
                                                                 (B. FU: (415) 558-6613)
@@ -876,7 +600,9 @@ ABSENT:          Fong
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2012.0701X
                                                                                    (B. FU: (415) 558-6613)
 
@@ -913,7 +639,9 @@ ABSENT:          Fong
  
 
 
-14a.      
+14a.
+<<Project End>>
+<<Project Start>>
 2011.0312CEVX 
                                                                     (E. WATTY: (415) 558-6620)
 
@@ -954,7 +682,9 @@ ABSENT:          Fong
  
 
 
-14b.      
+14b.
+<<Project End>>
+<<Project Start>>
 2011.0312CEVX 
                                                                    (E. WATTY: (415) 558-6620)
 
@@ -995,7 +725,9 @@ ABSENT:          Fong
  
 
 
-14c.      
+14c.
+<<Project End>>
+<<Project Start>>
 2011.0312CEVX 
                                                                     (E. WATTY: (415) 558-6620)
 
@@ -1016,7 +748,9 @@ ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND INDICATED AN INTENT TO GRANT THE 
  
 
 
-15a.      
+15a.
+<<Project End>>
+<<Project Start>>
 2012.0109CV
                                                                            (T. WANG: (415) 558-6335)
 
@@ -1054,7 +788,9 @@ ABSENT:          Fong
  
 
 
-15b.      
+15b.
+<<Project End>>
+<<Project Start>>
 2012.0109CV
                                                                           (T. WANG: (415) 558-6335)
 
@@ -1086,14 +822,14 @@ AYES:              Wu, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.        
+16.
+<<Project End>>
+<<Project Start>>
 2012.1301DD
                                                                 (G. CABREROS: (415) 558-6169)
 
@@ -1130,14 +866,14 @@ ABSENT:          Fong
 
 
 DRA NO.          0307
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2010.0986D
                                                                      (G. CABREROS: (415) 558-6169)
 

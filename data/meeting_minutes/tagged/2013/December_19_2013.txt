@@ -1,299 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 19, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ December 19, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-December 19, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, December 19, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 11 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Elizabeth Watty, Diego Sanchez, Erika Jackson, Christina LaMorena, Jeff Speirs, Eiliesh Tuffy, Rich Sucre, Timothy Johnston, Michael Smith, Sara Vellve, Sharon Lai, Kate Conner, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.0544B
           
             
@@ -349,7 +54,8 @@ Hillis
 
 
 2a.
-          
+<<Project End>>
+<<Project Start>>
 2009.1074CEKV
   
                                                 
@@ -406,7 +112,8 @@ Hillis
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2009.1074CEKV
   
                                                 
@@ -479,15 +186,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0863C
  
                                                          
@@ -535,15 +241,14 @@ Hillis
 MOTION:
                
 19044
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1492Q
                                                                          
                        
@@ -590,15 +295,14 @@ Hillis
 MOTION:
                
 19045
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1567Q
                                                                                          
   
@@ -646,15 +350,14 @@ Hillis
 MOTION:
                
 19046
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1456C
                                                                           
                              
@@ -709,15 +412,14 @@ Hillis
 MOTION:
                
 19047
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1613C
  
                                                                          
@@ -771,15 +473,14 @@ Hillis
 MOTION:
                
 19048
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0493B
                                                                                           
             
@@ -835,8 +536,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -885,8 +584,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1013,8 +710,6 @@ Commissioner Moore
 
 
 Another bright light along the same lines, we all received an e-mail from Community Housing Partnership about the opening of the Rene Cazenave Apartments, I'm sure I’m not pronouncing this correctly, Director Rahaim is chuckling, opening of a hundred-twenty unit of affordable housing in the former Transbay Redevelopment Area, designed by Leddy Maytum Stacy Architects, exceptional building originally conceived under Redevelopment, but definitely an example of what we want to do. You should click through the pictures, it is quite beautiful and I was really happy to get that news this morning.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1073,8 +768,6 @@ Fong, Wu, Antonini, Borden, Moore Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
                                                 
@@ -1131,8 +824,6 @@ Antonini, Moore
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1160,8 +851,6 @@ I ask you to take a look at that and if you have any questions or comments on th
 sorry -- the second is to expand the potential for Commission Discretionary Reviews when any loss of a unit or any displacement of a tenant is involved in a project; and the third is to act as an advisory body for municipal departments with permitting authority and as a clearing house for code compliance checks for buildings that are being withdrawn from the rental market. I'm happy to get into more details at a future hearing about this, I wanted to give you this report today. Mr. Hui as the Director of DBI has set up the first meeting
   
 in January of this working group, so as we get more involved in the details I'll report back to you. Thank you.
-<<Project End>>
-<<Project Start>>
 
 
 14.
@@ -1262,24 +951,18 @@ This ED established a Working Group tasked with three responsibilities. The Work
 
 
 The three tasks of this group include:
-<<Project End>>
-<<Project Start>>
 
 
 1.
                    
 Making recommendations
  to the Mayor for City polices and administrative actions to preserve and promote rental housing.
-<<Project End>>
-<<Project Start>>
 
 
 2.
                    
 Implementing a process
  to have the Planning Commission consider Discretionary Review when a loss of housing is proposed.
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -1360,8 +1043,6 @@ Mike Murphy – 2008.1122E, CEIR
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1369,7 +1050,8 @@ REGULAR CALENDAR
 
 
 15.
-        
+<<Project End>>
+<<Project Start>>
 2008.1122E
                                                           
                                     
@@ -1427,7 +1109,8 @@ MOTION:
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2008.1122EPR
                                                                                     
            
@@ -1489,7 +1172,8 @@ MOTION:
 
                 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2008.1122EPR
                                                                             
                     
@@ -1551,7 +1235,8 @@ MOTION:
 
 
 16c.
-        
+<<Project End>>
+<<Project Start>>
 2008.1122EPR
                                      
                                 
@@ -1607,15 +1292,14 @@ Fong
 MOTION:
                
 19053
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.1695T
  
                                                                                          
@@ -1660,7 +1344,8 @@ Hillis
 
 
 18a.
-        
+<<Project End>>
+<<Project Start>>
 2012.0258ETZC
                                                                    
                           
@@ -1732,7 +1417,8 @@ RESOLUTION:
 
                 
 18b.
-        
+<<Project End>>
+<<Project Start>>
 2012.0258ETZC
  
                                                                   
@@ -1805,7 +1491,8 @@ RESOLUTION:
 
                 
 18c.
-        
+<<Project End>>
+<<Project Start>>
 2012.0258ETZC
  
                                                                   
@@ -1877,7 +1564,8 @@ MOTION:
 
 
 19a.
-        
+<<Project End>>
+<<Project Start>>
 2009.1177ECV 
                                                                                     
                    
@@ -1925,7 +1613,8 @@ MOTION:
 
 19b
 .
-        
+<<Project End>>
+<<Project Start>>
 2009.1177ECV 
  
                                                                    
@@ -1957,7 +1646,8 @@ After closing Public Comment, the ZA indicated an intent to Grant
 
 20
 .
-          
+<<Project End>>
+<<Project Start>>
 2013.1598D
          
                                 
@@ -2039,7 +1729,8 @@ DRA No:
 
 21
 .
-          
+<<Project End>>
+<<Project Start>>
 2013.0623D
                                                                          
                         

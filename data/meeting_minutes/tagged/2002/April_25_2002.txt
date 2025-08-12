@@ -1,223 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 25, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2002
-
-
-/ April 25, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-April 25, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 25, 2002
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, April 25, 2002
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Fay, Lim, Salinas, Theoharis
-ABSENT:          Joe
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT FAY AT 1:45 p.m.
-STAFF IN ATTENDANCE:  Gerald Green – Director; Larry Badiner -Zoning Administrator; Jean Paul Samaha; Ben Fu; Jamilla Vollman; Dan Sirois; Rick Crawford; Nannie Turrell; Michael Li; Dario Jones; Kate McGee; Joy Navarrete; Jonathan Purvis; Thomas Wang; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-          The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 1.          2000.1170D          (M. SNYDER: 415-575-6891)
                     2637–2639 24th STREET - south side between Potrero Avenue and Utah Street, Lot 25 in Assessor’s Block 4264 - Request for Discretionary Review of Building Permit Application No. 2000/03/07/3664 proposing to construct a new building that would contain six new dwelling units, six parking spaces, and a small commercial unit, on a lot that currently contains a single-story commercial building.  The property is within the 24th Street - Mission Neighborhood Commercial District, and a 65-A Height and Bulk District.  
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as proposed.
@@ -229,7 +10,7 @@ AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Joe
 <<Project End>>
 <<Project Start>>
-          2.          2000.790EKXCTZM          (K. AMDUR: 415-558-6351)
+2.          2000.790EKXCTZM          (K. AMDUR: 415-558-6351)
                     888 HOWARD STREET (aka 155 FIFTH STREET) - northeast corner of 5th Street, Lot 66 in Assessor’s Block 3724 -- (1) Request for Determinations of Compliance under Planning Code Section 309 (Downtown Project) and (2) Request for Exceptions, including an exception to the Reduction of Ground Level Wind Currents requirement (Section 148); (3) Request for Conditional Use authorization for a hotel, Planning Code Sections 303 and 216(b) and (4) Amendments to the Planning Code and Zoning Maps to change the height, bulk and Floor Area Ratio (FAR) of the project site, Planning Code Section 302(c) .  The proposal would change the height and bulk zoning of the project site from 160-F to 320-M, and would change the maximum FAR from 5:1 to 7.5:1 without the purchase of Transferable Development Rights (TDR).  (The current zoning allows a maximum FAR of 7.5:1, but only with the purchase of TDR).  The Project would also require amendments to the Urban Design and Land Use Elements of the General Plan and the Downtown Area Plan to be consistent with the proposed changes related to height, bulk and FAR. 
                     Preliminary Recommendations: Pending
                     Note: The project CURRENTLY PROPOSES TO rezone to a 320-S height and bulk district, INSTEAD of a 320-M district AS ORIGINALLY REQUESTED.
@@ -241,7 +22,7 @@ AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Joe
 <<Project End>>
 <<Project Start>>
-          3.          2001.1168D          (M. SMITH: 415-558-6322)
+3.          2001.1168D          (M. SMITH: 415-558-6322)
                     138 WHITNEY STREET - west side of the street between Fairmount and Randall Streets, Lot 007 in Assessor's Block 6664 - Request for Discretionary Review of Building Permit Application  No. 2000/12/19/8292, proposing to enlarge the existing detached garage to accommodate two cars and construct a two-story addition located partially on the roof of the garage, located in a RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and Disapprove the Project
                     (Continued from Regular Calendar of February 21, 2002)
@@ -252,7 +33,7 @@ AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Joe
 <<Project End>>
 <<Project Start>>
-          4.          2002.0153T           (J-P. SAMAHA: 415-558-6602)
+4.          2002.0153T           (J-P. SAMAHA: 415-558-6602)
                     MULTIPLE LANGUAGES LEGISLATION - Consideration of recommendations for an ordinance amending Building Code by adding Section 104.6 through 104.6.3 and amending the San Francisco Planning Code by adding Section 306.10 to require publication of a cover sheet with neighborhood notices advising how to request information about the notices in multiple languages.
                     Preliminary Recommendation: Pending
                     (Proposed for Continuance to May 23, 2002)
@@ -262,7 +43,7 @@ AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla, Joe
 <<Project End>>
 <<Project Start>>
-          5.          2001.1176D          (S. VELLVE: 415-558-6263)
+5.          2001.1176D          (S. VELLVE: 415-558-6263)
                     2298 – 22nd AVENUE - east side between Ocean Ave. and Sloat Blvd., Lot 007 in Assessor’s Block 7205 - Request for Discretionary Review of Building Permit Application No. 2001/10/09/0234, proposing to construct horizontal extensions of 11 feet at the ground floor, 7 feet at the second floor and a partial third floor to an existing single-family dwelling within a RH-1(D) (House, One-Family, (Detached Dwelling) District and a 40-X Height and Bulk District
 Preliminary Recommendation: Take Discretionary Review and approve the building permit application with modifications.
 (Proposed for Continuance to June 27, 2002)
@@ -274,7 +55,7 @@ ABSENT:          Chinchilla, Joe
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          6.          Consideration of Adoption - draft minutes of April 4, 2002.
+6.          Consideration of Adoption - draft minutes of April 4, 2002.
 SPEAKER(S):          None
 ACTION:          Approved
 AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
@@ -282,25 +63,25 @@ ABSENT:          Chinchilla, Joe
 Commission President Chinchilla took over the meeting from this point on.
 <<Project End>>
 <<Project Start>>
-          7.          Consideration of Modifications to the Commission Hearing Schedule for 2002.
+7.          Consideration of Modifications to the Commission Hearing Schedule for 2002.
 SPEAKER(S):          None
 ACTION:          Reinstated May 30, 2002 as a special hearing date.
 AYES:          Baltimore, Chinchilla, Fay, Lim, Salinas, Theoharis
 ABSENT:          Joe
 <<Project End>>
 <<Project Start>>
-          8.          Commission Matters
+8.          Commission Matters
 Commissioner Baltimore:
 - She would like to have calendared, a review of the elevator code as it applies to roof decks in compliance with Title 24.
 - She would also like to have calendared on May 31 (30), 2002, a review of the present parking regulations, policies and codes.
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          9.          Director's Announcements
+9.          Director's Announcements
                     None
 <<Project End>>
 <<Project Start>>
-          10.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+10.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS
 Re:  Budget Committee
 - Presented work program and budget for fiscal year 2002-2002.
@@ -348,7 +129,7 @@ ABSENT:          Joe
 F.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          12.          2002.0047Q          (J. VOLLMANN:  415- 558-6612)
+12.          2002.0047Q          (J. VOLLMANN:  415- 558-6612)
                     1919 OCTAVIA STREET - west side between Sacramento and California Streets, Lot 3 in Assessor’s Block 0639 - Request of authorization to approve a six-unit residential condominium conversion subdivision in an RM-2 (Residential, Mixed) District and a 40-X Height and Bulk District. The proposal is to change the existing building to a condominium form of ownership and does not involve expansion, alteration, or demolition of the existing building.
                     Preliminary Recommendation: Approval
 SPEAKER(S):          None
@@ -358,7 +139,7 @@ ABSENT:          Joe
 MOTION:          16384
 <<Project End>>
 <<Project Start>>
-          13.          2002.0192C          (J. VOLLMANN: 415-558-6612)
+13.          2002.0192C          (J. VOLLMANN: 415-558-6612)
                     2215-2217 UNION STREET - south side between Fillmore and Steiner Streets, Lot 001A in Assessor's Block 0539 - Request for Conditional Use Authorization pursuant to Planning Code Section 725.45 to allow a liquor store use that sells beer, wine and distilled spirits. The proposal is to add a Type 21 ABC license for the sale of beer, wine and distilled spirits sales within an existing retail grocery store (Union Street Pantry) which is in the Union Street Neighborhood Commercial District and a 40-X Height and Bulk District. 
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -394,7 +175,7 @@ ABSENT:          Joe
 MOTION:          16387
 <<Project End>>
 <<Project Start>>
-          15.          2001.0134C          (R. CRAWFORD: 415-558-6358)
+15.          2001.0134C          (R. CRAWFORD: 415-558-6358)
                     4735 MISSION STREET - southeast side of Mission Street between Russia and Persia Avenues, Lot 024C of Assessor’s Block 6084 - Request under Planning Code Section 161.(j) for Conditional Use Approval for a reduction of 2 off street parking spaces required for dwellings for a Project with ground floor commercial and 2 dwelling units.  This project lies within an NC-3 Moderate Scale Neighborhood Commercial District and within the 65-X Height and Bulk District.
                     Preliminary Recommendation: Approval with Conditions
 SPEAKER(S):
@@ -414,7 +195,7 @@ ABSENT:          Joe
 MOTION:          16388
 <<Project End>>
 <<Project Start>>
-          16.          1999.536EKCV          (N. TURRELL: 415-558-5994)
+16.          1999.536EKCV          (N. TURRELL: 415-558-5994)
                     855 SACRAMENTO STREET – Chinatown YMCA - PUBLIC HEARING ON THE DRAFT ENVIRONMENTAL IMPACT REPORT (EIR).  The proposed project involves the construction of a new seven-story, 84,190-square-foot building to provide about 47,020 square feet (sf) of community and physical fitness space, approximately 37,170 sf of residential space, and one off-street parking space on the project site (Assessor's Block 242, Lot 27). The new housing units (a maximum of 28) would be affordable housing. The project would also include demolition of the existing Chinatown YMCA building, which appears to be eligible for listing on the National Register of Historic Places and the California Register of Historical Resources. The project site is on Sacramento Street between Grant Avenue and Stockton Street, within the Chinatown District. The project site is within the CRNC (Chinatown Residential Neighborhood Commercial) Zoning District, and a 65-A Height/Bulk District.
                     Preliminary Recommendation: No Action Required
                     Note: Written comments will be accepted at the Planning Department’s offices until the close of business on May 7, 2002.
@@ -427,7 +208,7 @@ SPEAKER(S):
 ACTION:          Public hearing only.  No Action Required
 <<Project End>>
 <<Project Start>>
-          17.          1999.536EKCV          (M. LI: 415-558-6396)
+17.          1999.536EKCV          (M. LI: 415-558-6396)
                     855 SACRAMENTO STREET - Chinatown YMCA - south side between Brooklyn Place and Grant Avenue; Lot 027 in Assessor’s Block 0242, within the CRNC (Chinatown Residential Neighborhood Commercial) Zoning District, and a 65-A Height/Bulk District. - Request for a determination of the shadow impact significance on the Chinese Playground at 830-860 Sacramento Street (Block 0225, Lot 018) from the construction of a new seven-story, 65-foot-high Chinatown YMCA.
                     Preliminary Recommendation:  Determination that shadow impact is not significant or adverse.
 SPEAKER(S):
@@ -440,7 +221,7 @@ ABSENT:          Joe
 MOTION:          16389
 <<Project End>>
 <<Project Start>>
-          18.          2001.0995CV           (D. JONES: 415-558-6477)
+18.          2001.0995CV           (D. JONES: 415-558-6477)
                     3130-3154 NORIEGA STREET - north side of Noriega Street between 39th and 38th Avenues, Lot 007 in Assessor’s Block 2011- Request for Conditional Use Authorization under Planning Code Section 710.11, 710.21 to develop a mixed-use building on a lot exceeding 5,000 square feet in area, with a non-residential use size of 3,400 square feet within an NC-1 (Neighborhood Commercial Cluster) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Approval with Conditions
                     (Continued from Regular Meeting of April 18, 2002)
@@ -553,7 +334,7 @@ AYES:          Baltimore, Fay, Lim, Salinas, Theoharis
 ABSENT:          Chinchilla and Joe
 <<Project End>>
 <<Project Start>>
-          21.          2000.1164ECD                   (J. NAVARRETE: 415 558-5975)
+21.          2000.1164ECD                   (J. NAVARRETE: 415 558-5975)
                     1880 MISSION STREET - Appeal of a Preliminary Negative Declaration. On Assessors Block 3547, on Lots 2A, 3, 4, and 29, the existing site is approximately 51,888 square feet in size and contains two existing buildings containing warehouse use and printing plant with offices.  The proposal is to demolish the two existing buildings and construct one six-story plus two-level basement building containing 183 dwelling units and 25,811 square feet (sf) of commercial space (retail and office).  The project would include approximately 218 underground parking spaces to be used for both residential and commercial uses.  The project site is located in a Heavy Commercial (C-M) zoning district, within a 65-B/50-X height/bulk district.  Conditional Use authorization would be required for a Planned Unit Development, for dwelling units in a C-M zoning district, for a bulk exception and because the project proposes to provide less than 25% of its housing units as affordable housing.
                     Preliminary Recommendation: Uphold Preliminary Negative Declaration.
 SPEAKER(S):
@@ -694,7 +475,7 @@ G.          DISCRETIONARY REVIEW HEARING
           At Approximately 7:00 PM the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-          23.          2001.0947D          (T. WANG: 415-558﷓6335)
+23.          2001.0947D          (T. WANG: 415-558﷓6335)
                     355 COUNTRY CLUB DRIVE - south side near Huntington Drive; Lot 001 in Assessor's Block 7274 ﷓ Request for Discretionary Review of Building Permit Application No. 2001/08/21/6532 to construct a second floor vertical addition, at the existing one﷓story, single﷓family dwelling in an RH﷓1(D) (Residential, House, One﷓Family, Detached) District and a 40﷓X Height and Bulk District.
                     Preliminary Recommendation: Do not take Discretionary Review and approve the project as submitted.
 SPEAKER(S):

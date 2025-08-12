@@ -1,306 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ February 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-February 27, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, February 27, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong,
-  
-Antonini,
-  
-Hillis, Moore, Sugaya
-
-
-COMMISSIONERS ABSENT:
-     
-Wu, Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT FONG AT 12: 06 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Alexandra Kirby, Christine Lamorena, Kanishka Burns, Mary Woods, Jessica Look, Kevin Guy, Glenn Cabreros,
-  
-and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2010.0641M
                                                                  
 (S.EXLINE: (415) 558-6332)
@@ -342,15 +40,14 @@ Fong, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Wu, Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.1166T
                                                           
                    
@@ -412,15 +109,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2013.1649Q
          
         
@@ -465,15 +161,14 @@ Wu, Borden
 MOTION:
                
 19092
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0074Q
                          
            
@@ -518,15 +213,14 @@ Wu, Borden
 MOTION:
                
 19093
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1650Q
                          
                                                                 
@@ -568,15 +262,14 @@ Wu, Borden
 MOTION:
                
 19094
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1192Q
                                                                                          
           
@@ -633,8 +326,8 @@ MOTION:
 
                 
 7a.
-        
-  
+<<Project End>>
+<<Project Start>>
 2012.0990CEUV
                                                                                   
         
@@ -694,7 +387,8 @@ MOTION:
 
                 
 7b.
-          
+<<Project End>>
+<<Project Start>>
 2012.0990CEUV
                                                                   
                         
@@ -731,8 +425,6 @@ After Closing the Public Hearing, the ZA indicated an intent to Grant
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -756,8 +448,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -878,8 +568,6 @@ of what is been done, and I am very concerned that this is just the beginning an
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -899,8 +587,6 @@ Director Rahaim:
 Thank you. Good afternoon, Commissioners. Just wanted to keep you, you updated on the activities of the Mayor's Office of Housing Task Force, that group had the first meeting, today. President Wu, went to that meeting this week. There was a very large group, probably 75 people in the room. It was a very open ended
     
 meeting. There was a very broad discussion, but more specifically the Mayor's staff has asked that – is asked to break down the group into three topic areas for further discussion over the next few months. One will be process improvements at the City department level, obviously including the Planning Department, second will be legislative changes that might be put forward and the third will be financing and revenue considerations. Again with the goal of improving funding for affordable and middle income housing, the goal is that these three subcommittees will meet over the next few months and by midsummer, make recommendations to the Mayor and the Board about potential changes in all three of those categories. So the Department will certainly be involved in at least 2 of those committees and we'll keep you informed as we move forward, that concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1106,15 +792,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.0936U
                                                                          
                           
@@ -1153,8 +838,6 @@ SPEAKERS:
 ACTION:
                                
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1167,7 +850,8 @@ None - Informational
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2014.0180T
                                           
                                                             
@@ -1209,15 +893,14 @@ Fong, Antonini, Hillis, Moore, Sugaya
 ABSENT:
                 
 Wu, Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2007.0392CV
                                                                        
                                  
@@ -1277,15 +960,14 @@ Wu, Borden
 MOTION:
                
 19097
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0638C 
                                                                          
                                
@@ -1346,7 +1028,8 @@ Please be advised that the DR requestor and project sponsor teams include: the D
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0075DV
  
                                                                                       
@@ -1437,7 +1120,8 @@ DRA No:
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0075DV
  
                                                                       

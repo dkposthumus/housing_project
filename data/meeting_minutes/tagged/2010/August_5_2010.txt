@@ -1,316 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 5, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ August 5, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-August 5, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 5, 2010
-
-
-1:30 PM
-
-
-Regular Meeting 
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Rick Crawford, Tare Sullivan, Kirsten Dischinger, Jessica Range, Michael Jacinto, Steve Shotland, Joshua Switzky, Edgar Oropeza, Elizabeth Watty,  and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         2009.0187T
-                                                                   (A. Rodgers: (415) 558-6395)
-
-
-DEPARTMENT-SPONSORED PLANNING CODE AMENDMENTS
- - 
-The Planning Commission will consider a Resolution to approve a draft Ordinance amending the Planning Code requirements for car-share.
- The draft Ordinance would 
-1)
- expand nonresidential requirements to apply to all zoning districts; 
-2)
-  allow carâshare parking wherever residential parking is permitted; 
-3)
- include car-share programs among the transportation management and transportation brokerage services required for new office buildings; 
-4) 
-amend car-share requirements to require car-share memberships within new developments that exceed permitted levels of parking;  
-5)
- endorse procedures for Commission deliberation of car-share requirements beyond those currently identified for both residential and commercial developments; 
- 6)
- 
-additional possible amendments associated with the current car share requirements
-; and 
-7)
- adopt findings, including environmental findings, Planning Code Section 302 findings, and findings of consistency with the General Plan and the priority policies of Planning Code Section 101. The Planning Code sections proposed for amendment include Sections 163 and 166. 
-
-
-Preliminary Recommendation: Approval of proposed Ordinance to the Board of Supervisors.
-
-
-                        
-(Proposed for Continuance to August 12, 2010)
-
-
- 
-
-
-SPEAKERS:     None
-
-
-ACTION:           Continued as proposed   
-
-
-AYES:              Antonini, Borden, Lee, Moore, Olague, Sugaya, and Miguel
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-
-
-        
-2.
-           
 2010.0182
 U
                                                                     (A. RODGERS: (415) 558- 6395)
@@ -352,14 +40,14 @@ CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2010.0360C
                                                                 
 (R. Crawford: (415) 558-6358)
@@ -408,8 +96,6 @@ COMMISSIONERSâ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -555,16 +241,12 @@ We haven't heard so much and in that kind of detail as to the South of Market wi
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.         Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
             
@@ -725,15 +407,15 @@ Judith
 
 F.
                  
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-7.        
+7.
+<<Project End>>
+<<Project Start>>
 2010.0080T
                                                                    (T. SULLIVAN: (415) 558-6257)
 
@@ -764,8 +446,6 @@ NAYES:            Moore and Sugaya
 
             RESOLUTION:   
 18157
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -793,8 +473,6 @@ SPEAKERS:     Calvin Welch, Rose Hillson, Penelope Clark, Peter Cohen, Sarah
 
 
 ACTION:           Informational only.  No action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -828,14 +506,14 @@ Preliminary Recommendation: No Action Required
 
 
             ACTION:           No Action. Public Hearing held on DEIR only.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            10.       
+            10.
+<<Project End>>
+<<Project Start>>
 2006.0868E
                                                                      (M. JACINTO: (415) 575-9033)
 
@@ -861,8 +539,6 @@ SPEAKERS:     Beth Wells, Gail Schickele, Joyce Lively, Ron Kardon, Brandy L
 
 
 ACTION:           No Action. Public Hearing held on DEIR only.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -901,17 +577,17 @@ AYES:            Olague
 
             RESOLUTION:   
 18158
+
+
+ 
+
+
+ 
+
+
+12.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
- 
-
-
-12.       
 2009.0622R
                                                                       (J. SWITZKY: (415) 575-6815)
 
@@ -947,14 +623,14 @@ RECUSED:       Sugaya
 
             MOTION:           
 18159
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            13.        
+            13.
+<<Project End>>
+<<Project Start>>
 2010.0438C
                                                                 (
 R. CRAWFORD: (415) 558-6358)
@@ -988,8 +664,6 @@ AYES:            Moore, Olague, Sugaya
 
             MOTION:           
 18160
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1034,7 +708,9 @@ ACTION:           Approved
  
 
 
-15a.     
+15a.
+<<Project End>>
+<<Project Start>>
 2009.1095CV
                                                                  (E. OROPEZA: (415) 558-6381)
 
@@ -1075,7 +751,9 @@ ACTION:           Approved
  
 
 
-15b.     
+15b.
+<<Project End>>
+<<Project Start>>
 2009.1095CV
                                                                  (E. OROPEZA: (415) 558-6381)
 
@@ -1100,14 +778,14 @@ SPEAKERS:     Same as those listed for item 15a
 
 
 ACTION:           Acting Zoning Administrator Rahaim closed public hearing and granted rear yard modifications and variance subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-            16.       
+            16.
+<<Project End>>
+<<Project Start>>
 2010.0422C
                                                                         
 (E. Watty: (415) 558-6620)
@@ -1137,14 +815,14 @@ ACTION:           Approved
 
             MOTION:           
 18163
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.       
+17.
+<<Project End>>
+<<Project Start>>
 2008.0871D
                                                                          (E. WATTY: (415) 558-6620)
 
@@ -1172,14 +850,14 @@ ACTION:           Approved
 
             DRA:                
 0165
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.       
+18.
+<<Project End>>
+<<Project Start>>
 2010.0236DDD
                                                                  (C. TEAGUE: (415) 575-9081)
 
@@ -1206,7 +884,9 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
  
 
 
-19        
+19
+<<Project End>>
+<<Project Start>>
 2010.0156D
                                                                         (E. WATTY: (415) 558-6620)
 

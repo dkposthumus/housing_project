@@ -1,294 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ March 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-March 08, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 08, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 8, 2001
-
-
-1:30 PM
-
-
- 
-
-
-Regular
-Meeting
-
-
- 
-
-
- 
-
-
- 
-
-
-PRESENT:
- 
-Baltimore,
-Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
- 
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT
-THEOHARIS AT 1:40 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- Gerald G.
-Green, Director of Planning; Larry Badiner, Zoning Administrator; David
-Alumbaugh; Pedro Arce; Elizabeth Gordon; Rick Crawford; Kelley LeBlanc; Sailesh
-Mehra; Glenn Cabreros; Michael Smith; Nora Priego, Transcription Secretary;
-Linda Avery, Commission Secretary
-
-
- 
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
-1.
- 
 2000.739E 
  
 (BLOMGREN:
@@ -353,8 +63,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -362,7 +70,8 @@ Chinchilla
 
  
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.677C
  
 (CHIN:
@@ -434,7 +143,8 @@ Chinchilla
 
  
 3a.
- 
+<<Project End>>
+<<Project Start>>
 2000.190
 B
 X
@@ -516,7 +226,8 @@ Chinchilla
 
  
 3b.
- 
+<<Project End>>
+<<Project Start>>
 2000.190B
 X
  
@@ -591,8 +302,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -601,7 +310,8 @@ Chinchilla
 
  
 4.
- 
+<<Project End>>
+<<Project Start>>
 2000.1061E
  
 
@@ -665,8 +375,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -674,7 +382,8 @@ Chinchilla
 
  
 5.
- 
+<<Project End>>
+<<Project Start>>
 1999.563D
  
 (WILSON:
@@ -729,8 +438,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -738,7 +445,8 @@ Chinchilla
 
  
 6.
- 
+<<Project End>>
+<<Project Start>>
 2000.1047D
  
 (SMITH:
@@ -804,8 +512,6 @@ Chinchilla
 B.
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -832,8 +538,6 @@ Committee.
 C.
  
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -853,8 +557,6 @@ The Director reported that Supervisor
 McGoldrick was looking into the matter of the scheduling conflict that exists
 between the meeting times of the Planning Commission and the Board's Housing,
 Land Use and Transportation Committee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -879,8 +581,6 @@ None
  
 BOA – 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -914,8 +614,6 @@ hearing, continued until staff brings this back to the
 
  
 Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -960,8 +658,6 @@ Meeting
 held.
  
 No action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1215,7 +911,8 @@ REGULAR CALENDAR
 
  
 13a.
- 
+<<Project End>>
+<<Project Start>>
 2000.1293B
  
 (ARCE:
@@ -1533,8 +1230,6 @@ MOTION:
 
  
 13b.
-<<Project End>>
-<<Project Start>>
  
 2000.
 1294B
@@ -1581,8 +1276,6 @@ have removed it from consideration at this time.
 
  
 13c.
-<<Project End>>
-<<Project Start>>
  
 2000. 1295B
  
@@ -1693,7 +1386,8 @@ Items 14a and b; 15a, b and c; 16a, b and c;
 
  
 14a.
- 
+<<Project End>>
+<<Project Start>>
 98.281
 B
 C
@@ -2259,7 +1953,8 @@ At the call of the Chair, 185 Berry Street was continued to March 22,
 
  
 14b.
- 
+<<Project End>>
+<<Project Start>>
 98.281
 B
 C
@@ -2329,7 +2024,8 @@ as action for item 14a.
 
  
 15a.
- 
+<<Project End>>
+<<Project Start>>
 99.554BCD
  
 (PURVIS:
@@ -2349,8 +2045,6 @@ Request under Planning Code Section 321 for authorization to demolish
 two warehouse structures and construct an office building with up to 237,500
 gsf (gross square feet), designed as a PUD (Planned Unit Development), pursuant
 to Section 304 for exceptions from off-street parking standards under Section
-<<Project End>>
-<<Project Start>>
 151.
  
 This notice is also the initial
@@ -2440,7 +2134,8 @@ the application was not complete.
 
  
 15b.
- 
+<<Project End>>
+<<Project Start>>
 99.554B
 C
 D
@@ -2510,7 +2205,8 @@ the application was not complete.
 
  
 15c.
- 
+<<Project End>>
+<<Project Start>>
 99.554BC
 D
  
@@ -2576,7 +2272,8 @@ the application was not complete.
 
  
 16a.
- 
+<<Project End>>
+<<Project Start>>
 2000.277
 B
 XC
@@ -3348,7 +3045,8 @@ At the call of the Chair, the 801 Market Street was continued to March
 
  
 16b.
- 
+<<Project End>>
+<<Project Start>>
 2000.277B
 X
 C
@@ -3418,7 +3116,8 @@ action for item 16a.
 
  
 16c.
- 
+<<Project End>>
+<<Project Start>>
 2000.277BX
 C
  
@@ -3483,7 +3182,8 @@ action for item 16a.
 
  
 17a.
- 
+<<Project End>>
+<<Project Start>>
 1999.603B
 X
  
@@ -3715,7 +3415,8 @@ Baltimore, Chinchilla, Joe, Fay, Salinas, Theoharis
 
  
 17b.
- 
+<<Project End>>
+<<Project Start>>
 1999.603
 B
 X 
@@ -3786,8 +3487,6 @@ Approximately
 9:15 p.m.
  the Planning Commission convened
 into a Special Discretionary Review (DR) Hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3795,7 +3494,8 @@ into a Special Discretionary Review (DR) Hearing.
 
  
 18.
- 
+<<Project End>>
+<<Project Start>>
 2000.1095DDD
  
 (TAM:
@@ -3843,8 +3543,6 @@ ACTION:
  
 All
 Three DR Applications Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3852,7 +3550,8 @@ Three DR Applications Withdrawn
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2001.0071D
  
 (MEHRA:
@@ -3984,8 +3683,6 @@ ABSENT:
  
 Fay,
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3993,7 +3690,8 @@ Salinas
 
  
 20.
- 
+<<Project End>>
+<<Project Start>>
 2000.1243D
  
 (CABREROS:
@@ -4206,8 +3904,6 @@ ABSENT:
  
 Fay,
 Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4215,7 +3911,8 @@ Salinas
 
  
 21.
- 
+<<Project End>>
+<<Project Start>>
 2001.0008D
  
 (SMITH:

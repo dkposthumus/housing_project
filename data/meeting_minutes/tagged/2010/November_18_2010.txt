@@ -1,316 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 18, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ November 18, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-November 18, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, 
-November 18, 2010
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Miguel, Olague, Antonini, Borden, Moore and Sugaya
-
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS 
-CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:38 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE:  John Rahaim â Director of Planning, David Lindsay, Mark Luellen, 
-Sharon Young, Mary Woods, Rick Crawford, Kevin Guy, Erika Jackson, Sara Vellve, 
-Kate McGee, Ilaria Salvadori, Amnon Ben-Pazi, Matt Snyder, Joy Navarrete, 
-Elizabeth Watty, Joshua Switzky, and Linda Avery â Commission Secretary.
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-
-1.         
 2010.0965T                                                                   (T. 
 SULLIVAN: (415) 558-6257)
 
@@ -381,8 +69,6 @@ ACTION:           Continued as proposed
 
 AYES:              
 Antonini, Borden, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -502,8 +188,6 @@ ACTION:           Continued as proposed
 
 AYES:              
 Antonini, Borden, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -513,7 +197,9 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2010.0911D                                                            (S. 
 Caltagirone:  (415) 558-6625)
 
@@ -571,30 +257,30 @@ ACTION:           Continued to January 20, 2011
 
 AYES:              
 Antonini, Borden, Moore, Sugaya, Olague and Miguel
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+4.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
-4.         
 2008.0021E                                                             
          (R. COOPER: (415) 575-9027)
 
@@ -704,7 +390,9 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 
-5a.        
+5a.
+<<Project End>>
+<<Project Start>>
 2010.0014D                                                                    
       
 (A. Starr: (415) 558-6362)
@@ -767,7 +455,9 @@ ACTION:           No action required
 
 
 
-5b.       
+5b.
+<<Project End>>
+<<Project Start>>
 2010.0994D                                                      
 
                     (A. Starr: (415) 
@@ -846,8 +536,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -857,11 +545,9 @@ separate item at this or a future hearing
 
 
 
-6.        
-
-
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2010.0638C
                                                        
                     
@@ -943,8 +629,6 @@ C.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -990,8 +674,6 @@ of the next meeting and other future meetings of the Planning Commission.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1003,8 +685,6 @@ D.         DIRECTORâS REPORT
 
 8.         
 Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1132,8 +812,6 @@ G.
            
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1145,11 +823,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 
-            10.       
-
-
-
-
+            10.
+<<Project End>>
+<<Project Start>>
 2010.0583C
                                                                    
    (M. WOODS: (415) 558-6315)
@@ -1240,9 +916,7 @@ MOTION:           18221
 H.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -1251,11 +925,9 @@ REGULAR CALENDAR
 
 
 
-11.       
-
-
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0514C
                                            
                       (R. CRAWFORD: (415) 558-6358)
@@ -1327,8 +999,6 @@ NAYES:            Moore
 
 
 MOTION:           18224
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1336,11 +1006,9 @@ MOTION:           18224
 
 
 
-12.       
-
-
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2009.0646C 
 
                                                                              (K. 
@@ -1387,8 +1055,6 @@ ACTION:           Without hearing, continued to 1/13/11
 
 AYES:              
 Antonini, Borden, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1396,11 +1062,9 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 
-13.       
-
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.0710C
                                                        
                
@@ -1493,8 +1157,6 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 MOTION:           18225
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1502,11 +1164,9 @@ MOTION:           18225
 
 
 
-14.       
-
-
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2010.0257C
                                                                    
       
@@ -1570,8 +1230,6 @@ ABSENT:          Olague
 
 
 MOTION:           18227
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1579,11 +1237,9 @@ MOTION:           18227
 
 
 
-15.       
-
-
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2010.0695C
                                                                    
      (S. VELLVE: (415) 558-6263)
@@ -1648,16 +1304,14 @@ ABSENT:          Olague
 
 
 MOTION:           18228
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2010.0863T
                                           
 
@@ -1722,8 +1376,6 @@ public hearing will remain open.
 
 AYES:              
 Antonini, Borden, Moore, Sugaya, Olague and Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1734,11 +1386,9 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 
-17.       
-
-
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2010.0878 EMTRU
                                  
                          
@@ -1806,12 +1456,9 @@ MOTION:           18229
  
 
 
-18a.      
-
-
-
-
-
+18a.
+<<Project End>>
+<<Project Start>>
 2010.0945TZU
                                                    
               
@@ -1907,9 +1554,9 @@ RESOLUTION:   18222
  
 
 
-18b.     
-
-
+18b.
+<<Project End>>
+<<Project Start>>
 2010.0945TZU
  
 
@@ -1968,18 +1615,14 @@ Antonini, Borden, Moore, Sugaya, Olague and Miguel
 
 
 RESOLUTION:   18223
+
+
+
+
+
+19.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-19.       
-
-
-
-
 2006.0422MTZE
                                                             
 (M. SNYDER: (415) 575-6891) 
@@ -2028,8 +1671,6 @@ Gensler and Tim Colen
 
 
 ACTION:           Informational only â no action
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2040,15 +1681,9 @@ ACTION:           Informational only â no action
 
 
 
-20.       
-
-
-
-
-
-
-
-
+20.
+<<Project End>>
+<<Project Start>>
 2006.0422E
                                            
                       (J. NAVARRETE: (415) 575-9040)
@@ -2141,8 +1776,6 @@ ACTION:           Public hearing on the Draft EIR â no action
 
 5:30 
 P.M.
-<<Project End>>
-<<Project Start>>
 
 
 

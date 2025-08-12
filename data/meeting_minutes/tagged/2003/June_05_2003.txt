@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 05, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ June 05, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-June 05, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 05, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 5, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Shelley Bradford Bell, Edgar E. Boyd, Michael J. Antonini; Lisa Feldstein, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Kevin Hughes
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director; Larry Badiner -Zoning Administrator; Judy Boyajian, Deputy City Attorney; John Paul Samaha; Costolino Hogan; Diane Lim, Yvonne Ko, Jamilla Vollman; Paul Lord; Teresa Ojeda; Daniel Sider; Tina Tam; Ben Fu; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0339C                                                                          (K. AMDUR:  (415) 558-6351)
 
 
@@ -267,8 +27,6 @@ AYES: Antonini, Bradford Bell, Feldstein, S. Lee, W. Lee
 ABSENT: Boyd, Hughes
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0165D             (D. SIROIS: (415) 558-6313)
 
 
@@ -350,8 +108,6 @@ AYES:  Antonini, Bradford Bell, Feldstein, S. Lee, W. Lee
 ABSENT: Boyd, Hughes
 <<Project End>>
 <<Project Start>>
-
-
 4. 2003.0445D                                                                              (J. TULLY: (415) 558-6372)
 
 
@@ -374,9 +130,6 @@ ACTION: Discretionary Review Application Withdrawn
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 5. Consideration of Adoption - draft minutes of May 1, and 15, 2003.
 
 
@@ -420,8 +173,6 @@ ABSENT: Boyd, Hughes
 The following item was taken out of order.  Followed item 11.
 <<Project End>>
 <<Project Start>>
-
-
 6. Commission Comments/Questions
 
 
@@ -476,8 +227,6 @@ Re:  Housing Element
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 7. Director's Announcements
 
 
@@ -493,8 +242,6 @@ Re:  Budget
 - This is the first chance for the department to speak on what the department has been asked to carry out and what the department cannot carry out.
 <<Project End>>
 <<Project Start>>
-
-
 8. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -753,8 +500,6 @@ ABSENT: Hughes
 RESOLUTION: 16592
 <<Project End>>
 <<Project Start>>
-
-
 10. 2002.1093C                  (J. VOLLMANN (415) 558-6612)
 
 
@@ -786,8 +531,6 @@ ABSENT: Hughes
 MOTION: 16593
 <<Project End>>
 <<Project Start>>
-
-
 11. 2003.0281T                                                                               (P. LORD: (415) 558-6311)
 
 
@@ -852,8 +595,6 @@ RESOLUTION: 16594
 4:00 p.m.
 <<Project End>>
 <<Project Start>>
-
-
 12. 2000.465M  (T. OJEDA (415)  558-6251)
 
 
@@ -1687,8 +1428,6 @@ At approximately
  the Planning Commission convened into a Discretionary Review (DR) Hearing to hear and act on Discretionary Review matters.
 <<Project End>>
 <<Project Start>>
-
-
 13. 2002.0557D (D. SIDER: (415) 558-6697)
 
 
@@ -1711,8 +1450,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, S. Lee
 ABSENT: Hughes, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 14. 2003.0293D (D. SIDER: (415) 558-6697)
 
 
@@ -1737,8 +1474,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, S. Lee
 ABSENT: Hughes, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 15.  2003.0261D                                                                                  (T. TAM: (415) 558-6325)
 
 
@@ -1770,8 +1505,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, S. Lee
 ABSENT: Hughes, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0344D                           (B. FU: (415) 558-6613)
 
 

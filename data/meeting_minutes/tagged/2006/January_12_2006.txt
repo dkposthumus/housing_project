@@ -1,294 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ January 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-January 12, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 12, 2006
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 12, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- 
-S. Lee
-;
-D. Alexander M. Antonini;
- 
-S. Bradford Bell
-; K. Hughes;
-
-
- 
- 
- 
-W. Lee; C. Olague
-
-
- 
-
-
-COMMISSIONERS ABSENT: 
- 
- NONE
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:50 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Planning Director; Larry Badiner – Zoning Administrator; April Hesik, Teresa Ojeda, Lisa Gibson, Sara Vellve, Kate Conner, Tina Tam, Glenn Cabreros, Daniel Sirois, Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2005.0541
+2005.0541
 XCV
  
  
@@ -346,16 +57,15 @@ h of 20 feet.
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2005.0816C
+<<Project End>>
+<<Project Start>>
+2005.0816C
  
  
  
@@ -405,8 +115,9 @@ SPEAKERS:
 
 
 3a
- 
- 2004.1160D
+<<Project End>>
+<<Project Start>>
+2004.1160D
  
  
  
@@ -461,8 +172,9 @@ SPEAKERS:
 
 
 3b.
- 
- 2005.0922D
+<<Project End>>
+<<Project Start>>
+2005.0922D
  
  
  
@@ -512,8 +224,6 @@ SPEAKERS:
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -575,16 +285,15 @@ SPEAKERS:
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2005.1270DDD
+<<Project End>>
+<<Project Start>>
+2005.1270DDD
  
  
  
@@ -641,8 +350,9 @@ SPEAKERS:
 
 
 6a.
- 
- 2005.0480
+<<Project End>>
+<<Project Start>>
+2005.0480
 C
 V
  
@@ -701,8 +411,9 @@ SPEAKERS:
 
  
  6b.
- 
- 2005.0480C
+<<Project End>>
+<<Project Start>>
+2005.0480C
 V
  
  
@@ -753,9 +464,10 @@ SPEAKERS:
 
 
  
- 6c. 
- 
- 2005.0481
+ 6c.
+<<Project End>>
+<<Project Start>>
+2005.0481
 D
 V
  
@@ -813,9 +525,10 @@ SPEAKERS:
 
 
  
- 6d. 
- 
- 2005.0481D
+ 6d.
+<<Project End>>
+<<Project Start>>
+2005.0481D
 V
  
  
@@ -874,16 +587,15 @@ These reports are very detailed and I would like to have a two week continuance.
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2005.0722D
+<<Project End>>
+<<Project Start>>
+2005.0722D
  
  
  
@@ -923,16 +635,15 @@ SPEAKERS:
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2005.0456EC
+<<Project End>>
+<<Project Start>>
+2005.0456EC
  
  
  
@@ -996,8 +707,9 @@ SPEAKERS:
 
  
  9a.
- 
- 2005.0148
+<<Project End>>
+<<Project Start>>
+2005.0148
 DD
 V
  
@@ -1055,8 +767,9 @@ SPEAKERS:
 
  
  9b.
- 
- 2005.0148DD
+<<Project End>>
+<<Project Start>>
+2005.0148DD
 V
  
  
@@ -1112,8 +825,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1133,8 +844,6 @@ Commissioner Olague:
 
 
 I was wondering if we could include some information from the Back Streets Advisory Group that's been meeting in relationship to the work that they've been doing around Eastern Neighborhoods
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1185,8 +894,6 @@ Establish August 31 and November 30 as Special hearing dates that can be cancele
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1386,8 +1093,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  14a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0955
 C
 V
@@ -1458,8 +1165,9 @@ MOTION:
 
  
  14b.
- 
- 2005.0955C
+<<Project End>>
+<<Project Start>>
+2005.0955C
 V
  
  
@@ -1501,8 +1209,6 @@ ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND GRANTED THE VARIANCE.
 
 
 F.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1511,8 +1217,9 @@ F.REGULAR CALENDAR
 
 
 15.
- 
- 2005.1036E
+<<Project End>>
+<<Project Start>>
+2005.1036E
 T
 : 
  
@@ -1721,8 +1428,6 @@ NAYES:
 MOTION:
  
  17171
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1730,8 +1435,9 @@ MOTION:
 
  
  16.
- 
- 2005.1116E
+<<Project End>>
+<<Project Start>>
+2005.1116E
 T
  
  
@@ -2011,8 +1717,6 @@ ABSENT:
 MOTION:
  
  17170
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2020,8 +1724,9 @@ MOTION:
 
  
  17.
- 
- 2002.1129E
+<<Project End>>
+<<Project Start>>
+2002.1129E
  
  (L. GIBSON:
  
@@ -2244,8 +1949,6 @@ ACTION:
  Meeting held.
  
  No Action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2253,8 +1956,9 @@ ACTION:
 
  
  18.
- 
- 2002.1129E
+<<Project End>>
+<<Project Start>>
+2002.1129E
  
  
  
@@ -2450,16 +2154,15 @@ ACTION:
 
 
 3:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2005.1047D
+<<Project End>>
+<<Project Start>>
+2005.1047D
  
  
  
@@ -2616,16 +2319,15 @@ AYES:
 ABSENT:
  
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2005.0991C
+<<Project End>>
+<<Project Start>>
+2005.0991C
  
  
  
@@ -2755,16 +2457,14 @@ AYES:
 ABSENT:
  
  Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0608DD
  
  
@@ -2857,16 +2557,15 @@ AYES:
 ABSENT:
  
  Bradford-Bell, Hughes, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2005.1033D
+<<Project End>>
+<<Project Start>>
+2005.1033D
  
  
  
@@ -2920,8 +2619,6 @@ AYES:
 ABSENT:
  
  Bradford-Bell, Hughes, Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2931,8 +2628,9 @@ ABSENT:
 
 
 23.
- 
- 2004.0400D
+<<Project End>>
+<<Project Start>>
+2004.0400D
  
  
  
@@ -2977,16 +2675,15 @@ MOTION:
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
- 
- 2005.0751D
+<<Project End>>
+<<Project Start>>
+2005.0751D
  
  
  
@@ -3031,8 +2728,6 @@ MOTION:
  AYES:
  
  S. Lee; Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3045,8 +2740,9 @@ MOTION:
 
 
 25.
- 
- 2005.0578D
+<<Project End>>
+<<Project Start>>
+2005.0578D
  
  
  

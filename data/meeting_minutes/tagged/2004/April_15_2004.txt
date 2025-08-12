@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ April 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-April 15, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 15, 2004
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 15, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Lisa Feldstein and Kevin Hughes
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT  p.m.
-
-
-STAFF IN ATTENDANCE:
-  Craig Nikitas - Acting Director and Acting Zoning Administrator; Amit Ghosh; Rick Crawford; Ann Marie Rodgers; David Alumbaugh; Joshua Switzky; Jasper Rubin, Dario Jones; Glenn Cabreros; Dan DiBartolo; Matt Snyder; Elaine Tope; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.1015E (N. TURRELL: (415) 558-5994)
 
 
@@ -271,8 +31,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee
 ABSENT: Boyd, Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 2. 2004. 0164D (W. HASTIE: (415) 558-6381)
 
 
@@ -409,8 +167,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee
 ABSENT: Boyd, Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.0724C  (M. WOODS: (415) 558-6315)
 
 
@@ -495,8 +251,6 @@ AYES: Antonini, Bradford Bell, S. Lee, W. Lee
 ABSENT: Boyd, Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 7. 2004.0180D                                       (G. CABREROS: (415) 558-6169)
 
 
@@ -525,9 +279,6 @@ ABSENT: Boyd, Feldstein and Hughes
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 8. Commission Comments/Questions
 
 
@@ -651,8 +402,6 @@ SPEAKERS: None
 ACTION: None.  At the call of the Chair, the item was continued to May 13, 2004.
 <<Project End>>
 <<Project Start>>
-
-
 9.  (ISABEL WADE:  (415) 621-3260 ext. 114)
 
 
@@ -711,8 +460,6 @@ ACTION: None.  Informational only.
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 10. Director's Announcements
 
 
@@ -725,8 +472,6 @@ Acting Director Craig Nikitas gave the following report:
 - Rick Crawford from staff is here to provide staff input.
 <<Project End>>
 <<Project Start>>
-
-
 11. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -775,8 +520,6 @@ BOA - None
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0860D                      (E. TOPE: (415) 558-6316)
 
 
@@ -838,8 +581,6 @@ AYES: Antonini, Boyd, S. Lee, W. Lee
 ABSENT: Bradford Bell, Hughes and Feldstein
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.1316DD (F. JONES: (415) 558-6477)
 
 
@@ -1093,8 +834,6 @@ AYES: Antonini, Boyd, S. Lee, W. Lee
 ABSENT: Bradford Bell, Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 14. 2004.0067DD               (G. CABREROS: (415) 558-6169)
 
 
@@ -1177,8 +916,6 @@ AYES: Antonini, Boyd, S. Lee, W. Lee
 ABSENT: Bradford Bell, Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 15.  (RODGERS/ALUMBAUGH: (415) 558-6395/558-6601)
 
 
@@ -1395,8 +1132,6 @@ ABSENT: Feldstein and Hughes
 RESOLUTION: 16769
 <<Project End>>
 <<Project Start>>
-
-
 16.  (D. ALUMBAUGH/J. RUBIN: (415) 558-6601/558-6310)
 
 
@@ -1473,8 +1208,6 @@ Joe Ross
 ACTION: Informational Presentation Only.  No action.
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.1305C (D. DIBARTOLO:  (415) 558-6291)
 
 
@@ -1530,8 +1263,6 @@ ABSENT: Feldstein and Hughes
 MOTION: 16767
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.1208C                                (M. SNYDER: (415) 575-6891)
 
 
@@ -1571,8 +1302,6 @@ AYES: Antonini, Bradford Bell, Boyd, S. Lee, W. Lee
 ABSENT: Feldstein and Hughes
 <<Project End>>
 <<Project Start>>
-
-
 19. 2004.0140C (M. SNYDER: (415) 575-6891)
 
 

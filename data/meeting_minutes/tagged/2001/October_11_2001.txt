@@ -1,220 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ October 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-October 11, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 11, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, October 11, 2001
-1:30 PM
-Regular Meeting
-PRESENT:          Theoharis, William W. Fay, Baltimore, Chinchilla Joe, Lim, Salinas
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:42 P.M.
-STAFF IN ATTENDANCE: Gerald G. Green – Director of Planning; Larry Badiner – Zoning Administrator; Kenneth Chin; Dan DiBartolo; Mary Woods; Daniel Sirois; Michael Smith; Glenn Cabreros; Frank Jones; Patricia Gerber – Transcription Secretary; Linda D. Avery – Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
 1.          (GREEN:  558-6411)
                     Discussion and consideration of proposed amendments to the Planning Commission's Inclusionary Housing Policy.
                     Preliminary Recommendation:  Approval
@@ -226,8 +10,7 @@ A.          ITEMS PROPOSED FOR CONTINUANCE
             ABSENT:               Lim
 <<Project End>>
 <<Project Start>>
-          
-          2.          2001.0327C          (WOODS: 558-6315)
+2.          2001.0327C          (WOODS: 558-6315)
                     2038 CLEMENT STREET - north side between 21st and 22nd Avenues, Lot 32 in Assessor's Block 1412 - Request for Conditional Use authorization under Section 717.39 of the Planning Code to demolish an existing two-story building containing retail on the ground floor and two dwelling units on the second floor and construct a new, four-story building containing three parking spaces on the ground floor and three dwelling units above the ground floor in the Outer Clement Street Neighborhood Commercial District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Pending
           (Continued from Regular Meeting of September 20, 2001)
@@ -260,7 +43,7 @@ Preliminary Recommendation: Pending
             ABSENT:               Lim
 <<Project End>>
 <<Project Start>>
-          5.          2001.0254D                                                                                  (CABREROS:  558-6169)
+5.          2001.0254D                                                                                  (CABREROS:  558-6169)
                     3040 STEINER STREET - east side between Filbert and Union Streets, Lot 050 in Assessor’s Block 0534 - Request for Discretionary Review of Building Permit Application No. 9913355S, proposing to construct a one-story penthouse measuring approximately 10x15 feet (150 square feet) on top of the flat roof of the existing two-unit building, with access to a new 300 square-foot roof deck to contain a spa in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
 Preliminary Recommendation:  Take Discretionary Review and approve the project with modifications.
 (Continued from Regular Meeting August 16, 2001)
@@ -282,13 +65,13 @@ Preliminary Recommendation: Pending
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          7.          Consideration of Adoption - draft minutes of August 16, and 23, 2001.  
+7.          Consideration of Adoption - draft minutes of August 16, and 23, 2001.  
           ACTION:     Approved
                AYES:         Theoharis, Fay, Baltimore, Chinchilla, Joe, Salinas
                ABSENT:     Lim
 <<Project End>>
 <<Project Start>>
-          8.          Commission Matters
+8.          Commission Matters
           
           Commissioner Theoharis:       
 Re:  Audit 
@@ -328,7 +111,7 @@ D.          REGULAR CALENDAR
 ACTION:               ZONING ADMINISTRATOR CLOSED PUBLIC HEARING AND HAS TAKEN THIS MATTER UNDER ADVISEMENT
 <<Project End>>
 <<Project Start>>
-          13.          2000.1217C                                                                                  (DiBARTOLO: 558-6291)
+13.          2000.1217C                                                                                  (DiBARTOLO: 558-6291)
                     1100-1126 POLK STREET (AKA:  1092 POST STREET) - northeast corner of Post and Polk Streets; Lot 12 in Assessor’s Block 692 - Request for Conditional Use authorization to allow amplified live and recorded music (defined as "Other Entertainment" by Planning Code Section 790.38) in an existing bar, d.b.a. The Lush Lounge, as required by Planning Code Section 723.48 in the Polk Street Neighborhood Commercial Zoning District and a 130-E Height and Bulk District.
           Preliminary Recommendation: Approval with Conditions
 (Continued from Regular Meeting of September 13, 2001)
@@ -436,8 +219,7 @@ ACTION:          Public hearing closed.  Passed a motion of intent to 
           NAYES:           Theoharis, Chinchilla, Joe
 <<Project End>>
 <<Project Start>>
- 
-          15.          2001.0552C          (SIROIS: 558-6313)
+15.          2001.0552C          (SIROIS: 558-6313)
                     4610 MISSION STREET - north side of Mission Street, between San Juan Avenue and Norton Street, Lot 003 Assessor’s Block 3206 - Request for Conditional Use Authorization by Metro PCS to install a wireless telecommunications facility pursuant to Planning Code Section 712.83, which includes the installation of eight panel antennas, one GPS antenna and associated equipment cabinets in an NC-3 (Moderate-Scale Neighborhood Commercial) District and a 65-A Height and Bulk District. The subject site is a Preference Location 4.
 Preliminary Recommendation: Approval with conditions
 (Continued from Regular Meeting of September 13, 2001)

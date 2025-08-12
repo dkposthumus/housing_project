@@ -1,308 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 5, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ June 5, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-June 5, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, June 5, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:11 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez –
-  
-Zoning Administrator, 
-
-        Kanishka Burns,
-  
-AnMarie Rodgers, Marcelle Boudreaux, Tina Chang, Elizabeth Purl, Claudia Flores, Doug Vu, Glenn Cabreros, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.0936UT
       
                                                                                            
@@ -345,15 +41,14 @@ Wu, Antonini, Borden, Moore, Sugaya
 ABSENT:
                 
 Hillis, Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.1166T
                                                           
                    
@@ -415,8 +110,6 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -424,7 +117,8 @@ There will be no separate discussion of these items unless a member of the Commi
 
                 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2014.0514Q
                                          
           
@@ -476,15 +170,14 @@ Hillis, Fong
 MOTION:
                
 19161
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-             
+<<Project End>>
+<<Project Start>>
 2014.0489C
                                                           
                                           
@@ -537,8 +230,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -590,8 +281,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -753,8 +442,6 @@ I seem to remember that, staff did make a presentation that included that statem
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -772,8 +459,6 @@ Jeff Joslin, Director of Current of Planning:
 
 
 I believe you got a copy of the Director’s Report in your packets, I have nothing to add to report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -944,8 +629,6 @@ These items do not amend the Planning Code and will not be brought to the Planni
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140556. Charter Amendment, Transportation Fund Adjustment
 . Wiener.
@@ -957,8 +640,6 @@ The Amendment would amend the Charter to adjust the required annual appropriatio
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140555. Charter Amendment Rainy Day Reserve
 . Avalos. The Amendment would amend the Charter to provide for a City Reserve and a School Reserve within the existing Rainy Day Reserve.
@@ -968,8 +649,6 @@ The Amendment would amend the Charter to adjust the required annual appropriatio
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140554. Charter Amendment Special Elections for Vacancies.
   
@@ -1266,15 +945,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
                 
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2013.0154E
                                                                           
                                
@@ -1327,15 +1005,14 @@ Mitigate or litigate.
 ACTION:
                                 
 Reviewed and Commented
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2006.1308EMTZW
                                                               
    
@@ -1361,8 +1038,9 @@ AB 5107/001, 003, 004, 005; AB 6233/048, 055; AB 6248/002, 045; AB 6249/001, 002
  
 
 
-10a. 
-       
+10a.
+<<Project End>>
+<<Project Start>>
 2006.1308EMTZW
                                                                               
          
@@ -1467,8 +1145,9 @@ RESOLUTION:
  
 
 
-10b. 
-       
+10b.
+<<Project End>>
+<<Project Start>>
 2006.1308EMTZW
               
                                                                            
@@ -1559,15 +1238,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 19164
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2010.0726X
                                           
                                                                     
@@ -1670,15 +1348,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19165
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.0227C
                                                                           
                   
@@ -1768,15 +1445,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19166
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2014.0202C
                                                                           
                

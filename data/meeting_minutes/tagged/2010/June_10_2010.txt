@@ -1,266 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 10, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ June 10, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-June 10, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 10, 2010
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONERS ABSENT:  Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:48 A.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, David Lindsay, Jonas Ionin, Debra Dwyer, Jim Miller, Tara Sullivan, AnMarie Rodgers, Devyani Jain, Glenn Cabreros, Mary Woods, Sara Vellve, Elizabeth Watty, Michael Smith, Corey Teague, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1
-.            
 2008.0494C
                                                                          
 (E. WATTY: (415) 558-6620)
@@ -327,8 +65,6 @@ B.         COMMISSIONERSâ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  â Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -354,8 +90,6 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -428,8 +162,6 @@ In the paper about two or three weeks ago there was photograph of the Pavement-t
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -446,8 +178,6 @@ Director Rahaim
 
 
 Last night we held a public workshop in Fishermanâs Wharf on the design of Jefferson Street.  There was a positive meeting with strong support for that design.  We are moving ahead with environmental review on that design as well with some funding from local merchants as well as the Port.  That project should hopefully be able to proceed in the coming months.  With respect to Articles 10 & 11 â it was on my list to talk to you about it â the Historic Preservation Commission had a discussion about this when I was there last month as well as other interested parties.  My thought at this point is that I believe that there are steps that we can take as a Department to move forward with some elements of Articles 10 & 11.  So I was going to prepare in the next couple of weeks a memo for both commissions outlining my suggested approach for how to proceed.  It might involve a hearing somewhat later in the process because I think there are some smaller steps we can take before then as well as an idea I presented to the Historic Preservation Commission, which is to have a kind of workshop on preservation issues.  I think itâs time we got a group of interested parties and commissioners around the table, perhaps for a day-long session on this.  Iâm suggesting that we do that in the fall.  It will take some funding to facilitate this, but I think itâs time we do this.  I think there are some interesting discussions that are happening and for lack of a better term Iâm calling it a Preservation Summit that we would have in the fall.  It would involve members of the public, the Commissions, staff and other experts. The last thing I want to do is introduce our three summer interns that in the audience today.  First is Loretta Ann Subaruski who is a Masters student in Historic Preservation at the University of Southern California.  She is also working on a certificate in Building Sciences.  She is originally from Los Angeles, but has spent some time in San Francisco as well.  She will be working with the Preservation staff on a number of issues.  Next we have Alexandra Sweet who is getting a Masters degree in City Planning from the University of Pennsylvania.  She will be working with the City Design Public Realm project in North Beach working with the Urban Design Public Realm team.  And we have Christopher Loaman who is from Palo Alto, graduating from Stanford â actually this Sunday as I understand.  He was a double major in History and Archeology.  He is working for Randall Dean, our staff archeologist researching Chinese immigrant archeology in San Francisco.  Iâm very pleased to have them and I look forward to working with them all summer.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -532,8 +262,6 @@ Historic Preservation Commission:
 
             
  No report â they did not meet this week
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -625,15 +353,14 @@ PUBLIC COMMENT ON AGENDA ITEMS WHERE THE PUBLIC HEARING HAS BEEN CLOSED
 
 
 At this time, members of the public who wish to address the Commission on agenda items that have already been reviewed in a public hearing at which members of the public were allowed to testify and the public hearing has been closed must do so at this time.  Each member of the public may address the Commission for up to three minutes.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-        
+<<Project End>>
+<<Project Start>>
 2005.1074E
                                                                             (D. DWYER: (415) 575-9031)
 
@@ -700,7 +427,8 @@ F.         REGULAR CALENDAR 
 
            
 8a.
-       
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
                                                                      
 (J. MILLER: (415) 558-6344)   
@@ -739,7 +467,9 @@ ABSENT:          Borden
  
 
 
-8b.       
+8b.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX   
                                                                  (J. MILLER: (415) 558-6344)                      
 
@@ -778,7 +508,9 @@ ABSENT:          Borden
  
 
 
-8c.       
+8c.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
                                                                     
  (J. MILLER: (415) 558-6344)       
@@ -815,7 +547,9 @@ ABSENT:          Borden
  
 
 
-8d.       
+8d.
+<<Project End>>
+<<Project Start>>
 2008.0217CVX
                                                          
 (J. MILLER: (415) 558-6344)       
@@ -848,14 +582,14 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-9.        
+9.
+<<Project End>>
+<<Project Start>>
 2009.1180TZM
                                                                  (T. SULLIVAN: (415) 558-6257)
 
@@ -889,8 +623,6 @@ ABSENT:          Borden
 
 MOTION:           
 18105
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -930,8 +662,6 @@ ABSENT:          Borden
 
 RESOLUTION:   
 18106
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -960,15 +690,15 @@ In Opposition
 :  Maria Ocon â Local 2, Kip Potter â Historic Nob Hill, Joyce Reitman â Historic Nob Hill, Keith Whiteman â Historic Nob Hill, Laura Potter â Historic Nob Hill, Mary Ann Collier, Paul Fisher, Herb Yanowitz, Sue Hestor â Local 2,  Michael Freeman, Justin Austin Livingston
 
 
-ACTION:           This was a public hearing on the draft EIR.  There was no Commission action
-<<Project End>>
-<<Project Start>>
+ACTION:           This was a public hearing on the draft EIR.  There was no Commission action   
 
 
  
 
 
-12.       
+12.
+<<Project End>>
+<<Project Start>>
 2010.0126D
                                                                 
 (
@@ -1005,14 +735,14 @@ RECUSED:       Sugaya
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.       
+13.
+<<Project End>>
+<<Project Start>>
 2010.0210D
                                                                        (M. WOODS; (415) 558-6315)
 
@@ -1047,8 +777,6 @@ ABSENT:          Borden
 
 DRA No:           
 0152
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1088,7 +816,9 @@ ABSENT:          Borden
  
 
 
-15a.     
+15a.
+<<Project End>>
+<<Project Start>>
 2006.0674D
                                                                         (E. WATTY: (415) 558-6620)
 
@@ -1122,7 +852,9 @@ ABSENT:          Borden
  
 
 
-15b.     
+15b.
+<<Project End>>
+<<Project Start>>
 2008.0624D
                                                                         (E. WATTY: (415) 558-6620)
 
@@ -1152,14 +884,14 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.       
+16.
+<<Project End>>
+<<Project Start>>
 2009.0085D
                                                                           (M. SMITH: (415) 558-6322)
 
@@ -1196,14 +928,14 @@ ABSENT:          Borden
 
 DRA No:           
 0153
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.       
+17.
+<<Project End>>
+<<Project Start>>
 2010.0236DDD
                                                                  (C. TEAGUE: (415) 575-9081)
 

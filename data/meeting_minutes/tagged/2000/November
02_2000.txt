@@ -1,172 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-San Francisco Planning Commission Meeting Minutes June 2000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Clickon the date and you will reach the minutes for that that week. The minutes
-present a summary of actions taken at the Planning Commission hearing and
-provides a Motion or Resolution number for that action.
-
-
-With most browsers you will be able
-tosearchfor any text item by using the Ctrl-F keys. It is recommended you
-searchby casenumber and suffix, if you know it, as that will always be a
-uniqueitem. Youmay search by any identifying phrase, including project
-addresses.
-
-
-Please note, commission minutes generally are
-approved and finalized two weeks following the hearing date.
-
-
-?
-        
-
-November
-02, 2000
-
-
-?
-        
-
-November
-09, 2000
-
-
-?
-        
-
-November
-16, 2000
-
-
- 
-
-
-
-
- 
-
-
-
-
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Board of Supervisors
-Chambers - Room 250
-
-
-City Hall, 1 Dr. Carlton
-B. Goodlett Place
-
-
-Thursday, November 2,
-2000
-
-
-1:30 PM
-
-
- 
-
-
-Regular Meeting
-
-
-
-
-
-
-
-
-PRESENT:       Baltimore,
-Chinchilla, Fay,Joe, Mills, Salinas, Theoharis
-
-
-ABSENT: None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40
-P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Gerald G. Green - Director of Planning; Larry
-Badiner - Zoning Administrator; Leslie Buford; Ricardo Bressanutti; Irene
-Nishimura; Pedro Arce; Paul Maltzer; Paul Lord; Rick Cooper; Sharon Young; Mary
-Woods; Jim Miller; Elizabeth Gordon; Dario Jones; Ken Chin; Andrea Wong; Nora
-Priego - Transcription Secretary; Linda D. Avery - Commission Secretary
-
-
- 
-
-
-A.
-
-ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
 2000.270C (BRESSANUTTI: 575-6892)
 
 
@@ -205,14 +37,14 @@ Continued to November 9, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
+<<Project End>>
+<<Project Start>>
 2000.996T                      
 (HERRERA: 558-6316)
 
@@ -253,14 +85,14 @@ Continued to November 9, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
+<<Project End>>
+<<Project Start>>
 1999.690E (BUFORD: 558-5973)
 
 
@@ -304,14 +136,14 @@ Continued to November 16, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
+<<Project End>>
+<<Project Start>>
 2000.299E           
           (T. CHAN: 558-5982)
 
@@ -350,14 +182,14 @@ Continued to December 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
+<<Project End>>
+<<Project Start>>
 1999.849E         (NAVARRETE: 558-5975)
 
 
@@ -404,8 +236,6 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe Salinas
 B.
 
 COMMISSIONERS? QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -429,8 +259,6 @@ that there was supposed to be a report on teacups. When will this be scheduled?
 C.
 
 DIRECTOR?S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -441,8 +269,6 @@ Director ?s Announcements.
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -482,11 +308,8 @@ REGULAR CALENDAR
 
 
 ADDENDUM ITEM:
-
-
- 
-
-
+<<Project End>>
+<<Project Start>>
 2000.009E
             
             
@@ -779,14 +602,14 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 MOTION
 NO. 
 16014
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
+<<Project End>>
+<<Project Start>>
 2000.290E (BUFORD: 558-5973)
 
 
@@ -895,15 +718,14 @@ Baltimore
 MOTION
 NO. 
 16015
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-
+<<Project End>>
+<<Project Start>>
 2000.290C
 (BRESSANUTTI: 575-6892)
 
@@ -1076,6 +898,8 @@ NO.
 
 
 11a.
+<<Project End>>
+<<Project Start>>
 1999.579E
             (NISHIMURA:
 558-5967)
@@ -1137,6 +961,8 @@ NO.
 
 
 11b.
+<<Project End>>
+<<Project Start>>
 1999.579C
             (GORDON:
 558-6309)
@@ -1309,8 +1135,6 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 MOTION
 NO. 
 16018
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1418,6 +1242,8 @@ NO.
 
 
 13a.
+<<Project End>>
+<<Project Start>>
 1999.346TZ (MALTZER: 558-6391)
 
 
@@ -1441,8 +1267,6 @@ Mission Bay South Redevelopment Project Areas, the Hunters Point Shipyard
 Redevelopment Project Area, the Rincon Point/South Beach Redevelopment Project
 Area and the Transbay Survey Area. The interim zoning controls would be
 extended for a period of nine (9) months, from November 5, 2000 to August 5,
-<<Project End>>
-<<Project Start>>
 2001.
 
 
@@ -1882,14 +1706,14 @@ See speakers after item 13b.
 ACTION:
 
 Without Hearing - Continued to November 9, 2000
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
+<<Project End>>
+<<Project Start>>
 2000.1007T (LORD: 558-6311)
 
 
@@ -2018,14 +1842,14 @@ Continued to November 16, 2000. Public Hearing will remain open.
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
+<<Project End>>
+<<Project Start>>
 1999.795E            (COOPER:
 558-5974)
 
@@ -2082,14 +1906,14 @@ She tracked permits on projects pending.
 ACTION:
 
 No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
+<<Project End>>
+<<Project Start>>
 2000.530C (YOUNG: 558-6346)
 
 
@@ -2220,14 +2044,14 @@ Baltimore, Joe
 RESOLUTION
 NO.
 16021
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
+<<Project End>>
+<<Project Start>>
 2000.291C
 Z
 
@@ -2276,8 +2100,6 @@ Without Hearing. Continued to November 16, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2335,6 +2157,8 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 
 
 19a.
+<<Project End>>
+<<Project Start>>
 2000.987BC
 X 
 (MILLER: 558-6344)
@@ -2461,6 +2285,8 @@ NO.
 
 
 19b.
+<<Project End>>
+<<Project Start>>
 2000.987
 B
 CX (MILLER: 558-6344)
@@ -2515,6 +2341,8 @@ NO.
 
 
 19c.
+<<Project End>>
+<<Project Start>>
 2000.987B
 C
 X        (MILLER: 558-6344)
@@ -2559,6 +2387,8 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 
 
 20a.
+<<Project End>>
+<<Project Start>>
 1999.821BDV
 C
 
@@ -2718,6 +2548,8 @@ NO.
 
 
 20b.
+<<Project End>>
+<<Project Start>>
 1999.821VCD
 B
         (GORDON: 558-6309)
@@ -2769,6 +2601,8 @@ NO.
 
 
 20c.
+<<Project End>>
+<<Project Start>>
 1999.821BVC
 D
 
@@ -2817,6 +2651,8 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 
 
 20d.
+<<Project End>>
+<<Project Start>>
 1999.821BCD
 V
 
@@ -2882,6 +2718,8 @@ Discretionary Review (DR) Hearing.
 
 
 21a.
+<<Project End>>
+<<Project Start>>
 1998.885D (GORDON: 558-6309)
 
 
@@ -3075,6 +2913,8 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 
 
 21b.
+<<Project End>>
+<<Project Start>>
 1998.885V (GORDON: 558-6309)
 
 
@@ -3118,6 +2958,8 @@ public hearing and has taken the matter under advisement.
 
 
 22a.
+<<Project End>>
+<<Project Start>>
 2000.866D (JONES: 558-6477)
 
 
@@ -3343,6 +3185,8 @@ Salinas, Joe
 
 
 22b.
+<<Project End>>
+<<Project Start>>
 2000.866
 V
            
@@ -3374,14 +3218,14 @@ None
 ACTION: 
 Zoning Administrator has closed the
 public hearing and has taken the variance under advisement.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
+<<Project End>>
+<<Project Start>>
 2000.786D (CHIN: 575-6897)
 
 
@@ -3703,11 +3547,11 @@ Director?s Report).
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 24.
+<<Project End>>
+<<Project Start>>
 2000.995D (B. WASHINGTON: 558-6263)
 
 
@@ -3752,14 +3596,14 @@ Do not take DR and approve project.
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 25.
+<<Project End>>
+<<Project Start>>
 2000.953D (WONG: 558-6381)
 
 
@@ -4028,14 +3872,14 @@ D. Avery - Commission Secretary
 A.
 
 ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 1.
+<<Project End>>
+<<Project Start>>
 2000.045D (WANG: 558-6335)
 
 
@@ -4070,14 +3914,14 @@ Continued to December 14, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
+<<Project End>>
+<<Project Start>>
 2000.884D
             (PURVIS:
 558-6354)
@@ -4119,14 +3963,14 @@ Continued to November 16, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
+<<Project End>>
+<<Project Start>>
 2000.270C (BRESSANUTTI: 558-6892)
 
 
@@ -4220,14 +4064,14 @@ Continued to December 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
+<<Project End>>
+<<Project Start>>
 2000.1094K (NIKITAS: 558-6306) 
 
 
@@ -4282,11 +4126,11 @@ Continued to December 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 6.
+<<Project End>>
+<<Project Start>>
 2000.1094R (ALUMBAUGH: 558-6601)
 
 
@@ -4314,11 +4158,11 @@ Continued to December 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 7.
+<<Project End>>
+<<Project Start>>
 2000.1094V (WOODS: 558-6315)
 
 
@@ -4406,14 +4250,14 @@ Continued to December 14, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
+<<Project End>>
+<<Project Start>>
 2000.052E
                     
 (JAROSLAWSKY: 558-5970)
@@ -4511,14 +4355,14 @@ Continued to December 14, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
+<<Project End>>
+<<Project Start>>
 2000.046D (FALLAY; 558-6367)
 
 
@@ -4565,8 +4409,6 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 B.
 
 COMMISSIONERS? QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4585,8 +4427,6 @@ None
 C.
 
 DIRECTOR?S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4597,8 +4437,6 @@ Director ?s Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4610,14 +4448,14 @@ Appeals
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
+<<Project End>>
+<<Project Start>>
 1999.176BX (LeBLANC: 558-6351)
 
 
@@ -4637,8 +4475,6 @@ None
 ACTION:
 
 No Action Required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4668,8 +4504,6 @@ No Action Required
 D.
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 17.
@@ -4732,17 +4566,13 @@ situation is unique in regards to the project at First and Howard, and this
 would be an 
 
 appropriate action for two primary reasons:
-<<Project End>>
-<<Project Start>>
 
 
 1.
 Submitted an application for entire four buildings 9/99. Commission made all
 supporting findings and granted section 309 approval for all four buildings in
 March of this year, but granted annual allocation limitation for three
-buildings, specifically for buildings 2, 3, & 4.
-<<Project End>>
-<<Project Start>>
+buildings, specifically for buildings 2, 3, & 4. 
 
 
 2.
@@ -4874,8 +4704,6 @@ Continued to December 7, 2000 (Public Comment Remains Open).
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4920,8 +4748,6 @@ Continued toDecember 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -4961,11 +4787,11 @@ Continued to November 16, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
 20.
+<<Project End>>
+<<Project Start>>
 2000.996T:
           (HERRERA: 558-6316)
 
@@ -5254,14 +5080,14 @@ Continue to December 7, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
+<<Project End>>
+<<Project Start>>
 2000.987BC
 X 
 (MILLER: 558-6344)
@@ -5288,8 +5114,6 @@ from Regular Meeting of November 2, 2000)
 
 
 ON CALENDAR IN ERROR
-<<Project End>>
-<<Project Start>>
 
 
 22. 2000.918C (DiBARTOLO: 558-6291)
@@ -5327,14 +5151,14 @@ Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
 
 MOTION NO.: 
 16026
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
+<<Project End>>
+<<Project Start>>
 1999.812E 
               
 
@@ -5469,14 +5293,14 @@ Chinchilla, Fay, Joe, Salinas
 
 MOTION NO: 
 16027
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
+<<Project End>>
+<<Project Start>>
 1999.812C 
          
 (LIGHT:
@@ -5697,14 +5521,14 @@ Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
 RESOLUTION
 NO. 
 16028
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 25.
+<<Project End>>
+<<Project Start>>
 1999.812T 
         
 (LIGHT:
@@ -5743,8 +5567,6 @@ Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
 RESOLUTION
 NO. 
 16029
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -5788,14 +5610,14 @@ Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
 RESOLUTION
 NO. 
 16030
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 27.
+<<Project End>>
+<<Project Start>>
 1999.812C
             (LIGHT:
 558-6254)
@@ -5857,7 +5679,9 @@ Discretionary Review (DR) Hearing.
 
 
 28
-. 
+.
+<<Project End>>
+<<Project Start>>
 2000.1005D
             
             
@@ -5960,22 +5784,20 @@ Baltimore, Joe
 NAYES:
 
 Theoharis, Mills, Salinas, Fay, Chinchilla,
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 29.
+<<Project End>>
+<<Project Start>>
 1997.379D (GORDON: 558-6309) 
 
 
 386 ALABAMA/2625 16TH STREET
 , entire block bounded by 16th Street,
 Alabama Street, 17th Street and Harrison Street. Lot 1 in Assessor's Block
-<<Project End>>
-<<Project Start>>
 3967. Staff Initiated Discretionary Review of Building Permit Application Nos.
 9801586, 9801587 and 9801588, proposing development of three four-story
 live/work buildings containing 64 units within the Industrial Protection Zone
@@ -6014,14 +5836,14 @@ Continued to December 14, 2000
 AYES:
 
 Theoharis, Mills, Baltimore, Chinchilla, Fay, Joe, Salinas
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 30.
+<<Project End>>
+<<Project Start>>
 2000.1014D (SMITH: 558-6322)
 
 
@@ -6312,15 +6134,15 @@ ACTION:
 AYES:
             
  Baltimore, Chinchilla,
-Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
+Fay, Joe, Mills, Salinas, Theoharis 
 
 
  
 
 
 2.
+<<Project End>>
+<<Project Start>>
 2000.887C (YOUNG: 558-6346)
 
 
@@ -6410,14 +6232,14 @@ AYES:
             
  Baltimore, Chinchilla,
 Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
+<<Project End>>
+<<Project Start>>
 2000.641E (NAVARRETE: 558-5975)
 
 
@@ -6455,14 +6277,14 @@ AYES:
             
  Baltimore, Chinchilla,
 Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
+<<Project End>>
+<<Project Start>>
 2000.877D
               
           
@@ -6506,6 +6328,8 @@ Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
 
 
 6a.
+<<Project End>>
+<<Project Start>>
 2000.987B
 C
 XV (MILLER: 558-6344)
@@ -6583,11 +6407,11 @@ Continued as proposed
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
 7.
+<<Project End>>
+<<Project Start>>
 2000.270C (BRESSANUTTI: 575-6892)
 
 
@@ -6629,14 +6453,14 @@ Continued as proposed
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
+<<Project End>>
+<<Project Start>>
 1999.690E (BUFORD: 558-5973)
 
 
@@ -6687,14 +6511,14 @@ AYES:
             
  Baltimore, Chinchilla,
 Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
+<<Project End>>
+<<Project Start>>
 2000.884D
                           (PURVIS:
 558-6354)
@@ -6742,8 +6566,6 @@ Fay, Joe, Mills, Salinas, Theoharis
 C.
 
 COMMISSIONERS? QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6767,8 +6589,6 @@ Approved
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6791,8 +6611,6 @@ st
 D.
 
 DIRECTOR?S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6805,8 +6623,6 @@ Director ?s Announcements.
 Apologized
 about not having the presentation nor the right language ready, regarding the
 Job Housing Linkage.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6827,14 +6643,14 @@ Brannan - Uphold Planning Commission ?s decision by a vote of +4 -1
 
 BOS:
 None
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
+<<Project End>>
+<<Project Start>>
 1998.497B         (LeBLANC: 558-6351)
 
 
@@ -6857,14 +6673,14 @@ No action required
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
+<<Project End>>
+<<Project Start>>
 1998.766BX
           (LeBLANC: 558-6351)
 
@@ -6894,8 +6710,6 @@ Theoharis
 E.
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6934,8 +6748,6 @@ Continued to12/7/00
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -6976,8 +6788,6 @@ Theoharis
 
 MOTION NO. 
 16032
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7024,8 +6834,6 @@ ACTION:
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7071,8 +6879,6 @@ ACTION:
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7115,8 +6921,6 @@ ACTION:
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7171,8 +6975,6 @@ ACTION:
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7247,8 +7049,6 @@ Theoharis
 
 
 MOTION NO. 16033
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7292,8 +7092,6 @@ ACTION:
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas,
 Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7327,8 +7125,6 @@ Recommendation
 
 
 WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7382,8 +7178,6 @@ Theoharis
 
 MOTION NO. 
 16034
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7525,8 +7319,6 @@ EXCUSED:
 
 MOTION NO. 
 16035
-<<Project End>>
-<<Project Start>>
 
 
 27. 2000.291
@@ -7580,8 +7372,6 @@ EXCUSED:
 
 MOTION NO. 
 16036
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7638,8 +7428,6 @@ Theoharis
 
 MOTION NO. 
 16037
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -7709,6 +7497,8 @@ Review (DR) Hearing to hear and act on Discretionary Review matters.
 
 
 30a.
+<<Project End>>
+<<Project Start>>
 2000.779D (S.SNYDER: 558-6543)
 
 
@@ -8009,6 +7799,8 @@ Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
 
 
 30b.
+<<Project End>>
+<<Project Start>>
 2000.779V (S.SNYDER: 558-6543)
 
 
@@ -8030,14 +7822,14 @@ ACTION:         
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 31.
+<<Project End>>
+<<Project Start>>
 2000.1109D
                   
 (MIRAMONTES: 558-6348)
@@ -8058,11 +7850,11 @@ Review and approve the building permit application with modifications.
 
 
 DISCRETIONARY REVIEW WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
 32.
+<<Project End>>
+<<Project Start>>
 2000.1029D (WONG: 558-6381) 
 
 
@@ -8101,14 +7893,14 @@ Continued to 1/18/01
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 33.
+<<Project End>>
+<<Project Start>>
 2000.1018D (MILLER: 558-6344)
 
 
@@ -8234,14 +8026,14 @@ ACTION:
 
 AYES: 
 Baltimore, Chinchilla, Fay, Joe, Mills, Salinas, Theoharis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 34.
+<<Project End>>
+<<Project Start>>
 2000.1135D           
 (MILLER: 558-6344)
 
@@ -8260,14 +8052,14 @@ Detached Dwellings)District and a 40-X Height and Bulk District.
 
 Preliminary Recommendation: Approval with
 Conditions
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 35.
+<<Project End>>
+<<Project Start>>
 2000.789D (WANG: 558-6335)
 
 

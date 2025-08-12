@@ -1,285 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 2, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ June 2, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-June 2, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 2, 2005
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 2, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Dwight Alexander,
- 
-Michael J. Antonini,
- 
-Shelley Bradford Bell, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
-  
-Kevin Hughes
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:35 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
-  Dean Macris – Interim Director of Planning; Larry Badiner – Zoning Administrator; Kate Stacey – Deputy City Attorney; Craig Nikitas; Glenn Cabreros; Winslow Hastie; Matt Snyder; David Alumbaugh; Dan Dibartolo; Ben Fu; Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-                 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar
-.
-
-
- 
-
-
-           
-  1a.
-       
- 2004.0032D
+2004.0032D
                                                                          
  (J. PURVIS: (415) 558-6354)
 
@@ -332,8 +52,9 @@ ABSENT:
 
            
   1b.
-       
- 2004.0033D 
+<<Project End>>
+<<Project Start>>
+2004.0033D 
                              
  
    
@@ -550,8 +271,6 @@ AYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -559,8 +278,9 @@ ABSENT:
 
            
   3.
-        
- 2003.1210C
+<<Project End>>
+<<Project Start>>
+2003.1210C
                                                                      
  
 (M. SNYDER: (415) 575-6891)
@@ -612,8 +332,6 @@ AYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -665,8 +383,6 @@ AYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -739,16 +455,14 @@ AYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-        
-  
+<<Project End>>
+<<Project Start>>
 2002.1263
 C
                                                       
@@ -828,8 +542,6 @@ B.
         
   
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -903,8 +615,6 @@ AYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1095,8 +805,6 @@ Re:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1108,8 +816,6 @@ C.
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1181,8 +887,6 @@ Re:
 
 
 - A packet of information will be sent to the Commission in the near future.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1379,8 +1083,6 @@ Interim Director Macris responded:
 
 
 - He will get this information for him.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1573,16 +1275,15 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
 .
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-         
- 2005.0443U 
+<<Project End>>
+<<Project Start>>
+2005.0443U 
                                                                                        
  
     
@@ -1650,8 +1351,6 @@ G.
                 
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1660,8 +1359,9 @@ REGULAR CALENDAR
 
            
   14.
-       
- 2004.0560D
+<<Project End>>
+<<Project Start>>
+2004.0560D
                               
  
                                    
@@ -1858,8 +1558,6 @@ NAYES:
 ABSENT:
          
   Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1900,8 +1598,6 @@ SPEAKER(S):
 ACTION:
           
   Discretionary Reviews Withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2019,8 +1715,6 @@ AYES:
 ABSENT:
          
   Hughes and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2028,8 +1722,9 @@ ABSENT:
 
            
   17.
-       
- 2004.0055R
+<<Project End>>
+<<Project Start>>
+2004.0055R
                                           
  
       
@@ -2107,8 +1802,6 @@ ABSENT:
 MOTION:
           
   17028
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2218,8 +1911,6 @@ ABSENT:
 MOTION:
           
   17029
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2227,10 +1918,9 @@ MOTION:
 
            
   19.
-       
- 
- 
- 2004.1067
+<<Project End>>
+<<Project Start>>
+2004.1067
 C
                                                                       
  (M. SNYDER: (415) 575-6891)
@@ -2378,8 +2068,9 @@ MOTION:
            
   
 20a.
-     
- 2005.0105
+<<Project End>>
+<<Project Start>>
+2005.0105
 C
 V
                                                                 
@@ -2454,8 +2145,9 @@ MOTION:
 
            
   20b.
-     
- 2005.0105C
+<<Project End>>
+<<Project Start>>
+2005.0105C
 V
                                         
  
@@ -2491,8 +2183,6 @@ SPEAKER(S):
 ACTION:
           
   Zoning Administrator Closed the Public Hearing and Granted the Variance.
-<<Project End>>
-<<Project Start>>
 
 
  

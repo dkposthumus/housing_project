@@ -1,281 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 23, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ July 23, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-July 23, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 23, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 23, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Lee, Moore, and Olague
-
-
-COMMISSIONERS ABSENT:
- 
- Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1: 33 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Craig Nikitas – Acting Zoning Administrator, AnMarie Rodgers, Rick Crawford, Adrian Putra, Edgar Oropeza, Aaron Starr, Aaron Hollister, Glenn Cabreros, Shelley Caltagirone, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2007.0007AEK
+2007.0007AEK
 X
  
  (P. LAVALLEY: (415) 575-9084)
@@ -345,8 +69,8 @@ ABSENT:
 
  
  2a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0505
 D
 V
@@ -419,8 +143,9 @@ ABSENT:
 
 
 2b.
- 
- 2008.0505D
+<<Project End>>
+<<Project Start>>
+2008.0505D
 V
  
  
@@ -476,8 +201,9 @@ ABSENT:
 
 
 2c.
- 
- 2009.0107D
+<<Project End>>
+<<Project Start>>
+2009.0107D
  
  
  
@@ -535,8 +261,6 @@ NAYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -602,8 +326,6 @@ NAYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -611,8 +333,9 @@ ABSENT:
 
  
  4.
- 
- 2009.0523U
+<<Project End>>
+<<Project Start>>
+2009.0523U
  
  
  
@@ -690,8 +413,9 @@ ABSENT:
 
 
 5a.
- 
- 2006.0431
+<<Project End>>
+<<Project Start>>
+2006.0431
 C
 EKV
  
@@ -756,8 +480,9 @@ ABSENT:
 
 
 5b.
- 
- 2006.0431CEK
+<<Project End>>
+<<Project Start>>
+2006.0431CEK
 V
  
  
@@ -823,16 +548,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2009.0400D
+<<Project End>>
+<<Project Start>>
+2009.0400D
  
  
  
@@ -883,8 +607,9 @@ DRA:
 
 
 7a.
- 
- 2009.0422
+<<Project End>>
+<<Project Start>>
+2009.0422
 X
 V
  
@@ -942,8 +667,9 @@ MOTION:
 
 
 7b.
- 
- 2009.0422X
+<<Project End>>
+<<Project Start>>
+2009.0422X
 V
 :
  
@@ -997,8 +723,9 @@ NOTE:
 
 
 8a.
- 
- 2008.1341
+<<Project End>>
+<<Project Start>>
+2008.1341
 C
 V
  
@@ -1053,8 +780,9 @@ MOTION:
 
 
 8b.
- 
- 2008.1341C
+<<Project End>>
+<<Project Start>>
+2008.1341C
 V
  
  
@@ -1084,16 +812,15 @@ SPEAKERS:
 ACTION:
  
  Acting Zoning Administrator Nikitas closed the public hearing and indicated his inclination to grant the variance but has taken the matter under advisement
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2009.0356C
+<<Project End>>
+<<Project Start>>
+2009.0356C
  
  
  
@@ -1148,16 +875,15 @@ ABSENT:
 MOTION:
  
  17924
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2009.0489C
+<<Project End>>
+<<Project Start>>
+2009.0489C
  
  
  
@@ -1231,8 +957,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1271,8 +995,6 @@ AYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1705,8 +1427,6 @@ I will check the tapes regarding the motion.
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1829,8 +1549,6 @@ th
  We are very pleased about the progress we are making.
  
  Thank you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2008,8 +1726,6 @@ SPEAKERS:
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2019,8 +1735,8 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
  
  15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0788
 C
 V
@@ -2079,8 +1795,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2089,8 +1803,8 @@ REGULAR CALENDAR
 
 
 16.
- 
- 
+<<Project End>>
+<<Project Start>>
 2008.0996C
  
  
@@ -2147,16 +1861,15 @@ NAYES:
 ABSENT:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2009.0405C
+<<Project End>>
+<<Project Start>>
+2009.0405C
  
  
  
@@ -2220,8 +1933,9 @@ MOTION:
 
  
  18a.
- 
- 2007.0231D
+<<Project End>>
+<<Project Start>>
+2007.0231D
  
  
  
@@ -2277,8 +1991,8 @@ DRA:
 
 
 18b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0231D
 V
  

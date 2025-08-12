@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ November 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-November 13, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 13, 2008
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 13, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:36 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Brett Bollinger, Angela Heitter, Adrian Putra, Corey Teague, Jim Miller, Kevin Guy, Debra Dwyer, Joshua Switzky, AnMarie Rodgers, Leigh Kienker, Glenn Cabreros, Sara Vellve, Kate Conner, Shelley Perdue, Ken Rich, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- 
-Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2007.0603
+2007.0603
 C
 U
  
@@ -323,8 +51,6 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -332,8 +58,9 @@ AYES:
 
  
  2.
- 
- 2007.0603C
+<<Project End>>
+<<Project Start>>
+2007.0603C
 U
  
  
@@ -383,16 +110,14 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0142E 
  
  
@@ -458,8 +183,6 @@ AYES:
 RECUSED:
  
  Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -467,8 +190,9 @@ RECUSED:
 
  
  4.
- 
- 2007.1355T
+<<Project End>>
+<<Project Start>>
+2007.1355T
  
  
  
@@ -514,8 +238,9 @@ AYES:
 
 
 5a.
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
  
  
  
@@ -568,8 +293,9 @@ AYES:
 
 
 5b.
- 
- 2008.1155D
+<<Project End>>
+<<Project Start>>
+2008.1155D
  
  
  
@@ -620,8 +346,9 @@ AYES:
 
 
 5c.
- 
- 2008.1156D
+<<Project End>>
+<<Project Start>>
+2008.1156D
  
  
  
@@ -678,8 +405,9 @@ AYES:
 5
 d
 .
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
 D
  
  
@@ -724,8 +452,9 @@ AYES:
 
 
 5e.
- 
- 2008.1213D
+<<Project End>>
+<<Project Start>>
+2008.1213D
  
  
  
@@ -784,16 +513,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0880G
+<<Project End>>
+<<Project Start>>
+2008.0880G
  
  
  
@@ -850,8 +578,6 @@ RECUSED:
 RESOLUTION:
  
  17743
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -861,8 +587,9 @@ RESOLUTION:
 
 
 7.
- 
- 2008.0853C
+<<Project End>>
+<<Project Start>>
+2008.0853C
  
  
  
@@ -922,16 +649,15 @@ RECUSED:
 MOTION:
  
  17744
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2008.1083X
+<<Project End>>
+<<Project Start>>
+2008.1083X
  
  
  
@@ -983,8 +709,9 @@ MOTION:
 
 
 9a.
- 
- 2007.1383EK
+<<Project End>>
+<<Project Start>>
+2007.1383EK
 X
 CV 
  
@@ -1039,8 +766,9 @@ MOTION:
 
 
 9b.
- 
- 2007.1383EKX
+<<Project End>>
+<<Project Start>>
+2007.1383EKX
 C
 V
  
@@ -1092,8 +820,9 @@ MOTION:
 
 
 9c.
- 
- 2007.1383CEKXC
+<<Project End>>
+<<Project Start>>
+2007.1383CEKXC
 V
  
  
@@ -1126,8 +855,9 @@ ACTION:
 
 
 10a.
- 
- 2006.1294BK
+<<Project End>>
+<<Project Start>>
+2006.1294BK
 M
 XZ
  
@@ -1180,8 +910,9 @@ RESOLUTION:
 
 
 10b.
- 
- 2006.1294BKMX
+<<Project End>>
+<<Project Start>>
+2006.1294BKMX
 Z
  
  
@@ -1274,8 +1005,6 @@ D.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1307,16 +1036,15 @@ SPEAKERS:
 ACTION:
  
  Informational only – no action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2008.1259CTZ
+<<Project End>>
+<<Project Start>>
+2008.1259CTZ
  
  
  
@@ -1360,16 +1088,15 @@ NAYES:
 MOTION:
  
  17750
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.0980T
+<<Project End>>
+<<Project Start>>
+2008.0980T
  
  
  
@@ -1425,16 +1152,15 @@ Result:
 DEFAULT ACTION:
  
  There was no substitute motion and since the motion to approve failed, this item will be forwarded to the Board of Supervisors without recommendation from the Planning Commission
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2005.0911CV
+<<Project End>>
+<<Project Start>>
+2005.0911CV
 E
  
  
@@ -1486,8 +1212,9 @@ MOTION:
 
 
 15a.
- 
- 2005.0911
+<<Project End>>
+<<Project Start>>
+2005.0911
 C
 V
  
@@ -1532,8 +1259,9 @@ AYES:
 
 
 15b.
- 
- 2005.0911C
+<<Project End>>
+<<Project Start>>
+2005.0911C
 V
  
  
@@ -1572,16 +1300,15 @@ ACTION:
 AYES:
  
  Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.0128
+<<Project End>>
+<<Project Start>>
+2007.0128
 E
  
  
@@ -1618,8 +1345,9 @@ ACTION:
 
 
 17a.
- 
- 2006.0826
+<<Project End>>
+<<Project Start>>
+2006.0826
 C
 V
  
@@ -1678,8 +1406,9 @@ RECUSED:
 
 
 17b.
- 
- 2006.0826C
+<<Project End>>
+<<Project Start>>
+2006.0826C
 V
  
  
@@ -1729,8 +1458,9 @@ ACTION:
 
 
 18a.
- 
- 2007.1259ECK
+<<Project End>>
+<<Project Start>>
+2007.1259ECK
 T
 Z
  
@@ -1795,8 +1525,9 @@ RESOLUTION:
 
 
 18b.
- 
- 2007.1259ECK
+<<Project End>>
+<<Project Start>>
+2007.1259ECK
 T
 Z
  
@@ -1856,8 +1587,9 @@ RESOLUTION:
 
 
 18c.
- 
- 2007.1259ECKT
+<<Project End>>
+<<Project Start>>
+2007.1259ECKT
 Z
  
  
@@ -1916,8 +1648,9 @@ RESOLUTION:
 
 
 18d.
- 
- 2007.1259ECKT
+<<Project End>>
+<<Project Start>>
+2007.1259ECKT
 Z
  
  
@@ -1981,8 +1714,9 @@ RESOLUTION:
 
 
 19a.
- 
- 2005.1066
+<<Project End>>
+<<Project Start>>
+2005.1066
 C
 P
  
@@ -2043,8 +1777,9 @@ MOTION:
 
 
 19b.
- 
- 2005.1066C
+<<Project End>>
+<<Project Start>>
+2005.1066C
 P
  
  
@@ -2099,8 +1834,9 @@ MOTION:
 
 20a
 .
- 
- 2008.0868
+<<Project End>>
+<<Project Start>>
+2008.0868
 d
 V
  
@@ -2157,8 +1893,9 @@ AYES:
 
 
 20b.
- 
- 2006.1485D
+<<Project End>>
+<<Project Start>>
+2006.1485D
 V
  
  
@@ -2192,16 +1929,15 @@ SPEAKERS:
 ACTION:
  
  Following hearing, Acting Zoning Administrator Rahaim continued to 12/11/08
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2008.0881D
+<<Project End>>
+<<Project Start>>
+2008.0881D
  
  
  
@@ -2257,16 +1993,15 @@ AYES:
 DRA No.:
  
  0034
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2008.0881D and 2008.0941D
+<<Project End>>
+<<Project Start>>
+2008.0881D and 2008.0941D
  
  
  
@@ -2327,8 +2062,9 @@ NOTE:
 
 
 23a.
- 
- 2008.1202TZ
+<<Project End>>
+<<Project Start>>
+2008.1202TZ
  
  
  
@@ -2379,8 +2115,9 @@ RESOLUTION:
 
 
 23b.
- 
- 2008.1204Z
+<<Project End>>
+<<Project Start>>
+2008.1204Z
  
  
  
@@ -2432,8 +2169,9 @@ RESOLUTION:
 
 
 23c.
- 
- 2008.1207T
+<<Project End>>
+<<Project Start>>
+2008.1207T
  
  
  
@@ -2484,8 +2222,9 @@ RESOLUTION:
 
 
 23d.
- 
- 2008.1208TZ
+<<Project End>>
+<<Project Start>>
+2008.1208TZ
  
  
  
@@ -2540,8 +2279,6 @@ E.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2599,8 +2336,6 @@ Director's Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  

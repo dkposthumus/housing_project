@@ -1,272 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 13, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ August 13, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-August 13, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 13, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 13, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1: 40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Kevin Guy, Rick Crawford, Scott Sanchez, Aaron Hollister, Abigail Keifer, Adrian Putra, Corey Teague, AnMarie Rodgers, Elizabeth Watty, Glenn Cabreros, Mary Woods, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.1106D                       
+2008.1106D                       
  
  
  
@@ -316,8 +49,6 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -327,8 +58,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 2.
- 
- 2009.0630C
+<<Project End>>
+<<Project Start>>
+2009.0630C
  
  
  
@@ -368,16 +100,15 @@ AYES:
 MOTION:
  
  17936
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2009.0373D
+<<Project End>>
+<<Project Start>>
+2009.0373D
  
  
  
@@ -446,8 +177,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -499,8 +228,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -984,8 +711,6 @@ And I can confirm that Dr. Katz will attend the joint hearing.
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1097,8 +822,6 @@ Commissioner Antonini:
 On the Urban Land Use Conference:
  
  I request that if possible we get a calendar of events; where they are going to be held; which ones we can attend; and any evening functions – when it's available.
-<<Project End>>
-<<Project Start>>
  
  
  
@@ -1229,8 +952,6 @@ HISTORIC PRESERVATION COMMISSION:
 
  
  No report – The Commission did not have a meeting
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1344,8 +1065,6 @@ SPEAKERS REGARDING ITEM 9, 1040 Columbus Avenue:
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1354,8 +1073,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 9.
- 
- 2008.0996C
+<<Project End>>
+<<Project Start>>
+2008.0996C
  
  
  
@@ -1419,8 +1139,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1429,8 +1147,9 @@ REGULAR CALENDAR
 
 
 10.
- 
- 2009.0707MZ
+<<Project End>>
+<<Project Start>>
+2009.0707MZ
  
  
  
@@ -1470,16 +1189,15 @@ AYES:
 MOTION:
  
  17938
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0953C
+<<Project End>>
+<<Project Start>>
+2007.0953C
  
  
  
@@ -1531,16 +1249,15 @@ AYES:
 MOTION:
  
  17939
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2009.0114C 
+<<Project End>>
+<<Project Start>>
+2009.0114C 
  
  
  
@@ -1586,16 +1303,15 @@ AYES:
 MOTION:
  
  17940
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.1354C
+<<Project End>>
+<<Project Start>>
+2008.1354C
  
  
  
@@ -1628,16 +1344,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2009.0408C
+<<Project End>>
+<<Project Start>>
+2009.0408C
  
  
  
@@ -1675,16 +1390,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2005.0911
+<<Project End>>
+<<Project Start>>
+2005.0911
 C
 EV
  
@@ -1721,16 +1435,15 @@ SPEAKERS:
 ACTION:
  
  None – informational only
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2009.0398C 
+<<Project End>>
+<<Project Start>>
+2009.0398C 
  
  
  
@@ -1768,16 +1481,15 @@ AYES:
 MOTION:
  
  17941
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2009.0556D
+<<Project End>>
+<<Project Start>>
+2009.0556D
  
  
  
@@ -1823,16 +1535,15 @@ AYES:
 DRA:
  
  0098
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2009.0635D
+<<Project End>>
+<<Project Start>>
+2009.0635D
  
  
  
@@ -1877,16 +1588,15 @@ AYES:
 DRA:
  
  0099
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2009.0547D
+<<Project End>>
+<<Project Start>>
+2009.0547D
  
  
  
@@ -1932,8 +1642,9 @@ DRA:
 
 
 20a.
- 
- 2008.0505
+<<Project End>>
+<<Project Start>>
+2008.0505
 DDD
 V
  
@@ -1984,8 +1695,9 @@ AYES:
 
 
 20b.
- 
- 2008.0505DDD
+<<Project End>>
+<<Project Start>>
+2008.0505DDD
 V
  
 (D. SÃNCHEZ: (415) 575-9082)
@@ -2027,8 +1739,9 @@ AYES:
 
 
 20c.
- 
- 2009.0107D
+<<Project End>>
+<<Project Start>>
+2009.0107D
  
 (D. SÃNCHEZ: (415) 575-9082)
 

@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ December 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-December 14, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-December 14, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 14, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY ACTING CHAIR ANTONINI AT 1:30 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Jonathan Purvis, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2003.0347E
+2003.0347E
  
  
  
@@ -350,16 +69,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  
  
@@ -423,16 +141,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2004.0603C
+<<Project End>>
+<<Project Start>>
+2004.0603C
  
  
  
@@ -556,16 +273,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.0897D
+<<Project End>>
+<<Project Start>>
+2006.0897D
  
  
  
@@ -628,8 +344,6 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -688,8 +402,9 @@ ABSENT:
 
  
  6a.
- 
- 2006.0636V
+<<Project End>>
+<<Project Start>>
+2006.0636V
 DD
  
  
@@ -747,8 +462,9 @@ ABSENT:
 
  
  6b.
- 
- 2006.0636
+<<Project End>>
+<<Project Start>>
+2006.0636
 V
 DD
  
@@ -854,16 +570,15 @@ C.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2006.1156Q
+<<Project End>>
+<<Project Start>>
+2006.1156Q
  
  
  
@@ -907,16 +622,15 @@ ABSENT:
 MOTION:
  
  17346
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.1168Q
+<<Project End>>
+<<Project Start>>
+2006.1168Q
  
  
  
@@ -961,16 +675,15 @@ ABSENT:
 MOTION:
  
  17347
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.1174Q
+<<Project End>>
+<<Project Start>>
+2006.1174Q
  
  
  
@@ -1013,8 +726,6 @@ ABSENT:
 MOTION:
  
  17348
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1022,8 +733,9 @@ MOTION:
 
  
  10.
- 
- 2006.0926Q
+<<Project End>>
+<<Project Start>>
+2006.0926Q
  
  
  
@@ -1089,8 +801,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1416,16 +1126,15 @@ ACTION:
  No action required of the Commission.
  
  Informational Only.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2004.0339C
+<<Project End>>
+<<Project Start>>
+2004.0339C
  
  
 (Tape IA; IB)
@@ -1484,8 +1193,9 @@ ABSENT:
  
  
 13a.
- 
- 2005.0776C
+<<Project End>>
+<<Project Start>>
+2005.0776C
  
  
 (Tape IB)
@@ -1570,8 +1280,9 @@ MOTION:
 
  
  13b.
- 
- 2005.0776D
+<<Project End>>
+<<Project Start>>
+2005.0776D
  
  
 (Tape IB)
@@ -1617,16 +1328,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0833D
+<<Project End>>
+<<Project Start>>
+2006.0833D
  
  
 (Tape IB)
@@ -1866,16 +1576,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.0070
+<<Project End>>
+<<Project Start>>
+2006.0070
 E
 T
  
@@ -1929,16 +1638,15 @@ AYES:
 ABSENT:
  
  Alexander, Olague and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.1284E
+<<Project End>>
+<<Project Start>>
+2006.1284E
 T
  
  
@@ -1985,16 +1693,15 @@ ABSENT:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2003.0347MTZ
+<<Project End>>
+<<Project Start>>
+2003.0347MTZ
  
  
  
@@ -2054,8 +1761,6 @@ Draft Schedule for Planning Commission Hearing
 
 
 This calendar gives notice that the Planning Commission will be hearing the following aspects of the Market & Octavia Plan on or after December 14,
-<<Project End>>
-<<Project Start>>
  
  2006.
  

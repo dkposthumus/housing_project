@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 2, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ August 2, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-August 2, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 2, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 2, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Alexander, Olague, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- 
- 
- Antonini
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:41 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Isolde Wilson, Craig Nikitas, Aaron Hollister, Glenn Cabreros, Kate Conner, Sophie Middlebrook, Edgar Oropeza and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2005.0762E
+2005.0762E
 C
 V
  
@@ -329,8 +57,9 @@ ABSENT:
 
 
 1b
- 
- 2005.0762EC
+<<Project End>>
+<<Project Start>>
+2005.0762EC
 V
  
  
@@ -378,8 +107,9 @@ ABSENT:
 
 
 2a.
- 
- 2007.0242
+<<Project End>>
+<<Project Start>>
+2007.0242
 C
 V
  
@@ -443,8 +173,9 @@ ABSENT:
 
 
 2b.
- 
- 2007.0242C
+<<Project End>>
+<<Project Start>>
+2007.0242C
 V
  
  
@@ -491,8 +222,6 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -502,8 +231,9 @@ ABSENT:
 
 
 3.
- 
- 2006.1354D
+<<Project End>>
+<<Project Start>>
+2006.1354D
  
  
  
@@ -546,16 +276,15 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.0847D
+<<Project End>>
+<<Project Start>>
+2006.0847D
  
  
  
@@ -616,8 +345,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -664,8 +391,6 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -934,8 +659,6 @@ Commissioner Moore
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1038,8 +761,6 @@ th
 , the department conducted an initial meeting to discuss the plan with the public.
  
  It was held at the Yerba Buena Center for the Arts and was very well attended.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1256,8 +977,6 @@ nd
  We are trying to apply this retroactively.
  
  We need to have a more defined policy on what subdivisions are subject to to start a process.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1265,8 +984,8 @@ nd
 
  
  9.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0529I
  
  
@@ -1310,16 +1029,15 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2004.0339C 
+<<Project End>>
+<<Project Start>>
+2004.0339C 
  
  
 (Tape IA)
@@ -1465,8 +1183,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 11a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0106
 C
 V
@@ -1529,8 +1247,8 @@ MOTION:
 
 
 11b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0106C
 V
  
@@ -1584,8 +1302,9 @@ REGULAR CALENDAR
 
 
 12a.
- 
- 2006.1273EKB
+<<Project End>>
+<<Project Start>>
+2006.1273EKB
 X
  
  
@@ -1722,8 +1441,9 @@ MOTION:
 
 
 12b.
- 
- 2006.1273EK
+<<Project End>>
+<<Project Start>>
+2006.1273EK
 B
 X
  
@@ -1777,16 +1497,15 @@ ABSENT:
 MOTION:
  
  17470
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0246C
+<<Project End>>
+<<Project Start>>
+2007.0246C
  
  
 (Tape IB)
@@ -1868,16 +1587,15 @@ ABSENT:
 MOTION:
  
  17471
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2007.0514T
+<<Project End>>
+<<Project Start>>
+2007.0514T
  
  
  
@@ -1920,16 +1638,15 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.0157C
+<<Project End>>
+<<Project Start>>
+2006.0157C
  
  
  
@@ -2000,16 +1717,15 @@ ABSENT:
 MOTION:
  
  17472
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.0283D
+<<Project End>>
+<<Project Start>>
+2007.0283D
  
  
  
@@ -2052,16 +1768,15 @@ AYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0052D
+<<Project End>>
+<<Project Start>>
+2007.0052D
  
  
 (Tape IB; IIA)
@@ -2499,16 +2214,15 @@ NAYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.0306DD
+<<Project End>>
+<<Project Start>>
+2007.0306DD
  
  
 (Tape IIA; IIB)
@@ -2938,8 +2652,6 @@ NAYES:
 ABSENT:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2949,8 +2661,9 @@ ABSENT:
 
 
 19.
- 
- 2007.0531D
+<<Project End>>
+<<Project Start>>
+2007.0531D
  
  
 (Tape IIB)

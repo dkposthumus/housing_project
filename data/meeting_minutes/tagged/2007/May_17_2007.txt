@@ -1,283 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 17, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ May 17, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-May 17, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 17, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 17, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Michael Smith, Kimberly Durandet,
- 
-Cecilia Jaroslawsky
-, Sarah Dennis, Craig Nikitas, Victorya Wise, Matt Snyder, Ben Fu, Mary Woods, Tammy Chan, Jon Lau, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0208C
+2006.0208C
  
  
  
@@ -330,16 +52,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0072C
+<<Project End>>
+<<Project Start>>
+2007.0072C
  
  
  
@@ -388,16 +109,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0384C 
+<<Project End>>
+<<Project Start>>
+2007.0384C 
  
  
  
@@ -420,16 +140,15 @@ NOTE
  
  Therefore this item does not need to be heard 
 by the Planning Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0034D
+<<Project End>>
+<<Project Start>>
+2007.0034D
  
  
  
@@ -503,8 +222,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -543,8 +260,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -806,8 +521,6 @@ Mr. Badiner, Zoning Administrator
 -
  
  The Draft would be presented at the Landmarks Board in August.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -828,16 +541,12 @@ Mr. Badiner, Zoning Administrator, reported:
 
 
 Board of Supervisors
-<<Project End>>
-<<Project Start>>
 
 
 1. Historic Property Context for 1080 Haight Street
 .
  
  Approved
-<<Project End>>
-<<Project Start>>
 
 
 2. Endorsed a conceptual framework for Candlestick and Hunter's Point Shipyard Redevelopment and authorized Environmental Review in Planning for this.
@@ -847,8 +556,6 @@ Approved.
 
 
 This is allowing the Planning Department and Redevelopment Agency to proceed with the Environmental Impact Review and start the planning work for that area.
-<<Project End>>
-<<Project Start>>
 
 
 3. Supervisor McGoldrick formally requested to put on hold amendments for Section 315 – Planning Code for Inclusionary Housing for further revision.
@@ -869,8 +576,6 @@ Board of Appeals
 
 
 943 Church Street – There will be a brief report on this case at Commission on May 31.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -949,16 +654,15 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item 9 was taken off Consent and heard as a Regular Calendar item
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.1474C
+<<Project End>>
+<<Project Start>>
+2006.1474C
  
  
 (Tape IA; IB)
@@ -1191,8 +895,6 @@ MOTION:
 
 
 F.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1201,8 +903,9 @@ F.REGULAR CALENDAR
 
 
 10.
- 
- 2007.0041DD
+<<Project End>>
+<<Project Start>>
+2007.0041DD
  
  
 (Tape IB)
@@ -1371,16 +1074,15 @@ AYES:
 ABSENT:
  
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.1477D
+<<Project End>>
+<<Project Start>>
+2006.1477D
  
  
  
@@ -1704,8 +1406,6 @@ AYES:
 NAYES:
  
  Antonini and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2594,8 +2294,6 @@ AYES:
 
 
 The Commission had a consensus to rearrange the calendar taking items in this order: 15, 16, 14, 13 and then continue to regular order on item 18.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2645,8 +2343,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2654,8 +2350,9 @@ AYES:
 
  
  14.
- 
- 2006.0070E
+<<Project End>>
+<<Project Start>>
+2006.0070E
 T
  
  
@@ -2837,16 +2534,14 @@ Kim, Discretionary Review Requestor
 
 
 After the public was allowed to comment on the consideration of continuance, it was decided to hold the public hearing without taking action today.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0351E 
  
  
@@ -3043,16 +2738,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2007.0297D 
+<<Project End>>
+<<Project Start>>
+2007.0297D 
  
  
  
@@ -3203,8 +2897,9 @@ AYES:
 
 
 17a.
- 
- 2004.0072D
+<<Project End>>
+<<Project Start>>
+2004.0072D
  
  
  
@@ -3253,8 +2948,9 @@ AYES:
 
 
 17b.
- 
- 2004.0073D
+<<Project End>>
+<<Project Start>>
+2004.0073D
  
  
  
@@ -3303,8 +2999,9 @@ AYES:
 
 
 18a.
- 
- 2005.1059
+<<Project End>>
+<<Project Start>>
+2005.1059
 D
 V
  
@@ -3548,8 +3245,8 @@ AYES:
 
 
 18b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1059D
 V
  
@@ -3595,16 +3292,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator continued to June 26, 2007
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.0214C
+<<Project End>>
+<<Project Start>>
+2007.0214C
  
  
 (Tape IIIB; IVA)
@@ -3801,16 +3497,15 @@ EXCUSED:
 MOTION:
  
  17429
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2002.1302E
+<<Project End>>
+<<Project Start>>
+2002.1302E
  
  
 (Tape IVA)
@@ -3931,16 +3626,15 @@ I just wanted to emphasize the history of the procedure.
 ACTION:
  
  No action required of the Commission. This was a hearing to receive public and Commission comment only.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2006.0074TZ
+<<Project End>>
+<<Project Start>>
+2006.0074TZ
  
  
 (Tape IVA)
@@ -3986,8 +3680,8 @@ Preliminary Recommendation:
 
 
 B)
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074T – Initiation of a Planning Code Text Amendment
 .
  
@@ -4005,9 +3699,9 @@ Preliminary Recommendation:
  
 
 
-C) 
- 
- 
+C)
+<<Project End>>
+<<Project Start>>
 2006.0074Z – Initiation of a Zoning Map Amendment
 .
  

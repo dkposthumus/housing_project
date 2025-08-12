@@ -1,327 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ January 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-January 17, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 17, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 17, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Sophie Middlebrook, Aaron Starr, Jonas Ionin, Brett Bollinger, Sarah Dennis, Stephen Shotland, Joshua Switzky, David Alumbaugh, Adrian Putra, Leigh Kienker, Sara Vellve, Shelley Perdue, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-A majority of the Commission decided to hold the Election on this day rather than continue it ( Tape IA ; IB)
-<<Project End>>
-<<Project Start>>
-
-
-1.
- 
- 
-ELECTION OF OFFICERS
-:
- 
- In accordance with the Rules and Regulations of the San Francisco Planning Commission, the President and Vice President of the Commission shall be elected at the first Regular Meeting of the Commission held on or after the 15th day of January of each year, or at a subsequent meeting, the date which shall be fixed by the commission at the first Regular Meeting on or after the 15th day of January each year.
-
-
-(Proposed for continuance to February 7, 2008)
-
-
- 
-
-
-SPEAKER(S):
- 
- None
-
-
-ACTION:
- 
- Retain Dwight Alexander as President and Christina Olague as Vice President
-
-
-AYES:
- 
- Alexander, Olague, Moore and Sugaya
-
-
-NAYES:
- 
- Antonini, S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
- 
-
-
-2.
- 
- 2004.0548E 
+2004.0548E 
  
  
 ( Tape IA ; IB)
@@ -385,8 +63,9 @@ AYES:
 
 
 3a.
- 
- 2004.0548
+<<Project End>>
+<<Project Start>>
+2004.0548
 C
 VE
  
@@ -441,8 +120,9 @@ AYES:
 
 
 3b.
- 
- 2004.0548C
+<<Project End>>
+<<Project Start>>
+2004.0548C
 V
 E
  
@@ -482,16 +162,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1143C
+<<Project End>>
+<<Project Start>>
+2007.1143C
  
  
  
@@ -530,16 +209,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.1326C
+<<Project End>>
+<<Project Start>>
+2007.1326C
  
  
  
@@ -598,8 +276,6 @@ Adoption of Commission Minutes
 - Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -647,8 +323,6 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1229,8 +903,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1342,8 +1014,6 @@ I thought it was important that you know this because I think we have done some 
  
  
 Our first hearing with the Administrative Law Judge would be at the end of January.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1479,8 +1149,6 @@ A. Home Depot on Bayshore Boulevard EIR.
  
  
 Upheld
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1704,16 +1372,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.1332A
+<<Project End>>
+<<Project Start>>
+2007.1332A
  
  
 (Tape IB)
@@ -1776,18 +1443,15 @@ F.
 REGULAR
  
 CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 
- 
- 2006.1525C
+<<Project End>>
+<<Project Start>>
+2006.1525C
  
  
 (Tape IB; IIA)
@@ -1981,8 +1645,9 @@ MOTION:
 
 
 13a.
- 
- 2007.1046
+<<Project End>>
+<<Project Start>>
+2007.1046
 C
 V
  
@@ -2069,8 +1734,8 @@ MOTION:
 
  
  13b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1046C
 V
  
@@ -2101,16 +1766,15 @@ SPEAKER(S):
 ACTION:
  
  Zoning Administrator granted the variance with the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2005.0893E
+<<Project End>>
+<<Project Start>>
+2005.0893E
  
  
 (Tape IIA; IIB)
@@ -2343,8 +2007,6 @@ AYES:
 NAYES:
  
  Antonini and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2458,8 +2120,6 @@ ACTION:
  No Action is required of the Commission.
  
  Information only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2560,16 +2220,15 @@ ACTION:
  No Action is required of the Commission.
  
  Information only
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.0942D
+<<Project End>>
+<<Project Start>>
+2007.0942D
  
  
 (Tape IIIA)
@@ -2683,16 +2342,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2007.1199D
+<<Project End>>
+<<Project Start>>
+2007.1199D
  
  
 (Tape IIIA; IIIB)
@@ -2937,16 +2595,14 @@ that are trying to preserve the existing historic nature.
 
 
 - The report is inappropriate because new projects were not taken into account in terms of traffic considerations.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0773
 E
 !MTZC
@@ -3010,9 +2666,9 @@ MOTION:
 
 
  
- 20a. 
- 
- 
+ 20a.
+<<Project End>>
+<<Project Start>>
 2004.0773
 E
 !MTZC
@@ -3666,9 +3322,9 @@ MOTION:
  
 
 
-20e. 
- 
- 
+20e.
+<<Project End>>
+<<Project Start>>
 2004.0773
 E!MTZ
 C

@@ -1,226 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 13, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ February 13, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-February 13, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 13, 2003
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
-SAN FRANCISCO
-PLANNING COMMISSION
-Meeting Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Tuesday, February 13, 2003
-1:30 PM
-Regular Meeting
-COMMISSIONERS PRESENT:          Shelley Bradford Bell, Michael J. Antonini; Rev. Edgar E. Boyd,
-Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-COMMISSIONERS ABSENT:          None
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:30 p.m.
-STAFF IN ATTENDANCE:  Gerald Green – Director; Larry Badiner -Zoning Administrator; Susan Cleveland-Knowles, Deputy City Attorney; Costolino Hogan; Diane Lim; Tammy Chan; Ben Fu; Glenn Cabreros; Tina Tam; Dario Jones; Matt Snyder; Sara Vellve; Dan Sider; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
 1.          2002.1258E          (T. CHAN: (415) 558-5982)
 STONESTOWN VILLAGE PROJECT - 3251 20TH AVENUE - Public Hearing on Draft Environmental Impact Report:  The project site is located on the south side of Eucalyptus Drive, immediately west and northwest of the Stonestown Galleria shopping center. The proposal includes a mixed-use development comprising approximately 366,800 gross square feet (gsf) on approximately 13.7 acres primarily used as surface parking for the shopping center.  The proposed development includes both residential and neighborhood-serving retail components.  The residential component includes three five-story, 50-foot-tall apartment buildings, approximately 96,250 gsf, 71,400 gsf, and 62,350 gsf, respectively, with 202 subsurface parking spaces; and a two- to three-story, approximately 30-foot-tall senior care facility, totaling approximately 70,300 gsf, with 17 parking spaces.  The proposed retail component includes development of a 27-foot-tall, 41,600-gsf grocery market, and construction of neighborhood-serving retail spaces totaling approximately 24,900 gsf.  The project would include construction of two parking garages and reconfiguration of two surface parking lots that would contain about 1,684 total commercial parking spaces to replace 1,500 existing commercial spaces displaced by the proposed project construction, and provide 184 net new parking spaces to serve the proposed retail uses. The proposed project would also incorporate landscaping features, such as streetscape connections, landscaped walkways, interior courtyards, and open space. To implement this project, the proposed project would require a Conditional Use authorization (CU) to amend the existing Planned Unit Development (PUD) to modify allowable residential density for the apartment community and potentially modify rear yard setback requirements for both residential components. In addition, an amendment of the Zoning Map would be needed to change the height district from 40 feet to 50 feet. The 13.7-acre project site is located in the Lakeshore neighborhood within Assessor's Block 7295 and includes portions of Lots 21, 22, and 23. The site is primarily within a C-2 (Commercial Business) zoning district, and portions are within a 40-X and 65-D height and bulk districts.
                     Preliminary Recommendation:  Receive Comments.  No Action Required. 
@@ -237,7 +15,7 @@ AYES:          Bradford Bell, Boyd, Feldstein, Hughes; S. Lee, W. Lee
 RECUSED:          Antonini
 <<Project End>>
 <<Project Start>>
-          2.          2002.0575C          (M. SNYDER:  (415) 575-6891)
+2.          2002.0575C          (M. SNYDER:  (415) 575-6891)
 THE PG&E TRANSFORMER STATION -  located on south side of the 3400 Block of 19th Street, the parcel bounded by 19th Street on the parcel's north, San Carlos Street on the east, and Lexington Street on the west, Lot 104 in Assessor's Block 3596 – Request for Conditional Use authorization under Planning Code Section 209.6(b) to install a total of 6 panel antennas, and associated equipment cabinets, as part of a wireless transmission network operated by AT&T Wireless.  The site is within an RH-3 (House, Three-family) District and a 50-X Height and Bulk District.  Pursuant to the WTS Facilities Guidelines, the project is a Preference 1 Location Site, a public utility structure.  
                     Preliminary Recommendation: Approval with conditions
                     (Proposed for Continuance to February 27, 2003)
@@ -246,7 +24,7 @@ ACTION:          Continued to February 27, 2003
 AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-          3.          2002.1117C          (B. FU (415) 558-6613)
+3.          2002.1117C          (B. FU (415) 558-6613)
                     245 SOUTH VAN NESS AVENUE - northeast corner of South Van Ness Ave. and Erie Street, Lot 040, Assessor's Block 3530 – Request for Conditional Use authorization to install a wireless telecommunications facility consisting of 12 panel antennas and related equipment at an existing three-story commercial structure as a part of Verizon's wireless telecommunications network within a C-M (Heavy Commercial) Zoning District and a 40-X Height and Bulk District, and subject to the Mission District Interim Controls.
                     Preliminary Recommendation:  Approval with conditions
                     (Proposed for Continuance to March 27, 2003)
@@ -255,7 +33,7 @@ ACTION:          Continued to March 27, 2003
 AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-          4.                    (D.ALUMBAUGH/J.BILLOVITS: (415) 558-6601/(415) 558-6390)
+4.                    (D.ALUMBAUGH/J.BILLOVITS: (415) 558-6601/(415) 558-6390)
 MARKET AND OCTAVIA NEIGHBORHOOD PLAN, PUBLIC REVIEW DRAFT - BRIEFING AND PUBLIC COMMENT -  Staff presentation and community comments on the public review draft of the Market and Octavia Neighborhood Plan, distributed on December 17th 2002 as part of the Department’s Better Neighborhoods Program - comment gathering only; no approval actions.  Information available at www.betterneighborhoods.org.  
                     (Proposed for Continuance to March 13, 2003)
 SPEAKER(S):          None
@@ -279,13 +57,13 @@ AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Le
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          6.          Consideration of Adoption - draft minutes of January 16, 2003.
+6.          Consideration of Adoption - draft minutes of January 16, 2003.
 SPEAKER(S):          None
 ACTION:          Continued to February 20, 2003
 AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-          7.          Commission Comments/Questions
+7.          Commission Comments/Questions
 Commissioner Antonini:
 - He is glad to know that the Fourth and Freelon Project design will allow various units at various price levels to make it affordable to the neighborhood.
 - It is wise for those who have projects to contact the commissioners in advance to discuss upcoming projects.
@@ -297,7 +75,7 @@ Commissioner William Lee:
 C.          DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-          8.          Director's Announcements
+8.          Director's Announcements
 1) He welcomed back the commissioners who were not present last week.
 2) March 3, 2003 will be the special hearing on the Eastern Neighborhoods.  This will not be an action item, just an informational presentation and to listen to public testimony.
 The start time for this hearing will be 4:00 p.m. in the Board of Supervisors chambers.
@@ -332,7 +110,7 @@ ACTION:          Zoning Administrator granted the Variance
 F.          REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-          11.                                                                                                     (C. HOGAN:  (415) 558-6610)
+11.                                                                                                     (C. HOGAN:  (415) 558-6610)
                     PLANNING DEPARTMENT'S PROPOSED WORK PROGRAM AND BUDGET FOR FY 2003-2004 – Presentation of the San Francisco Planning Department Work Program and Budget, and consideration of approval of a draft resolution adopting the Planning Department's proposed work program and budget for fiscal year 2003-2004.
                     Preliminary Recommendation:  Approval
 SPEAKER(S):
@@ -353,7 +131,7 @@ AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Le
 RESOLUTION:          16528
 <<Project End>>
 <<Project Start>>
-          12.          2001.1174E          (T. CHAN: (415) 558-5982)
+12.          2001.1174E          (T. CHAN: (415) 558-5982)
 436 CLEMENTINA STREET - Appeal of a Preliminary Mitigated Negative Declaration - Assessor's Block 3732, Lot 62. The site is part of the major city block bounded by Howard Street to the north, Folsom Street to the south, 5th Street to the east, and 6th Street to the west within the South of Market neighborhood. Clementina and Tehama Streets are minor streets bisecting this city block. The proposed project would demolish the existing one-story, 5,000-square-foot warehouse on this 5,625-square-foot site and construct 28 residential condominium units over approximately 1,250 square feet (sq. ft.) of ground-floor commercial space, and eight off-street parking spaces within a new eight-story structure. The proposed structure would be approximately 37,975 sq. ft. and 85 feet in height, an increase of 32,348 sq. ft. and seven stories in height above the existing structure. The project site is located within the RSD (Residential Service Mixed-Use) zoning district and within the 40-X/85-B height and bulk district. Projects within the RSD zoning district require a conditional use authorization to determine the residential density for buildings over 40 feet in height. The project site is also within the South of Market Redevelopment Plan Area..
                     Preliminary Recommendation: Uphold Preliminary Mitigated Negative Declaration.
                     (Continued from Regular Meeting of December 5, 2002)
@@ -383,7 +161,7 @@ AYES:          Antonini, Bradford Bell, Boyd, Feldstein, Hughes; S. Le
 MOTION:          16529
 <<Project End>>
 <<Project Start>>
-          13.          2002.0896C          (B. FU:  (415) 558-6613)
+13.          2002.0896C          (B. FU:  (415) 558-6613)
                     436 CLEMENTINA STREET - north side, between 5th and 6th Streets, Lot 062 in Assessor’s Block 3732: Request for Conditional Use (CU) authorization under Planning Code Section 263.11 to allow Special Height Exceptions within the South of Market Residential Service District (RSD) with a 40-X/85-B Height and Bulk Designation.  The proposed project would demolish the existing one-story, 5,000 square-foot warehouse and construct 28 residential units over a ground-floor commercial space, and ten off-street parking spaces within a new eight-story structure.  The proposed structure would be approximately 75 feet in height.
                     Preliminary Recommendation: Approval with conditions
 SPEAKER(S):
@@ -434,7 +212,7 @@ G.          DISCRETIONARY REVIEW HEARING
 Approximately 6: 15 PM  the Planning  Commission  convened into a Discretionary Review (DR) Hearing  to hear  and act  on  Discretionary  Review  matters.
 <<Project End>>
 <<Project Start>>
-          14.          2002.0835DDDDD          (G. CABREROS: (415) 558-6169)
+14.          2002.0835DDDDD          (G. CABREROS: (415) 558-6169)
                     2750 GREENWICH STREET - north side between Baker and Broderick Streets, Lot 013 in Assessor’s Block 0939 -- Requests for Discretionary Review of Building Permit Application No. 2002.05.24.7478 proposing a horizontal expansion to the front of the third floor and a three-story horizontal expansion to the side and rear of the existing three-story, single-family residence located within an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as submitted. Take discretionary review and approve the project with proposed modifications.
                     (Continued from Regular Meeting of January 23, 2003)
@@ -476,7 +254,7 @@ NAYES:          S. Lee
 ABSENT:          Boyd
 <<Project End>>
 <<Project Start>>
-          15.          2002.0839D          (G. CABREROS:  (415) 558-6169)
+15.          2002.0839D          (G. CABREROS:  (415) 558-6169)
 2616 UNION STREET - north side between Divisadero and Broderick Streets; Lot 006 in Assessor’s Block 0946 - Staff-initiated request for Discretionary Review of Building Permit Application No. 2002.05.23.7377 filed to authorize the relocation of the west wall of a new deck built at the rear of this single-family house.  Contrary to the wall location approved by the Planning Commission on May 25, 2000 in their consideration of Discretionary Review Case No. 2000.331D, filed on Building Permit Application No. 2000.01.27.446, the stucco wall was built to the west side property line.  The plans approved by the Commission at that time indicated the west wall of the deck to be located approximately 8 inches away from the west side property line.  The subject property is located within an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
 Preliminary Recommendation: Take Discretionary Review and disapprove the application.
 SPEAKER(S):
@@ -504,7 +282,7 @@ NAYES:          Feldstein
 ABSENT:          Boyd
 <<Project End>>
 <<Project Start>>
-          16.          2002.1130D          (T. TAM: (415) 558-6325)
+16.          2002.1130D          (T. TAM: (415) 558-6325)
                     3739-16TH STREET -  south side, between Castro and Flint Streets, Lot 35 in Block 2622 - Mandatory Discretionary Review request, under Planning Commission Resolution Number 16078, for a building permit (No. 2002.10.02.7994s) to allow reduction of dwelling units (from three to two) on the subject property.  The property is located in a RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the dwelling unit merger as proposed.
                     NOTE: On December 19, 2002, before losing a quorum, the Commission continued this matter to February 13, 2003.
@@ -517,7 +295,7 @@ AYES:          Antonini, Bradford Bell, Feldstein, Hughes; S. Lee, W. 
 ABSENT:          Boyd
 <<Project End>>
 <<Project Start>>
-          17.          2002.0832D          (D. JONES: (415) 558-6477)
+17.          2002.0832D          (D. JONES: (415) 558-6477)
                     1121 MORAGA STREET - south side, between 18th and 17th Avenues, Lot 030 in Block 2032 -  Discretionary Review request,  for a building permit (No. 2002.04.17.4126S) to allow the construction of a new third story and rear deck to the existing two-story, single-family dwelling.  The property is located in the RH-1 (Residential, House, Single-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the building permit as modified.
                     NOTE: On December 19, 2002, before losing a quorum, the Commission continued this matter to February 13, 2003.
@@ -540,7 +318,7 @@ AYES:          Antonini, Bradford Bell, Feldstein, Hughes; S. Lee, W. 
 ABSENT:          Boyd
 <<Project End>>
 <<Project Start>>
-          18.          2002.0267D          (M. SNYDER: (415) 558-6891)
+18.          2002.0267D          (M. SNYDER: (415) 558-6891)
                     1600 MISSION STREET southwest corner of Mission Street and Otis Street, Lot 1 in Assessor's Block 3512 - Request for Discretionary Review of Building Permit Application No. 2002.03.19.1823 proposing to construct a four story vertical addition at the southern end of the property, which would add approximately 6,500 gross square feet of office use specifically for design professionals.  The property is within the C-M (Heavy Commercial) District, and a 105-J Height and Bulk District.  
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as proposed.
                     NOTE: On December 19, 2002, before losing a quorum, the Commission continued this matter to February 13, 2003.
@@ -599,14 +377,14 @@ AYES:          Antonini, Bradford Bell, Feldstein, Hughes; S. Lee, W. 
 ABSENT:          Boyd
 <<Project End>>
 <<Project Start>>
-          19.          2002.1124D          (S. VELLVE: (415) 558-6263)
+19.          2002.1124D          (S. VELLVE: (415) 558-6263)
                     2734 DIAMOND STREET – west side between Chenery Street and Lippard Avenue, Lot 025 in Assessor's Block 6740 – Request for Discretionary Review of Building Permit Application 2002.05.28.7564, proposing an approximately 6 foot horizontal addition at the ground/first floor, and an 8 foot horizontal addition at the second floor. The property is located within a RH-2 (House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Do not take Discretionary Review and approve the building permit as submitted.
 SPEAKER(S):          None
 ACTION:          Discretionary Review request has been withdrawn.
 <<Project End>>
 <<Project Start>>
-          20.          2002.0636DD          (D. SIDER: (415) 558-6697)
+20.          2002.0636DD          (D. SIDER: (415) 558-6697)
 111  MANCHESTER  STREET –  east side,  south of  Stoneman Street, Lot 019 in Assessor’s Block 5544 – Two Discretionary Review requests, the first initiated by Department Staff, pursuant to Planning Commission residential demolition policy, of Building Permit Application Number 2002.04.22.4580, which would demolish an existing single family dwelling, and the second initiated by a member of the public, of Building Permit Application Number 2002.04.22.4585, which would construct a new single family dwelling on the same site. The property is located in an RH-1 (Residential, House, One-Family) District, the Bernal Heights Special Use District, and a 40-X Height and Bulk District.
 Preliminary  Recommendation:  Do  not  take  Discretionary  Review  and approve the project.
 SPEAKER(S):

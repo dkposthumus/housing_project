@@ -1,278 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ November 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-November 3, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 3, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 3, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-        
- Alexander, Antonini, Bradford-Bell, Hughes, W. Lee, and Olague
-
-
-COMMISSIONERS ABSENT:
-          
- S. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT DWIGHT ALEXANDER AT 1:39 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Tim Blomgren, Dan Sider, Adam Light, Isolde Wilson, Glen Cabreros, Rick Crawford, Mary Woods, Dan DiBartolo, Tom Wang, Jonas Ionin – Acting Commission Secretary
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
- 
-  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
-       
- 2004.0782D
+2004.0782D
                                                                           
  (M. SMITH: (415) 558-6322)
                                                                                                
@@ -328,8 +55,9 @@ ABSENT:
 
 
 1b.
-       
- 2004.0783D
+<<Project End>>
+<<Project Start>>
+2004.0783D
                                                       
  
                   
@@ -389,8 +117,8 @@ ABSENT:
  
 2
 .
-        
- 
+<<Project End>>
+<<Project Start>>
 2002.1129E
       
  
@@ -448,16 +176,15 @@ AYES:
 ABSENT:
          
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
- 2004.0984C
+<<Project End>>
+<<Project Start>>
+2004.0984C
                                                                           
  (S. VELLVE: (415) 558-5263)
 
@@ -508,8 +235,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -711,8 +436,6 @@ Commissioner Olague:
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -745,8 +468,6 @@ AYES:
 ABSENT:
          
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -785,8 +506,6 @@ Last week you approved 410 Jessie Street.
  Although the proposed and approved new building configuration includes office use, the square footages at the previous use provides a credit larger than the office portion.
  
  I think there is pretty extensive information here demonstrating compliance with the Transit Impact Development Fee.
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1014,8 +733,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 8a.
-       
- 2005.0400D
+<<Project End>>
+<<Project Start>>
+2005.0400D
  
  
                                                                 
@@ -1064,8 +784,9 @@ ABSENT:
 
 
 8b.
-       
- 2005.0577D
+<<Project End>>
+<<Project Start>>
+2005.0577D
       
  
  
@@ -1111,8 +832,6 @@ AYES:
 ABSENT:
          
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1121,8 +840,8 @@ ABSENT:
                
  
 9.
-           
- 
+<<Project End>>
+<<Project Start>>
 2005.0770H
                                                       
  
@@ -1179,8 +898,6 @@ MOTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1191,8 +908,9 @@ REGULAR CALENDAR
 
                        
  10.
-       
- 2004.0672
+<<Project End>>
+<<Project Start>>
+2004.0672
 E
 CV
                                                  
@@ -1319,8 +1037,9 @@ MOTION:
 
                        
  11a.
-     
- 2004.0672E
+<<Project End>>
+<<Project Start>>
+2004.0672E
 C
 V: 
                                                
@@ -1435,8 +1154,9 @@ MOTION:
 
 
 11b.
-     
- 2004.0672EC
+<<Project End>>
+<<Project Start>>
+2004.0672EC
 V
 : 
                                                
@@ -1477,16 +1197,15 @@ SPEAKAERS:
 ACTION:
           
   The Zoning Administrator closed the public hearing and granted the variances.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-       
- 2005.0842D
+<<Project End>>
+<<Project Start>>
+2005.0842D
                                                                   
  
       
@@ -1531,16 +1250,15 @@ AYES:
 ABSENT:
          
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-       
- 2005.0530D
+<<Project End>>
+<<Project Start>>
+2005.0530D
                                                                   
  
     
@@ -1628,8 +1346,6 @@ NAYES:
 ABSENT:
         
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
                       
@@ -1684,16 +1400,15 @@ AYES:
 ABSENT:
          
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-       
- 2004.0750D
+<<Project End>>
+<<Project Start>>
+2004.0750D
                                           
  
                      
@@ -1738,16 +1453,15 @@ AYES:
 ABSENT:
          
  Bradford-Bell and S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-       
- 2004.1314D
+<<Project End>>
+<<Project Start>>
+2004.1314D
                                                       
  
                
@@ -1908,16 +1622,15 @@ ACTION:
  A substitute motion was not made.
  
  The building permit application is approved as proposed.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-       
- 2005.0743D
+<<Project End>>
+<<Project Start>>
+2005.0743D
                                           
  
                       
@@ -2011,16 +1724,15 @@ AYES:
 ABSENT:
          
  Alexander, S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-       
- 2004.0898D
+<<Project End>>
+<<Project Start>>
+2004.0898D
                                                       
  
                    

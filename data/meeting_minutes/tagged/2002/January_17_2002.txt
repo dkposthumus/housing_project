@@ -1,222 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 17, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2002
-
-
-/ January 17, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-January 17, 2002
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 17, 2002
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, January 17, 2002
-1:30 PM
-Regular Meeting
-PRESENT:          Baltimore, Chinchilla, Fay, Joe, Lim, Theoharis
-ABSENT:          Salinas
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 p.m.
-STAFF IN ATTENDANCE: Gerald G. Green - Director of Planning; Larry Badiner -Zoning Administrator; Jonathan Purvis; Mary Woods; Michael Smith; Craig Nikitas, Scott Sanchez; Thomas Wang; Nora Priego – Transcription Secretary; Linda Avery - Commission Secretary
-A.          CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-          1.          2001.0671E          (CHAN: 558-5982)
+1.          2001.0671E          (CHAN: 558-5982)
 222 VALENCIA STREET – Assessor's block 3533, Lot 4. Appeal of Preliminary Negative Declaration.  The proposed project includes the construction of nine residential units, approximately 400 square feet (sq.ft.) of ground floor commercial space, and nine off-street parking spaces within a new five-story structure. The site is a fenced private parking lot for approximately 13 cars. A 780-square-foot warehouse is on this 4,590-sqare-foot site. The new building would be approximately 50 feet in height. Vehicular access to the site would be from Valencia Street. The project site is within the Board of Supervisors adopted Mission District Interim Controls. Under the controls, any change of use would require a Discretionary Review (DR) and all market rate housing that does not provide at least 25% affordable units on site would require a Conditional Use (CU) authorization.  Therefore, the project requires a DR and a CU. The project site is also within the study area of the proposed Upper Market Better Neighborhood 2002 Program. The project site is located within the C-M (Heavy Commercial) zoning district and within a 50-X Height and Bulk district. 
 Preliminary Recommendation: Uphold Preliminary Negative Declaration
 (Proposed for Continuance to February 7, 2002)
@@ -226,7 +9,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Theoharis
 ABSENT:          Salinas
 <<Project End>>
 <<Project Start>>
-          2.          2001.0509D          (CABREROS: 558-6169)
+2.          2001.0509D          (CABREROS: 558-6169)
                     3016 PIERCE STREET - east side between Greenwich and Filbert Streets, Lot 019 in Assessor’s Block 0514 - Staff-initiated request for Discretionary Review of Building Permit Application No. 2001/04/02/5739, proposing to merge an existing two-unit building into a single-family dwelling in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Take Discretionary Review and Disapprove the application
                     (Continued from Regular Meeting of November 1, 2001)
@@ -246,14 +29,14 @@ SPEAKER(S):          None
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          4.          Proposed adoption of Planning Commission hearing schedule for 2002
+4.          Proposed adoption of Planning Commission hearing schedule for 2002
 SPEAKER(S):          None
 ACTION:          Continued as amended:  Cancel the hearing on March 28, 2002 in observance of Passover
 AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Theoharis
 ABSENT:          Salinas
 <<Project End>>
 <<Project Start>>
-          5.          ELECTION OF OFFICERS:  In accordance with the Rules and Regulations of the City Planning Commission, the President and Vice President of the Commission shall be elected at the first Regular Meeting of the Commission held on or after the 15th day of January of each year, or at a subsequent meeting, the date which shall be fixed by the commission at the first Regular Meeting on or after the 15th day of January each year.
+5.          ELECTION OF OFFICERS:  In accordance with the Rules and Regulations of the City Planning Commission, the President and Vice President of the Commission shall be elected at the first Regular Meeting of the Commission held on or after the 15th day of January of each year, or at a subsequent meeting, the date which shall be fixed by the commission at the first Regular Meeting on or after the 15th day of January each year.
 NOMINATIONS FOR PRESIDENT: Hector Chinchilla
 ACTION:          Approved
 AYES:          Baltimore,  Fay, Joe, Lim, Theoharis
@@ -264,7 +47,7 @@ AYES:                    Baltimore, Chinchilla, Joe, Lim The
 ABSENT:          Salinas
 <<Project End>>
 <<Project Start>>
-          6.          Commission Matters
+6.          Commission Matters
 Commissioner Theoharis:  She would like to have scheduled in February 2002, the Ocean Avenue/Balboa Street Better Neighborhoods 2002.
 C.          DIRECTOR'S REPORT
 <<Project End>>
@@ -275,7 +58,7 @@ Re:  Dinner honoring former President of the Landmarks Board – Daniel Reidy
 - On Monday, January 14, there was a dinner honoring Dan Reidy who has resigned from the Landmarks Board.  The Mayor issued a proclamation and the Department issued a Resolution.
 <<Project End>>
 <<Project Start>>
-          8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+8.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 BOS
 Re:  Appeal of Certification of EIR for De Young Museum
 - After listening to further testimony from appellants, the Board upheld the Commission's decision by a +10-1 vote.
@@ -303,7 +86,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Theoharis
 ABSENT:          Salinas
 <<Project End>>
 <<Project Start>>
-          10.          2001.0015Z          (WOODS:  558-6315)
+10.          2001.0015Z          (WOODS:  558-6315)
                     1052 OAK STREET - north side between Divisadero and Scott Streets, Lot 5 in Assessor's Block 1216 - Request for reclassification of a portion (approximately 3,136 square feet) of Lot 5 (a part of the Touchless Car Wash site) from NC-2 (Small-Scale Neighborhood Commercial) District to RH-3 (Residential, House, Three-Family) District.  Currently, the entire lot area, approximately 4,199 square feet, of Lot 5 is zoned NC-2.  This reclassification is to allow the construction of three new residential units in accordance with Planning Commission Motion No. 16036 relating to a conditional use authorization approved on November 16, 2000 to expand the car wash.
                     Preliminary Recommendation: Adoption of the Draft Resolution for Reclassification.
                     (Continued from Regular Meeting of December 6, 2001)
@@ -313,7 +96,7 @@ AYES:          Baltimore, Chinchilla, Fay, Joe, Lim, Theoharis
 ABSENT:          Salinas
 <<Project End>>
 <<Project Start>>
-          11.          2001.1059C          (McGEE: 558-6367)
+11.          2001.1059C          (McGEE: 558-6367)
                     2601 MISSION STREET  - at the southeast corner of 22nd Street and Mission Street, Lot 069, in Assessor’s Block 3637 - Request for Conditional Use authorization to: (1) install a total of six panel antennae, one GPS antenna, and associated equipment cabinets, as part of a wireless communication network for Metro PCS, per Sections 712.83/790.80 of the Planning Code; and to: (2) add a use to a lot along Mission Street on a site that is larger than 40,000 square feet, per Board of Supervisor’s Resolution 518-01 (the Mission District Interim Controls), within an NC-3 (Neighborhood Commercial, Moderate-Scale) District, a 50-X/65-B Height and Bulk District, and Mission Alcoholic Beverage Special Use Subdistrict.  The project is Preference 2, a Co-Location Site on which other WTS facilities currently exist, under the WTS Facilities Siting Guidelines.
                     Preliminary Recommendation:  Approval with conditions.
 SPEAKER(S):
@@ -334,7 +117,7 @@ ABSENT:          Salinas
 MOTION:          16329
 <<Project End>>
 <<Project Start>>
-          12.          2000.520C          (MARTIN: 558-6616)
+12.          2000.520C          (MARTIN: 558-6616)
                     2601 MISSION STREET - at the southeast corner of 22nd Street and Mission Street, Lot 069, in Assessor’s Block 3637 - Request for Conditional Use authorization to: (1) install a total of twelve panel antennae, two GPS antennae, and associated equipment cabinets, as part of a wireless communication network for Nextel Communications, per Sections 712.83/790.80 of the Planning Code; and to: (2) add a use to a lot along Mission Street on a site that is larger than 40,000 square feet, per Board of Supervisor’s Resolution 518-01 (the Mission District Interim Controls), within an NC-3 (Neighborhood Commercial, Moderate-Scale) District, a 50-X/65-B Height and Bulk District, and Mission Alcoholic Beverage Special Use Subdistrict.  The project is Preference 2, a Co-Location Site on which other WTS facilities currently exist, under the WTS Facilities Siting Guidelines.
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):
@@ -347,7 +130,7 @@ ABSENT:          Salinas
 MOTION:          16330
 <<Project End>>
 <<Project Start>>
-          13.          2001.1114C          (P.VOLLMAN: 558-6405)
+13.          2001.1114C          (P.VOLLMAN: 558-6405)
                     2222 POLK STREET - east side between Vallejo and Green Streets, Assessor’s Block 0549, Lot 015 - Request under Planning Code Section 723.45 for Conditional Use Approval for a Liquor Store within the Polk Street Neighborhood Commercial District and within the 65-A Height and Bulk District.  The proposal is to add a type 20 ABC license for beer and wine sales to an existing retail grocery store known as "Polk and Green Produce." There will be no expansion of or other changes to the existing store.
                     Preliminary Recommendation:  Approval with conditions
 SPEAKER(S):          None
@@ -365,21 +148,21 @@ SPEAKER(S):          None
 ACTION:          Discretionary Review application withdrawn
 <<Project End>>
 <<Project Start>>
-          15.          2001.1054D          (P.VOLLMAN: 558-6405)
+15.          2001.1054D          (P.VOLLMAN: 558-6405)
                     260 CHESTNUT STREET - north side between Kearny and Grant Streets, Lot 017 in Assessor’s Block 0055 - Discretionary Review request of Building Permit Application number 2001/07/13/3612, proposing to add a 24-foot rear addition to the existing three story single family house, in an RH-3 (Residential, House, Three Family District), and a 40-X Height and Bulk District.
                     Preliminary Recommendation: Do not take Discretionary Review and approve the building permit as revised.
 SPEAKER(S):          None
 ACTION:          Discretionary Review application withdrawn
 <<Project End>>
 <<Project Start>>
-          16.          2001.0817DD          (TAM: 558-1235)
+16.          2001.0817DD          (TAM: 558-1235)
                     1376-24TH AVENUE - east side of 24th Avenue, between Judah and Irving Streets; Lot 26 in Assessor’s Block 1778 - Discretionary Review request for Building Permit No. 2000/06/06/1858s to construct a vertical addition (third story) and a rear horizontal extension in the RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Do not take Discretionary Review and approve the project as revised.
 SPEAKER(S):          None
 ACTION:          Discretionary Review Application Withdrawn
 <<Project End>>
 <<Project Start>>
-          17.          2001.527D          (CRAWFORD:  558-6358)
+17.          2001.527D          (CRAWFORD:  558-6358)
                     115 ELLINGTON AVENUE - southeast side between Mt Vernon and Ottawa Avenues.  Assessor’s Block 7043 Lot 003F - Request for Discretionary Review of Building Permit Application 2000/12/18/8198 proposing a one story vertical addition and a 12 foot horizontal addition at the rear of a single family dwelling in an RH-1, (Residential House, One Family) district and a 40-X Height and Bulk district.  
                     Preliminary Recommendation: Take Discretionary Review and approve the permit with modifications.
 SPEAKER(S):          None

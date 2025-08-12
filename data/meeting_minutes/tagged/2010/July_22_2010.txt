@@ -1,317 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 22, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ July 22, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-July 22, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, July 
-22, 2010
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
-
-
-COMMISSIONERS 
-ABSENT:  Miguel
-
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS 
-CALLED TO ORDER BY VICE PRESIDENT OLAGUE AT 1:48 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE:  John Rahaim â Director of Planning, Michael Jacinto, Kevin Guy, 
-Sharon Young, AnMarie Rodgers, Tara Sullivan, Aaron Hollister, Michael Smith, 
-Rick Crawford, and Linda Avery â Commission Secretary.
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-
-                1.             
 2006.1006E 
                                                                      (M. 
 JACINTO:  (415) 575-9033)
@@ -411,7 +98,9 @@ ABSENT:          Miguel
 
 
 
-2a.        
+2a.
+<<Project End>>
+<<Project Start>>
 2006.1106
 B
 MXZ                                                
@@ -486,7 +175,9 @@ ABSENT:          Miguel
 
 
 
-2b.       
+2b.
+<<Project End>>
+<<Project Start>>
 2006.1106B
 M
 XZ                                                            
@@ -562,7 +253,9 @@ ABSENT:          Miguel
 
 
 
-2c.        
+2c.
+<<Project End>>
+<<Project Start>>
 2006.1106BM
 X
 Z 
@@ -643,7 +336,9 @@ ABSENT:          Miguel
 
 
 
-2d.       
+2d.
+<<Project End>>
+<<Project Start>>
 2006.1106BMX
 Z
                                                             
@@ -709,8 +404,6 @@ Antonini, Borden, Lee, Moore, Sugaya, and Olague
 
 
 ABSENT:          Miguel
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -796,8 +489,6 @@ B.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -843,8 +534,6 @@ of the next meeting and other future meetings of the Planning Commission.
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -856,8 +545,6 @@ C.         DIRECTORâS REPORT
 
 5.         
 Directorâs Announcements
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1081,8 +768,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1094,11 +779,9 @@ separate item at this or a future hearing
 
 
 
-7.        
-
-
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2010.0183C
                                                        
                  (S. YOUNG: (415) 558-6346)
@@ -1228,9 +911,7 @@ in neighborhood meetings
 F.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1241,14 +922,9 @@ REGULAR CALENDAR
 
 
 
-            8.         
-
-
-
-
-
-
-
+            8.
+<<Project End>>
+<<Project Start>>
 2010.0499U
                    
                                                 
@@ -1357,8 +1033,6 @@ ABSENT:          Miguel
 
 
 RESOLUTION:   18150
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1374,11 +1048,9 @@ RESOLUTION:   18150
 
 
 
-9.        
-
-
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2010.0335TZ
                                                                  
 (T. SULLIVAN: (415) 558-6257)
@@ -1453,8 +1125,6 @@ ABSENT:          Miguel
 
 
 RESOLUTION:   18151
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1465,11 +1135,9 @@ RESOLUTION:   18151
 
 
 
-10.       
-
-
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2010.0113C
                                            
                         (A. HOLLISTER: (415) 575-9078)
@@ -1543,8 +1211,6 @@ ABSENT:          Miguel
 
 
 MOTION:           18152
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1556,11 +1222,9 @@ MOTION:           18152
 
 
 
-            11.       
-
-
-
-
+            11.
+<<Project End>>
+<<Project Start>>
 2009.1117C
                                                                    
       (M. SMITH: (415) 558-6322)
@@ -1654,15 +1318,8 @@ MOTION:           18153
 
 12
 a.
-     
-
-
-
-
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2008.0797ICEKV
                                                
                       
@@ -1750,14 +1407,8 @@ MOTION:           18154
 
 12
 b.
-      
-
-
-
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2008.0797ICEKV
                                                            
          
@@ -1800,8 +1451,6 @@ those listed for item 12a
 
 ACTION:           Acting Zoning Administrator closed the public hearing and 
 granted the variances subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1811,11 +1460,9 @@ granted the variances subject to the standard conditions of approval
 
 
 
-13.       
-
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.0135C
                                                                    
          
@@ -1877,8 +1524,6 @@ Miguel
 
 
 MOTION:           18155
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1976,8 +1621,6 @@ Miguel
 
 
 DRA No.           0163
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1989,12 +1632,9 @@ DRA No.           0163
 
 
 
-15.        
-
-
-
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2008.1034I
                                                                     
      (R. CRAWFORD:  558-6358)
@@ -2058,8 +1698,6 @@ representing the Project Sponsor
 
 
 ACTION:           None â IMP accepted as is
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2071,9 +1709,9 @@ ACTION:           None â IMP accepted as is
 
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2010.0184D 
 
 
@@ -2154,8 +1792,6 @@ Miguel
 
 
 DRA No.           0164
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2167,11 +1803,9 @@ DRA No.           0164
 
 
 
-17.       
-
-
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2010.0130D
                                                                    
    (M. WOODS: (415) 558-6315)

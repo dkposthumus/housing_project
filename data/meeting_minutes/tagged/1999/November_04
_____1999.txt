@@ -1,203 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minutes of the San Francisco Planning Commission Nombermber 1999
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minutes of
-Planning Commission Calendars
-
-
-November 1999
-
-
- 
-
-
-Presented below are Minutes of the Planning Commission. The
-top of this page lists Commission meeting dates for the month.  Click on
-the date and you will reach the minutes for that that week. The minutes present
-a summary of actions taken at the Planning Commission hearing and provides a
-Motion or Resolution number for that action.
-
-
- 
-
-
-With most browsers you will
-be able to search for any text item by using the Ctrl-F keys. It is recommended
-you search by case number and suffix, if you know it, as that will always be a
-unique item. You may search by any identifying phrase, including project
-addresses. 
-
-
-(Please note, commission minutes generally are approved and finalized two
-weeks following the hearing date.) 
-
-  
-
-
-
-
-November 04,
-     1999
-
-
-November 18,
-     1999
-
-
-
-
-
-
-  Please note: meetings of November 11 and November 25 were cancelled.
-
-  
-
-  
-
-
-SAN FRANCISCO
- 
-
-
-PLANNING
-COMMISSION
- 
-
-  
-
-  
-
-  
-
-
-Minutes
-of Meeting
- 
-
-  
-
-
-Board
-of Supervisors Chamber - Room 250
- 
-
-
-City
-Hall, 1 Dr. Carlton B. Goodlett Place
- 
-
-
-Thursday,
-November 4, 1999
- 
-
-
-1:30
-PM
- 
-
-  
-
-  
-
-  
-
-
-Regular
-Meeting
-
-
- 
-
-
-
-
-
-
-
-
-
-
-PRESENT: Theoharis, Mills, Antenore, Chinchilla,
-Richardson, Joe 
-
-
-ABSENT: Martin
-
-
-
-
-
-
-
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:50 P.M.
- 
-
-  
-
-
-STAFF IN ATTENDANCE: Gerald G. Green - Director of Planning, Mary
-Gallagher - Zoning Administrator, Linda D. Avery - Commission Secretary
- 
-
-  
-
-  
-
-  
-
-
-A. 
-ITEMS TO BE CONTINUED
-<<Project End>>
-<<Project Start>>
- 
-
-  
-
-
 1. 1999.438CV (ALVIN) 
 
 
@@ -236,11 +37,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 2. 1999.312E (JAROSLAWSKY) 
 699 PENNSYLVANIA AVENUE
 , Assessor's Block
@@ -283,11 +79,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 3. 99.060D (PURVIS) 
 
 
@@ -322,11 +113,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 4. 99.061D (PURVIS) 
 
 
@@ -465,11 +251,6 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 5. Consideration of Adoption - draft minutes of 10/14/99 and 10/21/99. 
 
   
@@ -489,11 +270,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 6. Commission Matters. 
 
   
@@ -510,11 +286,6 @@ D.
 DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 7. Director's Announcements. 
 
   
@@ -523,11 +294,6 @@ DIRECTOR'S REPORT
 None
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 8. Review of Past Week's Events at the Board of Supervisors & Board of
 Appeals. 
 
@@ -542,12 +308,6 @@ E.
 CONSIDERATION OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 9. 1999.365L (LIGHT) 
 
 
@@ -600,11 +360,6 @@ MOTION No.:
 14915
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 10. 1999.266C (SMITH) 
 
 
@@ -658,11 +413,6 @@ MOTION No.:
 14916
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 11. 1999.398C (WILSON) 
 
 
@@ -728,11 +478,6 @@ MOTION No.:
 14917
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 12. 1999.073D (KOMETANI) 
 
 
@@ -786,15 +531,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-  
-
-  
-
-
 13. 1999.073DD (KOMETANI) 
 
 
@@ -855,11 +591,6 @@ F.
  REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 14. 1999.512T (ROSETTER) 
 
 
@@ -901,11 +632,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 15. 99.587ET (ROSETTER) 
 
 
@@ -954,11 +680,6 @@ RESOLUTION No.:
 14918
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 16. 99.585ET (ROSETTER) 
 
 
@@ -1022,11 +743,6 @@ RESOLUTION No.:
 14919
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 17. 1998.090RM (MONTANA) 
 
 
@@ -1099,11 +815,6 @@ MOTION No.:
 14920
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 18. 1998.090RT (MONTANA) 
 
 
@@ -1155,11 +866,6 @@ MOTION No.:
 149218
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 19. 98.559E (MALTZER) 
 
 
@@ -1188,11 +894,6 @@ of seven off-street parking spaces.
 APPEAL WITHDRAWN
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 20. 1999.322C (KOONTS) 
 
 
@@ -1238,11 +939,6 @@ MOTION No.:
 14922
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 21. 1999.485C (KOONTS) 
 
 
@@ -1285,11 +981,6 @@ FINAL LANGUAGE:
 11/18/99
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 22. 1999.511C (PAEZ) 
 
 
@@ -1333,11 +1024,6 @@ MOTION No.:
 14923
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 23. 99.656C (BORDEN) 
 
 
@@ -1373,11 +1059,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 24. 1998.497X (LINDSAY) 
 
 
@@ -1437,11 +1118,6 @@ MOTION No.:
 14924
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 25. 98.266B (ALVIN) 
 
 
@@ -1486,11 +1162,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 26. 99.351E (CHAN) 
 
 
@@ -1561,11 +1232,6 @@ AT APPROXIMATELY 4:30 PM THE PLANNING COMMISSION CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW (DR) HEARING.
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 27. 1999.351D (BANALES) 
 
 
@@ -1604,11 +1270,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 28. 1999.168D (PURVIS) 
 
 
@@ -1656,15 +1317,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-  
-
-  
-
-
 29. 98.989D (LI) 
 
 
@@ -1706,11 +1358,6 @@ ABSENT
 : Martin
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 30. 1999.635D (BILLOVITS) 
 
 
@@ -1889,11 +1536,6 @@ A.
 ITEMS TO BE CONTINUED
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 1. 99.490C (PURVIS) 
 
 
@@ -1923,10 +1565,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-
 2. 98.173E (MALTZER) 
 
 
@@ -1971,10 +1609,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-
 3. 98.599E (WONG) 
 
 
@@ -2015,10 +1649,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-
 4. 98.891E (AHMADI) 
 
 
@@ -2055,10 +1685,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-
 5. 99.556D (BEATTY) 
 
 
@@ -2097,10 +1723,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-
 6. 1999.270DD (BIILLOVITS) 
 
 
@@ -2205,11 +1827,6 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 7. Commission Matters. 
 
 
@@ -2227,11 +1844,6 @@ D.
 DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 8. Director's Announcements. 
 
 
@@ -2252,11 +1864,6 @@ DIRECTOR'S REPORT
 significant historical events.
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 9. Review of Past Week's Events at the Board of Supervisors & Board of
 Appeals. 
 
@@ -2273,12 +1880,6 @@ E.
 CONSIDERATION OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 10. 99.559C (KEYLON) 
 
 
@@ -2323,11 +1924,6 @@ MOTION No.:
 14930
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 11. 1999.485C (KOONTS) 
 
 
@@ -2364,12 +1960,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 12. 99.650D (LeBLANC) 
 
 
@@ -2424,11 +2014,6 @@ F.
 CONSENT CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 13. 99.661Q (PURVIS) 
 
 
@@ -2461,11 +2046,6 @@ G.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 14. 1999.176E (GITELMAN) 
 
 
@@ -2497,12 +2077,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 15. 99.027E (COOPER) 
 
 
@@ -2539,12 +2113,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 16. 1999.512T (ROSETTER) 
 
 
@@ -2592,11 +2160,6 @@ RESOLUTION No.:
 14929
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 17. 99.656C (BORDEN) 
 
 
@@ -2628,12 +2191,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 18. 98.266B (ALVIN) 
 
 
@@ -2667,12 +2224,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 19. 1999.438CV (ALVIN) 
 
 
@@ -2708,11 +2259,6 @@ MOTION No.:
 14926
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 20. 1999.438CV (ALVIN YOUNG ALVIN) 
 
 
@@ -2737,11 +2283,6 @@ ACTION:
 Zoning Administrator closed public hearing.
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 21. 99.489C (PURVIS) 
 
 
@@ -2781,11 +2322,6 @@ MOTION No.:
 14936
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 22. 99.363C (WOODS) 
 
 
@@ -2821,11 +2357,6 @@ MOTION No.:
 14927
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 23. 99.367C (WILSON) 
 
 
@@ -2852,12 +2383,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 24. 99.612C (LeBLANC) 
 
 
@@ -2898,11 +2423,6 @@ AT APPROXIMATELY 5:25 PM THE PLANNING COMMISSION CONVENED INTO A SPECIAL
 DISCRETIONARY REVIEW (DR) HEARING.
 <<Project End>>
 <<Project Start>>
- 
-
-  
-
-
 25. 98.712D (ZWIERZYCKI) 
 
 
@@ -2939,12 +2459,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 26. 99.060D (PURVIS) 
 
 
@@ -2974,12 +2488,6 @@ AYES:
 Theoharis, Mills, Antenore, Chinchilla, Joe, Martin, Richardson
 <<Project End>>
 <<Project Start>>
-
-
-
-  
-
-
 27. 99.061D (PURVIS) 
 
 

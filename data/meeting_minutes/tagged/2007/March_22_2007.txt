@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ March 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-March 22, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 22, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 22, 2007
-
-
-1:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Antonini, S. Lee, W. Lee, Moore, Olague and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:10 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Craig Nikitas, Michelle Glueckert, Michael Li, Mary Woods, April Hesik, Jonas Ionin, Tina Tam, JimMiller, Rana Ahmadi, John Billovits, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2005.0731
+2005.0731
 C
 EKV 
  
@@ -336,8 +62,9 @@ ABSENT:
 
 
 1b.
- 
- 2005.0731CEK
+<<Project End>>
+<<Project Start>>
+2005.0731CEK
 V
  
  
@@ -394,16 +121,15 @@ NAYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.1080C
+<<Project End>>
+<<Project Start>>
+2006.1080C
  
  
  
@@ -470,8 +196,9 @@ ABSENT:
 
 
 3a.
- 
- 2005.1062
+<<Project End>>
+<<Project Start>>
+2005.1062
 B
 V
  
@@ -534,8 +261,8 @@ ABSENT:
 
  
  3b.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1062B
 V
  
@@ -584,16 +311,15 @@ NAYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2005.0030E 
+<<Project End>>
+<<Project Start>>
+2005.0030E 
  
  
  
@@ -725,16 +451,15 @@ NAYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2005.0030C
+<<Project End>>
+<<Project Start>>
+2005.0030C
  
  
  
@@ -799,8 +524,9 @@ ABSENT:
 
 
 5z.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EK
 X
@@ -878,8 +604,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -915,8 +639,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -990,8 +712,6 @@ Commissioner Sugaya
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1212,16 +932,15 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.1114D
+<<Project End>>
+<<Project Start>>
+2007.1114D
  
  (Tape IB)
  
@@ -1289,16 +1008,15 @@ ABSENT:
 
 
 Item 11 was taken off the Consent Calendar and heard as the first item on the Regular Calendar following item 12 a & b.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.1131C
+<<Project End>>
+<<Project Start>>
+2006.1131C
  
  (Tape IB)
  
@@ -1356,8 +1074,9 @@ MOTION:
 
 
 12a.
- 
- 2006.1219
+<<Project End>>
+<<Project Start>>
+2006.1219
 C
 V
  
@@ -1426,8 +1145,9 @@ MOTION:
 
  
  12b.
- 
- 2006.1219C
+<<Project End>>
+<<Project Start>>
+2006.1219C
 V
  
  (Tape IB)
@@ -1467,8 +1187,6 @@ ACTION:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1478,8 +1196,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2006.0070E
+<<Project End>>
+<<Project Start>>
+2006.0070E
 T
  
  
@@ -1962,8 +1681,9 @@ ABSENT:
 
 
 14b.
- 
- 2006.1536B
+<<Project End>>
+<<Project Start>>
+2006.1536B
  
  (Tape IIB)
  
@@ -2027,8 +1747,9 @@ MOTION:
 
 
 14c.
- 
- 2006.1509B
+<<Project End>>
+<<Project Start>>
+2006.1509B
  
  
  
@@ -2089,8 +1810,9 @@ MOTION:
 
  
  15a.
- 
- 2006.0584K
+<<Project End>>
+<<Project Start>>
+2006.0584K
 X
 CV
  
@@ -2167,8 +1889,9 @@ ABSENT:
 
  
  15b.
- 
- 2006.0584KX
+<<Project End>>
+<<Project Start>>
+2006.0584KX
 C
 V
  
@@ -2232,8 +1955,9 @@ ABSENT:
 
  
  15c.
- 
- 2006.0584KXC
+<<Project End>>
+<<Project Start>>
+2006.0584KXC
 V
  
  (M. LI: (415) 558-6396)
@@ -2281,8 +2005,6 @@ NAYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2292,8 +2014,9 @@ ABSENT:
 
 
 16.
- 
- 2006.0473
+<<Project End>>
+<<Project Start>>
+2006.0473
 C
 E
  
@@ -2434,16 +2157,15 @@ ABSENT:
 MOTION:
  
  17402
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.1347C
+<<Project End>>
+<<Project Start>>
+2006.1347C
  
  (Tape IIA)
  
@@ -2510,16 +2232,15 @@ ABSENT:
 MOTION:
  
  17403
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.1515C
+<<Project End>>
+<<Project Start>>
+2006.1515C
  
  (Tape IIA)
  
@@ -2590,16 +2311,15 @@ ABSENT:
 MOTION:
  
  17404
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2006.0766E
+<<Project End>>
+<<Project Start>>
+2006.0766E
 X
  
  
@@ -2713,8 +2433,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2722,8 +2440,9 @@ ABSENT:
 
  
  20.
- 
- 2006.0922I 
+<<Project End>>
+<<Project Start>>
+2006.0922I 
  
  
  
@@ -3049,8 +2768,6 @@ We do not have cumulative analysis on wind and shadow for this area.
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -3059,8 +2776,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 21.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  (Tape IIA)
  
@@ -3132,16 +2850,15 @@ ABSENT:
 I.
  
  PUBLIC HEARING:
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  (Tape IIIA; IIIB; IVA; IVB) 
  
@@ -3591,16 +3308,15 @@ NAYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2003.0347MTZU
+<<Project End>>
+<<Project Start>>
+2003.0347MTZU
  
  (J. BILLOVITS (415) 558-6390/A. RODGERS:
  
@@ -3692,8 +3408,9 @@ http://marketoctavia.betterneighborhoods.org
 
  
  a.
- 
- 2003.0347MTZU
+<<Project End>>
+<<Project Start>>
+2003.0347MTZU
  
  (J. BILLOVITS (415) 558-6390/A. RODGERS:
  
@@ -3720,14 +3437,8 @@ above.
 Preliminary Recommendation:
  
  Informational Item, no action requested.
- 
-
-
- 
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2003.0347
 M
 TZU J. BILLOVITS (415) 558-6390/A. RODGERS:
@@ -3764,8 +3475,9 @@ Preliminary Recommendation:
 
 
 c.
- 
- 2003.0347M
+<<Project End>>
+<<Project Start>>
+2003.0347M
 T
 ZU (J. BILLOVITS (415) 558-6390/A. RODGERS:
  
@@ -3806,8 +3518,9 @@ Preliminary Recommendation:
 
  
  d.
- 
- 2003.0347MT
+<<Project End>>
+<<Project Start>>
+2003.0347MT
 Z
 U 
  
@@ -3868,8 +3581,9 @@ Preliminary Recommendation:
 
 
 e.
- 
- 2003.0347MTZ
+<<Project End>>
+<<Project Start>>
+2003.0347MTZ
 U
  
  

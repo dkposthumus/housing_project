@@ -1,243 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 18, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ November 18, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-November 18, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 18, 2004
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 18, 2004
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Dwight Alexander; Michael J. Antonini, Shelley Bradford Bell,
-
-Kevin Hughes, Sue Lee; Christina Olague
-
-
-COMMISSIONERS ABSENT:
- William L. Lee
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director of Planning; Larry Badiner - Zoning Administrator; Dan Sirois, Dan DiBartolo; Dan Sider; Jim Miller; Adam Light; Paul Lord; Lois Scott; David Alumbaugh; Dominick Argumedo; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2004.0353C (G. NELSON: (415) 558-6257)
 
 
@@ -328,8 +89,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olague
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2004.1089D                               (B. FU: (415) 558-6613)
 
 
@@ -357,8 +116,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olague
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 4. 2004.0389D               (J. PURVIS: (415) 558-6354)
 
 
@@ -396,9 +153,6 @@ ABSENT: W. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 5. Commission Comments/Questions
 
 
@@ -519,8 +273,6 @@ Commission Secretary responded:
 - On the Conditional Use only:  Unless there are findings before the Commission, for this opposite action, then it has to be considered as an intent to disapprove. Findings would then need to come to the Commission before there is a final action.
 <<Project End>>
 <<Project Start>>
-
-
 6. Discussion and consideration of possible action to amend the Rules and Regulations of the San Francisco Planning Commission to:
 
 
@@ -858,8 +610,6 @@ Commission Secretary:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 7. Director's Announcements
 
 
@@ -985,8 +735,6 @@ Re:  724 Van Ness Avenue
 - He stated orally that he could support this and he would like to see the plans.
 <<Project End>>
 <<Project Start>>
-
-
 8. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -1095,8 +843,6 @@ Re:  572 San Jose Avenue
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 9. 2004.0957D                                                                       (D. SIROIS: (415) 558-6313)
 
 
@@ -1188,8 +934,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olague
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 10. 2004.0934D                                                                    (D. DIBARTOLO: (415) 558-6291)
 
 
@@ -1265,8 +1009,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olague
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 11. 2004.0794D                                                                     (S. VELLVE: (415)  558-6262)
 
 
@@ -1289,8 +1031,6 @@ SPEAKER(S): None
 ACTION: Discretionary Review Request Withdrawn
 <<Project End>>
 <<Project Start>>
-
-
 12. 2004.1010D (D. SIDER: (415)  558-6697)
 
 
@@ -1665,8 +1405,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olague
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 14. 2004.0347C                                    (J. MILLER: (415) 558-6344)
 
 
@@ -1794,8 +1532,6 @@ SPEAKER(S): Same as those listed for item 15a.
 ACTION: Zoning Administrator Closed the Public Hearing and Granted the Variance.
 <<Project End>>
 <<Project Start>>
-
-
 16. 2004.0781T                                                                (P. LORD: (415) 558-6311)
 
 
@@ -1823,8 +1559,6 @@ AYES: Alexander, Antonini, Bradford Bell, Hughes, S. Lee, Olauge
 ABSENT: W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 17. 2004.0941T                         (L. SCOTT: (415) 558-6317)
 
 
@@ -1856,8 +1590,6 @@ ABSENT: W. Lee
 RESOLUTION: 16886
 <<Project End>>
 <<Project Start>>
-
-
 18. 2004.055M                      (D. ALUMBAUGH/ D. ARGUMEDO:  (415)  558-6601/558-6284)
 
 
@@ -1883,8 +1615,6 @@ ABSENT: Antonini, W. Lee, Olague
 RESOLUTION: 16887
 <<Project End>>
 <<Project Start>>
-
-
 19. 2004.0472I                                     (D. ARGUMEDO: (415) 558-6284)
 
 
@@ -1939,8 +1669,6 @@ SPEAKER(S):
 ACTION: Meeting Held.  No Action Required.
 <<Project End>>
 <<Project Start>>
-
-
 20. 2004.0762I                                      (D. ARGUMEDO: (415) 558-6284)
 
 

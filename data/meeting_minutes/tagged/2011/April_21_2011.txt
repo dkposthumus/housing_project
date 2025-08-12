@@ -1,399 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 21, 2011 - Jnt. Meeting w/ TI Authority
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ April 21, 2011 - Jnt. Meeting w/ TI Authority
-
-
-
-
-
-
-
-
-
-
-
-
-April 21, 2011 - Jnt. Meeting w/ TI Authority
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-&
-
-
-TREASURE ISLAND AUTHORITY
-
-
-
-
-Minutes of Joint
-
-
-
-
-Meeting 
-
-
-
-
-
-
-
-Supervisors Chambers - Room 250
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, April 
-21, 2011
-
-
-
-
-
-6:30 PM
-
-
-
-
-
-Special Meeting
-
-
-
-
-
- 
-
-
-
-
-
-PLANNING COMMISSIONERS PRESENT:  
-
-
-
-President Olague, VP Miguel, Antonini, Borden, Fong, 
-                                             Moore, Sugaya
-
-
-
-
-
- 
-
-
-
-
-TREASURE
- ISLAND
- 
-
-
-
-
-
-AUTHORITY MEMBERS PRESENT:
-      
-President Cheng, Secretary/VP Samaha, DelCarlo, Dunlop,         Elberling, 
-Mazzola, Jr., Richardson, Kim 
-
-
-
-
-
- 
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT: 6:30 PM
-
-
-
-
-
- 
-
-
-
-
-
-
-
-A.            PUBLIC COMMENT ON AGENDA ITEMS WHERE THE PUBLIC HEARING HAS BEEN 
-CLOSED
-
-
- 
-
-
-            At 
-this time, members of the public who wish to address the Commission on an agenda 
-item that has already been reviewed in a public hearing (item 1) at which 
-members of the public were allowed to testify and the public hearing has been 
-closed, must do so at this time.  Each member of the public may address the 
-Commission for up to three minutes.
-
-
-
-
- 
-
-
-
-
-SPEAKERS:     
-Opposed: 
-Brent Plater, 
-Robert Fitch, Judy Irving, Judy West, John Gantner, Judy West, Dick Millet, Paul 
-Crater, Sue Von Clad, Tom Hansey, Betty Mathews, Eric Brooks, Nancy Shanahan, 
-Cathleen Dooly, Richard Hanson, Jenniffer Clari, Aaron Peskin; 
-In favor:
- 
-Karen Knowles-Pierce, Mark Connors, Jeff Bialik, Steve Crabiel, Sherry Williams, 
-Renee Smith, Lavina Desilva, Mimi Manning, Tim Colen, Peter Winkelstein, Peter 
-MCaffrey, John Tammen, Dave Alexander, Andy Thornley, Dave Terheyden, Leon 
-Winston, , Gail Gilman, Austin Brewin; 
-Neutral: 
- John Tammen, Patrick 
-U-ne-ak, Thomas McCarthy, Al Norman, Tim Colen, Richard Hansen, Adrian Simi, 
-Abbi Yawt, Sue Vaughn, Louise Williams, Wilhelmina Parker, Lynda Spensce, Becky 
-Houge, 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF FINDINGS & FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
-
-
-
-
-                                
-
-
-
-
-1.
-           
-
-
-
-
 2007.0903E                                                              
            
 (R. Cooper: (415) 575-9027)
@@ -595,10 +200,9 @@ MOTION:     18326
  
 
 
-2b. 
-
-     
-
+2b.
+<<Project End>>
+<<Project Start>>
 2007.0903EB
 M
 RTUWZ  
@@ -697,11 +301,9 @@ RESOLUTION:         18327
 
 
 2c
-.         
-
-
-
-
+.
+<<Project End>>
+<<Project Start>>
 2007.0903EBM
 R
 TUWZ                                                     
@@ -791,13 +393,9 @@ RESOLUTION:         18328
  
 
 
-2d. 
-
-
-        
-
-
-
+2d.
+<<Project End>>
+<<Project Start>>
 2007.0903EBMR
 T
 UWZ   
@@ -830,9 +428,7 @@ amending table 270 to recognize this District -
 The project location
 
 includes 
-Lots 001 and 002 in Assessor's Block
-<<Project End>>
-<<Project Start>>
+Lots 001 and 002 in Assessor's Block 
 1939. 
 The 
 proposed  project will include (i) approximately 8,000 new residential units, 
@@ -930,9 +526,7 @@ Development document -
 The project location
 
 includes 
-Lots 001 and 002 in Assessor's Block
-<<Project End>>
-<<Project Start>>
+Lots 001 and 002 in Assessor's Block 
 1939. 
 The 
 proposed  project will include (i) approximately 8,000 new residential units, 
@@ -1000,11 +594,9 @@ RESOLUTION:         18330
  
 
 
-2f.       
-
-
-
-
+2f.
+<<Project End>>
+<<Project Start>>
 2007.0903EBMRTUW
 Z
                                                     
@@ -1097,9 +689,8 @@ RESOLUTION:         18331
 
 
 2g.
- 
-     
-
+<<Project End>>
+<<Project Start>>
 2007.0903E
 B
 MRTUWZ                                                   
@@ -1186,11 +777,8 @@ RESOLUTION:         18332
 
 
 2h.
- 
-         
-
-
-
+<<Project End>>
+<<Project Start>>
 2007.0903EBMRTU
 W
 Z                                                     

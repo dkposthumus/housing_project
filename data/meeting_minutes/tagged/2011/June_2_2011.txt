@@ -1,381 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 2, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ June 2, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-June 2, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
- 
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, June 2, 
-2011
-
-
-
-
-
-12:00 PM
-
-
-
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Borden, Fong, Moore, 
-Sugaya
-
-
-COMMISSIONERS ABSENT:    Antonini
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT: 
-12:16 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, 
-Scott Sanchez â Zoning Administrator, Erika Jackson, Diego Sanchez, Aaron Starr, 
-Cristina Lamorena, Lisa Gibson, Kirsten Dischinger, Linda Avery â Commission 
-Secretary
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-            
-
-
-
-
-
-1.         2010.1042C                                           
-                          (E. JACKSON: (415) 558-6363)
-
-
-
-
-
-
-
-660-670 4
-TH
- STREET
- â 
-
-
-corner of 4
-th
- 
-and Bluxome Streets, Lots 104-160 of Assessorâs Block 3786 
-- Request for 
-Conditional Use Authorization
- pursuant to Planning Code Sections 227(h), 
-303, and 842.93 to install a wireless telecommunications facility consisting of 
-10 new antennas and 6 new cabinets on the rooftop on an existing 7 story mixed 
-use building.  The project site is within a MUO (Mixed Use Office) Zoning 
-District and a 85-X Height and Bulk District.
-
-
-
-
-
-
-
-(Proposed for continuance to July, 7, 2011)
-
-
-
-
- 
-
-
-
-
-SPEAKERS:     
-None
-
-
-
-
-ACTION:           
-Continued as proposed
-
-
-            AYES:              Olague, Miguel, Borden, Fong, 
-Moore, Sugaya
-
-
-            ABSENT:          Antonini
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-
-            2.         
 2011.0450C                                                                       
 (S. VELLVE: (415) 558-6263)
 
@@ -462,8 +85,6 @@ Moore, Sugaya
 
 
             ABSENT:          Antonini
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -474,7 +95,9 @@ Moore, Sugaya
 
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2011.0165C                                                                         
 (S. YOUNG: (415) 558-6346)     
 
@@ -574,8 +197,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -586,9 +207,9 @@ separate item at this or a future hearing
 
 
 
-4.        
-
-
+4.
+<<Project End>>
+<<Project Start>>
 2011.0269C
                                                                    
 (E. JACKSON: (415) 558-6363)
@@ -696,8 +317,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -745,8 +364,6 @@ Moore, Sugaya
 
 
             ABSENT:          Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -869,8 +486,6 @@ in the year, I believe.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -904,9 +519,7 @@ Japantown meeting.
 
 We will be looking at what type of environmental review will be needed for 
 planning, and if the plan does not come forward with major zoning changes, we 
-are hoping we will be able to do something less than a full blown EIR.
-<<Project End>>
-<<Project Start>>
+are hoping we will be able to do something less than a full blown EIR. 
 
 
 
@@ -965,8 +578,6 @@ Historic Preservation Commission did meet. The only item of interest would be
 the Inner Mission Historic Resources Survey before them for preservation and 
 possible action. They continued continue it. I did not bring my notes to tell 
 you what the changes were.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -978,9 +589,9 @@ you what the changes were.
 
 
 
-9.        
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2011.0118I
                                                                     
 (D. SÃNCHEZ: (415) 575-9082)
@@ -1113,8 +724,6 @@ F.
         
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
                           
 
 
@@ -1126,9 +735,9 @@ REGULAR CALENDAR
 
 
 
-10.       
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2011.0422C
                                                                    
 (D. SÃNCHEZ: (415) 575-9082)
@@ -1192,8 +801,6 @@ Moore, Sugaya
 
 
 MOTION:           18375
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1204,9 +811,9 @@ MOTION:           18375
 
 
 
-11.       
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2011.0295T
                                                                    
       (A. STARR: (415) 558-6362)
@@ -1265,8 +872,6 @@ Moore, Sugaya
 
 
 RESOLUTION:  18376
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1277,9 +882,9 @@ RESOLUTION:  18376
 
 
 
-12.       
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2011.0241C
                                                                  
 (C. LAMORENA: 9415) 575-9085)
@@ -1338,8 +943,6 @@ Moore, Sugaya
 
 
 MOTION:           18377
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1349,9 +952,9 @@ MOTION:           18377
 
 
 
-13.        
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2005.1004E
       
                                                               
@@ -1418,8 +1021,6 @@ Public hearing on DEIR â No action
 
 
             RECUSED:       Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1430,9 +1031,9 @@ Public hearing on DEIR â No action
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2011.0060D
                                                                    
 (D. SÃNCHEZ: (415) 575-9082)
@@ -1502,8 +1103,6 @@ staff on material for the railing
 
 
             DRA:                0211
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1515,9 +1114,9 @@ staff on material for the railing
 
 
 
-15.       
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2011.0265D
                                                        
              (D. SÃNCHEZ: (415) 575-9082)
@@ -1583,8 +1182,6 @@ Moore, Sugaya
 
 
             DRA:                0212
-<<Project End>>
-<<Project Start>>
 
 
 

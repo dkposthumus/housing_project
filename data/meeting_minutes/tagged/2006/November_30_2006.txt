@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 30, 2006 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ November 30, 2006 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-November 30, 2006 - Special Meeting
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 30, 2006  Special Meeting
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Special Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 30, 2006
-
-
-2:00 PM
-
-
-Special Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, Moore, and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 2:06 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris â Director of Planning, Larry Badiner â Zoning Administrator, Amit Ghosh â Chief Planner, Aaron Starr, Erika Jackson, Michael Li, Cecilia Jaroslawsky, Alicia John-Baptiste, Sophie Middlebrook, Tina Tam, Michelle Glueckert, April Hesik, Michael Li, Linda Avery â Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-Request to continue Item 
-5:
- 
- 2006.0798C
+2006.0798C
  
  
 1723 UNION STREET
@@ -783,16 +506,15 @@ Jim, Owner of  Crunch
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2006.0798C
+<<Project End>>
+<<Project Start>>
+2006.0798C
  
  
 (Tape IB)
@@ -944,16 +666,15 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Items 6 & 7 were taken off the Consent Calendar and were heard after item 8.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2006.1000D
+<<Project End>>
+<<Project Start>>
+2006.1000D
  
  
 (Tape IB)
@@ -1022,8 +743,9 @@ ABSENT
 
 
 7a.
- 
- 2006.0388D
+<<Project End>>
+<<Project Start>>
+2006.0388D
  
  
 (Tape IB; IIA)
@@ -1081,8 +803,9 @@ ABSENT
 
 
 7b.
- 
- 2006.0389D
+<<Project End>>
+<<Project Start>>
+2006.0389D
  
  
  
@@ -1141,8 +864,9 @@ ABSENT:
 
 
 8a.
- 
- 2006.0073
+<<Project End>>
+<<Project Start>>
+2006.0073
 C
 D
  
@@ -1212,8 +936,9 @@ MOTION:
 
 
 8b.
- 
- 2006.0073C
+<<Project End>>
+<<Project Start>>
+2006.0073C
 D
  
  
@@ -1253,8 +978,6 @@ No action required by Commission. The DR concerns are already wrapped in Conditi
 
 
 H.REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1298,16 +1021,15 @@ ACTION:
  This was an informational hearing only.
  
  No action was taken by the Commission
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2006.1282T
+<<Project End>>
+<<Project Start>>
+2006.1282T
  
  
 (Tape IIA)
@@ -1360,16 +1082,15 @@ ABSENT
 Resolution:
  
  17342
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0668C
+<<Project End>>
+<<Project Start>>
+2006.0668C
  
  
 (Tape IIA; IIB)
@@ -1446,8 +1167,6 @@ ABSENT
 MOTION:
  
  17343
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1461,8 +1180,9 @@ MOTION:
 
  
  12.
- 
- 2005.1078C
+<<Project End>>
+<<Project Start>>
+2005.1078C
  
  
 (Tape IIB)
@@ -1529,8 +1249,6 @@ ABSENT
 MOTION:
  
  17344
-<<Project End>>
-<<Project Start>>
 
 
  

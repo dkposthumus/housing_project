@@ -1,341 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 13, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ April 13, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-April 13, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 13, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 13, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-  
-  Sue Lee; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; William Lee; Christina Olague
-
-
-COMMISSIONERS ABSENT:
-    
- Dwight Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Neil Hart – Acting Zoning Administrator; Adam Light; Edgar Oropeza; Ben Fu; Teresa Ojeda; Dan Sider; Linda Avery – Commission Secretary
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
-       
-  2005.0713D
-                                                      
- 
-                         
- (B. FU: (415) 558-6613)
-
-
-710 SILLIMAN STREET
- -
-north side between Dartmouth and Bowdoin Streets; Lot 006 in Assessor’s Block 5917 
--
- 
-Mandatory Discretionary Review
-, under the Planning Commission’s policy requiring review of housing demolition, of Demolition Permit Application No.
-2005.03.11.7350 
-to demolish an existing single-family dwelling (the project also proposes the construction of a new single-family dwelling) in an RH-1 (Residential, House, One-Family) District with a 40-X Height and Bulk Designation.
-
-
-Preliminary Recommendation:
- 
-Do not take DR and approve project as proposed.
-
-
-                       
- 
-(Continued from Regular Meeting of March 9, 2006)
-
-
-                       
- 
-(Proposed for Continuance to May 4, 2006)
-
-
- 
-
-
-SPEAKERS:
-       
- None
-
-
-ACTION:
-             
- Continued as proposed
-
-
-AYES:
-                
- Antonini, Hughes, W. Lee, Olague and S Lee
-
-
-ABSENT:
-            
- Alexander and Bradford-Bell
-
-
-1b.
-       
- 2005.1070D
+2005.1070D
                                                       
  
                          
@@ -394,8 +58,9 @@ ABSENT:
 
 
 2a.
-       
- 2005.0488
+<<Project End>>
+<<Project Start>>
+2005.0488
 C
 EV
                          
@@ -458,8 +123,9 @@ ABSENT:
 
 
 2b.
-       
- 2005.0488CE
+<<Project End>>
+<<Project Start>>
+2005.0488CE
 V
                          
  
@@ -514,16 +180,15 @@ AYES:
 ABSENT:
             
  Alexander and Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
- 2006.0090T 
+<<Project End>>
+<<Project Start>>
+2006.0090T 
                                                      
  
                
@@ -548,8 +213,9 @@ PROPOSED LEGISLATION HAS BEEN WITHDRAWN
 
 
 4a.
-       
- 2004.0784D
+<<Project End>>
+<<Project Start>>
+2004.0784D
                               
  
                     
@@ -608,8 +274,9 @@ ABSENT:
 
 
 4b.
-       
- 2004.0785D
+<<Project End>>
+<<Project Start>>
+2004.0785D
       
  
    
@@ -665,8 +332,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -773,8 +438,6 @@ EXCUSED:
 ABSENT:
             
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -973,8 +636,6 @@ Okay.
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1007,8 +668,6 @@ I only had one other thing I wanted to mention to you and I’m very proud to me
  Sam, when he was with us worked on this as well.
  
  We’re very proud to hang this on our wall at the Planning Department.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1153,8 +812,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 9a.
-       
- 2005.0946
+<<Project End>>
+<<Project Start>>
+2005.0946
 X
 V
                                                                 
@@ -1241,8 +901,9 @@ MOTION:
 
 
 9b.
-       
- 2005.0946X
+<<Project End>>
+<<Project Start>>
+2005.0946X
 V
                                                                 
  
@@ -1274,16 +935,15 @@ SPEAKERS:
 ACTION:
              
  Acting Zoning Administrator closed public hearing and granted the variances
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-       
- 2006.0332C
+<<Project End>>
+<<Project Start>>
+2006.0332C
                                                                   
  (E. OROPEZA: (415) 558-6381)
 
@@ -1336,8 +996,6 @@ MOTION:
 F.
         
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1345,8 +1003,9 @@ F.
 
 
 11.
-       
- 2006.0046D
+<<Project End>>
+<<Project Start>>
+2006.0046D
                                           
  
                                
@@ -1369,16 +1028,15 @@ Request for Discretionary Review
 
 
 DISCRETIONARY REQUEST WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-       
- 2005.0402D
+<<Project End>>
+<<Project Start>>
+2005.0402D
                                                       
  
          
@@ -1540,10 +1198,9 @@ ABSENT:
 
 
 13b.
-  
-  
- 
- 2003.0159C
+<<Project End>>
+<<Project Start>>
+2003.0159C
 V
                                                                             
  (B. FU: (415) 558-6613)
@@ -1581,16 +1238,15 @@ SPEAKERS:
 ACTION:
              
  The Acting Zoning Administrator continued this item until design concerns are addressed.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-       
- 2006.0145E
+<<Project End>>
+<<Project Start>>
+2006.0145E
 T
  
  
@@ -1827,16 +1483,15 @@ ABSENT:
 RESOLUTION:
      
  17227
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-       
- 2006.0092E
+<<Project End>>
+<<Project Start>>
+2006.0092E
 T
     
  

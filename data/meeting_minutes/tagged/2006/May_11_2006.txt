@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 11, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ May 11, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-May 11, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 11, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 11, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Sue Lee; Michael Antonini; Kevin Hughes; William Lee; Christina Olague
-
-
-COMMISSIONERS ABSENT:
- 
- Dwight Alexander and Shelley Bradford-Bell
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:37 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Alicia John-Babtiste – Chief of Administration; Elaine Forbes; Craig Nikitas; Dan Sider; Kate Conner; Rick Cooper; Kelley Amdur; Joshua Switzky; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0373TZ
+2006.0373TZ
  
  
  
@@ -400,8 +126,9 @@ SPEAKERS: None
 
 
 2b.
- 
- 2003.0159C
+<<Project End>>
+<<Project Start>>
+2003.0159C
 V
  
  (B. FU: (415) 558-6613)
@@ -459,16 +186,15 @@ SPEAKERS: None
  ABSENT:
  
  Alexander and Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2004.0973C
+<<Project End>>
+<<Project Start>>
+2004.0973C
  
  
  
@@ -530,8 +256,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -613,8 +337,6 @@ ACTION: Approved
 
 
 ABSENT: Alexander and Bradford-Bell
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -704,8 +426,6 @@ Both Sections 311 in the residential districts and 312 say we don't issue demoli
 
 
 We obviously want to keep a tight reign on these to comply with the intent of the Planning Code.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1017,8 +737,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1114,16 +832,15 @@ ACTION: Informational only.
  No action taken.
  
  Will be calendared for hearing and action on June 1, 2006.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
- 
- 2006.0143C 
+<<Project End>>
+<<Project Start>>
+2006.0143C 
  
  
  
@@ -1231,16 +948,15 @@ ACTION: Approved with the removal of condition #11 (it was included in error)
  MOTION:
  
  17243
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2004.0892
+<<Project End>>
+<<Project Start>>
+2004.0892
 E
 KC
  
@@ -1414,8 +1130,8 @@ ACTION: Mitigated Negative Declaration was upheld
 
 11
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0892EK
 C
  
@@ -2133,16 +1849,15 @@ ACTION: Approved incorporating the amendments that staff passed forward regardin
  MOTION:
  
  17245
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.0450T                             
+<<Project End>>
+<<Project Start>>
+2006.0450T                             
  
  
  

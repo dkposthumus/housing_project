@@ -1,244 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 6, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ May 6, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-May 6, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 6, 2004
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, May 6, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Edgar E. Boyd, Kevin Hughes, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- Shelley Bradford Bell and Sue Lee
-
-
-THE MEETING WAS CALLED TO ORDER BY ACTING PRESIDENT KEVIN HUGHES AT 1:37 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Craig Nikitas - Acting Zoning Administrator; Steve Shotland; Jonas Ionin; Glenn Cabreros; Dan Sirois; Dan DiBartolo; Paul Lord; Tina Tam; Mary Woods; Michael Li; Matt Snyder; Adam Light; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0846C                                   (F. JONES: (415) 558-6477)
 
 
@@ -266,8 +26,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.1254D               (E. TOPE: (415) 558-6316)
 
 
@@ -296,8 +54,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0660C                             (G. NELSON: at (415) 558-6257)
 
 
@@ -323,8 +79,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 4.  2001.0249CV                                                              (A. LIGHT: (415) 558-6254)
 
 
@@ -350,8 +104,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2003.0607C (T. TAM: (415) 558-6325)
 
 
@@ -380,8 +132,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 6. 2004.0192D                                                (E. TOPE: (415) 558-6316)
 
 
@@ -409,9 +159,6 @@ ACTION: Building Permit Application was withdrawn by Applicant.
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 7. Consideration of Adoption - Draft Minutes of March 18, April 1, and April 8, 2004.
 
 
@@ -445,8 +192,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 8.  Commission Comments/Questions
 
 
@@ -456,8 +201,6 @@ None
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 9. Director's Announcements
 
 
@@ -542,8 +285,6 @@ Re:  Miscellaneous Planning Matters
 - When the item of the Housing Element is scheduled it should be timely because information has not been made available to the public and the hearing is next week.
 <<Project End>>
 <<Project Start>>
-
-
 10. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -595,8 +336,6 @@ None
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 11. 2002.0914R (D. ARGUMEDO: (415) 558-6308/S. SHOTLAND: (415) 558-6284)
 
 
@@ -638,8 +377,6 @@ ABSENT: Bradford Bell and S. Lee
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 12. 2002.0731D                                      (J. IONIN: (415) 558-6309)
 
 
@@ -995,8 +732,6 @@ SPEAKER(S): Same as those listed for Item 15a.
 ACTION Zoning Administrator closed the public hearing and has taken the matter under advisement.
 <<Project End>>
 <<Project Start>>
-
-
 16. 2004.0166T                           (P. LORD: (415) 558-6311)
 
 
@@ -1022,8 +757,6 @@ ABSENT: Bradford Bell and S. Lee
 MOTION: 16777
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.1220I                          (K. RICH: (415)  558-6345)
 
 
@@ -1046,8 +779,6 @@ AYES: Antonini, Boyd, Hughes, W. Lee
 ABSENT: Bradford Bell and S. Lee
 <<Project End>>
 <<Project Start>>
-
-
 18. 2004.0185C                                        (T. TAM: (415) 558-6325)
 
 
@@ -1256,8 +987,6 @@ ABSENT: Bradford Bell and S. Lee
 MOTION: 16780
 <<Project End>>
 <<Project Start>>
-
-
 21. 2003.1047C                                            (M. SNYDER: (415) 575-6891)
 
 
@@ -1304,8 +1033,6 @@ ABSENT: Bradford Bell and S. Lee
 MOTION: 16782
 <<Project End>>
 <<Project Start>>
-
-
 22.  2003.1184X                      (A. LIGHT: (415) 558-6254)
 
 
@@ -1346,8 +1073,6 @@ MOTION: 16781
 6:00 P.M.
 <<Project End>>
 <<Project Start>>
-
-
 23.                                                                                              (L. BADINER: (415) 558-6411) 
 
 

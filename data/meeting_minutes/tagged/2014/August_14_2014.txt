@@ -1,316 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 14, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ August 14, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-August 14, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, August 14, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 08 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Elizabeth Watty, 
- 
-Omar Masry, Tina Chang, Rich Sucre, Diego Sanchez, Elizabeth Purl, Erica Jackson, Jessica Look, Kanishka Burns, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2011.0408C
                                                                           
                             
@@ -359,7 +47,8 @@ Hillis
 
 
 2a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                        
             
@@ -420,7 +109,8 @@ Hillis
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                                     
 (R. SUCRE: (415) 575-9108)
@@ -473,15 +163,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2012.0678EIKUVX
                                               
                            
@@ -524,15 +213,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2011.1388E                                                                                                    (K. UCHIDA: (415) 575-9048)
 
 
@@ -573,15 +261,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0756D                                                                                                   
      
 (J.SPEIRS: (415) 575-9106)
@@ -628,15 +315,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1220E 
                                                                    
                            
@@ -701,15 +387,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0668C
                                                                           
                            
@@ -791,7 +476,8 @@ MOTION:
 
 
 8a.
-          
+<<Project End>>
+<<Project Start>>
 2014.0987CV
                                                                                        
           
@@ -852,7 +538,8 @@ MOTION:
 
 
 8b.
-          
+<<Project End>>
+<<Project Start>>
 2014.0987CV
                                                                                        
           
@@ -893,8 +580,6 @@ ZA closed the PH and indicated an intent to Grant
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1006,8 +691,6 @@ And if we’re - anybody is look at Prop M it ought not be from the standpoint o
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1031,8 +714,6 @@ He passed away last week at the age of 68, I believe.
 As it turns out, I got to know Doug a little bit in my time in Seattle, because of his role in the Embarcadero; he was a consultant to the Transportation Department in Seattle, when Seattle was considering removing a waterfront highway, which it is now doing.
   
 So I’d like to suggest you might want to close the meeting in his honor today.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1117,15 +798,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.0154E
                                                                           
                                
@@ -1243,7 +923,8 @@ MOTION:
 
 
 13a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0154EKRVX
                                                            
                            
@@ -1294,7 +975,8 @@ MOTION:
 
 
 13b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0154EKRVX
                                                
                          
@@ -1347,7 +1029,8 @@ MOTION:
 
 
 13c.
-        
+<<Project End>>
+<<Project Start>>
 2013.0154EKRVX
                                                                
                            
@@ -1398,7 +1081,8 @@ MOTION:
 
 
 13d.
-        
+<<Project End>>
+<<Project Start>>
 2013.0154EKRVX
                                                                
                          
@@ -1423,15 +1107,14 @@ Same as item #12
 ACTION:
                                 
 ZA closed the PH and indicated an intent to Grant
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2010.0043X
                                                                                           
             
@@ -1518,15 +1201,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2012.1218X
                                                                                           
     
@@ -1629,15 +1311,14 @@ Hillis
 MOTION:
                
 19218
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2014.0704C
                                                                           
                        
@@ -1693,7 +1374,8 @@ MOTION:
 
 
 17a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0385CV
                                                                                        
                
@@ -1812,7 +1494,8 @@ MOTION:
 
 
 17b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0385CV
                                                                                        
                
@@ -1862,7 +1545,8 @@ Please be advised that the DR requestor and project sponsor teams include: the D
 
 
 18a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0051D
                                                                          
                                 
@@ -1916,7 +1600,8 @@ DRA No:
 
 
 18b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1715DV
                        
                                                               
@@ -1966,7 +1651,8 @@ DRA No:
 
 
 18c.
-        
+<<Project End>>
+<<Project Start>>
 2013.1715DV
  
                                                                                       
@@ -1996,15 +1682,14 @@ None
 ACTION:
                                 
 ZA closed the PH and indicated an intent to Grant
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-          
+<<Project End>>
+<<Project Start>>
 2013.1620D
                                                                          
                             
@@ -2045,15 +1730,14 @@ Wu, Fong, Antonini, Johnson, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
-          
+<<Project End>>
+<<Project Start>>
 2014.0786D
                                                                                          
            

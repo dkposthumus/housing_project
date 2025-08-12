@@ -1,324 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 11, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ September 11, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-September 11, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, September 11, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 11 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Planning Director, Kanishka Burns, Omar Masry, Laura Ajello, Rachel Schuett, Elizabeth Watty, Rich Sucre, Glenn Cabreros, Carly Grob, Marcelle Boudreaux, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.1340D 
                                                                                         
                
@@ -389,15 +69,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.0001C
                                                                                           
           
@@ -440,15 +119,14 @@ Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
 MOTION:
                
 19230
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0270C
                                                                           
                           
@@ -485,15 +163,14 @@ Wu, Fong, Antonini, Hillis, Moore, Richards
 ABSENT:
                 
 Johnson
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0613Q
                                                                                          
            
@@ -541,8 +218,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -600,8 +275,6 @@ renters, percent of renters with cars, percent of owners, percent of owners with
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -620,9 +293,7 @@ Director Rahaim:
 
 Thank you.
   
-Just if I may, just to respond briefly to Commissioner Richards, we were happy to provide that, absolutely, that would be fine. And the one thing, the American Community Survey, is something that is a relatively new process, that the Census Bureau conducts, in-lieu of the old long form, if you remember historically there was short form and a certain percentage of people, I can’t remember, 10 percent, I think got the long form, they replaced that with a survey, which is not directly a census itself, but it is based on other factors, like moving vans and also sorts of other information that they collect. My only word of caution is, it’s good information, my only word of caution is, that staff sometimes believe that the accuracy is not as good as it should be.
-<<Project End>>
-<<Project Start>>
+Just if I may, just to respond briefly to Commissioner Richards, we were happy to provide that, absolutely, that would be fine. And the one thing, the American Community Survey, is something that is a relatively new process, that the Census Bureau conducts, in-lieu of the old long form, if you remember historically there was short form and a certain percentage of people, I can’t remember, 10 percent, I think got the long form, they replaced that with a survey, which is not directly a census itself, but it is based on other factors, like moving vans and also sorts of other information that they collect. My only word of caution is, it’s good information, my only word of caution is, that staff sometimes believe that the accuracy is not as good as it should be. 
 
 
  
@@ -769,15 +440,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2011.1374E
                                                                     
                              
@@ -813,15 +483,14 @@ SPEAKERS:
 ACTION:
                 
 Reviewed and Commented
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2013.1375CE
                                                                  
                                  
@@ -916,50 +585,36 @@ Ken Maly – Traffic, emergency access
 ACTION:
                 
 Approved with Conditions as amended to reflect the most recently submitted plans:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 With the separation of units;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Follow the construction plan, as presented;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 Replace roof access penthouses with roof access hatches;
-<<Project End>>
-<<Project Start>>
 
 
 4.
        
 Provide a good faith effort with DBI & DPW on Park stewardship and Filbert Street stair maintenance;
-<<Project End>>
-<<Project Start>>
 
 
 5.
        
 Continue working with staff on design;
-<<Project End>>
-<<Project Start>>
 
 
 6.
        
 Provide a 7’-6” setback from the front property line at the garage level for pedestrian safety;
-<<Project End>>
-<<Project Start>>
 
 
 7.
@@ -982,15 +637,14 @@ Wu, Moore
 MOTION:
                
 19232
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2014.0633C
                                           
                                                            
@@ -1061,15 +715,14 @@ Adopted a Motion of Intent to Disapprove by a vote of +4 -3 (Wu, Fong, Antonini 
 AYES:
                      
 Wu, Fong, Antonini, Hillis, Johnson, Moore, Richards
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2014.0846C
                                           
                                                            
@@ -1127,7 +780,8 @@ MOTION:
 
 
 12a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                        
             
@@ -1202,7 +856,8 @@ MOTION:
 
 
 12b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0627BC
                                                                                                     
 (
@@ -1261,15 +916,14 @@ Fong
 MOTION:
                
 19235
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2011.0408C
                                                                           
                             
@@ -1330,15 +984,11 @@ SPEAKERS:
 ACTION:
                 
 Approved with Conditions as amended by staff and:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Including the Improvement Measures with the Mitigation Measures;
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -1383,7 +1033,8 @@ Please be advised that the DR requestor and project sponsor teams include: the D
 
 
 14a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0771DV
                                                                                        
     
@@ -1474,7 +1125,8 @@ DRA:
 
 14b
 .
-        
+<<Project End>>
+<<Project Start>>
 2013.0771DV
                                                                                        
     
@@ -1502,15 +1154,14 @@ Same as Item 14a.
 ACTION:
                 
 ZA closed the PH and indicated an intent to Grant with 15’ rear yard with no obstructions
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2014.0973D
                                                                                          
               
@@ -1627,29 +1278,21 @@ ACTION:
                 
                 
 Took DR approving the project with the following conditions:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 Lock the patio door during business hours;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Six month update report after commencing operation, in the form of a presentation;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 Provide a Community Liaison;
-<<Project End>>
-<<Project Start>>
 
 
 4.
@@ -1666,15 +1309,14 @@ Wu, Fong Antonini, Hillis, Johnson, Moore, Richards
 DRA:
                        
 0377
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
-          
+<<Project End>>
+<<Project Start>>
 2014.0937D
                                                                          
                

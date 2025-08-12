@@ -1,295 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ October 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-October 24, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, October 24, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: 
-  
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya 
-
-
-COMMISSIONER ABSENT: 
-      
-None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:04 PM. 
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Planning Director, Christina Lamorena, Sophie Hayward, Kei Zushi, Jessica Look, Rich Sucre, Mary Woods, Tom Wang, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2013.0921C
                                                                           
                       
@@ -345,15 +54,14 @@ Fong, Wu, Antonini, Borden, Moore, Sugaya
 ABSENT:
                 
 Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2013.1166T
                                                           
                    
@@ -418,15 +126,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-          
+<<Project End>>
+<<Project Start>>
 2013.1195Q
                                                                                          
   
@@ -471,8 +178,6 @@ Hillis
 MOTION:
                
 19007
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -482,7 +187,8 @@ MOTION:
 
 
 4.
-          
+<<Project End>>
+<<Project Start>>
 2013.1225Q
                                                                                          
   
@@ -536,8 +242,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -586,8 +290,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -654,8 +356,6 @@ But, I think most importantly talking to people afterwards, I think they realize
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -675,8 +375,6 @@ Director Rahaim:
 Good Afternoon Commissioners. My only announcement today is to congratulate Zoning Administrator Sanchez on becoming a father this week. Scott and his wife had a baby boy this week – a couple of weeks early, 6 lbs. 4ozs.
   
 The baby is doing great. In light of that Scott will be out of the office for the remainder of the year, for the next two months he'll be taking a paternity leave, and Corey Teague will be Acting Zoning Administrator in his place. That concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
 8.
@@ -812,8 +510,6 @@ Linda Chapman - 1601 Larkin Street, sociopathic behavior
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -821,7 +517,8 @@ REGULAR CALENDAR
 
 
 9.
-          
+<<Project End>>
+<<Project Start>>
 2013.0134T
  
                                          
@@ -861,22 +558,16 @@ SPEAKERS:
 ACTION:
                                 
 Adopted a Recommendation for Approval with:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 10 year prohibition;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 Effective date not earlier than today; and
-<<Project End>>
-<<Project Start>>
 
 
 3.
@@ -899,15 +590,14 @@ Antonini
 RESOLUTION:
       
 19009
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
-        
+<<Project End>>
+<<Project Start>>
 2010.0222E
  
                                                                                          
@@ -962,7 +652,8 @@ MOTION:
 
 
 11a.
-      
+<<Project End>>
+<<Project Start>>
 2013.0160CV
                                                                                        
                  
@@ -1026,7 +717,8 @@ MOTION:
 
 
 11b.
-      
+<<Project End>>
+<<Project Start>>
 2013.0160CV
                                                                                        
                 
@@ -1082,7 +774,8 @@ AFTER CLOSING PUBLIC HEARING; ZONING ADMINISTRATOR INDICATED AN INTENT TO GRANT
 
 12a
 .
-      
+<<Project End>>
+<<Project Start>>
 2013.0226BC 
  
                                                                                      
@@ -1143,7 +836,8 @@ MOTION:
 
 
 12b.
-      
+<<Project End>>
+<<Project Start>>
 2013.0226BC 
                                                                                       
              
@@ -1193,15 +887,14 @@ Sugaya
 MOTION:
                
 19013
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0592D
                                          
                         
@@ -1253,15 +946,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 DRA No:
                                 
 0339
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-        
+<<Project End>>
+<<Project Start>>
 2013.0126AD
                                                                                        
         
@@ -1311,15 +1003,14 @@ Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
 DRA No:
                                 
 0340
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0271D
                                                                          
        

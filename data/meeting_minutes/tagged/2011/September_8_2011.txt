@@ -1,324 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 8, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ September 8, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-September 8, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, 
-September 8, 2011
-
-
-
-
-
-12:00 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Fong, Moore, Sugaya
-
-
-
-
-
-COMMISSIONERS ABSENT: Borden
-
-
-
-
-
- 
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 
-
-
-
-
-
- 
-
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Scott Sanchez â Zoning 
-Administrator, Aaron  Hollister, Paul Lord, Kimberly Durandet, Adrian Putra, 
-Aaron Starr, and Linda Avery â Commission Secretary
-
-
-
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2005.0233C
  
                                                                   
@@ -554,8 +234,6 @@ AYES:           Olague, Miguel, Antonini, Fong, Moore, Sugaya
 
             
 ABSENT:       Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -656,8 +334,6 @@ AYES:           Olague, Miguel, Antonini, Fong, Moore, Sugaya
 
             
 ABSENT:       Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -779,11 +455,9 @@ separate item at this or a future hearing
  
 
 
-5a.       
-
-
-
-
+5a.
+<<Project End>>
+<<Project Start>>
 2011.0117CR
                                                                  
 (A. HOLLISTER:  (415) 575-9078)
@@ -853,11 +527,9 @@ MOTION:        18429
  
 
 
-5b.      
-
-
-
-
+5b.
+<<Project End>>
+<<Project Start>>
 2010.1017CR 
 
                                                                 (A. HOLLISTER:  
@@ -926,11 +598,9 @@ MOTION:        18430
  
 
 
-6a.       
-
-
-
-
+6a.
+<<Project End>>
+<<Project Start>>
 2010.1017CR 
 
                                                                 (A. HOLLISTER:  
@@ -1001,11 +671,9 @@ MOTION:        18431
  
 
 
-6b.      
-
-
-
-
+6b.
+<<Project End>>
+<<Project Start>>
 2010.1017CR
  
                                                                 (A. HOLLISTER:  
@@ -1083,16 +751,12 @@ MOTION:        18432
 
 
 REMOVED FROM 
-CONSENT CALENDAR
+CONSENT CALENDAR 
+
+
+7.
 <<Project End>>
 <<Project Start>>
-
-
-7.        
-
-
-
-
 2010.1084C
                                                                   
   (A. HOLLISTER:  (415) 575-9078)
@@ -1187,8 +851,6 @@ Commission Minutes
 matters unless that commissioner is excused by a vote of the Commission.  
 Commissioners may not be automatically excluded from a vote on the minutes 
 because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1251,8 +913,6 @@ AYES:           Olague, Miguel, Antonini, Fong, Moore, Sugaya
 
             
 ABSENT:       Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1521,8 +1181,6 @@ that maybe we should advocate?  But we would definitely like a report on that.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1566,8 +1224,6 @@ scheduling a couple more informational hearings before the end of the year as
 this process moves forward. Currently we're looking at an early November date 
 for hearing at the Commission. With that, that is it for me, unless there are 
 any questions.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1887,9 +1543,7 @@ th
 F.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1901,11 +1555,9 @@ REGULAR CALENDAR
 
 
 
-12.       
-
-
-
-
+12.
+<<Project End>>
+<<Project Start>>
 2008.0877ETZM
                                                             
         (P. LORD: (415) 558-6311)
@@ -1953,8 +1605,6 @@ SPEAKERS:  None
 
 
 ACTION:        Informational only â No action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1965,11 +1615,9 @@ ACTION:        Informational only â No action required
 
 
 
-13.       
-
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2009.0342C
                                                        
            
@@ -2054,8 +1702,6 @@ ABSENT:       Borden
 
 
 MOTION:        18434
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2065,9 +1711,9 @@ MOTION:        18434
 
 
 
-         14.          
-
-
+         14.
+<<Project End>>
+<<Project Start>>
 2011.0082D
                                                                    
       (A. PUTRA: (415) 575-9079)
@@ -2144,8 +1790,6 @@ ABSENT:       Borden
 
 
 DRA:             0225
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2156,11 +1800,9 @@ DRA:             0225
 
 
 
-15.          
-
-
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2010.0479D
                                                          
                 (A. STARR: (415) 558-6362)

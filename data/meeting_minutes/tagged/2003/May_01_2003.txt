@@ -1,247 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : May 01, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ May 01, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-May 01, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-May 01, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-  Place
-
-
-Thursday, May 1, 2003
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Shelley Bradford Bell, Michael J. Antonini; Rev. Edgar E. Boyd,
-
-Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:30 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Gerald Green - Director; Larry Badiner -Zoning Administrator; Susan Cleveland-Knowles, Deputy City Attorney; John Paul Samaha; Paul Maltzer; Jonas Ionin; Matt Snyder; Mary Woods; Randall Dean;  Adam Light; Sara Vellve; Tina Tam; Dan Dibartolo; Geoffrey Nelson; Dario Jones; Matt Snyder; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2001.0062E (T. CHAN: (415) 558-5982)
 
 
@@ -545,8 +302,6 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 NAYES: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0189D (G. CABREROS: (415) 558-6169)
 
 
@@ -574,8 +329,6 @@ ACTION: Continued to May 22, 2003
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0222D                           (B. FU: (415) 558-6613)
 
 
@@ -596,8 +349,6 @@ ACTION: Item is no longer before the Commission for consideration.
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-
-
 4. Consideration of Adoption - draft minutes April 3 and 10, 2003.
 
 
@@ -610,8 +361,6 @@ ACTION: Approved
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. Commission Comments/Questions
 
 
@@ -686,8 +435,6 @@ Commissioner Bradford Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 6. Director's Announcements
 
 
@@ -702,8 +449,6 @@ th
  Thursday.
 <<Project End>>
 <<Project Start>>
-
-
 7. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -877,8 +622,6 @@ Patricia Vaughey
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION - PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 8. 2002.0657C (J. IONIN: (415) 558-6309)
 
 
@@ -966,8 +709,6 @@ SPEAKER(S): None
 ACTION: Zoning Administrator granted the Variances with conditions mentioned in item 9a.  He also granted the exception for dwelling unit exposure.
 <<Project End>>
 <<Project Start>>
-
-
 10. 2003.0113D                (M. WOODS: (415) 558-6315)
 
 
@@ -1008,8 +749,6 @@ NAYES: Antonini, Bradford Bell, W. Lee
 F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 11. 2002.0475E (R. DEAN:  558-5980)
 
 
@@ -1121,8 +860,6 @@ EXCUSED: S. Lee
 MOTION: 16573
 <<Project End>>
 <<Project Start>>
-
-
 12. 2002.0277C (A. LIGHT:  (415) 558-6254)
 
 
@@ -1289,8 +1026,6 @@ ACTION: Hearing held, item continued to July 17, 2003 in order for project spons
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0220C (S. VELLVE: (415) 558-6263)
 
 
@@ -1367,18 +1102,12 @@ SPEAKER(S):
 ACTION: Project approved making the following modifications to the draft conditions of approval:
 <<Project End>>
 <<Project Start>>
-
-
 1.   Extend hours of operation from 7:30 a.m. to 6:30 p.m., rather than to 5:00 p.m. (Condition #2)
 <<Project End>>
 <<Project Start>>
-
-
 2. Eliminate statement about noise from the day care facility shall be contained within the premises (property) so as not to be a nuisance to nearby residents or neighbors (Condition #4).
 <<Project End>>
 <<Project Start>>
-
-
 3.   Eliminate statement about Project Sponsor shall take all reasonable measures to prevent loitering by students during break times or before and after classes in adjacent residential areas.
 
 
@@ -1411,8 +1140,6 @@ Approximately
   the Planning  Commission convened into a Discretionary Review (DR) Hearing  to hear  and act  on  Discretionary  Review  matters.
 <<Project End>>
 <<Project Start>>
-
-
 15. 2003.0182D (D. DiBARTOLO: (415) 558-6291)
 
 
@@ -1494,8 +1221,6 @@ SPEAKER(S): None
 ACTION: Without hearing, Zoning Administrator continued item to May 15, 2003.
 <<Project End>>
 <<Project Start>>
-
-
 17. 2002.1267DD (D. JONES:  (415) 558- 6477)
 
 
@@ -1520,8 +1245,6 @@ ACTION: Without hearing, item continued to May 8, 2003.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.0312D  (M. SNYDER: (415)  575-6891)
 
 
@@ -1544,8 +1267,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 At approximately 7:00 p.m., the Commission heard the following matter:
 <<Project End>>
 <<Project Start>>
-
-
 19. 2000.465M  (T. OJEDA (415)  558-6251)
 
 

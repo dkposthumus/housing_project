@@ -1,307 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ December 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-December 12, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Thursday, December 12, 2013
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
-COMMISSIONER ABSENT: 
-      
-Fong
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT WU AT 12: 06 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Danielle Harris, Kanishka Burns, Christine Lamorena, Kearstin Dischinger, Lisa Chen, Michael E. Smith, Casey Noel, and Jonas P. Ionin – Commission Secretary. 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2012.1427E 
          
                                                                                               
@@ -354,15 +51,14 @@ Wu, Antonini, Borden, Hillis , Moore, Sugaya
 ABSENT:
                 
 Fong
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1529Z
                                                           
                                              
@@ -428,15 +124,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1328C
                                                                           
                           
@@ -485,15 +180,14 @@ Fong
 MOTION:
                
 19035
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1393Q
                                                                                          
            
@@ -537,15 +231,14 @@ Fong
 MOTION:
                
 19036
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1348Q
                                                                                          
            
@@ -593,15 +286,14 @@ Fong
 MOTION:
                
 19037
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2013.1414Q
                                                                          
                   
@@ -653,8 +345,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -724,8 +414,6 @@ I believe all the housing in Transbay, is now going to be, at least 27% affordab
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -743,8 +431,6 @@ Director Rahaim:
 
 
 Good afternoon Commissioners, if my voice holds up, I just wanted to let you know that we are starting budget season. And the packet that you will receive today for next week you will be seeing a memo giving you an outline of a current status of this Department's budget and revenues and expenditures and then in mid-January we will start meeting with you and the Historic Preservation Commission on the Work Plan and upcoming budget items. We look forward to having that discussion with you in the next few weeks. Thank you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -783,15 +469,11 @@ On Sept 19
  & Oct 24
 [4]
 , the Commission made recommendations. Your recommended modifications for residential demolition ordinance, included:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 That the ten year prohibition on approving the loss of units that had been the subject of no fault evictions begin with evictions filed after October 24, 2013;
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -802,29 +484,21 @@ That the Ordinance consider Owner Move-In and other “no-fault” evictions dif
 At Monday’s Committee hearing, Supervisor Avalos made several amendments, and discussed additional amendments, but language was not finalized.
   
 On Tuesday the full Board considered both Ordinances, and passed them both on their first reading with the following amendments:
-<<Project End>>
-<<Project Start>>
 
 
 1.
        
 The prohibition on approving the loss of dwellings that have been the subject of no-fault evictions applies only to mergers, not to demos or conversions;
-<<Project End>>
-<<Project Start>>
 
 
 2.
        
 The prohibition is triggered by evictions that occurred after 12/10/13;
-<<Project End>>
-<<Project Start>>
 
 
 3.
        
 Clarifying language was added that excludes group housing that is subject to the Residential Hotel Conversion Ordinance from the controls of Section 317;
-<<Project End>>
-<<Project Start>>
 
 
 4.
@@ -997,8 +671,6 @@ Linda Chapman – “Love Ghetto” article.
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -1032,15 +704,14 @@ SPEAKERS:
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
-          
+<<Project End>>
+<<Project Start>>
 2013.1465T
                                                                                           
               
@@ -1093,15 +764,14 @@ Fong
 RESOLUTION:
       
 19039
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1284C
                                                                           
                            
@@ -1161,15 +831,14 @@ Fong
 MOTION:
                
 19040
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.0663C
                                                           
                                             
@@ -1241,7 +910,8 @@ MOTION:
 
 
 14a.
-        
+<<Project End>>
+<<Project Start>>
 2011.1385CEV
                                                                                      
            
@@ -1296,7 +966,8 @@ MOTION:
 
 
 14b.
-        
+<<Project End>>
+<<Project Start>>
 2011.1385CEV
                                                                                      
            
@@ -1323,15 +994,14 @@ SPEAKERS:
 ACTION:
                                 
 Zoning Administrator Closed the PH and indicated an intent to Grant
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.0894C
                                                                           
                              
@@ -1396,7 +1066,8 @@ MOTION:
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2013.1001DV
                                                                        
                              
@@ -1446,7 +1117,8 @@ Fong
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1001DV
  
                                                                       

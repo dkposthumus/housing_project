@@ -1,284 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 26, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ October 26, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-October 26, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 26, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 26, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Lee, Moore, and Sugaya
-
-
- 
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENCANCE:
- 
- Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Claudia Flores, Theresa Ojeda, Steve Wertheim, Lisa Gibson, Rick Crawford, Kate Conner, Elizabeth Watty, Amit Ghosh, Craig Nikitas, Michelle Glueckert, Dan Sider, John Billovits, Anmarie Rodgers, Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2002.1129E
+2002.1129E
  
  (S. JONES:
  
@@ -361,8 +82,6 @@ ABSENT:
 
 
 2a.
-<<Project End>>
-<<Project Start>>
  
  2005. 0307D
  
@@ -418,8 +137,9 @@ ABSENT:
 
 
 2b.
- 
- 2005.0329DD 
+<<Project End>>
+<<Project Start>>
+2005.0329DD 
  
  
  
@@ -466,16 +186,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2003.0347E
+<<Project End>>
+<<Project Start>>
+2003.0347E
  
  
  
@@ -538,16 +257,15 @@ EXCUSED:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2006.0882A
+<<Project End>>
+<<Project Start>>
+2006.0882A
  
  
  
@@ -603,8 +321,9 @@ ABSENT:
 
 
 5a.
- 
- 2006.0697
+<<Project End>>
+<<Project Start>>
+2006.0697
 C
 PR
  
@@ -631,8 +350,9 @@ Application withdrawn.
 
 
 5b.
- 
- 2006.0697C
+<<Project End>>
+<<Project Start>>
+2006.0697C
 P
 R
  
@@ -658,8 +378,9 @@ Application withdrawn.
 
 
 5c.
- 
- 2006.0697CP
+<<Project End>>
+<<Project Start>>
+2006.0697CP
 R
  
  (K. CONNER: (415) 575-6914)
@@ -686,8 +407,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -775,8 +494,6 @@ Commissioner Moore
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -790,8 +507,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -943,8 +658,6 @@ Marilyn Amini
  The community improvements in the Eastern Neighborhoods legislation that the Commission asked for formally with a letter to come back before you for your review and comment was put on a 30 day hold.
  
  That is not the problem.
-<<Project End>>
-<<Project Start>>
 
 
 8.
@@ -1032,8 +745,6 @@ Sue Hestor
 ACTION:
  
  Meeting held – Informational only – no action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1357,8 +1068,6 @@ Sue Hestor
 
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1367,8 +1076,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 10.
- 
- 2006.1221E
+<<Project End>>
+<<Project Start>>
+2006.1221E
  
  
 (Tape IB; IIA
@@ -1433,16 +1143,15 @@ G.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0738Z 
+<<Project End>>
+<<Project Start>>
+2006.0738Z 
  
  (R. CRAWFORD: (415) 558-6358)
 
@@ -1492,8 +1201,6 @@ ABSENT:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1502,8 +1209,9 @@ REGULAR CALENDAR
 
 
 12.
- 
- 2006.0818C
+<<Project End>>
+<<Project Start>>
+2006.0818C
  
  
 (Tape IIA)
@@ -1768,16 +1476,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2006.1114D
+<<Project End>>
+<<Project Start>>
+2006.1114D
  
  
  
@@ -1809,8 +1516,6 @@ SPEAKERS:
 ACTION:
  
  Prior to hearing, the DR was withdrawn
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2478,16 +2183,15 @@ ACTION:
  Following hearing and a failed motion to continue the item to November 2, 2006, the Commission did not attempt to take any other actions.
  
  As a result, this item will be forwarded to the Board of Supervisors without recommendation from the Planning Commission
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.1216B
+<<Project End>>
+<<Project Start>>
+2006.1216B
  
  
  
@@ -2533,16 +2237,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.1212B
+<<Project End>>
+<<Project Start>>
+2006.1212B
  
  
  
@@ -2589,16 +2292,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.0070T
+<<Project End>>
+<<Project Start>>
+2006.0070T
  
  
  
@@ -2639,16 +2341,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.1214E
+<<Project End>>
+<<Project Start>>
+2006.1214E
 T
  
  
@@ -2690,8 +2391,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2701,8 +2400,9 @@ ABSENT:
 
 
 19.
- 
- 2006.1222E
+<<Project End>>
+<<Project Start>>
+2006.1222E
 T
  
  
@@ -2742,16 +2442,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2006.0891T
+<<Project End>>
+<<Project Start>>
+2006.0891T
  
  
 (Tape IVB)
@@ -2832,13 +2531,12 @@ RESOLUTION:
  
  
 (Tape IIB; IVA; IVB)
-<<Project End>>
-<<Project Start>>
 
 
 21.
- 
- 2003.0347EMTZ 
+<<Project End>>
+<<Project Start>>
+2003.0347EMTZ 
 (J. Billovits (415) 558-6390/A. Rodgers:
  
  (415) 558-6395)

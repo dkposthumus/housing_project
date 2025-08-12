@@ -1,267 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 17, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ June 17, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-June 17, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes 
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 17, 2010
-
-
-1:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:  Miguel, Olague, Antonini, Lee, Moore and Sugaya
-
-
-COMMISSIONERS ABSENT:  Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:14 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim â Director of Planning, Kelley Amdur, Rick Crawford, AnMarie Rodgers, Elizabeth Watty, Elaine Forbes, Tara Sullivan, Corey Teague, Aaron Hollister, Glenn Cabreros, Rick Cooper, Sophie Hayward, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-                 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.         
 2008.0395E                                                              (
 I. NISHIMURA: (415) 575-9041)
 
@@ -296,8 +33,6 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -336,8 +71,6 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -370,8 +103,6 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -408,14 +139,14 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.        
+5.
+<<Project End>>
+<<Project Start>>
 2010.0184D 
                                                            (R. CRAWFORD: (415) 558-6358)
 
@@ -460,8 +191,6 @@ ABSENT:          Borden
 B.
         
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -527,8 +256,6 @@ I lost track of time.  I forgot we started today at 1:00 and I was busy watchin
 
 
 C.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -565,9 +292,7 @@ Commissioner Miguel:
 
 Thank you.  The reason I contacted the Director was that I was particularly concerned, as are a number of people in the neighborhoods and others regarding the 16
 th
- Street crossing, which is a problem area I guess.  If you could give us an update from time to time regarding the high-speed rail, Iâd greatly appreciate it.
-<<Project End>>
-<<Project Start>>
+ Street crossing, which is a problem area I guess.  If you could give us an update from time to time regarding the high-speed rail, Iâd greatly appreciate it.   
 
 
 8.         Review of Past Weekâs Events at the Board of Supervisors, Board of Appeals, and Historic Preservation Commission.
@@ -604,8 +329,6 @@ Double Density Bonus â
 This ordinance was introduced by Supervisor Chiu and would amend Section 209.1(m) of the Planning Code which previously provided a double density bonus if projects include senior housing or housing for people with disabilities.  The amendments will create a definition related to housing for seniors; strike the provision to allow the density bonus for people with disabilities; update the requirements for obtaining double density bonuses by providing senior housing; and require in certain circumstances a conditional use authorization for obtaining a double density bonus for senior housing.  This Commission heard this on October 8, 2009 where you recommended approval.  There was one amendment made at the Land Use Committee that would link the on-site affordable housing provisions to the pending Section 315 legislation.  
 As amended, the Full Board passed this item on FINAL reading.
    Last week this Commission requested some additional information on this item.  In response to your questions, I wanted to share a couple of facts with you and will give the Commission Secretary the staff report from when you heard this last fall.
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -619,8 +342,6 @@ Senior citizen is a person who is 62 years of age or older; or
 
         
 If a development has 35 units, then the age limit for a qualifying senior citizen is lowered to 55 years of age or higher.  NOTE:  Therefore, if a proposed development will contain less than 35 units, all of the residents must be 62 years of age or older.  If there are 35 or more units, the residents can be 55 years of age or older.
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -673,9 +394,7 @@ Historic Preservation Commission:
 
 
 See comments from Kelley Amdur under item #7 above
-.
-<<Project End>>
-<<Project Start>>
+. 
 
 
  
@@ -748,9 +467,7 @@ DR review
 
 E.
                  
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
                        
@@ -782,8 +499,6 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -815,14 +530,14 @@ AYES:              Antonini, Lee, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.       
+12.
+<<Project End>>
+<<Project Start>>
 2010.0273T
                                                               (T. SULLIVAN: (415) 558-6257)
 
@@ -855,14 +570,14 @@ ABSENT:          Borden
 
 RESOLUTION:   
 18107
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.       
+13.
+<<Project End>>
+<<Project Start>>
 2006.1348EKC
                                                            (C. TEAGUE: (415) 575-6081)
 
@@ -894,14 +609,14 @@ ABSENT:          Borden
 
 MOTION:           
 18108
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2009.0562C
                                                                    
         (S. Lai: (415) 575-9087)
@@ -929,15 +644,15 @@ Request for Conditional Use Authorization
 SPEAKERS:     None 
 
 
-ACTION:           Prior to hearing, the project was withdrawn, therefore removing the item from Commission consideration
-<<Project End>>
-<<Project Start>>
+ACTION:           Prior to hearing, the project was withdrawn, therefore removing the item from Commission consideration   
 
 
  
 
 
-15.       
+15.
+<<Project End>>
+<<Project Start>>
 2009.0620C
                                                               (A. HOLLISTER:  (415) 575-9078)
 
@@ -979,14 +694,14 @@ ABSENT:          Borden and Moore
 
 MOTION:           
 18109
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.       
+16.
+<<Project End>>
+<<Project Start>>
 2008.0494C
                                                                    (E. WATTY: (415) 558-6620)
 
@@ -1034,7 +749,9 @@ MOTION:          
  
 
 
-17a.     
+17a.
+<<Project End>>
+<<Project Start>>
 2006.0674D
                                                                    (E. WATTY: (415) 558-6620)
 
@@ -1074,7 +791,9 @@ DRA:               
  
 
 
-17b.     
+17b.
+<<Project End>>
+<<Project Start>>
 2008.0624D
                                                                    (E. WATTY: (415) 558-6620)
 
@@ -1110,14 +829,14 @@ ABSENT:          Borden
 
 DRA:                
 0155
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.       
+18.
+<<Project End>>
+<<Project Start>>
 2009.0535D
                                                            (G. CABREROS: (415) 558-6169)
 
@@ -1163,14 +882,14 @@ DRA:               
 
 
 5:30 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.       
+19.
+<<Project End>>
+<<Project Start>>
 2008.0021E
                                                                (R. COOPER: (415) 575-9027)
 

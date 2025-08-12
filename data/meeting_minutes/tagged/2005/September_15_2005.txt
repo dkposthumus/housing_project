@@ -1,279 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ September 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-September 15, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-September 15, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 15, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
-
-
- 
-
-
-COMMISSIONERS ABSENT:
-    
- Olague,
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Jim Miller; Mathew Snyder; Tammy Chan; Paul Lord; Mary Woods; Glenn Cabreros; Sara Vellve; Dan Sider; Joy Navarrete; Ben Fu; Sharon Young; Sarah Dennis; Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-           
-
-
-1.
-        
- 
 2000.1164E
  
  
@@ -348,8 +73,9 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
 
 
 2a.
-       
- 2000.1164E 
+<<Project End>>
+<<Project Start>>
+2000.1164E 
                                   
  
                                    
@@ -411,10 +137,9 @@ ABSENT:
 
 
 2b.
-  
- 
-    
- 2003.0758C
+<<Project End>>
+<<Project Start>>
+2003.0758C
  
  
                                                              
@@ -474,8 +199,6 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
  ABSENT:
          
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -483,8 +206,8 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
 
            
  3.
-        
- 
+<<Project End>>
+<<Project Start>>
 2004.0196D
                                                       
  
@@ -545,8 +268,6 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
  ABSENT:
          
  Olague
-<<Project End>>
-<<Project Start>>
 
 
          
@@ -554,8 +275,8 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
 
            
  4.
-        
- 
+<<Project End>>
+<<Project Start>>
 2005.0264DD
                                                                        
  
@@ -619,8 +340,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -689,8 +408,6 @@ Larry Badiner responded to Commissioner Hughes
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -728,8 +445,6 @@ David Alumbaugh, Department Staff
 
 
 Reported on the work going on in Visitacion Valley, particularly in Executive Park.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -790,8 +505,6 @@ th
  Your findings included that the Project Sponsor might have deliberately misrepresented the case, and in spite of the appropriateness of the design, the Sponsor should not be rewarded for undermining the DR process.
  
  The Board overturned your decision and subsequently the permit was approved with the only modification that the full bath at the garage level be made into a half bath.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1183,8 +896,6 @@ SPEAKERS: None
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1193,8 +904,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 9.
-        
- 2005.0185D
+<<Project End>>
+<<Project Start>>
+2005.0185D
                                                                   
  (M. WOODS:
  
@@ -1280,8 +992,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 10a.
-       
- 2004.0920E
+<<Project End>>
+<<Project Start>>
+2004.0920E
 X
 V
                                                    
@@ -1334,8 +1047,9 @@ S. Lee,
 
 
 10b.
-       
- 2004.0920EX
+<<Project End>>
+<<Project Start>>
+2004.0920EX
 V
  
                                                   
@@ -1364,8 +1078,6 @@ H.
         
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1373,8 +1085,9 @@ REGULAR CALENDAR
 
 
 11.
-       
- 2003.0169ECV 
+<<Project End>>
+<<Project Start>>
+2003.0169ECV 
                                                 
  
                
@@ -1469,16 +1182,15 @@ ACTION:
  Informational Only.
  
  No Action
-<<Project End>>
-<<Project Start>>
 
 
                        
 
 
 12.
-       
- 2002.0449E
+<<Project End>>
+<<Project Start>>
+2002.0449E
                                           
  
        
@@ -1549,16 +1261,15 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
  ABSENT:
          
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-       
- 2002.0449C
+<<Project End>>
+<<Project Start>>
+2002.0449C
                                           
  
   
@@ -1603,8 +1314,6 @@ reliminary Recommendation: Approval with modifications.
 
            
  ITEMS #14 & 15 WERE TAKEN OUT OF ORDER AND HEARD AFTER ITEM #10
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1612,8 +1321,9 @@ reliminary Recommendation: Approval with modifications.
 
            
  14.
-       
- 2005.0256T
+<<Project End>>
+<<Project Start>>
+2005.0256T
                                              
  
                               
@@ -1708,16 +1418,14 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
  MOTION:
           
  17101
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-       
- 
+<<Project End>>
+<<Project Start>>
 2004.1166C
                                           
  
@@ -1779,8 +1487,6 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
  MOTION:
           
  17102
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1788,8 +1494,9 @@ S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, W. Lee
 
            
  16.
-       
- 2005.0527D
+<<Project End>>
+<<Project Start>>
+2005.0527D
                                           
  
                         
@@ -1837,8 +1544,6 @@ S. Lee, Antonini, Bradford-Bell, Hughes, W. Lee
  ABSENT:
          
  Alexander and Olague
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1896,16 +1601,15 @@ S. Lee, Alexander, Antonini, Bradford-Bell
  ABSENT:
          
  W. Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
            
 
 
 18.
-       
- 2002.0401
+<<Project End>>
+<<Project Start>>
+2002.0401
 D
 V
                                         
@@ -1946,8 +1650,6 @@ DISCRETIONARY REVIEW APPLICATION WITHDRAWN
 NOTE:
  
  Items 19, 20 and 21 were called and heard together.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1957,8 +1659,9 @@ NOTE:
 
 
 19.
-    
- 2005.0664E
+<<Project End>>
+<<Project Start>>
+2005.0664E
 T
  
                                                      
@@ -2422,8 +2125,6 @@ Requested that the Commission continue this item because there was not proper no
 
 
 .
-<<Project End>>
-<<Project Start>>
           
 
 
@@ -2432,8 +2133,6 @@ Requested that the Commission continue this item because there was not proper no
  
 Eliminate the requirement relating to “community clubhouse[s], neighborhood center[s], or other community cultural center[s].”
  Defining and listing such facilities with fairness, accuracy, and/or consistency is not possible. Moreover, the merit of this requirement is debatable in light of the broad spectrum of uses and types of community facilities.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2444,8 +2143,6 @@ Eliminate the requirement relating to “community clubhouse[s], neighborhood ce
  
 Add a requirement to prohibit MCD’s within 500 feet (or 1,000 feet if smoking is offered on-site) of children’s playgrounds operated by the Recreation and Parks Department.
  MCD’s have potential negative externalities of a type that should not be allowed to impact children’s play areas. To implement this requirement, the Recreation and Park Department should provide the Planning Department with a list of such facilities at regular intervals not less than once each calendar year.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2456,8 +2153,6 @@ Add a requirement to prohibit MCD’s within 500 feet (or 1,000 feet if smoking 
  
 Allow operation only between 8am and 10pm, excepting one MCD per district which should be allowed to remain open at all hours.
  Operation of multiple dispensaries beyond these base hours could create conflict with nearby land uses and prevailing neighborhood character. Moreover, these hours are typical of many conventional pharmacies. An MCD is intended to serve a public health need; late-night operation has the undesirable effect of rendering a facility more comparable to a nighttime-entertainment establishment than a medical outlet. Reasonable patient access to medical cannabis has been anticipated by the drafters of Proposition 215 in the form of designated caregivers. Should a patient not be able to procure his or her medicine within the proscribed hours of operation, a caregiver has the ability to obtain his or her patient’s medicine on his or her behalf. Nonetheless, the allowance for a single facility to remain open at all hours account for unforeseen and/or emergency situations under which medical product is required without any delay.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2468,8 +2163,6 @@ Allow operation only between 8am and 10pm, excepting one MCD per district which 
  
 Allow applications to be received only during a one-time-only filing period.
  DPH should be allowed to receive MCD permit applications only during a 180-day filing window, which would commence upon the effective date of the legislation. Thereafter, DPH would be required to submit a yearly report to the Board of Supervisors describing the overall adequacy of the City’s medical cannabis services. Should the Board so choose, it would then have the option of pursuing legislative measures to reopen the application period. This modification is based on the premise set forth in Supervisor Elsbernd’s similar legislation (introduced under Board File Number 051455).
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2500,16 +2193,15 @@ S. Lee, Alexander, Antonini, Bradford-Bell
  RESOLUTION:
   
  17103
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
-       
- 2005.0665E
+<<Project End>>
+<<Project Start>>
+2005.0665E
 T
 :
  
@@ -2557,16 +2249,15 @@ S. Lee, Alexander, Antonini, Bradford-Bell
  RESOLUTION:
  
  17104
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
-       
- 2005.0772E
+<<Project End>>
+<<Project Start>>
+2005.0772E
 T
  
    
@@ -2619,16 +2310,15 @@ S. Lee, Alexander, Antonini, Bradford-Bell
  RESOLUTION:
  
  17105
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
-       
- 2004.0546C
+<<Project End>>
+<<Project Start>>
+2004.0546C
 E
              
  
@@ -2691,18 +2381,14 @@ NAYES:
 ABSENT:
       
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
-  
- 
-    
- 
+<<Project End>>
+<<Project Start>>
 2004.0546
 C
                
@@ -2770,16 +2456,15 @@ NAYES:
 ABSENT:
             
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
-       
- 2005.0565C
+<<Project End>>
+<<Project Start>>
+2005.0565C
                               
  
                                             
@@ -2935,8 +2620,9 @@ S. Lee, Alexander, Antonini, Bradford-Bell
 
 
 25a.
-     
- 2005.0492
+<<Project End>>
+<<Project Start>>
+2005.0492
 C
 V 
                
@@ -3034,8 +2720,9 @@ S. Lee, Alexander, Antonini, Bradford-Bell
 
 
 25b.
-     
- 2005.0492C
+<<Project End>>
+<<Project Start>>
+2005.0492C
 V
  
                            
@@ -3073,16 +2760,15 @@ Request for rear yard, open space, dwelling unit exposure and non-complying stru
 
 
 5:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 26.
-       
- 2005.0524T
+<<Project End>>
+<<Project Start>>
+2005.0524T
                   
  
                                                         

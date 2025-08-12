@@ -1,293 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 31, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2013
-
-
-/ January 31, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-January 31, 2013
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Notice of Meeting 
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 31, 2013
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                        
-
-
-COMMISSIONERS PRESENT: Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:11 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Richard Sucre, Daniel Sider, Tom DiSanto, Keith DeMartini, Debra Dwyer, Ben Fu, Elizabeth Watty, Aaron Hollister,  and Jonas P. Ionin - Acting Commission Secretary.
-
-
-                        
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may
- choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-Item No. 8 was considered under this section.
-
-
- 
-
-
-B.
-            
-CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.         
 2011.0030C
                                                                          (R. SUCRE: (415) 575-9108)
 
@@ -316,14 +27,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 MOTION:           18790
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2012.0724Z
                                                                           (R. SUCRE: (415) 575-9108)
 
@@ -372,8 +83,6 @@ C.         COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -401,8 +110,6 @@ Adopted
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -490,8 +197,6 @@ Commissioner Fong:
 
 
 I wanted to add one thing and maybe, I apologize if it’s in your Director’s report, but yesterday, was the kick-off meeting for the Citizen’s Advisory Group for the permit tracking system and some people in the audience were there yesterday, as well, offering very sound comments in my opinion. It’s moving along quite well. Yesterday, was the first of a couple of different meetings and there will be some testing and training that goes along in the spring and into the fall, but I think it’s a worthy project and in the short and long term, the Department and public will benefit from it.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -510,8 +215,6 @@ SPEAKERS:    None
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -527,8 +230,6 @@ Director Rahaim:
 
 
 I did also want to mention the Citizen's Advisory Committee for the permit tracking system, I appreciate President Fong's involvement and Commissioner Hasz from the Historic Preservation Commission is also on that Committee. I'm thrilled to say we're on target, on schedule on that project for a fall roll out so I'm very happy about that. I also wanted to give the Commission a very brief update on the Academy of Art and the notices of violation you probably saw the article in the paper today. They did meet the requested items to meet their January 24th deadline on those conditions of the violations from last week and today they are 99% of the way there.  They have agreed to the scopes of the environmental review, the last two pieces of the scope of the environmental review which is the deadline for today and we're working out some final details on that.  I'm optimistic that will happen by the end of the day or first thing in the morning. So far, they are meeting their required deadlines as the conditions of those notices of violation. There is no Board of Supervisor's report today I don't believe and no Board of Appeals either, they did not meet this week.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -556,8 +257,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 No Report
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -608,8 +307,6 @@ SPEAKERS:     Dr. Espanola Jackson, Sala-Haqueenyah Chandler, Robert Woods, 
 
 F.
          REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -631,14 +328,14 @@ SPEAKERS:    None
 
 
 ACTION:          Informational only
-<<Project End>>
-<<Project Start>>
 
 
                        
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2000.618E
                                                                            (D. DWYER: (415) 575-9031)
 
@@ -685,7 +382,9 @@ MOTION:           18792
  
 
 
-11a.      
+11a.
+<<Project End>>
+<<Project Start>>
 2012.0700X
                    
                                                                 (B. FU: (415) 558-6613)
@@ -729,7 +428,9 @@ MOTION:           18793
  
 
 
-11b.      
+11b.
+<<Project End>>
+<<Project Start>>
 2012.0701X
                                                                                  (B. FU: (415) 558-6613)
 

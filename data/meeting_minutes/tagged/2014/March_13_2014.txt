@@ -1,302 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ March 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-March 13, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, March 13, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12: 08 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Kimia Haddadan, Aaron Starr, Kearstin Dischinger, Mary Woods, Steve Wertheim, Glenn Cabreros, Kanisha Burns, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2014.0180T
                                           
                                                             
@@ -359,8 +61,6 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 B.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -402,8 +102,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -557,8 +255,6 @@ and I would be interested to hear what we are doing to help.
 C.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -575,9 +271,7 @@ Director’s Announcements
 Director Rahaim:
 
 
-Other than that, I was going to mention the fire and I was going to talk to the successor agency, but other than that, I have no announcements at this point.
-<<Project End>>
-<<Project Start>>
+Other than that, I was going to mention the fire and I was going to talk to the successor agency, but other than that, I have no announcements at this point. 
 
 
  
@@ -730,8 +424,6 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -829,15 +521,14 @@ moving cars. OS vs P Zoning
 ACTION:
                                 
 None – Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2014.0060U
                                                                                          
           
@@ -883,7 +574,8 @@ None – Informational
 
 8
 .
-            
+<<Project End>>
+<<Project Start>>
 2012.0355I
                                                                                            
         
@@ -1041,16 +733,15 @@ changes
 
 ACTION:
                                 
-Closed the Public Hearing
-<<Project End>>
-<<Project Start>>
+Closed the Public Hearing 
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2014.0230T
                                                           
                                
@@ -1106,8 +797,6 @@ Antonini
 RESOLUTION:
       
 19101
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1117,7 +806,8 @@ RESOLUTION:
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2013.1896T
                                                                                           
    
@@ -1206,7 +896,8 @@ RESOLUTION:
 
 
 11a.
-        
+<<Project End>>
+<<Project Start>>
 2013.1177C
                                                                                           
     
@@ -1290,7 +981,8 @@ MOTION:
 
 
 11b.
-        
+<<Project End>>
+<<Project Start>>
 2013.1177V
                                                           
                                     
@@ -1370,15 +1062,14 @@ DISCRETIONARY REVIEW CALENDAR
 The Commission Discretionary Review Hearing Procedures provide for presentations by staff; followed by the DR requestor team; followed by public comment opposed to the project; followed by the project sponsor team; followed by public comment in support of the project.
   
 Please be advised that the DR requestor and project sponsor teams include: the DR requestor and sponsor or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2013.1766DD
  
                                                                                      
@@ -1446,15 +1137,14 @@ Fong
 DRA No:
                                 
 0355
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2013.1133D
                                                                                          
           

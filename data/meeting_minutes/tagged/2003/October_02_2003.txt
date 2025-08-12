@@ -1,245 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 02, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ October 02, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-October 02, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 02, 2003
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Board of Supervisors Chambers 
-  - Room 250
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-  Place
-
-
-Thursday, October 2, 2003
-
-
-2:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee William L. Lee William L. Lee
-
-
-COMMISSIONERS ABSENT: None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 2:44 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Jim Nixon - Acting Zoning Administrator; Judy Boyajian - Deputy City Attorney; Miriam Chion, Teresa Ojeda, Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2003.0193D (R. CRAWFORD:  (415) 558-6358)
 
 
@@ -343,9 +102,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 3. Consideration of Adoption of draft minutes of August 21, 2003 (Continued from Regular Meeting of September 25, 2003); September 11 and 18, 2003.
 
 
@@ -388,13 +144,9 @@ SPEAKER(S):
 ACTION: Approved with Corrections:
 <<Project End>>
 <<Project Start>>
-
-
 1. Page 5, Item No. 9 - third bullet states that there was a vote from the BOS +7-0 and it should be +7-3;
 <<Project End>>
 <<Project Start>>
-
-
 2. Page 11, the action for item 10 states to extend the hours of operation originally 10:00 a.m. to 2:30 a.m. to 10:00 a.m. to 3:30 a.m. - this should actually be 10:00 a.m. to 3:30 p.m.
 
 
@@ -404,8 +156,6 @@ AYES: Antonini, Bradford Bell, Hughes, Feldstein, S. Lee, W. Lee
 EXCUSED: Boyd
 <<Project End>>
 <<Project Start>>
-
-
 4. Commission Comments/Questions
 
 
@@ -520,8 +270,6 @@ Re:  Vacation Schedules
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 5. Director's Announcements
 
 
@@ -600,8 +348,6 @@ Re:  Next Week's Calendar:
 - He informed the Commission that the DR Policy item on calendar next week will also seek to allow an initiation of an administrative review and decision process.
 <<Project End>>
 <<Project Start>>
-
-
 6. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -705,8 +451,6 @@ Andy Sirkin
 E. CONSIDERATION OF FINDINGS AND FINAL ACTION -- PUBLIC HEARING CLOSED
 <<Project End>>
 <<Project Start>>
-
-
 7. 2002.1144C (G. NELSON: (415) 558-6257)
 
 
@@ -739,8 +483,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 MOTION: 16668
 <<Project End>>
 <<Project Start>>
-
-
 8. 2003.0446Q (J. MILLER: (415) 558-6344)
 
 
@@ -770,8 +512,6 @@ AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 MOTION: 16669
 <<Project End>>
 <<Project Start>>
-
-
 9. 2002.1105C (T. TAM: (415) 558-6325)
 
 
@@ -845,8 +585,6 @@ MOTION: 16670
   F. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 10. 2003.0091A
 C
  (T. TAM: (415) 558-6325)
@@ -868,8 +606,6 @@ ACTION: Without hearing, item continued to November 6, 2003.
 AYES: Antonini, Bradford Bell, Boyd, Hughes, Feldstein, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 11. 2001.0911
 R
  (S. SHOTLAND:  (415) 558-6308)
@@ -975,8 +711,6 @@ NAYES: Feldstein
 MOTION: 16671
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0766TZ (P. LORD: (415) 558-6311)
 
 
@@ -1026,8 +760,6 @@ NAYES: Feldstein
 RESOLUTION: 16672
 <<Project End>>
 <<Project Start>>
-
-
 13. 2003.0801TZ (P. LORD: (415) 558-6311)
 
 
@@ -1086,8 +818,6 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 MOTION: 16673
 <<Project End>>
 <<Project Start>>
-
-
 14. 2002.0804C (J. IONIN: (415) 558-6309)
 
 
@@ -1215,8 +945,6 @@ SPEAKER(S): None
 ACTION: Acting Zoning Administrator closed the public hearing and granted the variance.
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0804C (J. PURVIS:  (415) 558-6354)
 
 

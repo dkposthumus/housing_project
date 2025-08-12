@@ -1,278 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 10, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ November 10, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-November 10, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 10, 2011
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Miguel, Antonini, Borden, Fong, Moore, and Sugaya
-
-
-COMMISSIONER ABSENT: Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT MIGUEL AT 12:15 p.m.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Aaron Starr, AnMarie Rodgers, Michael Jacinto, Kevin Guy, Lisa Gibson, Jon Swae, Adrian Putra, Jonas Ionin, and Linda Avery – Commission Secretary
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The 
-Commission
- will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-1.
-            
 2005.0233C
                                                                                 (B. FU: (415) 558-6613)
 
@@ -313,8 +39,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -374,8 +98,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -419,8 +141,6 @@ Miguel, Antonini, Borden, Fong, Moore, and Sugaya
 
 
 ABSENT:          Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -468,14 +188,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-5.         
+5.
+<<Project End>>
+<<Project Start>>
 2011.0864Z
                                                                         (A. STARR: (415) 558-6362)
 
@@ -519,8 +239,6 @@ RESOLUTION:  
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -568,8 +286,6 @@ I wanted to take the opportunity – although the results are not official, they
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -581,9 +297,7 @@ D.         DIRECTOR’S REPORT
 Director Rahaim:
 
 
-Just three announcements today, I wanted to announce, and I think you have a flyer on this – there is a Workshop on the Chinatown Street Design Project on November 16 from 4:00 to 5:30 next Wednesday. There has been a series of workshops on the effort on Broadway separately.  Second, I think you know that tomorrow is a holiday in honor of Veterans Day, so the office will be closed tomorrow, as are most City agencies. Third, I will be out of the office, as I think I mentioned earlier.  I will be in New York for the Zoning Conference. During my absence, Kelly Amdur will be in charge of the Department.
-<<Project End>>
-<<Project Start>>
+Just three announcements today, I wanted to announce, and I think you have a flyer on this – there is a Workshop on the Chinatown Street Design Project on November 16 from 4:00 to 5:30 next Wednesday. There has been a series of workshops on the effort on Broadway separately.  Second, I think you know that tomorrow is a holiday in honor of Veterans Day, so the office will be closed tomorrow, as are most City agencies. Third, I will be out of the office, as I think I mentioned earlier.  I will be in New York for the Zoning Conference. During my absence, Kelly Amdur will be in charge of the Department. 
 
 
  
@@ -742,11 +456,11 @@ REGULAR CALENDAR 
 
 
 Item 9 was taken out of order and followed item 10.
+
+
+9.
 <<Project End>>
 <<Project Start>>
-
-
-9.          
 2011.0206T
                                                                    (S. HAYWARD: (415) 558-6372)
 
@@ -780,8 +494,6 @@ ABSENT:          Olague
 
 RESOLUTION:   
 18485
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -791,7 +503,9 @@ RESOLUTION:  
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2009.0291E & 2010.0275E
                                                    (M. JACINTO: (415) 575-9033)
 
@@ -849,7 +563,9 @@ RESOLUTION:  
 Item 11 was taken out of order and followed item 9.
 
 
-11a.      
+11a.
+<<Project End>>
+<<Project Start>>
 2009.0291MRZ and 2010.0275MRZ
                                            (K. GUY: (415) 558-6163)
 
@@ -888,7 +604,9 @@ MOTION:          
          
 
 
-11b.      
+11b.
+<<Project End>>
+<<Project Start>>
 2009.0291MRZ and 2010.0275MRZ
                                            (K. GUY: (415) 558-6163)
 
@@ -926,7 +644,9 @@ RESOLUTION:  
          
 
 
-11c.      
+11c.
+<<Project End>>
+<<Project Start>>
 2009.0291MRZ and 2010.0275MRZ
                                            (K. GUY: (415) 558-6163)
 
@@ -968,7 +688,9 @@ RESOLUTION:  
          
 
 
-11d.      
+11d.
+<<Project End>>
+<<Project Start>>
 2009.0291MRZ and 2010.0275MRZ
                                            (K. GUY: (415) 558-6163)
 
@@ -1000,15 +722,15 @@ ABSENT:          Olague
 
 RESOLUTION:   
 18489
-<<Project End>>
-<<Project Start>>
 
 
 
          
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2005.1004E
                                                                         (L. GIBSON: (415) 575-9032)
 
@@ -1054,7 +776,9 @@ MOTION:          
          
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2005.1004EMTZR
                                                                   (J. SWAE: (415) 575-9069)
 
@@ -1093,7 +817,9 @@ MOTION:           18491
          
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2005.1004EMTZR
                                                                   (J. SWAE: (415) 575-9069)
 
@@ -1133,7 +859,9 @@ RESOLUTION:  
          
 
 
-13c.      
+13c.
+<<Project End>>
+<<Project Start>>
 2005.1004EMTZR
                                                                   (J. SWAE: (415) 575-9069)
 
@@ -1172,7 +900,9 @@ RESOLUTION:  
          
 
 
-13d.      
+13d.
+<<Project End>>
+<<Project Start>>
 2005.1004EMTZR
                                                                   (J. SWAE: (415) 575-9069)
 
@@ -1215,7 +945,9 @@ RESOLUTION:  
  
 
 
-13e.      
+13e.
+<<Project End>>
+<<Project Start>>
 2005.1004EMTZR
                                                                   (J. SWAE: (415) 575-9069)
 
@@ -1247,15 +979,15 @@ ABSENT:          Olague
 
 MOTION:           
 18495
-<<Project End>>
-<<Project Start>>
 
 
 
          
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2011.1077D
                                                                         (A. PUTRA: (415) 575-9079)
 
@@ -1296,7 +1028,9 @@ DRA #:            
  
 
 
-15a.      
+15a.
+<<Project End>>
+<<Project Start>>
 2011.0063D
                                                                             (J. IONIN: (415) 558-6309)
 

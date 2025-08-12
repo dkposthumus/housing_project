@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 11, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ June 11, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-June 11, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 11, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 11, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Antonini, Borden, Moore, and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- Lee and Olague
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1: 35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Cecilia Jaroslawsky, Joshua Switzky, Corey Teague, Ben Fu, Rick Crawford, and Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0118E
+2007.0118E
  
  
  
@@ -323,16 +51,15 @@ AYES:
 ABSENT:
  
  Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2009.0337D
+<<Project End>>
+<<Project Start>>
+2009.0337D
  
  
  
@@ -375,16 +102,15 @@ AYES:
 ABSENT:
  
  Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2009.0367C
+<<Project End>>
+<<Project Start>>
+2009.0367C
  
  
  
@@ -430,8 +156,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -484,8 +208,6 @@ AYES:
 ABSENT:
  
  Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -660,8 +382,6 @@ I neglected to mention that I did meet with a number of neighbors from the Cathe
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -886,8 +606,6 @@ None
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -896,8 +614,9 @@ REGULAR CALENDAR
 
 
 8.
- 
- 2009.0172C
+<<Project End>>
+<<Project Start>>
+2009.0172C
  
  
  
@@ -965,8 +684,6 @@ AYES:
 ABSENT:
  
  Lee and Olague
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1012,8 +729,6 @@ SPEAKERS:
 ACTION:
  
  Informational only – no Commission action required
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1022,8 +737,8 @@ ACTION:
  
  
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0319X
  
  
@@ -1084,8 +799,6 @@ ABSENT:
 MOTION:
  
  17900
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1093,8 +806,9 @@ MOTION:
 
  
  11.
- 
- 2009.0237X
+<<Project End>>
+<<Project Start>>
+2009.0237X
  
  
  
@@ -1160,8 +874,6 @@ ABSENT:
 MOTION:
  
  17901
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1169,8 +881,9 @@ MOTION:
 
  
  12.
- 
- 2009.0191X
+<<Project End>>
+<<Project Start>>
+2009.0191X
  
  
  
@@ -1233,16 +946,15 @@ ABSENT:
 MOTION:
  
  17902
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2009.0150D
+<<Project End>>
+<<Project Start>>
+2009.0150D
  
  
  

@@ -1,282 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 18, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ October 18, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-October 18, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 18, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Hillis, Moore, Sugaya
-
-
-COMMISSIONER ABSENT:        Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:10 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Anmarie Rodgers, Rich Crawford, Diego Sanchez, Kate Conner, Adrian Putra, Gretchen Hilyard, Tara Sullivan, Michael E. Smith, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
-            
-
-
-            
-None
-
-
- 
-
-
-B.         CONSENT CALENDAR 
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2012.1097C
                                                                          (C. TEAGUE: (415) 575-9081)
 
@@ -311,15 +33,14 @@ ABSENT:          Borden
 
 MOTION:           
 18719
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2012.0543T                                                                     
  (A. RODGERS (415) 558-6395)
 
@@ -367,8 +88,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -420,8 +139,6 @@ ACTION:            Approved with corrections to the Regular Meetings 
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -464,8 +181,6 @@ Commissioner Moore:
 
 
 I have asked the Director, actually, to give this Securities and Exchange Commission and the public an update regarding an e-mail I received yesterday regarding the festival which is supposed to take place this week on Urban Prototyping. I could not even actually capture the abbreviation [of it], but I don't want to speak, but want him to speak to explain it to us.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -487,8 +202,6 @@ ACTION:            Update and discussion only – no action
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -503,9 +216,7 @@ D.         DIRECTOR’S REPORT
 Director Rahaim:
 
 
-I just did want to report on this Urban Prototyping Festival that Commissioner Moore mentioned earlier. It is sponsored by the -- I forget the name of the organization all of a sudden -- the Bay Area Foundation for the Arts. It is a nonprofit based here in San Francisco, and the festival is essentially a day-long event that is focused on the public realm, but specifically about the interaction of urban design, public art and technology, and how those three interdisciplinary field can come together and address issues of the public. In fact, festival may be an incorrect word. Part of the event is essentially a workshop were folks from those three disciplines come together and create prototypes for thinking of the public environment in a different way.  They will be posting these.  The idea of these is that they can be replicated across the country. It is taking place Saturday -- I forget the hours, excuse me -- I believe it's from Noon to 10:00 P.M. and it's taking place around the streets of 5th and Mission - around the Old Chronicle properties. Literally they'll be closing off those alleys on the southwest corner of 5th and Mission where The Chronicle buildings are today. There are some speakers between roughly 12:00 and 4:00. I will be speaking late in the program just in general about the City's growth and how we're thinking about the public realm. And then later in the afternoon and evening there will be music and other events going on as well. But it's a very interesting. I think the most interesting part of it to me is that the interdisciplinary actions on how one might address the public realm differently and it is meant to be replicable in cities across the country. We certainly welcome your participation.
-<<Project End>>
-<<Project Start>>
+I just did want to report on this Urban Prototyping Festival that Commissioner Moore mentioned earlier. It is sponsored by the -- I forget the name of the organization all of a sudden -- the Bay Area Foundation for the Arts. It is a nonprofit based here in San Francisco, and the festival is essentially a day-long event that is focused on the public realm, but specifically about the interaction of urban design, public art and technology, and how those three interdisciplinary field can come together and address issues of the public. In fact, festival may be an incorrect word. Part of the event is essentially a workshop were folks from those three disciplines come together and create prototypes for thinking of the public environment in a different way.  They will be posting these.  The idea of these is that they can be replicated across the country. It is taking place Saturday -- I forget the hours, excuse me -- I believe it's from Noon to 10:00 P.M. and it's taking place around the streets of 5th and Mission - around the Old Chronicle properties. Literally they'll be closing off those alleys on the southwest corner of 5th and Mission where The Chronicle buildings are today. There are some speakers between roughly 12:00 and 4:00. I will be speaking late in the program just in general about the City's growth and how we're thinking about the public realm. And then later in the afternoon and evening there will be music and other events going on as well. But it's a very interesting. I think the most interesting part of it to me is that the interdisciplinary actions on how one might address the public realm differently and it is meant to be replicable in cities across the country. We certainly welcome your participation. 
 
 
  
@@ -629,8 +340,6 @@ Ordinance amending the San Francisco Planning Code by adding Section 249.67 and 
 
 
 §
-<<Project End>>
-<<Project Start>>
   
 120996.  Planning Code - Efficiency Dwelling Units - Numerical Cap and Open/Common Space Requirements.
  
@@ -691,8 +400,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 The HPC confirmed its final recommendation for the Twin Peaks Tavern at 401 Castro Street as a local landmark relative to Article 10 of the Planning Code. As you remember in the previous report to you, it is being considered for landmark designation because of its association with LGBT history. The proposed designation will be scheduled for the Board of Supervisors hearing sometime in the near future and we'll keep you abreast of that hearing date as well as we will forward a copy of the final designation report to you once the Board of Supervisors takes action. The Rec Park Department also presented an overview to the Historic Preservation Commission on the proposed rehabilitation and mural conservation project for Coit Tower. This project will require a Certificate of Appropriateness by the HPC at a future date, but the hearing yesterday was just for informational purposes to get the Commission up to speed on the overall project. As the HPC or I'm sorry, as the Planning Department staff and Rec Park prepare for hearing, the HPC did direct staff to address a few concerns that were raised by public testimony at yesterday's hearing. One was in regards to extra security to protect the murals such as a full-time security guard or the installation of railings or other protective measures to protect the murals from visitors to the tower. The HPC also asked for clarification and a priority plan on the extensive list of recommendations that have been prepared by the preservation consultant. Our understanding is that there is over 100 recommendations within the report to ensure for the long-term protection and enjoyment of Coit Tower to visitors and the neighborhood alike. So the HPC has asked for the Rec Park to prioritize those recommendations to get a better understanding of how this project and the rehabilitation of the tower will be addressed in the future.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -747,15 +454,15 @@ SPEAKERS:    Dino Delfino and Hiroshi Fukuda
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2012.0752C
                                                                   (R. CRAWFORD:  (415) 558-6358)
 
@@ -787,14 +494,14 @@ ABSENT:          Borden
 
 RESOLUTION:   
 18720
-<<Project End>>
-<<Project Start>>
 
 
             
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.1196U
                                                                 
   
@@ -825,8 +532,6 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 RESOLUTION:   
 18721
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -868,7 +573,9 @@ MOTION:          
  
 
 
-12a.      
+12a.
+<<Project End>>
+<<Project Start>>
 2008.0789K
                                                                             (K. GUY:  (415) 558-6163)
 
@@ -909,7 +616,9 @@ MOTION:          
  
 
 
-12b.      
+12b.
+<<Project End>>
+<<Project Start>>
 2008.0789K
                                                                            (K. GUY:  (415) 558-6163)
 
@@ -945,7 +654,9 @@ MOTION:          
  
 
 
-12c.      
+12c.
+<<Project End>>
+<<Project Start>>
 2008.0789K
                                                                             (K. GUY:  (415) 558-6163)
 
@@ -976,14 +687,14 @@ NAYES:                        Moore
 
 MOTION:           
 18726
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2007.0558U
                                                                        (J. SWITZKY (415) 575-6815)
 
@@ -1012,14 +723,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, and S
 
 RESOLUTION:   
 18722
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2012.0928DDD
                                                                      (R. SUCRE: (415) 575-9108)
 
@@ -1053,14 +764,14 @@ ACTION:            Without hearing, continued to 11/8/12
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2012.0910D
                                                                        (S. VELLVE: (415) 558-6263)
 

@@ -1,279 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ November 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-November 10, 2005
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 10, 2005
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 10, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-        
- Alexander, Antonini, Bradford-Bell, Hughes, W Lee and Olague
-
-
-COMMISSIONERS ABSENT:
-          
- S. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT DWIGHT ALEXANDER AT 1:32 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Jim Miller, Michael Smith, Rick Crawford, Dan DiBartolo, Jonas Ionin – Acting Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-         
- 
 2005.0796T
                                           
  
@@ -323,8 +48,6 @@ AYES:
 ABSENT:
          
  S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -395,8 +118,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -441,8 +162,6 @@ Last week I made some comments regarding questions I’ve had about 80 West Port
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -459,8 +178,6 @@ C.
                        
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -557,8 +274,6 @@ It was expressed (in regard to the 400 sf unit) that the priority is to create f
 
 
 It was also noted that the unit would be owner occupied.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -788,8 +503,6 @@ At this time, members of the public may address the Commission on items of inter
 E.
         
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -984,16 +697,14 @@ AYES:
 
 
 ABSENT: Hughes, S. Lee and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-        
- 
+<<Project End>>
+<<Project Start>>
 2004.0858C
                                                                    
  (D. DiBARTOLO: (415) 558-6291)
@@ -1124,8 +835,9 @@ MOTION:
 
 
 9a.
-       
- 2004.1306E
+<<Project End>>
+<<Project Start>>
+2004.1306E
 C
 V 
                                                                     
@@ -1244,9 +956,10 @@ MOTION:
  
 
 
-9b. 
-      
- 2004.1306EC
+9b.
+<<Project End>>
+<<Project Start>>
+2004.1306EC
 V
  
                                                                     
@@ -1285,8 +998,9 @@ ACTION:
 
 
 10a.
-     
- 2004.0782D
+<<Project End>>
+<<Project Start>>
+2004.0782D
                                                                           
  (M. SMITH: (415) 558-6322)
                                                                                                
@@ -1402,8 +1116,9 @@ ABSENT:
 
 
 10b.
-     
- 2004.0783D
+<<Project End>>
+<<Project Start>>
+2004.0783D
                               
  
   
@@ -1464,8 +1179,6 @@ NAYES:
 ABSENT:
          
  S. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1473,8 +1186,9 @@ ABSENT:
 
            
  11.
-       
- 2005.0074D
+<<Project End>>
+<<Project Start>>
+2005.0074D
                                                       
  
       

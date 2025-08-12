@@ -1,267 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : December 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ December 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-December 6, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, December 6, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                        
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:13 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Thomas Wang, Aaron Starr, Andrea Contreras, Corey Teague, Diego Sanchez, Kevin Guy, Tara Sullivan, Ben Fu, Glenn Cabreros, and Jonas P. Ionin – Acting Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-         
 2012.0822C                                                                   
 (C. Lamorena: (415) 575-9085)
 
@@ -296,15 +33,14 @@ ACTION:            Continued as Amended
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2011.0800C                                                                          (S. VELLVE: (415) 558-6263)
 
 
@@ -345,16 +81,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-     
-  
+<<Project End>>
+<<Project Start>>
 2012.0927D
                                                                                (T. WANG: (415) 558-6335) 
 
@@ -407,8 +141,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -495,8 +227,6 @@ Commissioner Moore:
 
 
 None of the seven Commissioners seated here, has a Department email. The email that the Department uses is the same email that the public uses.  Nothing else is more important than to copy the Department.  That’s the way I prefer them being handled  Mr. Jonas has been very good, like five minutes later, things come.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -515,8 +245,6 @@ Inquiries/Announcements
          
 Future Meetings/Agendas
 .  At this time, the Commission may discuss and take action to set the date of a Special Meeting and/or determine those items that could be placed on the agenda of the next meeting and other future meetings of the Planning Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -545,8 +273,6 @@ NAYES:            Moore
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -569,8 +295,6 @@ th
  and on that date we will be unveiling the guide on our website for all 64 of those spaces, that will include photographs and maps of those spaces, and how the public can access those spaces. If you recall, the legislation also strengthened the requirement for signage for those spaces, to make clear to the public that they are available to the public, and again, that goes into effect next December 14
 th
 , and the guide will be available on our website the same day.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -782,15 +506,15 @@ SPEAKERS:  Linda Chapman, Dino Adelfio, Sue Hestor, Henry Karnilowicz, Mike Tal
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2012.1314T
                                                                          (A. STARR: (415) 558-6362)
 
@@ -817,16 +541,18 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 RESOLUTION:   18755
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2008.0877E
- and 
+ and
+<<Project End>>
+<<Project Start>>
 2007.1035E
                                         (A. CONTRERAS: (415) 575-9044)
 
@@ -867,14 +593,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 MOTION:           18756
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                                (C. TEAGUE: (415) 575-9081)
 
@@ -888,7 +614,8 @@ WESTERN SOMA COMMUNITY PLAN – ADOPTION ACTIONS
 
 
 a.
-                     
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                             (C. TEAGUE: (415) 575-9081)
 
@@ -919,7 +646,9 @@ RESOLUTION:   18757
  
 
 
-b.         
+b.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                  (C. TEAGUE: (415) 575-9081)
 
@@ -948,7 +677,9 @@ RESOLUTION:   18758
  
 
 
-c.         
+c.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                  (C. TEAGUE: (415) 575-9081)
 
@@ -977,7 +708,9 @@ RESOLUTION:   18759
   
 
 
-d.         
+d.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                  (C. TEAGUE: (415) 575-9081)
 
@@ -1006,7 +739,9 @@ RESOLUTION:   18760
  
 
 
-e.         
+e.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                  (C. TEAGUE: (415) 575-9081)
 
@@ -1035,7 +770,9 @@ RESOLUTION:   18761
  
 
 
-f.          
+f.
+<<Project End>>
+<<Project Start>>
 2008.0877EMTUZ
                                                   (C. TEAGUE: (415) 575-9081)
 
@@ -1071,14 +808,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 RESOLUTION:   18762
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-12.        
+12.
+<<Project End>>
+<<Project Start>>
 2007.1035CK 
                                                                  (D. SANCHEZ: (415) 575-9082)
 
@@ -1117,7 +854,9 @@ MOTION:           18766
  
 
 
-13a.      
+13a.
+<<Project End>>
+<<Project Start>>
 2007.0456EBKVX
                                                                      (K. GUY: (415) 558-6163)
 
@@ -1165,7 +904,9 @@ MOTION:           18763
  
 
 
-13b.      
+13b.
+<<Project End>>
+<<Project Start>>
 2007.0456EBKVX
                                                                      (K. GUY: (415) 558-6163)
 
@@ -1200,7 +941,9 @@ MOTION:           18764
  
 
 
-13c.      
+13c.
+<<Project End>>
+<<Project Start>>
 2007.0456EBKVX
                                                                      (K. GUY: (415) 558-6163)
 
@@ -1235,7 +978,9 @@ MOTION:           18765
  
 
 
-13d.      
+13d.
+<<Project End>>
+<<Project Start>>
 2007.0456EBKVX
                                                                      (K. GUY: (415) 558-6163)
 
@@ -1247,14 +992,14 @@ Request for a Variance
 
 
 FOLLOWING PUBLIC TESTIMONY, THE ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND WAS INCLINED TO GRANT THE VARIANCE
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2011.0953C
                                                                      (T. SULLIVAN: (415) 558-6257)
 
@@ -1286,14 +1031,14 @@ ABSENT:          Fong, Hillis
 
 
 MOTION:           18767
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2010.0627C
                                                                                  
 (B. FU: (415) 558-6613)
@@ -1326,7 +1071,9 @@ AYES:              Fong, Wu, Antonini,  Borden, Moore, Hillis, Sug
  
 
 
-16a.      
+16a.
+<<Project End>>
+<<Project Start>>
 2007.0036D
                                                                            (T. WANG: (415) 558-6335)
 
@@ -1375,7 +1122,9 @@ ABSENT:          Fong, Hillis
  
 
 
-16b.      
+16b.
+<<Project End>>
+<<Project Start>>
 2007.0036D
                                                                            (T. WANG: (415) 558-6335)
 
@@ -1419,14 +1168,14 @@ RECUSED:       Sugaya
 
 
 ABSENT:          Fong, Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-17.        
+17.
+<<Project End>>
+<<Project Start>>
 2012.0847D
                                                                 (G. CABREROS: (415) 558-6159)  
 

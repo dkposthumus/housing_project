@@ -1,82 +1,4 @@
 <<Project Start>>
-MINUTES OF MEETING AND CALENDAR 
-
-
-OF THE 
-
-
-SAN FRANCISCO 
-
-
-PLANNING COMMISSION 
-
-
-REGULAR MEETING 
-
-
-THURSDAY 
-
-
-JANUARY 15, 1998 
-
-
-BOARD OF SUPERVISORS CHAMBERS 
-
-
-ROOM 404 
-
-
-WAR MEMORIAL BUILDING 
-
-
-401 VAN NESS AVENUE 
-
-
-3:00 P.M. 
-
-
-PRESENT: Hector Chinchilla - President, Dennis Antenore, Richard Hills, Larry
-Martin, Beverly Mills, Anita Theoharis
- 
-
-
-ABSENT: Cynthia Joe
- 
-
-
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT CHINCHILLA AT 3:OO P.M.
- 
-
-
-
-
-
-
-STAFF IN ATTENDANCE: Gerald Green - Director of Planning, Robert Passmore -
-Zoning Administrator, Jonas Ionin, Gus Fallay, Irene Nishimura, Grace Hing, Jon Purvis,
-Hillary Gitelman, Gene Coleman and Andrea Green - Acting Commission Secretaries
- 
-
-
-
-
-
-
-A. 
-ITEMS TO BE CONTINUED
-<<Project End>>
-<<Project Start>>
- 
-
-
-
-
-
-
 1. 97.536D (LI) 
 
 
@@ -106,13 +28,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 2. 97.536E (NISHIMURA) 
 
 
@@ -149,13 +64,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 3. 97.227E (GLASNER) 
 
 
@@ -196,13 +104,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 4. 97.227D (WANG) 
 
 
@@ -235,13 +136,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 5. 97.532C (ANDRADE) 
 
 
@@ -275,13 +169,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 6. 97.215X (NIXON) 
 
 
@@ -321,13 +208,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 7. 97.215B (NIXON) 
 
 
@@ -363,9 +243,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
 8. 97.358C (ANDRADE) 
 
 
@@ -399,13 +276,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 9. 97.538D (ANDRADE) 
 
 
@@ -438,13 +308,6 @@ AYES: Chinchilla, Mills, Hills, Antenore, Theoharis, Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 10. 97.380D (ARCE) 
 
 
@@ -526,13 +389,6 @@ C.
 COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 11. 
 ADOPTION OF PROPOSED HEARING SCHEDULE FOR 1998.
  
@@ -602,8 +458,6 @@ DIRECTOR'S REPORT
 (SFUSD)
 <<Project End>>
 <<Project Start>>
-
-
 13. 
 SCHOOL OF ARTS 
 - Informational only 
@@ -613,13 +467,6 @@ SPEAKERS: Jim White, Carlota Del Portillo, President, Board of Education, Alice
 Barkley, Gordon Chin
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 14. 
 DIRECTOR'S ANNOUNCEMENTS
  
@@ -628,13 +475,6 @@ DIRECTOR'S ANNOUNCEMENTS
 None
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 15. 
 REVIEW OF PAST WEEKS' EVENTS AT THE BOARD OF APPEALS & BOARD OF SUPERVISORS
 
@@ -661,13 +501,6 @@ unless a member of the Commission so requests, in which event the matter shall b
 from the Consent Calendar and considered as a separate item.
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 16. 97.623Q (SMITH) 
 
 
@@ -696,13 +529,6 @@ ABSENT: Joe
 MOTION No: 14526
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 17. 97.828Q (SMITH) 
 
 
@@ -740,9 +566,6 @@ F.
 REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
- 
-
-
 18. 95.469E (NISHIMURA) 
 
 
@@ -786,13 +609,6 @@ ABSENT: Joe
 MOTION No.: 14528
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 19. 97.656C (FALLAY) 
 
 
@@ -833,13 +649,6 @@ ABSENT: Joe
 MOTION No: 14529
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 20. 96.340C (IONIN) 
 
 
@@ -881,13 +690,6 @@ ABSENT: Joe
 MOTION No.: 14530
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 21. 97.658C (HING) 
 
 
@@ -928,9 +730,6 @@ ABSENT: Joe
 MOTION No.: 14531
 <<Project End>>
 <<Project Start>>
- 
-
-
 22. 97.718C (PURVIS) 
 
 
@@ -964,13 +763,6 @@ ABSENT: Joe
 MOTION No: 14532
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 23. 97.797C (WANG) 
 
 
@@ -1013,12 +805,6 @@ AT APPROXIMATELY 4:30 P.M. THE PLANNING COMMISSION CONVENED
 INTO A SPECIAL DISCRETIONARY REVIEW HEARING.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
 24. 97.827D (BANALES) 
 
 
@@ -1052,15 +838,6 @@ NOES: Martin
 ABSENT: Joe
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
-
-
 25. 97.857D (BEATTY) 
 
 
@@ -1074,13 +851,6 @@ single-family dwelling in a RH-2 (House, Two-Family) District.
 DISCRETIONARY REVIEW WITHDRAWN
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 26. 97.854D (WASHINGTON) 
 
 
@@ -1228,13 +998,6 @@ Hillary Gitelman, David Lindsay, Gene Coleman and Andrea Green - Acting Commissi
 Secretaries
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
-
-
 1. 94.061E (KALAHAR) 
 
 

@@ -1,274 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 14, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ February 14, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-February 14, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 14, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 14, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Scott Sanchez, Alicia John-Baptiste, Elaine Forbes, Sharon Young, Amnon Ben-Pazi, Aaron Hollister, Edgar Oropeza, Tara Sullivan-Lenane, Cecilia Jaroslawsky, Corey Teague, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-The
- Commission
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1,
- 
- 2007.1362X
+2007.1362X
  
  
  
@@ -312,8 +43,6 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -324,8 +53,9 @@ ABSENT:
 
  
  2.
- 
- 2007.0305C
+<<Project End>>
+<<Project Start>>
+2007.0305C
  
  
  
@@ -373,16 +103,15 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0781D
+<<Project End>>
+<<Project Start>>
+2007.0781D
  
  
  
@@ -432,8 +161,6 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -441,8 +168,9 @@ ABSENT:
 
  
  4.
- 
- 2007.1211D
+<<Project End>>
+<<Project Start>>
+2007.1211D
  
  
  
@@ -504,8 +232,6 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -513,8 +239,9 @@ ABSENT:
 
  
  5.
- 
- 2001.1398
+<<Project End>>
+<<Project Start>>
+2001.1398
  
  
  
@@ -568,16 +295,15 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2005.1066E
+<<Project End>>
+<<Project Start>>
+2005.1066E
  
  
  
@@ -643,8 +369,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -741,8 +465,6 @@ John Rahaim, Director
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -804,8 +526,6 @@ Amit Ghosh – Chief Planner
  I did inquire of Ted Eagan's Office about the economic assessment of Supervisor Ammiano's legislation in the Mission on restricting fast food stores. 
  
 He is working on a report and it would be ready by the end of next week.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1216,8 +936,9 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 10a.
- 
- 2007.1386D
+<<Project End>>
+<<Project Start>>
+2007.1386D
  
  
  
@@ -1262,8 +983,9 @@ ABSENT:
 
 
 10b.
- 
- 2007.1391D
+<<Project End>>
+<<Project Start>>
+2007.1391D
  
  
 (T. WANG: (415) 558-6335)
@@ -1299,16 +1021,15 @@ AYES:
 ABSENT:
  
  Olague
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.1371C
+<<Project End>>
+<<Project Start>>
+2007.1371C
  
  
  
@@ -1367,8 +1088,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1419,16 +1138,15 @@ ACTION:
  No Action is required of the Commission.
  
  Informational item
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.1095C
+<<Project End>>
+<<Project Start>>
+2007.1095C
  
  
 (Tapes IB; IIA)
@@ -1575,16 +1293,15 @@ AYES:
 NAYES:
  
  Antonini
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2007.0827C
+<<Project End>>
+<<Project Start>>
+2007.0827C
  
  
 (Tape IIA; IIB
@@ -1880,13 +1597,12 @@ ABSENT:
 MOTION:
  
 17551
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2007.0718C
+<<Project End>>
+<<Project Start>>
+2007.0718C
  
  
 (Tapes IIB; IIIA)
@@ -2032,8 +1748,9 @@ Item 16 was taken out of order and followed item 17
 
 
 16a.
- 
- 2004.0914
+<<Project End>>
+<<Project Start>>
+2004.0914
 C
 V
  
@@ -2177,8 +1894,9 @@ MOTION:
 
 16b
 .
- 
- 2004.0914C
+<<Project End>>
+<<Project Start>>
+2004.0914C
 V
  
  
@@ -2224,8 +1942,9 @@ Item 17 was taken out of order and followed item 18
 
 
 17a.
- 
- 2007.1143
+<<Project End>>
+<<Project Start>>
+2007.1143
 C
 V
  
@@ -2329,8 +2048,9 @@ MOTION:
 
 
 17b.
- 
- 2007.1143C
+<<Project End>>
+<<Project Start>>
+2007.1143C
 V
  
  
@@ -2372,13 +2092,12 @@ ACTION:
 
 
 Item 18 was taken out of order and followed item 15
-<<Project End>>
-<<Project Start>>
 
 
 18.
- 
- 2007.1367C
+<<Project End>>
+<<Project Start>>
+2007.1367C
  
  
 (Tape IIIA)
@@ -2445,13 +2164,12 @@ MOTION:
 
 
 Item 19 was taken out of order and followed item 16
-<<Project End>>
-<<Project Start>>
 
 
 19.
- 
- 2007.1355T
+<<Project End>>
+<<Project Start>>
+2007.1355T
  
  
 (Tapes IIIA; IIIB; IVA; IVB)
@@ -2824,16 +2542,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2007.1430D
+<<Project End>>
+<<Project Start>>
+2007.1430D
  
  
 (Tape IVB)
@@ -3010,16 +2727,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2007.1434D
+<<Project End>>
+<<Project Start>>
+2007.1434D
  
  
 (Tape IVB)

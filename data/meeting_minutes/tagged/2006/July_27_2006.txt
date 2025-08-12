@@ -1,283 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 27, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ July 27, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-July 27, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 27, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 27, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Michael Antonini; William Lee; Kathrin Moore and Christina Olague
-
-
- 
-
-
-COMMISSIONERS ABSENT:
- 
- Dwight Alexander and Hisashi Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT CHRISTINA OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Amit Ghosh; Adam Varat; Adam Light; Dan Sider; Elizabeth Watty; Aaron Starr; April Hesik; Kate Stacey – Deputy City Attorney; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2006.0661D
+2006.0661D
  
  
  
@@ -342,8 +64,9 @@ ABSENT:
 
 
 1b.
- 
- 2003.0367V
+<<Project End>>
+<<Project Start>>
+2003.0367V
  
  
  
@@ -397,8 +120,9 @@ ABSENT:
 
 
 1c.
- 
- 2006.0367V
+<<Project End>>
+<<Project Start>>
+2006.0367V
  
  
  
@@ -553,8 +277,8 @@ ABSENT:
 
 
 2c.
- 
- 
+<<Project End>>
+<<Project Start>>
 2002.1179
 E
 !KMZTXCW
@@ -925,19 +649,19 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0413EXV
+<<Project End>>
+<<Project Start>>
+2006.0413EXV
  
  &
- 
+<<Project End>>
+<<Project Start>>
 2002.1077E
  
  
@@ -983,16 +707,15 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2002.1263U
+<<Project End>>
+<<Project Start>>
+2002.1263U
  
  
  
@@ -1047,8 +770,6 @@ ABSENT:
 
 
 5a.
-<<Project End>>
-<<Project Start>>
  
  2005. 0307D
  
@@ -1104,8 +825,9 @@ ABSENT:
 
 
 5b.
- 
- 2005.0329DD 
+<<Project End>>
+<<Project Start>>
+2005.0329DD 
  
  
  
@@ -1152,16 +874,15 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2006.0601E
+<<Project End>>
+<<Project Start>>
+2006.0601E
 Z
  
  
@@ -1221,8 +942,6 @@ Adoption of Commission Minutes
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
  
  A vote on the minutes is different from a vote on a permit; the vote doesn't have the same adjudicative and due process implications.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1261,8 +980,6 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1467,8 +1184,6 @@ I don't have the information in front of me.
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1916,16 +1631,15 @@ I appreciate that there is more public education on this matter because I think 
  
  
 I'm glad we are making it an open process.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2005.0728U 
+<<Project End>>
+<<Project Start>>
+2005.0728U 
  
  
  
@@ -2790,16 +2504,15 @@ E.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.0604E
+<<Project End>>
+<<Project Start>>
+2006.0604E
 T
  
  
@@ -2850,8 +2563,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2859,8 +2570,9 @@ REGULAR CALENDAR
 
 
 13.
- 
- 2006.0602E
+<<Project End>>
+<<Project Start>>
+2006.0602E
 TZ
  
  
@@ -2936,8 +2648,9 @@ RESOLUTION:
 
 
 14a.
- 
- 2005.0617
+<<Project End>>
+<<Project Start>>
+2005.0617
 C
 EKV
  
@@ -3137,8 +2850,9 @@ MOTION:
 
 
 14b.
- 
- 2005.0617CEK
+<<Project End>>
+<<Project Start>>
+2005.0617CEK
 V
  
  
@@ -3164,16 +2878,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the variances.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2005.0659C
+<<Project End>>
+<<Project Start>>
+2005.0659C
  
  
  
@@ -3217,16 +2930,15 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0537D
+<<Project End>>
+<<Project Start>>
+2006.0537D
  
  
  
@@ -3556,16 +3268,14 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0050DD
  
  
@@ -3607,8 +3317,9 @@ ACTION:
 
 
 18a.
- 
- 2006.0385D 
+<<Project End>>
+<<Project Start>>
+2006.0385D 
  
  
  
@@ -3694,8 +3405,9 @@ ACTION:
 
 
 18b.
- 
- 2006.0386V
+<<Project End>>
+<<Project Start>>
+2006.0386V
  
  
  
@@ -3735,8 +3447,9 @@ ACTION:
 
 
 19a.
- 
- 2006.0274D
+<<Project End>>
+<<Project Start>>
+2006.0274D
  
  
  
@@ -3783,8 +3496,9 @@ ABSENT:
 
 
 19b.
- 
- 2006.0276D
+<<Project End>>
+<<Project Start>>
+2006.0276D
  
  
  
@@ -3834,16 +3548,15 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2006.0205D
+<<Project End>>
+<<Project Start>>
+2006.0205D
  
  
  
@@ -3883,16 +3596,15 @@ AYES:
 ABSENT:
  
  Alexander and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 21.
- 
- 2006.0570D
+<<Project End>>
+<<Project Start>>
+2006.0570D
  
  
  

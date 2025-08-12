@@ -1,265 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 27, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ September 27, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-September 27, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-              Meeting Minutes
-
-
-& 
-
-
-Calendar
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, September 27, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
-                                                                                                                                                
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 1:15 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Diego Sanchez, Steve Smith, Anmarie Rodgers, Joy Navarrete, Tim Frye, Kerstin Dischinger, Sara Vellve, Aaron Starr, Moses Corrette, Dan Lewis, Mary Woods, Michael E Smith,  and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-            1.         
 2011.1407D                                                                     (M. WOODS: (415) 558-6315)
 
 
@@ -295,14 +34,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2012.0453C                  
                                                       
 (S. YOUNG: (415) 558-6346) 
@@ -331,14 +70,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 MOTION:           
 18711
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-3.         
+3.
+<<Project End>>
+<<Project Start>>
 2012.0610C                                                                         
  (
 A. PUTRA: (415) 575-9079)
@@ -379,8 +118,6 @@ MOTION:          
 C.
          
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -444,8 +181,6 @@ st
 
 
 D.             DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -463,8 +198,6 @@ Director Rahaim:
 I just wanted to apprise you of -- I think Anne Marie probably has this in her presentation that the action the Board of Supervisors took this week on legislation related to the Successor Agency of the Redevelopment Agency. As you know, the State legislature passed trailing legislation in last year's budget that would, again, change the rules. While the first round allowed for Redevelopment and Successor Agencies to be part and parcel of City Government or County Government, depending on the jurisdiction, this round of legislation literally requires them to be separate from City and County. As of the effective date of this legislation, the Successor Agency is technically a separate entity from the City. In addition, the legislation that the Mayor put forward that the Board passed would create a separate Board, so there would be two entities. The Oversight Board I sit on would continue to exist but only be responsible for the fiduciary responsibilities or the financial obligations if you recall what is called the recognized obligation payment schedule that we are required to submit to the State every six months. The second Board would be composed of citizens appointed by the Mayor, endorsed by the Board, which would review entitlements, review projects and act somewhat in the same capacity the former Redevelopment Board did. Again, this is the result of -- to be honest, State government changing their mind on these things. We are constantly shifting ground with respect to this work. I have to admit it is frustrating that Sacramento keeps changing the rules on us, but that is essentially what happened. Again the Oversight Board would have a narrower range of responsibility than it did previously. This new commission would have more of the responsibilities overseeing the activities of the Successor Agency since that agency is no longer technically part of City Government.
 
 We have a memo coming to you I think -- and you will get that today.  It puts the details of that legislation in much more detail. I just wanted to give you an overview in the meantime.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -599,12 +332,12 @@ SPEAKERS:     Kelley Watts
 
 F.
             
-REGULAR CALENDAR
+REGULAR CALENDAR  
+
+
+7.
 <<Project End>>
 <<Project Start>>
-
-
-7.         
 2007.0058K and 2008.0789K
       (J. SWITZKY: (415) 575-5815 / K. GUY: (415) 558-6163)
 
@@ -629,14 +362,14 @@ SPEAKERS:     Sue Hestor
 
 
 ACTION:           Information only, no action required
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-8.         
+8.
+<<Project End>>
+<<Project Start>>
 2010.1162C
                                                                        (E. JACKSON: 415) 558-6363)
 
@@ -665,14 +398,14 @@ SPEAKERS:     Phil Lesser, Martin Vargas, Richard Tirtoprodjo, Yu Kun Hueiny
 
 
 ACTION:           Information only. No Commission action. Commissioner Fong required staff to do another sound check in 3 months and report back to the Commission in a memo.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-9.         
+9.
+<<Project End>>
+<<Project Start>>
 2012.2440T
        
                                                            (K. HADDADAN: (415) 575-9068)
@@ -702,14 +435,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 RESOLUTION:   
 18712
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-10.        
+10.
+<<Project End>>
+<<Project Start>>
 2012.1066U
                                                                            (A. STARR: (415) 558-6362)
 
@@ -735,14 +468,14 @@ ACTION:           Approved support of the policy for the right to retu
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-11.        
+11.
+<<Project End>>
+<<Project Start>>
 2011.1050DD
                                                                       (A. STARR: (415) 558-6362)
 
@@ -777,7 +510,9 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
  
 
 
-            12a.      
+            12a.
+<<Project End>>
+<<Project Start>>
 2009.0724D
                                                                           (A. STARR: (415) 558-6362)
 
@@ -812,7 +547,9 @@ RECUSED:       Sugaya
  
 
 
-12b.      
+12b.
+<<Project End>>
+<<Project Start>>
 2012.0888D
                                                                           (A. STARR: (415) 558-6362)
 
@@ -847,7 +584,9 @@ RECUSED:       Sugaya
  
 
 
-12c.      
+12c.
+<<Project End>>
+<<Project Start>>
 2009.0724V
                                                                           
 (A. STARR: (415) 558-6362)

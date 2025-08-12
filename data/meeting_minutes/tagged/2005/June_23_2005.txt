@@ -1,293 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 23, 2005(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2005
-
-
-/ June 23, 2005(1)
-
-
-
-
-
-
-
-
-
-
-
-
-June 23, 2005(1)
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 23, 2005(1)
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 23, 2005
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSONES PRESENT:
- 
- 
-S. Lee;
- 
-Dwight S. Alexander; Michael J. Antonini;
-
-
- 
- 
-Shelley Bradford-Bell
-; Kevin Hughes; William L. Lee; Christina Olague
-
-
- 
-
-
-COMMISSIONERS ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:34 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Jonathan Purvis, Michael Li, Ben Fu, Irene Nishimura, Mathew Snyder. Isolde Wilson, Michael Smith, Geoffrey Nelson, Marshall Foster, Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 
 2005.0185D
  
  
@@ -348,8 +59,9 @@ roposed for Continuance to July 14, 2005)
 
 
 2a.
- 
- 2004.0130
+<<Project End>>
+<<Project Start>>
+2004.0130
 C
 V
  
@@ -430,8 +142,9 @@ roposed for Continuance to July 14, 2005)
 
  
  2b.
- 
- 2002.0130C
+<<Project End>>
+<<Project Start>>
+2002.0130C
 V
  
  (J. MILLER: (415) 558-6344)
@@ -504,8 +217,6 @@ SPEAKERS:
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -513,8 +224,9 @@ SPEAKERS:
 
  
  3.
- 
- 2004.1106
+<<Project End>>
+<<Project Start>>
+2004.1106
 C
 V 
  
@@ -576,8 +288,6 @@ SPEAKERS:
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -626,8 +336,6 @@ roposed for Continuance to July 21, 2005)
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -635,8 +343,9 @@ roposed for Continuance to July 21, 2005)
 
  
  5.
- 
- 2005.0256T
+<<Project End>>
+<<Project Start>>
+2005.0256T
  
  
  
@@ -691,8 +400,6 @@ SPEAKERS:
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -700,8 +407,9 @@ SPEAKERS:
 
  
  6.
- 
- 2005.0264DD
+<<Project End>>
+<<Project Start>>
+2005.0264DD
  
  
 (i. wilson: (415) 558-6163)
@@ -759,8 +467,6 @@ Requests for Discretionary Review
 B.
  
  COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -826,8 +532,6 @@ Draft Minutes of June 2, 2005
 EXCUSED:
  
  Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -861,8 +565,6 @@ Re: Directed that a meeting be scheduled on July 21, 2005
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -885,8 +587,6 @@ Geoffrey Nelson is leaving the Planning Department to pursue other interest.
 
 
 We are meeting with the Director of DBI to correlate our computer systems.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1027,8 +727,6 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
  
  
 ITEM 11 WAS REMOVED FROM CONSENT CALENDAR AND FOLLOWED ITEMS 12 & 13.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1036,8 +734,9 @@ ITEM 11 WAS REMOVED FROM CONSENT CALENDAR AND FOLLOWED ITEMS 12 & 13.
 
  
  11.
- 
- 2003.0205C
+<<Project End>>
+<<Project Start>>
+2003.0205C
  
  (J. PURVIS:
  
@@ -1105,8 +804,6 @@ There is a back unit that has lots of sun.
 MOTION:
  
  17047
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1114,8 +811,9 @@ MOTION:
 
  
  12.
- 
- 2005.0414C
+<<Project End>>
+<<Project Start>>
+2005.0414C
  
  (M. LI:
  
@@ -1177,14 +875,13 @@ ABSENT:
  MOTION:
  
  17045
-<<Project End>>
-<<Project Start>>
 
 
  
  13.
- 
- 2004.0599C
+<<Project End>>
+<<Project Start>>
+2004.0599C
  
  (B. FU:
  
@@ -1247,8 +944,6 @@ ABSENT:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1260,8 +955,9 @@ REGULAR CALENDAR
  
  
 14.
- 
- 2003.0465
+<<Project End>>
+<<Project Start>>
+2003.0465
 E
  (a.k.a. Case No. 2003.1210)
  
@@ -1360,8 +1056,8 @@ MOTION:
  
 15
 .
- 
- 
+<<Project End>>
+<<Project Start>>
 2003.1210E
 C
 K
@@ -1530,8 +1226,6 @@ required to (1) disclosure to potential tenants of the current industrial nature
 MOTION:
  
  17049
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1541,8 +1235,9 @@ MOTION:
 
 
 16.
- 
- 2003.0869E
+<<Project End>>
+<<Project Start>>
+2003.0869E
  
  
  
@@ -1584,8 +1279,6 @@ Preliminary Recommendation: Uphold Mitigated Negative Declaration
  
  
 APPEAL OF PRELIMINARY MITIGATE NEGATIVE DECLARATION WITHDRAWN
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1593,8 +1286,9 @@ APPEAL OF PRELIMINARY MITIGATE NEGATIVE DECLARATION WITHDRAWN
 
  
  17.
- 
- 2005.0459T
+<<Project End>>
+<<Project Start>>
+2005.0459T
  
  
  
@@ -1649,8 +1343,6 @@ NOTE
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1795,8 +1487,6 @@ ACTION:
  AYES:
  
  S. Lee, Alexander, Antonini, Bradford-Bell, Hughes, Olague, W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1804,8 +1494,9 @@ ACTION:
 
  
  19.
- 
- 2004.0798D
+<<Project End>>
+<<Project Start>>
+2004.0798D
  
  
  
@@ -2032,8 +1723,9 @@ ACTION:
 
  
  20a.
- 
- 2003.0295
+<<Project End>>
+<<Project Start>>
+2003.0295
 C
 DV
  
@@ -2084,8 +1776,9 @@ Preliminary Recommendation: Approval with conditions
 
 
 20b.
- 
- 2003.0295C
+<<Project End>>
+<<Project Start>>
+2003.0295C
 D
 V
  
@@ -2136,8 +1829,9 @@ Request for Discretionary Review
 
 
 20c.
- 
- 2003.0295CD
+<<Project End>>
+<<Project Start>>
+2003.0295CD
 V
  
  
@@ -2190,8 +1884,9 @@ Request for Variance
 
 
 21a.
- 
- 2002.0805
+<<Project End>>
+<<Project Start>>
+2002.0805
 R
 TZ 
  
@@ -3432,8 +3127,9 @@ MOTION:
 
 
 21b.
- 
- 2002.0805R
+<<Project End>>
+<<Project Start>>
+2002.0805R
 T
 Z
  
@@ -3508,8 +3204,9 @@ RESOLUTION:
 
 
 21c.
- 
- 2002.0805RT
+<<Project End>>
+<<Project Start>>
+2002.0805RT
 Z
  
  

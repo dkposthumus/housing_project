@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ January 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-January 22, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-January 22, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, January 22, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Antonini, Lee, Miguel, Moore Olague, and Sugaya
-
-
-COMMISSIONERS ABSENT:
- 
- Borden
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Tara Sullivan-Lenane, Dario Jones, Jamie Dean, Tim Johnston, Brett Bollinger, Glenn Cabreros, Angela Heitter, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
- 
- 1.
- 
- 2006.0070T
+2006.0070T
  
  
  
@@ -332,8 +51,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -341,8 +58,9 @@ ABSENT:
 
  
  2.
- 
- 2008.1393T 
+<<Project End>>
+<<Project Start>>
+2008.1393T 
  
  
  
@@ -390,16 +108,15 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.1147T
+<<Project End>>
+<<Project Start>>
+2007.1147T
  
  
  
@@ -452,8 +169,9 @@ ABSENT:
 
 
 4a.
- 
- 2007.0308
+<<Project End>>
+<<Project Start>>
+2007.0308
 C
 V
  
@@ -505,8 +223,9 @@ ACTION:
 
 
 4b.
- 
- 2007.0308C
+<<Project End>>
+<<Project Start>>
+2007.0308C
 V
  
  
@@ -556,8 +275,9 @@ ACTION:
 
 
 5a.
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
  
  
  
@@ -616,8 +336,9 @@ ABSENT:
 
 
 5b.
- 
- 2008.1155D
+<<Project End>>
+<<Project Start>>
+2008.1155D
  
  
  
@@ -677,8 +398,9 @@ ABSENT:
 
 
 5c.
- 
- 2008.1156D
+<<Project End>>
+<<Project Start>>
+2008.1156D
  
  
  
@@ -738,8 +460,9 @@ ABSENT:
 
 5d
 .
- 
- 2007.0921D
+<<Project End>>
+<<Project Start>>
+2007.0921D
 D
  
  
@@ -797,8 +520,9 @@ ABSENT:
 
 
 5e.
- 
- 2008.1213D
+<<Project End>>
+<<Project Start>>
+2008.1213D
  
  
  
@@ -859,8 +583,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -935,8 +657,6 @@ Commissioner Olague:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -963,8 +683,6 @@ ZA Badiner
  The Department through Mr. Nikitas has arranged for the Conservation Director for the Golden Gate Audubon to come to the Planning Commission to make a brief presentation of a program called SF Lights Out – a program designed to work with building owners to turn out the lights during critical times of migration cycle.
  
  We are also looking at a future report on window issues and how they affect birds.
-<<Project End>>
-<<Project Start>>
 
 
 8.
@@ -1011,8 +729,6 @@ The proposal was to expand to 14 feet 2 inches.
  The important point is that the Residential Guidelines are law and must be followed.
  
  The other point I want to bring to you your attention is that the Board had an election last night and Commissioner Fung was voted as President and Vice President is Commissioner Peterson.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1287,8 +1003,6 @@ ACTION:
  Informational only.
  
  No Commission action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1432,8 +1146,9 @@ E.
 
 
 12a.
- 
- 2006.0826
+<<Project End>>
+<<Project Start>>
+2006.0826
 C
 V
  
@@ -1494,8 +1209,9 @@ ABSENT:
 
 
 12b.
- 
- 2006.0826C
+<<Project End>>
+<<Project Start>>
+2006.0826C
 V
  
  
@@ -1549,8 +1265,6 @@ AYES:
 ABSENT:
  
  Borden
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1563,8 +1277,9 @@ ABSENT:
 
 
 13.
- 
- 2007.0118E
+<<Project End>>
+<<Project Start>>
+2007.0118E
  
  
  
@@ -1607,8 +1322,6 @@ ACTION:
  Hearing held to receive public comment only.
  
  No Commission action
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1616,8 +1329,9 @@ ACTION:
 
  
  14.
- 
- 2005.0164E
+<<Project End>>
+<<Project Start>>
+2005.0164E
  
  
  
@@ -1656,16 +1370,15 @@ ACTION:
  Hearing held to receive public comment only.
  
  No Commission action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2005.0142E 
+<<Project End>>
+<<Project Start>>
+2005.0142E 
  
  
  
@@ -1746,16 +1459,15 @@ ABSENT:
 MOTION:
  
  17809
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2005.0751DDD
+<<Project End>>
+<<Project Start>>
+2005.0751DDD
  
  
  
@@ -1832,8 +1544,9 @@ ABSENT:
 
 
 17a.
- 
- 2009.0038D
+<<Project End>>
+<<Project Start>>
+2009.0038D
  
  
  
@@ -1871,8 +1584,9 @@ ACTION:
 
 
 17b.
- 
- 2008.1340D
+<<Project End>>
+<<Project Start>>
+2008.1340D
  
  
  

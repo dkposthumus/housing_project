@@ -1,272 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 5, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ March 5, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-March 5, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 5, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
- 
-
-
-Thursday, March 5, 2009
-
-
- 
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, Miguel, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, AnMarie Rodgers, Tara Sullivan-Lenane, Kelley Amdur, Tina Tam, Tim Frye, Michael Smith, Viktoriya Wise, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2008.0940C
+2008.0940C
  
  
  
@@ -313,8 +46,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -323,8 +54,9 @@ AYES:
 
 
 2.
- 
- 2009.0021D
+<<Project End>>
+<<Project Start>>
+2009.0021D
  
  
  
@@ -375,8 +107,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -581,8 +311,6 @@ Commissioner Moore:
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 4.
@@ -787,8 +515,6 @@ Mr. Gomez
  RE:
  
  1140 Potrero Avenue
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -908,8 +634,9 @@ REGULAR CALENDAR
 
 
 6a.
- 
- 2005.0267
+<<Project End>>
+<<Project Start>>
+2005.0267
 C
 V
  
@@ -994,8 +721,9 @@ MOTION:
 
 
 6b.
- 
- 2005.0267C
+<<Project End>>
+<<Project Start>>
+2005.0267C
 V
  
  
@@ -1024,16 +752,15 @@ SPEAKERS:
 ACTION:
  
  The ZA closed the public hearing and granted the variances subject to the standard conditions of approval
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2009.0061C 
+<<Project End>>
+<<Project Start>>
+2009.0061C 
  
  
  
@@ -1122,16 +849,15 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore, and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2006.1703E
+<<Project End>>
+<<Project Start>>
+2006.1703E
  
  
  

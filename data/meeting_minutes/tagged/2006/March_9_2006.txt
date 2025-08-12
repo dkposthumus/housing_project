@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ March 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-March 9, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 9, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 9, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-        
- S. Lee, M. Antonini, S. Bradford-Bell, C. Olague
-
-
-COMMISSIONERS ABSENT:
-          
- D. Alexander, K. Hughes, and W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Dan Sider; April Hesik; Ben Fu; Mary Woods; Elizabeth Watty; Craig Nikitas; Edgar Oropeza; Elaine Tope; Michael Li; Paul Maltzer; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-        
- 2003.0410C
+2003.0410C
                                           
  
                             
@@ -319,16 +42,15 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
                          
 
 
 2.
-        
- 2006.0090T 
+<<Project End>>
+<<Project Start>>
+2006.0090T 
                                                      
  
                
@@ -368,16 +90,15 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-        
- 2002.1263U
+<<Project End>>
+<<Project Start>>
+2002.1263U
                                           
  
                            
@@ -427,8 +148,6 @@ B.
         
  
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -580,8 +299,6 @@ EXCUSED:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
      
@@ -765,8 +482,6 @@ I had a conversation with Commissioner Deborah Walker of the Building Inspection
 C.
         
  DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -784,8 +499,6 @@ Director Macris and some senior staff are down in the Mayor’s office presentin
  It is a way that the Mayor’s Office keeps up to date and helps us improve our performance on that.
  
  That is why Director Macris is not here.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1242,16 +955,15 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-        
- 2006.0147X
+<<Project End>>
+<<Project Start>>
+2006.0147X
                                                                   
  
       
@@ -1379,8 +1091,9 @@ ABSENT:
 
 
 9b.
-       
- 2005.1070D
+<<Project End>>
+<<Project Start>>
+2005.1070D
                                                       
  
                       
@@ -1430,16 +1143,15 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
      
 
 
 10.
-             
- 2005.0898D
+<<Project End>>
+<<Project Start>>
+2005.0898D
                                                                   
  
   
@@ -1570,8 +1282,6 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1579,8 +1289,9 @@ ABSENT:
 
            
  11.
-       
- 2006.0105D
+<<Project End>>
+<<Project Start>>
+2006.0105D
                                                    
  
                     
@@ -1742,8 +1453,6 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
                                                            
@@ -1751,8 +1460,8 @@ ABSENT:
 
            
  12.
-       
- 
+<<Project End>>
+<<Project Start>>
 2006.0079D
                                           
  
@@ -1902,16 +1611,15 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
            
 
 
 13.
-       
- 2006.0083D
+<<Project End>>
+<<Project Start>>
+2006.0083D
                   
  
                                                        
@@ -1980,8 +1688,6 @@ AYES:
 ABSENT:
            
  Alexander, Hughes, and W Lee
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -1989,8 +1695,9 @@ ABSENT:
 
            
  14.
-       
- 2005.0850C
+<<Project End>>
+<<Project Start>>
+2005.0850C
                                           
  
                          
@@ -2042,8 +1749,6 @@ ABSENT:
 MOTION:
             
  17205
-<<Project End>>
-<<Project Start>>
 
 
            
@@ -2051,8 +1756,8 @@ MOTION:
 
            
  15.
-       
- 
+<<Project End>>
+<<Project Start>>
 2005.1089C
                                           
  
@@ -2125,8 +1830,6 @@ ABSENT:
 
 
 6:00 pm.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2248,16 +1951,15 @@ This is not part of the design that Bernardo takes part in, but I do want to mak
 ACTION:
              
  Informational only. No action.
-<<Project End>>
-<<Project Start>>
 
 
            
 
 
 17.
-       
- 2002.1179E
+<<Project End>>
+<<Project Start>>
+2002.1179E
                                                       
  
             

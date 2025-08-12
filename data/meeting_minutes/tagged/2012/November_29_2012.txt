@@ -1,273 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 29, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ November 29, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-November 29, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 29, 2012
-
-
-12:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:   Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12:06 PM.
-
-
- 
-
-
-STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning Administrator, Rick Crawford, Aaron Starr, AnMarie Rodgers, Corey Teague, Sophie Hayward, Steve Wertheim, Kevin Guy, Thomas Wang,  and Jonas P. Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-            
-
-
-1.
-     
 2012.1381T
                                                                             (A. RODGERS: (415) 558-6395)
 
@@ -294,15 +25,14 @@ ACTION:            Continued as Proposed
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2012.1306TZ
                                                                  
 (S. HAYWARD: (415) 558-6372)
@@ -333,15 +63,14 @@ ACTION:            Continued as Proposed
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-             
+<<Project End>>
+<<Project Start>>
 2012.1168C                                                                    (D. SÁNCHEZ: (415) 575-9082)
 
 
@@ -479,15 +208,14 @@ B.         CONSENT CALENDAR
 
 
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                     
+<<Project End>>
+<<Project Start>>
 2012.1142C
                                                              (R. CRAWFORD: (415) 558-6358)
 
@@ -514,15 +242,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 MOTION:           18748
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-             
+<<Project End>>
+<<Project Start>>
 2012.1327T
        
                                                              
@@ -550,12 +277,12 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugay
 
 
 RESOLUTION:   18749
+
+
+
+        7.
 <<Project End>>
 <<Project Start>>
-
-
-
-        7.         
 2012.0543T
                                                                        
 (A. RODGERS (415) 558-6395)
@@ -598,8 +325,6 @@ COMMISSIONERS’ QUESTIONS AND MATTERS
 
 Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -631,8 +356,6 @@ ACTION: Adopted
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -699,8 +422,6 @@ Wailliard
 
 D.         
 DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -714,8 +435,6 @@ Jeff Joslin,
 
 
 No announcements that I'm aware of today that I've received from the Director, who is currently out of town representing the Department elsewhere. Sorry, I'm Jeff, Joslin, Director of Current Planning, there is a Director's Report in your package that identifies it. A couple of matters. One, milestone achievements, that being recognition of staff that have been here for a long, dedicated career, at least for five years. David Alumgaugh 15 years, Lulu Hwang remarkable 30 years. There is also a description of two grants that the Department has also recently received.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -767,9 +486,7 @@ SPEAKERS: Dino Adelfio, Don Chesir
 
 F.
             
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
  
@@ -801,15 +518,15 @@ SPEAKERS:    Luke Siperline, John Kevlin, John Goldman
 
                 
 ACTION:           Informational presentation. No action
-<<Project End>>
-<<Project Start>>
 
 
                 
  
 
 
-13.        
+13.
+<<Project End>>
+<<Project Start>>
 2012.1315T
                                                                    
 (S. HAYWARD: (415) 558-6372)
@@ -838,14 +555,14 @@ AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore
 
 
 NAYES:            Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-14.        
+14.
+<<Project End>>
+<<Project Start>>
 2012.0950TZ
                                          
              
@@ -879,14 +596,14 @@ NAYES:            Antonini
 
 
 RESOLUTION:   18751
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-15.        
+15.
+<<Project End>>
+<<Project Start>>
 2012.1183TZ
                              
              
@@ -915,14 +632,14 @@ ACTION: Without hearing, continued to 12/13/12
 
 
 AYES:              Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-16.        
+16.
+<<Project End>>
+<<Project Start>>
 2003.0527U
                                                                    (S. WERTHEIM: (415) 558-6612)
 
@@ -954,7 +671,9 @@ MOTION:           18752
  
 
 
-17a.      
+17a.
+<<Project End>>
+<<Project Start>>
 2008.0801EX
                                                                             (K. GUY: (415) 558-6163)
 
@@ -989,7 +708,9 @@ MOTION:           18753
  
 
 
-17b.      
+17b.
+<<Project End>>
+<<Project Start>>
 2008.0801V
                                                                               (K. GUY: (415) 558-6163)
 
@@ -1002,14 +723,14 @@ Request for a Variance
 
             
 FOLLOWING PUBLIC TESTIMONY, ZONING ADMINISTRATOR CLOSED THE PUBLIC HEARING AND WAS INCLINED TO GRANT THE VARIANCE
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-18.        
+18.
+<<Project End>>
+<<Project Start>>
 2012.0609C
                                
                                      
@@ -1044,14 +765,14 @@ AYES:              Fong, Wu, Antonini, Borden, Moore, Sugaya
 
 
 ABSENT:          Hillis
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-19.        
+19.
+<<Project End>>
+<<Project Start>>
 2012.0859D
                                                                    
         (T. WANG: (415) 558-6335)
@@ -1096,14 +817,14 @@ ABSENT:          Hillis
 
 
 DRA-No.:          0297
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
-20.        
+20.
+<<Project End>>
+<<Project Start>>
 2012.1102D
                                                                                 (D. VU: (415) 575-9120)
 
@@ -1144,15 +865,15 @@ DRA-No.:          0298
  
 
 
-3:00 PM
-<<Project End>>
-<<Project Start>>
+3:00 PM 
 
 
  
 
 
-21.        
+21.
+<<Project End>>
+<<Project Start>>
 2012.1329U
                                                                     (A. RODGERS (415) 558-6395)
 

@@ -1,326 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 26, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ June 26, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-June 26, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Untitled 1
-
-
-
-
-
-
- 
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, June 26, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT WU AT 12:09 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez –
-  
-Zoning Administrator, 
-
-        Carly Grob, Kate Connor, Mathew Snyder, Doug Vu, Mary Woods and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
-SPEAKER KEY:
-
-
-                                
-+ indicates a speaker in support of an item;
-
-
--
-   
-indicates a speaker in opposition to an item; and
-
-
-                                
-= indicates a neutral speaker or a speaker who did not indicate support or opposition.
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-             
 2013.0627BC
                                                                                        
             
@@ -357,15 +35,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
-             
+<<Project End>>
+<<Project Start>>
 2014.0225C
                                                                           
                               
@@ -420,8 +97,6 @@ MOTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -468,8 +143,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -536,8 +209,6 @@ It's just unfortunate that we often have an attitude that was maybe typified unf
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -564,9 +235,7 @@ Kate has shown a lot of experience dealing with housing issues.
   
 She'll be working on a number of housing issues - - policy issues and also project issues to move projects through the process across departments working in a number of different housing related projects, so we welcome Kate to her new position. 
  
-And that concludes my report, thank you.
-<<Project End>>
-<<Project Start>>
+And that concludes my report, thank you. 
 
 
                 
@@ -634,8 +303,6 @@ INTRODUCTIONS:
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140736.
   
@@ -652,8 +319,6 @@ Introduced by Supervisor Wiener.
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140724.
   
@@ -667,8 +332,6 @@ Ordinance amending the Planning Code to delete the prohibition against a non-res
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 140735. Interim Zoning Controls - Office Conversion in Landmark Buildings in PDR-1-D and PDR-1-G District.
    
@@ -697,8 +360,6 @@ The reintroduced Ordinances do not substantially differ from what was before thi
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 120473.
   
@@ -710,8 +371,6 @@ Planning Code - Accessory Uses; Conformity of Uses.
 
 
 ·
-<<Project End>>
-<<Project Start>>
          
 110548. Planning Code - Automotive Uses; Parking Requirements - Washington-Broadway, Waterfront, Van Ness, and Jackson Square Special Use Districts.
   
@@ -765,15 +424,14 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 No Report
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
-             
+<<Project End>>
+<<Project Start>>
 2008.1971CEKX
                                                   
                                               
@@ -801,15 +459,14 @@ SPEAKERS:
 ACTION:
                                 
 Reviewed and Commented
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
-             
+<<Project End>>
+<<Project Start>>
 2008.0762EMZC
                                                                  
                        
@@ -879,15 +536,14 @@ REGULAR CALENDAR
 The Commission Hearing Procedures provide for presentations by staff; followed by the project sponsor team; followed by public comment for and against the proposal.
   
 Please be advised that the project sponsor team includes: the sponsor(s) or their designee, lawyers, architects, engineers, expediters, and/or other advisors.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 9.
-             
+<<Project End>>
+<<Project Start>>
 2007.0168C
                               
                                                                      
@@ -917,16 +573,15 @@ SPEAKERS:
 
 ACTION:
                                 
-None – Informational
-<<Project End>>
-<<Project Start>>
+None – Informational 
 
 
  
 
 
 10.
-          
+<<Project End>>
+<<Project Start>>
 2005.0694U
                         
                                                                           
@@ -963,7 +618,8 @@ Withdrawn
 
 
 11a.
-        
+<<Project End>>
+<<Project Start>>
 2011.0477CV
                                                                                        
                    
@@ -1096,7 +752,8 @@ MOTION:
 
 
 11b.
-        
+<<Project End>>
+<<Project Start>>
 2011.0477CV
                                                                                              
               
@@ -1205,15 +862,14 @@ Song Tsun – Safety for children
 ACTION:
                                 
 ZA Closed the PH and took the matter under advisement
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
-          
+<<Project End>>
+<<Project Start>>
 2012.0903CEK
                                                                                          
   
@@ -1259,15 +915,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19182
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
-          
+<<Project End>>
+<<Project Start>>
 2012.0453CE
                                                                                        
         

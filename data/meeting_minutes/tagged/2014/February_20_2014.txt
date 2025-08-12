@@ -1,298 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 20, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2014
-
-
-/ February 20, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-February 20, 2014
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
- 
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-Commission Chambers, Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-San Francisco, CA 94102-4689
-
-
- 
-
-
- 
-
-
-Thursday, February 20, 2014
-
-
-12:00 p.m.
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
-   
-Fong, Wu, Antonini, Borden, Hillis, Moore, Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT FONG AT 12: 06 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
-  
-John Rahaim – Planning Director, Scott Sanchez – Zoning Administrator, Omar Masry, Aaron Starr, Tina Chang, Keith DeMartini, Kelly Amdur, Mathew Snyder, Sharon Lai, Brittany Bendix, Jessica Look, and Jonas P. Ionin – Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-            
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The Commission will consider a request for continuance to a later date.
-  
-The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
-                   
 2013.1674T
                                                           
                                     
@@ -333,7 +39,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 2a.
-          
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV
   
                                                 
@@ -386,7 +93,8 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 
 
 2b.
-          
+<<Project End>>
+<<Project Start>>
 2013.0205CEKV 
                                                                                  
   
@@ -442,15 +150,14 @@ CONSENT CALENDAR
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and may be acted upon by a single roll call vote of the Commission.
   
 There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1673C
                                                                           
                              
@@ -496,15 +203,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19085
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0006C
                                                           
                                            
@@ -541,15 +247,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19082
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
-                   
+<<Project End>>
+<<Project Start>>
 2014.0148C
                                                                                           
           
@@ -586,15 +291,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19083
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
-                   
+<<Project End>>
+<<Project Start>>
 2013.1783T
                                                                                           
             
@@ -641,8 +345,6 @@ RESOLUTION:
 C.
          
 COMMISSION MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -684,8 +386,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
   
 Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -784,8 +484,6 @@ I look forward to seeing you after that.
 D.
          
 DEPARTMENT MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -807,8 +505,6 @@ th
  from 6:00 P.M. to 8:00 P.M., at the Urban School, on Page Street. Again the Haight- Ashbury Public Realm Plan Workshop, next Thursday, the 27
 th
 , from 6:00 to 8:00 P.M. That concludes my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -861,8 +557,6 @@ HISTORIC PRESERVATION COMMISSION:
 
 
 Tim Frye is not here, but I have the HPC report. Yesterday they considered the ROSE; they provided review and comments on the draft ROSE, Recreation Open Space Element. They requested edits and proposed preservation policies to align the policy language closer to existing policies in the Housing, Urban Design, Commerce and Industry Elements. The HPC’s comments will be forwarded to the Commission prior to your action on the ROSE, and the second item was 660 Third Street the HPC recommended approval of conversion of PDR to office space for this building, under Planning Code Section 803.9, as you're aware this Code Section does allows greater flexibility in zoning controls provided that the property owner agreed to a long term preservation and maintenance plan for historic properties, so that was adopted and that is all to report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -953,8 +647,6 @@ Sue Hestor – Request for public hearing on staff emails
 F.
             
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
   
 
 
@@ -995,8 +687,6 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 RESOLUTION:
       
 19086
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1035,15 +725,14 @@ SPEAKERS:
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
-          
+<<Project End>>
+<<Project Start>>
 2007.0168C
                                           
                      
@@ -1105,15 +794,14 @@ management
 ACTION:
                                 
 None - Informational
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
-          
+<<Project End>>
+<<Project Start>>
 2013.1432C
  
                                                                                          
@@ -1253,7 +941,8 @@ MOTION:
 
 
 16a.
-        
+<<Project End>>
+<<Project Start>>
 2013.0007BX 
                                                                                       
          
@@ -1308,7 +997,8 @@ MOTION:
 
 
 16b.
-        
+<<Project End>>
+<<Project Start>>
 2013.0007BX
                                                                                        
          
@@ -1357,15 +1047,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19089
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
-          
+<<Project End>>
+<<Project Start>>
 2013.0518C
                                                           
                                           
@@ -1421,15 +1110,14 @@ Antonini, Moore
 MOTION:
                
 19090
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
-          
+<<Project End>>
+<<Project Start>>
 2013.1201C
                                                                                           
           
@@ -1483,15 +1171,14 @@ Wu, Fong, Antonini, Borden, Hillis, Moore, Sugaya
 MOTION:
                
 19091
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
-          
+<<Project End>>
+<<Project Start>>
 2013.0170D
                                                                          
                                

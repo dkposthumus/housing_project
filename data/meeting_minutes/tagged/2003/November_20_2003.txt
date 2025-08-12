@@ -1,241 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 20, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2003
-
-
-/ November 20, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-November 20, 2003
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-November 20, 2003
-SAN FRANCISCO
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, November 20, 2003
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Edgar E. Boyd, Lisa Feldstein, Kevin Hughes, Sue Lee, William L. Lee
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 1:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning; Jim Nixon - Acting Zoning Administrator; Diane Lim, Costolino Hogan, Geoffrey Nelson, Tom Wang, Paul Lord, Dario Jones, Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-The Commission will consider a request for continuance to a later date.  The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1.                       (J.IONIN: (415) 558-6309)
 
 
@@ -255,8 +18,6 @@ ACTION: Without hearing, item continued to December 18, 2003.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 2. 2003.0966T                                                      (P. LORD: (415) 558-6311)
 
 
@@ -276,8 +37,6 @@ ACTION: Without hearing, item continued to December 18, 2003.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 3. 2003.0860D                       (E. TOPE: (415) 558-6316)
 
 
@@ -410,8 +169,6 @@ ACTION: Without hearing, item continued to January 22, 2004.
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 5. 2002.0443D         (G. NELSON (415) 558-6257)
 
 
@@ -428,8 +185,6 @@ Request for Discretionary Review has been withdrawn.
 ACTION: None.  The Discretionary Review request was withdrawn.
 <<Project End>>
 <<Project Start>>
-
-
 6. 2003.0912D                                     (M. SMITH: (415) 558-6322)
 
 
@@ -451,9 +206,6 @@ ACTION: None.  The Discretionary Review request was withdrawn.
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
 7. Commission Comments/Questions
 
 
@@ -559,8 +311,6 @@ Commissioner Bradford Bell:
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
 8. Director's Announcements
 
 
@@ -733,8 +483,6 @@ Director Green:
 - At the next hearing of the Planning Commission the issue of scheduling the quarterly budget information discussion shall be scheduled.
 <<Project End>>
 <<Project Start>>
-
-
 9. Review of Past Week's Events at the Board of Supervisors and Board of Appeals
 
 
@@ -774,8 +522,6 @@ There are no closed items on this calendar.
 E. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
 10.                              (L. BADINER/D. LIM: (415) 558-6411/558-6547)
 
 
@@ -954,8 +700,6 @@ ACTION: Took Discretionary Review and approved the project with the following am
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 <<Project End>>
 <<Project Start>>
-
-
 12. 2003.0827D (G. NELSON: (415) 558-6257)
 
 
@@ -1229,8 +973,6 @@ ACTION: The Zoning Administrator Closed the Public Hearing and has taken matter 
 Items 16 & 17 were called and heard together.
 <<Project End>>
 <<Project Start>>
-
-
 16. 2003.0832T                                   (P. LORD: (415) 558-6311)
 
 
@@ -1280,8 +1022,6 @@ ABSENT: Antonini and Bradford Bell
 RESOLUTION: 16689
 <<Project End>>
 <<Project Start>>
-
-
 17. 2003.0801TZ                                                       (P. LORD: (415) 558-6311)
 
 
@@ -1304,8 +1044,6 @@ ABSENT: Antonini and Bradford Bell
 RESOLUTION: 16690
 <<Project End>>
 <<Project Start>>
-
-
 18. 2003.01025D                      (K. AMDUR: (415) 558-6351)
 
 
@@ -1322,8 +1060,6 @@ SPEAKER(S): None
 ACTION: The Discretionary Review request was withdrawn prior to the hearing.
 <<Project End>>
 <<Project Start>>
-
-
 19. 2003.0753D                                                                             (D. JONES: (415) 558-6477)
 
 
@@ -1400,8 +1136,6 @@ ABSENT: Antonini and Bradford Bell
 6:00 P.M.
 <<Project End>>
 <<Project Start>>
-
-
 20.  (L. BADINER: (415) 558-6411)
 
 

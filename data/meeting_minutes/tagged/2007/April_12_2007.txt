@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : April 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ April 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-April 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-April 12, 2007
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, April 12, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Sarah Dennis, AnMarie Rodgers, Michael Li, Thomas Wang, Kimberly Durandet, Cecilia Jaroslawsky, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0074TZ
+2006.0074TZ
  
  
 (Tape IA)
@@ -319,8 +44,8 @@ Preliminary Recommendation:
 
 
 B)
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0074T – Initiation of a Planning Code Text Amendment
 .
  
@@ -338,9 +63,9 @@ Preliminary Recommendation:
  
 
 
-C) 
- 
- 
+C)
+<<Project End>>
+<<Project Start>>
 2006.0074Z – Initiation of a Zoning Map Amendment
 .
  
@@ -416,16 +141,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0734C 
+<<Project End>>
+<<Project Start>>
+2006.0734C 
  
  
  
@@ -489,16 +213,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0034D
+<<Project End>>
+<<Project Start>>
+2007.0034D
  
  
  
@@ -552,16 +275,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2004.0603E 
+<<Project End>>
+<<Project Start>>
+2004.0603E 
  
  
  
@@ -723,16 +445,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2004.0603C
+<<Project End>>
+<<Project Start>>
+2004.0603C
  
  
  
@@ -796,13 +517,12 @@ ABSENT:
 
 
 Item 6 was taken out of order and heard at the end of the calendar
-<<Project End>>
-<<Project Start>>
 
 
 6.
- 
- 2006.1080C
+<<Project End>>
+<<Project Start>>
+2006.1080C
  
  
 (Tape IIA; IIB)
@@ -907,8 +627,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -986,8 +704,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1285,8 +1001,6 @@ Mr. Badiner, Zoning Administrator
 -
  
  We are pursuing some of the ideas raised at the joint hearing with the Building Inspection Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1571,8 +1285,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1718,8 +1430,6 @@ ACTION:
  Informational hearing only.
  
  No Action was required of the Commission.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1732,8 +1442,9 @@ ACTION:
 
 
 12.
- 
- 2007.0204C
+<<Project End>>
+<<Project Start>>
+2007.0204C
  
  
 (Tape IB; IIA)
@@ -1836,16 +1547,15 @@ ABSENT:
 MOTION:
  
  17416
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0096D
+<<Project End>>
+<<Project Start>>
+2007.0096D
  
  
 (Tape IIA)
@@ -1974,16 +1684,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2007.0161D
+<<Project End>>
+<<Project Start>>
+2007.0161D
  
  
 (Tape IIA)
@@ -2041,16 +1750,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2006.1477D
+<<Project End>>
+<<Project Start>>
+2006.1477D
  
  
 (Tape IIA)

@@ -1,280 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 23, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ March 23, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-March 23, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 23, 2006
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 23, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT: Sue Lee; Michael Antonini; Shelley Bradford-Bell; Kevin Hughes; William Lee; Christina Olague
-
-
-COMMISSIONERS ABSENT:
- 
- Dwight Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:41 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE:
- 
- Dean Macris – Director of Planning; Larry Badiner – Zoning Administrator; Dan Sider; Jonathan Purvis; Tom Wang; Charles Rivasplata; Teresa Ojeda; Adam Light; Linda Avery – Commission Secretary
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2002.1263U
+2002.1263U
  
  
  
@@ -310,16 +35,14 @@ AYES: Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0892
 E
 K
@@ -363,16 +86,15 @@ AYES: Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2006.0093E
+<<Project End>>
+<<Project Start>>
+2006.0093E
 T
  
  
@@ -410,8 +132,9 @@ ABSENT: Alexander
 
 
 4a.
- 
- 2004.0784D
+<<Project End>>
+<<Project Start>>
+2004.0784D
  
  
  
@@ -447,8 +170,9 @@ ABSENT: Alexander
 
 
 4b.
- 
- 2004.0785D
+<<Project End>>
+<<Project Start>>
+2004.0785D
  
  
  
@@ -485,16 +209,15 @@ AYES: Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2005.0686C 
+<<Project End>>
+<<Project Start>>
+2005.0686C 
  
  
  
@@ -536,8 +259,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -590,8 +311,6 @@ AYES: Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -827,8 +546,6 @@ I'd like to share Christina Olague's request to have the hearing as soon as we c
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1023,8 +740,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1032,8 +747,9 @@ REGULAR CALENDAR
 
 
 10.
- 
- 2006.0046D
+<<Project End>>
+<<Project Start>>
+2006.0046D
  
  
  
@@ -1209,16 +925,15 @@ AYES: Antonini, Bradford-Bell, Hughes, S. Lee, W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2006.0319D
+<<Project End>>
+<<Project Start>>
+2006.0319D
  
  
  
@@ -1447,16 +1162,14 @@ NAYES: W. Lee and Olague
 
 
 ABSENT: Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0381U
  
  
@@ -1497,16 +1210,14 @@ ABSENT: Alexander
 
 
 RESOLUTION: 17210
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0145E
 T
  
@@ -1966,8 +1677,8 @@ ABSENT: Alexander
 
 15
 a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2004.0852
 E
 MZXCV
@@ -2075,8 +1786,9 @@ MOTION: 17211
 
 
 15b.
- 
- 2004.0852E
+<<Project End>>
+<<Project Start>>
+2004.0852E
 M
 ZXCV
  
@@ -2127,8 +1839,9 @@ RESOLUTION: 17212
 
 
 15c.
- 
- 2004.0852EM
+<<Project End>>
+<<Project Start>>
+2004.0852EM
 Z
 XCV
  
@@ -2179,8 +1892,9 @@ RESOLUTION: 17213
 
 
 15d.
- 
- 2004.0852EMZ
+<<Project End>>
+<<Project Start>>
+2004.0852EMZ
 X
 CV
  
@@ -2236,8 +1950,9 @@ MOTION: 17214
 
 
 15e.
- 
- 2004.0852EMZX
+<<Project End>>
+<<Project Start>>
+2004.0852EMZX
 C
 V
  
@@ -2288,8 +2003,9 @@ MOTION: 17215
 
 
 15f.
- 
- 2004.0852EMZXC
+<<Project End>>
+<<Project Start>>
+2004.0852EMZXC
 V
  
  
@@ -2320,16 +2036,15 @@ SPEAKERS: Same as those listed for item 15a.
 
 
 ACTION: Zoning Administrator closed public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0090T 
+<<Project End>>
+<<Project Start>>
+2006.0090T 
  
  
  

@@ -1,410 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : January 26, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2012
-
-
-/ January 26, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-January 26, 2012
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-        Commission Chambers - Room 400
-
-
-
-
-
-        City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, January
-        26, 2012
-
-
-
-
-
-        12:00 PM
-
-
-
-
-
-        Regular Meeting
-
-
- 
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS
-        PRESENT:  Miguel, Antonini, Borden, Fong, Moore and Sugaya
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS
-        CALLED TO ORDER BY PRESIDENT MIGUEL AT 12:18 P.M.
-
-
-
-
-
-         
-
-
-
-
-
-        STAFF IN ATTENDANCE:  John Rahaim – Director of Planning, Scott Sanchez – Zoning
-        Administrator, Kimberly Durandet, Ben Fu, Alicia John-Baptiste, Kirsten
-        Dischinger, Jonas Ionin, Rick Crawford, Elizabeth Watty, Brittany Bendix, Corey
-        Teague and Linda Avery – Commission Secretary.
-
-
- 
-
-
-A.
-           
-        
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-         
-
-
-The Commission
-        will consider a request for continuance to a later date.  The Commission may
-        choose to continue the item to the date proposed below, to continue the item to
-        another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-                
-
-
-
-
-
-        1.         2011.1064C                                                      
-                 
-
-
-
-           
-(S.
-        Hayward: (415) 558-6372)
-
-
-
-
-
-        2800 SLOAT BOULEVARD
- -
-        north side of Sloat Boulevard, between 46
-th
- and 47
-th
-
-        Avenues, Lot 001 in Assessor's Block 2515 - 
-Request for Conditional Use
-        Authorization
-, pursuant to Planning Code Section 303(e), to add two years to
-        the validity of the previously approved Conditional Use Authorization for the
-        proposed project originally approved November 13, 2008 under Case No.
-        2005.1066C. The project includes the demolition of three existing commercial
-        buildings and a 34-space parking lot, and the construction of three new
-        mixed-use, five-story, 60-foot-tall buildings totaling approximately 120,000
-        gross square feet (gsf) over a 112-space subterranean parking structure and a
-        one-story approximately 1,000 gsf commercial building. The project would include
-        56 dwelling units, approximately 23,000 gsf of ground-floor commercial uses
-        including an open-air market. The three existing commercial buildings on the
-        project site proposed for demolition include a retail shop (Aqua Surf Shop),
-        restaurant/café (John's Ocean Beach Café), and a motel (Robert's Motel). The
-        project site is within the NC-2 (Small-Scale Neighborhood Commercial) zoning
-        district, 100-A Height and Bulk district, and the Local Coastal Zone Permit
-        Area.
-
-
-
-
-
-                                Preliminary Recommendation:  Approval with
-        conditions                                                 
-
-
-
-
-
-                    (Continued from Regular Meeting of December 8, 2011)
-
-
-
-
-                        (Proposed for
-        Continuance to February 9, 2012)
-
-
-
-
-
-         
-
-
-
-
-
-        SPEAKERS:     None
-
-
-
-
-
-        ACTION:           Continued as proposed
-
-
-
-
-
-        AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-
-                 2.           
-        2011.0682DD                                                               
+2011.0682DD                                                               
                      (S. LAI: (415) 575-9087)
 
 
@@ -472,8 +67,6 @@ Do
 
 
         AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -555,8 +148,6 @@ Do
 
 
         AYES:              Miguel, Antonini, Borden, Fong, Moore, Sugaya
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -567,8 +158,10 @@ Do
 
 
 
-        4.           
-        2010.0468DD                                                                     
+        4.
+<<Project End>>
+<<Project Start>>
+2010.0468DD                                                                     
         (A. PUTRA: (415) 575-9079)
 
 
@@ -666,8 +259,6 @@ B.        
         unless a member of the Commission, the public, or staff so requests, in which
         event the matter shall be removed from the Consent Calendar and considered as a
         separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -677,12 +268,10 @@ B.        
 
 
 
-5.        
-        
-
-
-
-        2011.0894C
+5.
+<<Project End>>
+<<Project Start>>
+2011.0894C
                                           
                                  
 (K. Durandet:
@@ -753,8 +342,6 @@ C.
         
         
 COMMISSIONERS’ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -901,8 +488,6 @@ I recently met with people
 
 
 D.         DIRECTOR’S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -952,9 +537,7 @@ I just wanted to give you
         a strong point of mentioning the City's Bicycle Plan and network related to
         those programs, but this is a substantial reward we are to receive.
         Congratulations to the staff and the department for all of the work on those
-        things.
-<<Project End>>
-<<Project Start>>
+        things. 
 
 
 
@@ -1168,8 +751,6 @@ Staff responded
         alternative. On a unanimous vote 10-0, the Board upheld the commission's
         certification and denied the appeal. The AC34 project will be back before the
         BOS for potential action on the Development Disposition Agreement on February
-<<Project End>>
-<<Project Start>>
         14.
 
 
@@ -1476,8 +1057,6 @@ G.
            
         
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1487,15 +1066,10 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 
-9.         
-
-
-
-
-
-
-
-        2005.0233C 
+9.
+<<Project End>>
+<<Project Start>>
+2005.0233C 
 
                                                                          
                       (B. FU: (415) 558-6613)
@@ -1602,9 +1176,7 @@ MOTION:          
 H.
             
 
-        REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+        REGULAR CALENDAR  
 
 
 
@@ -1652,8 +1224,6 @@ Informational presentation
 
             ACTION:           Informational – No
         action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1711,8 +1281,6 @@ Informational
 
             ACTION:           Informational – No
         action required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1786,8 +1354,6 @@ RESOLUTION:  
 
 
 18523
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1798,12 +1364,10 @@ RESOLUTION:  
 
 
 
-        13.       
-        
-
-
-
-        2011.0392C
+        13.
+<<Project End>>
+<<Project Start>>
+2011.0392C
                                                             
           (R. CRAWFORD:  (415) 558-6358) 
 
@@ -1868,8 +1432,6 @@ MOTION:          
 
 
 18524
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1879,12 +1441,10 @@ MOTION:          
 
 
 
-14.       
-        
-
-
-
-        2011.0411C
+14.
+<<Project End>>
+<<Project Start>>
+2011.0411C
                                                          
              (R. CRAWFORD:  (415) 558-6358) 
 
@@ -1966,12 +1526,10 @@ MOTION:          
 
 
 
-        15a.     
-        
-
-
-
-        2011.1202RTZ
+        15a.
+<<Project End>>
+<<Project Start>>
+2011.1202RTZ
                                                                      
         (E. WATTY: (415) 558-6620)
 
@@ -2053,12 +1611,10 @@ RESOLUTION:  
 
 
 
-15b.     
-        
-
-
-
-        2011.1202RTZ
+15b.
+<<Project End>>
+<<Project Start>>
+2011.1202RTZ
                                                                      
         (E. WATTY: (415) 558-6620)
 
@@ -2130,8 +1686,6 @@ RESOLUTION:  
 
 
 18526
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2143,12 +1697,10 @@ RESOLUTION:  
 
 
 
-        16.       
-        
-
-
-
-        2011.1249C
+        16.
+<<Project End>>
+<<Project Start>>
+2011.1249C
  
                                                                                  (B.
         BENDIX:  (415) 575-9114) 
@@ -2213,8 +1765,6 @@ Preliminary
 
 
 ABSENT:          Fong
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2226,12 +1776,10 @@ ABSENT:          Fong
 
 
 
-        17.       
-        
-
-
-
-        2011.0583EBU
+        17.
+<<Project End>>
+<<Project Start>>
+2011.0583EBU
 
                                                                         
 (C.
@@ -2320,10 +1868,10 @@ MOTION:          
 
 
 
-        18a.     
-        
-
-        2010.0860D
+        18a.
+<<Project End>>
+<<Project Start>>
+2010.0860D
                                                                   
            (C. TEAGUE: (415) 575-9081)
 
@@ -2419,10 +1967,10 @@ DRA:   
 
 
 
-        18b.     
-        
-
-        2010.0858D
+        18b.
+<<Project End>>
+<<Project Start>>
+2010.0858D
                               
                                                   (C. TEAGUE: (415) 575-9081)
 
@@ -2507,10 +2055,10 @@ DRA:   
 
 
 
-        18c.     
-        
-
-        2010.0801D
+        18c.
+<<Project End>>
+<<Project Start>>
+2010.0801D
                                                                   
            (C. TEAGUE: (415) 575-9081)
 
@@ -2595,10 +2143,10 @@ DRA:   
 
 
 
-        19a.     
-        
-
-        2011.0304DV
+        19a.
+<<Project End>>
+<<Project Start>>
+2011.0304DV
                                                                            
         (B. FU: (415) 558-6613)
 
@@ -2664,12 +2212,10 @@ AYES:              Miguel,
 
 
 
-        19b.     
-        
-
-
-
-        2011.0304DV 
+        19b.
+<<Project End>>
+<<Project Start>>
+2011.0304DV 
                                                    
                                   
 (B.

@@ -1,319 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : November 4, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2010
-
-
-/ November 4, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-November 4, 2010
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Page 1
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-
-
-Thursday, 
-November 4, 2010
-
-
-
-
-
-1:30 PM
-
-
-
-
-
-Regular Meeting
-
-
-
-
-
- 
-
-
-
-
-COMMISSIONERS 
-PRESENT:  Miguel, Olague, Antonini, Moore and Sugaya
-
-
-
-
-COMMISSIONERS 
-ABSENT:    Borden
-
-
-
-
-
- 
-
-
-
-
-THE MEETING WAS 
-CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:44 P.M.
-
-
-
-
- 
-
-
-
-
-STAFF IN 
-ATTENDANCE:  John Rahaim â Director of Planning, David Lindsay, Bill Wycko, 
-Aaron Hollister, Adrian Putra, Devyani Jain, Elizabeth Watty, AnMarie Rodgers, 
-Brett Bollinger, Kevin Guy, Dan Sider, Steve Wertheim, Tara Sullivan, Joshua 
-Switzky, Mary Woods, and Linda Avery â Commission Secretary.
-
-
- 
-
-
-A.
-           
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The Commission 
-will consider a request for continuance to a later date.  The Commission may 
-choose to continue the item to the date proposed below, to continue the item to 
-another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
- 
-
-
-
-
-1.         
 2010.0716C                                                               (A. 
 HOLLISTER: (415) 575-9078)
 
@@ -402,8 +87,6 @@ vote of the Commission.  There will be no separate discussion of these items
 unless a member of the Commission, the public, or staff so requests, in which 
 event the matter shall be removed from the Consent Calendar and considered as a 
 separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -413,7 +96,9 @@ separate item at this or a future hearing
 
 
 
-2.         
+2.
+<<Project End>>
+<<Project Start>>
 2009.0770C                                                                       
   (A. PUTRA: (415) 575-9079)
 
@@ -1054,8 +739,6 @@ Reduction of Child Care Facilities
  
 Effective 8/5/10
 . EXPIRES 2/5/12
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1206,8 +889,6 @@ G.
            
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1216,9 +897,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
 
 
 
-4.        
-
-
+4.
+<<Project End>>
+<<Project Start>>
 2007.0519CEK
   
 
@@ -1312,9 +993,7 @@ RESOLUTION:   18215
 H.
             
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1325,9 +1004,9 @@ REGULAR CALENDAR
 
 
 
-5.        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2007.0519CEK
   
 
@@ -1414,8 +1093,6 @@ ABSENT:          Borden
 
 
 MOTION:           18216
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1427,11 +1104,9 @@ MOTION:           18216
 
 
 
-6.        
-
-
-
-
+6.
+<<Project End>>
+<<Project Start>>
 2010.0908T
                                            
                                  
@@ -1501,8 +1176,6 @@ ABSENT:          Borden
 
 
 RESOLUTION:   18217
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1513,11 +1186,9 @@ RESOLUTION:   18217
 
 
 
-7.        
-
-
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2010.0837T
                                            
                         (S. WERTHEIM: (415) 558-6612)
@@ -1594,33 +1265,29 @@ ABSENT:          Borden
 
 
 RESOLUTION:   18219
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+8.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-8.        
-
-
-
-
 2010.0833T
                                                        
              (A. RODGERS: (415) 558-6395)
@@ -1705,8 +1372,6 @@ ABSENT:          Borden
 
 
 RESOLUTION:   18220
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1716,11 +1381,9 @@ RESOLUTION:   18220
 
 
 
-9.        
-
-
-
-
+9.
+<<Project End>>
+<<Project Start>>
 2010.0839T
                                                       
                 (T. SULLIVAN: (415) 558-6257)            
@@ -1795,8 +1458,6 @@ ABSENT:          Borden
 
 
 RESOLUTION:   18218
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1878,8 +1539,6 @@ Mitchelle Omniburg, and Jeff Rocca
 ACTION:           Informational hearing â although no action was taken by the 
 Commission, it was decided that the Commission would hold one of these 
 informational meetings in the community (December 9, 2010).
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1889,11 +1548,9 @@ informational meetings in the community (December 9, 2010).
 
 
 
-11.       
-
-
-
-
+11.
+<<Project End>>
+<<Project Start>>
 2010.0583C
                                                                    
    (M. WOODS: (415) 558-6315)
@@ -1968,8 +1625,6 @@ Antonini, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1981,15 +1636,8 @@ ABSENT:          Borden
 
 
 12.
-       
-
-
-
-
-
-
-
-
+<<Project End>>
+<<Project Start>>
 2010.0768D
                                
                                (S. CALTAGIRONE: (415) 558-6625)
@@ -2040,8 +1688,6 @@ SPEAKERS:     None
 
 
 ACTION:           DR was withdrawn prior to the hearing
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2052,13 +1698,9 @@ ACTION:           DR was withdrawn prior to the hearing
 
 
 
-13.        
-
-
-
-
-
-
+13.
+<<Project End>>
+<<Project Start>>
 2010.0802D
                                                        
           (G. CABREROS: (415) 558-6169)
@@ -2120,8 +1762,6 @@ Antonini, Moore, Sugaya, Olague and Miguel
 
 
 ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2132,9 +1772,9 @@ ABSENT:          Borden
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2009.0828D
                                                                  
 (G. CABREROS: (415) 558-6169)

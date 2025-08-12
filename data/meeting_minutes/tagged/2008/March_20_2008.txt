@@ -1,288 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : March 20, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ March 20, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-March 20, 2008
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-March 20, 2008
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, March 20, 2008
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- W. Lee
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Elizabeth Watty, Rick Crawford, Adrian Putra, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 
 2007.1280C
  
  
@@ -329,8 +45,6 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -338,8 +52,9 @@ ABSENT:
 
  
  2.
- 
- 2007.1256C
+<<Project End>>
+<<Project Start>>
+2007.1256C
  
  
  
@@ -389,16 +104,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2008.0287U
+<<Project End>>
+<<Project Start>>
+2008.0287U
  
  
  
@@ -444,16 +158,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.1233C
+<<Project End>>
+<<Project Start>>
+2007.1233C
  
  
  
@@ -506,16 +219,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.1072C
+<<Project End>>
+<<Project Start>>
+2007.1072C
  
  (S. SANCHEZ; (415) 558-6326)
 
@@ -556,16 +268,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.0703D
+<<Project End>>
+<<Project Start>>
+2007.0703D
  
  
  
@@ -614,16 +325,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2007.1454C
+<<Project End>>
+<<Project Start>>
+2007.1454C
  
  
  
@@ -675,16 +385,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2007.1469D
+<<Project End>>
+<<Project Start>>
+2007.1469D
  
  
  
@@ -723,8 +432,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -941,8 +648,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -972,8 +677,6 @@ Larry Badiner
  The Mayor's Office issued new directives in terms of budget adjustments and we received those on Tuesday afternoon.
  
  Ms. John-Baptiste is working with the Mayor's Office to understand the implications.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1173,8 +876,6 @@ E-
  
  
 Upheld
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1234,8 +935,6 @@ ACTION:
  No Action is required of the Commission.
  
  Informational only
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1401,8 +1100,6 @@ E.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1412,8 +1109,9 @@ REGULAR CALENDAR
 
 
 14.
- 
- 2007.0434DDD
+<<Project End>>
+<<Project Start>>
+2007.0434DDD
  
  
  
@@ -1486,16 +1184,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2008.0274D
+<<Project End>>
+<<Project Start>>
+2008.0274D
  
  
 (E. JACKSON: (415) 558-6363)
@@ -1551,16 +1248,15 @@ AYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2008.0118D
+<<Project End>>
+<<Project Start>>
+2008.0118D
  
  
 (Tape IIA)
@@ -1682,16 +1378,15 @@ NAYES:
 ABSENT:
  
  W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2007.1113E
+<<Project End>>
+<<Project Start>>
+2007.1113E
 T
  
  
@@ -1745,8 +1440,6 @@ ABSENT:
 
 
 5:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1755,8 +1448,8 @@ ABSENT:
  
  
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0945DD
  
  
@@ -1941,13 +1634,12 @@ ABSENT:
 
 
 Item 19 was taken out of order and followed item 20
-<<Project End>>
-<<Project Start>>
 
 
 19.
- 
- 2007.0072C
+<<Project End>>
+<<Project Start>>
+2007.0072C
  
  
 (Tape IIB; IIIA)
@@ -2126,8 +1818,8 @@ Item 20 was taken out of order and followed item 16
 
 
 20a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0298KE
 C
 V
@@ -2183,8 +1875,9 @@ ABSENT:
 
 
 20b.
- 
- 2005.0298KEC
+<<Project End>>
+<<Project Start>>
+2005.0298KEC
 V
  
  
@@ -2235,14 +1928,13 @@ ABSENT:
 
 
 Item 21 was taken out of order and followed item 18
-<<Project End>>
-<<Project Start>>
 
 
  
  21.
- 
- 2007.0789C
+<<Project End>>
+<<Project Start>>
+2007.0789C
  
  
 (Tape IIA)

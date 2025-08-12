@@ -1,250 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 7, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2004
-
-
-/ October 7, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-October 7, 2004
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 7, 2004
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett 
-  Place
-
-
-Thursday, October 7, 2004
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
-COMMISSIONERS PRESENT:
- Michael J. Antonini, Shelley Bradford Bell, Kevin Hughes, Sue Lee, William L. Lee, Christina Olague
-
-
-COMMISSIONERS ABSENT:
- None
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT BRADFORD BELL AT 4:40 p.m.
-
-
-STAFF IN ATTENDANCE:
-  Larry Badiner - Acting Director of Planning and Zoning Administrator; Paul Lord; Matthew Snyder; Geoffrey Nelson; Michael Li; Nora Priego - Transcription Secretary; Linda Avery - Commission Secretary
-
-
-A. CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-The Commission will consider a request for continuance 
-    to a later date. The Commission may choose to continue the item to the date 
-    proposed below, to continue the item to another date, or to hear the item 
-    on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
 1. 2004.0182C (B. FU: (415) 558.6613)
 
 
@@ -288,16 +42,6 @@ ACTION: Without hearing, item continued to October 14, 2004.
 AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 2. 2004.0585D (R. CRAWFORD: (415) 558-6358)
 
 
@@ -337,16 +81,6 @@ ACTION: Without hearing, item continued to October 14, 2004.
 AYES: Antonini, Bradford Bell, Hughes, S. Lee, W. Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 3. 2004.0757D (T. TAM: (415) 558-6325)
 
 
@@ -391,16 +125,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 4. 2004.0760DDDD (T. TAM: (415) 558-6325)
 
 
@@ -456,16 +180,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 5. 2004.0479D (T. WANG: (415) 558-6335)
 
 
@@ -507,16 +221,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 6. 2004.0765D (D. SIDER: (415) 558-6697)
 
 
@@ -561,16 +265,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 7. 2004.0837D (M. WOODS: (415) 558-6315)
 
 
@@ -628,16 +322,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 8. 2004.0666DD (S. SNYDER: (415) 558-6543)
 
 
@@ -761,16 +445,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 10. 2004.0389D (J. PURVIS: (415) 558-6354)
 
 
@@ -832,16 +506,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 11. 2004.0472I (D. ARGUMEDO: (415) 558-6284)
 
 
@@ -1015,16 +679,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 13. 2004.0737Z (P. LORD: (415) 558-6311)
 
 
@@ -1074,11 +728,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
 B. COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
- 
-
-
-
-
 14. Consideration of Adoption - Draft Minutes of August 
     12, September 2 and 9, 2004.
 
@@ -1132,16 +781,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 15. Commission Comments/Questions
 
 
@@ -1189,10 +828,6 @@ Re: August 12 Meeting - 170 St. Germain
 C. DIRECTOR'S REPORT
 <<Project End>>
 <<Project Start>>
-
-
-
-
 16. Director's Announcements
 
 
@@ -1207,16 +842,6 @@ C. DIRECTOR'S REPORT
 None
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 17. Review of Past Week's Events at the Board of Supervisors 
     and Board of Appeals
 
@@ -1317,10 +942,6 @@ Commissioner S. Lee:
 D. REGULAR CALENDAR
 <<Project End>>
 <<Project Start>>
-
-
-
-
 18. 2004.0762I (D. ARGUMEDO: (415) 558-6284)
 
 
@@ -1358,16 +979,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
         Lee, Olague
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 19. 2004.0739T (P. LORD: (415) 558-6311)
 
 
@@ -1441,16 +1052,6 @@ AYES: Antonini, Bradford Bell, Hughes, S. Lee, W.
 RESOLUTION: 16866
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 20. 2004.0370C (G. NELSON: (415) 558-6257)
 
 
@@ -1542,8 +1143,6 @@ NAYES: Hughes
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
 21. 2002.0271L (M. SNYDER: 
         (415) 575.6891) 
 
@@ -1559,7 +1158,7 @@ Request for the Planning Commission to adopt a Resolution
         approve the designation of the Juvenile Court and Detention Home as Landmark
 <<Project End>>
 <<Project Start>>
-        248.
+248.
 
 
 
@@ -1842,8 +1441,6 @@ ACTION: Zoning Administrator closed the public hearing
         and granted the rear yard modification and dwelling unit exposure variance.
 <<Project End>>
 <<Project Start>>
-
-
 23. 2004.0267C (G. NELSON (415) 558-6257)
 
 
@@ -2052,16 +1649,6 @@ AYES: Antonini, Hughes, S. Lee, W. Lee, Olague
 ABSENT: Bradford Bell
 <<Project End>>
 <<Project Start>>
-
-
-
-
-
-
-
-
-
-
 25. 2004.0608D (M. SNYDER: (415) 575-6891)
 
 

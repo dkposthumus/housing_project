@@ -1,222 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ July 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-July 12, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 12, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-Minutes
-Commission Chambers - Room 400
-City Hall, 1 Dr. Carlton B. Goodlett Place
-Thursday, July 12, 2001
-1:30 PM
-Regular Meeting
-PRESENT:          Theoharis, Baltimore, Chinchilla, Joe, Lim, Salinas, Sr.
-ABSENT:          Fay
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS AT 1:40 P.M.
-STAFF IN ATTENDANCE:  Gerald G. Green – Director of Planning; Larry Badiner - Zoning Administrator; Amit Ghosh; Jill Slater; Isolde Wilson; David Alumbaugh; Kelly LeBlanc; Alison Borden; Tina Tam; Andrea Wong; Scott Sanchez; Tim Woloshyn; Mathew Snyder; Patricia Gerber - Transcription Secretary; Linda D. Avery - Commission Secretary
-A.          ITEMS PROPOSED FOR CONTINUANCE
-<<Project End>>
-<<Project Start>>
-                    
 1.          2000.961EZC                                                                                       (TURRELL: 558-5994)
           1101 O'FARRELL STREET - Appeal of a Preliminary Negative Declaration.  Assessor's Blocks 713, Lot 033, and Block 720, Lots 28, 35, 36, 38.  The proposed project would demolish the existing 15,000-square-foot, three story, Urban Life Center building containing social service and office uses, and construct a 297,000-square-foot, 240-foot-tall structure with 240 units of senior housing.  The project includes approximately 86 on-site below-ground parking spaces.  The project also would seismically upgrade St. Mark's Lutheran Church and relocate about 5,000 square feet of social services space from the Urban Life Center building to the adjacent Martin Luther Tower.  The 80,400-square-foot site is located in an RM-4 (Residential, Mixed: High Density) Zoning District within the Western Addition neighborhood.  Lots 28, 35, and 36 of Block 720 are within an 80-B Height and Bulk District; the remainder of the site is within a 240-E Height and Bulk District.  The proposal would require approval of a lot subdivision and merger, a height reclassification, and Conditional Use authorization for a Planned Unit Development.  The Project would also require a Certificate of Appropriateness for seismic upgrade of St. Mark's Lutheran Church, City Landmark No. 41. 
 Preliminary Recommendation: Uphold Negative Declaration
@@ -241,7 +23,7 @@ ABSENT:          Fay
 B.          COMMISSIONERS' QUESTIONS AND MATTERS
 <<Project End>>
 <<Project Start>>
-          3.           Consideration of Adoption – draft minutes of May 24, and June 7, 2001.
+3.           Consideration of Adoption – draft minutes of May 24, and June 7, 2001.
 ACTION:    Approved as corrected
           AYES:                Theoharis; Baltimore; Chinchilla; Joe; Lim; Salinas, Sr.
 ABSENT:          Fay
@@ -257,7 +39,7 @@ C.          DIRECTOR'S REPORT
           None
 <<Project End>>
 <<Project Start>>
-          6.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
+6.          Review of Past Week's Events at the Board of Supervisors and Board of Appeals
                     B of S:   
                     - Appeal of a Conditional Use at Fell and Laguna – Upheld CPC approval
                     B of A: 
@@ -378,7 +160,7 @@ ABSENT:                    Fay
           MOTION No.          16186
 <<Project End>>
 <<Project Start>>
-          10.          2001.0232L                                               (BORDEN: 558-6321)
+10.          2001.0232L                                               (BORDEN: 558-6321)
                     1338 FILBERT STREET - (AKA 1338 FILBERT COTTAGES) - historically known as the Bush Cottages (1907-1930s) and the School of Basic Design and Color (1940s), north side of Filbert Street between Polk and Larkin Streets; Assessor’s Block 524, Lots 31, 32, 33, and 34.  Request for Planning Commission recommendation on the proposed landmark designation of four, two-story wood frame cottages sited among brick walkways, patios, and mature plantings, which was initiated by the Board of Supervisors. The subject property is in the RH-2 (Residential, House, Two-Family) District and is in a 40-X Height and Bulk District.
                     Preliminary Recommendation: Pending
                     (Continued from Regular Meeting of June 14, 2001)
@@ -456,7 +238,7 @@ ABSENT:          Fay
                     MOTION No.  16187
 <<Project End>>
 <<Project Start>>
-          11.          2001.0361C                                                                                      (SANCHEZ: 558-6679)   
+11.          2001.0361C                                                                                      (SANCHEZ: 558-6679)   
 1634-44 PINE STREET - north side between Van Ness Avenue and Franklin Street; Lot 007 in Assessor’s Block 0647.  Request for Conditional Use authorization pursuant to Section 712.61 of the Planning Code to allow the conversion of an automobile repair establishment (Midas) to an automobile rental establishment (Hertz) within an NC-3 (Moderate-Scale Neighborhood Commercial) District and a 130-E Height and Bulk District.  
                     Preliminary Recommendation: Approval with Conditions.
                     (Continued from Regular Meeting of June 14, 2001)
@@ -473,7 +255,7 @@ ABSENT:                    Fay and Chinchilla
                     MOTION No.      16188
 <<Project End>>
 <<Project Start>>
-          12.          2000.1279C                                                                                              (TAM: 558-6325)
+12.          2000.1279C                                                                                              (TAM: 558-6325)
 522-524 CLIPPER STREET - north side between Diamond and Douglass Streets, Lot 9 in Assessor’s Block 6545 - Request for Conditional Use authorization under Planning Code Section 121(f) to allow the subject lot to be subdivided into two lots.  One of the newly created lots will have a width of 19 feet, which is less than the required 25-foot minimum.  The proposal also includes construction of a new four-story, single-family dwelling on the newly created 19-foot wide lot. The property is located in a RH-2 (Residential, House, Two-Family) District and 40-X Height and Bulk District.  
                     Preliminary Recommendation: Disapproval
 SPEAKER(S):    None
@@ -482,7 +264,7 @@ ACTION:            Without hearing, continued to 7/26/01
 ABSENT:                  Fay
 <<Project End>>
 <<Project Start>>
-          13.          2000.1275C                                                                                              (TAM:  558-6325)
+13.          2000.1275C                                                                                              (TAM:  558-6325)
 401 TARAVAL STREET - southwest corner of Taraval Street and 14th Avenue; Lot 1 in Assessor’s Block 2411.  Request for Conditional Use authorization to install a total of three panel antennae on the building rooftop and an interior equipment shelter in the basement of an existing two-story over basement commercial office building as part of a wireless telecommunication network (Sprint PCS), pursuant to Planning Code Section 711.83, in a NC-2 (Small-Scale Neighborhood Commercial) District and a 40-X Height and Bulk District.  The site is a Location Preference 3.  
                     Recommendation:  Approval with conditions.  
                     (Continued from Regular Meeting of June 21, 2001)
@@ -687,7 +469,7 @@ ACTION:    Take Discretionary Review and disapprove project
 ABSENT:          Fay, Chinchilla
 <<Project End>>
 <<Project Start>>
-          17.          2001.0261DDD                                                                             (WOLOSHYN: 558-6612)
+17.          2001.0261DDD                                                                             (WOLOSHYN: 558-6612)
                     322 28TH AVENUE and 326 28TH AVENUE - east side between California and Clement Streets, Lots 037 and 038 in Assessor’s Block 1406.  Requests for Discretionary Review of Building Permit Application Nos. 9920290 and 9920291, proposing to demolish an existing one-story, single-family dwelling and construct a three-story over garage, two-family dwelling at 322 28th Avenue, and Building Permit Application Nos. 9920288 and 9920289, proposing to demolish an existing one-story single-family dwelling and construct a three-story over garage, two-family dwelling at 326 28th Avenue, in an RH-2 (Residential, House, Two-Family) District and a 40-X Height and Bulk District.
                     Preliminary Recommendation:  Take Discretionary Review and approve the project with modifications.
                     (Continued from Regular Meeting of May 17, 2001)
@@ -745,7 +527,7 @@ ACTION:    Took Discretionary Review and approved as modified:
 ABSENT:          Fay and Chinchilla
 <<Project End>>
 <<Project Start>>
-          18.          2001.547D                                                                                    (WOLOSHYN: 558-6612)
+18.          2001.547D                                                                                    (WOLOSHYN: 558-6612)
 655 32ND AVENUE - east side between Anza and Balboa Streets, Lot 007A in Assessor’s Block 1575 - Request for Discretionary Review of Building Permit Application No. 2001-0227-3042, proposing to partially infill an existing lightwell on the south side of the building and to add an eight-foot high wall between this lightwell and the lightwell on the adjacent property to the south, in a single-family building in an RH-2 (Residential House, Two-Family) District, and a 40-X Height and Bulk District.          
                     Preliminary Recommendation:  Take Discretionary Review and approve the project with modifications.
 SPEAKER(S):
@@ -758,7 +540,7 @@ ACTION:    Took Discretionary Review and required the remov  al of the primary w
 ABSENT:          Fay, Chinchilla, Lim
 <<Project End>>
 <<Project Start>>
-          19.          2001.0673D                                                                                   (M. SNYDER: 575-6891)
+19.          2001.0673D                                                                                   (M. SNYDER: 575-6891)
 1521 GRIFFITH STREET - southeast side between Thomas and Shafter Avenues, Lot 8 in Assessor’s Block 4794, mandatory Discretionary Review on Building Permit No. 2001/05/18/9575 pursuant to Planning Commission Resolution 14861, proposing to demolish an existing warehouse structure and construct a new warehouse structure, in an M-1 (Light Industrial) District, a 40-X Height and Bulk District, a Restricted Light Industrial Special Use District, and the Industrial Protection Zone.
 Preliminary Recommendation: Do not take Discretionary Review and approve the project as proposed.
 SPEAKER(S): None

@@ -1,279 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 6, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ August 6, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-August 6, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 6, 2009
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 6, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, Borden, Lee, and Moore
-
-
-COMMISSIONERS ABSENT:
- 
- Miguel and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE PRESIDENT OLAGUE AT 1: 40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, AnMarie Rodgers, Elizabeth Watty, Kevin Guy, Tim Frye, Mat Snyder, Lily Langlois, Sharon Young, Mary Woods, Elaine Forbes, Dan Sider, and Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
- 
- 1a.
- 
- 
 2009.0684D
  
  
@@ -330,8 +55,9 @@ ABSENT:
 
 
 1b.
- 
- 2008.1379
+<<Project End>>
+<<Project Start>>
+2008.1379
 DDDDD
 V
  
@@ -389,8 +115,9 @@ ABSENT:
 
 
 1c.
- 
- 2008.1379DDDDD
+<<Project End>>
+<<Project Start>>
+2008.1379DDDDD
 V
  
  
@@ -456,16 +183,15 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2009.0396C 
+<<Project End>>
+<<Project Start>>
+2009.0396C 
  
  
  
@@ -511,8 +237,6 @@ ABSENT:
 MOTION:
  
  17929
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -522,8 +246,9 @@ MOTION:
 
 
 3.
- 
- 2009.0513C
+<<Project End>>
+<<Project Start>>
+2009.0513C
  
  
  
@@ -577,13 +302,12 @@ MOTION:
 NOTE:
  
  Items 4 and 5 were pull off the Consent Calendar and heard as the first two items under the Regular Calendar
-<<Project End>>
-<<Project Start>>
 
 
 4.
- 
- 2009.0374C
+<<Project End>>
+<<Project Start>>
+2009.0374C
  
  
  
@@ -627,16 +351,15 @@ ABSENT:
 MOTION:
  
  17931
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2009.0322C
+<<Project End>>
+<<Project Start>>
+2009.0322C
  
  
  
@@ -699,8 +422,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -751,8 +472,6 @@ AYES:
 ABSENT:
  
  Miguel and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1748,8 +1467,6 @@ We've ended up with better projects; better process.
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1836,8 +1553,6 @@ Commission Secretary Avery:
  That is something I would have to find out.
  
  Again, we will do everything we can to accommodate this and get it before you as soon as we can.
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -2160,8 +1875,9 @@ ACTION:
 
 
 10b.
- 
- 2009.0523U
+<<Project End>>
+<<Project Start>>
+2009.0523U
  
  
  
@@ -2231,16 +1947,15 @@ ABSENT:
 MOTION:
  
  17932
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2009.0417C
+<<Project End>>
+<<Project Start>>
+2009.0417C
  
  
  
@@ -2299,16 +2014,15 @@ ABSENT:
 MOTION:
  
  17933
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2009.0524C
+<<Project End>>
+<<Project Start>>
+2009.0524C
  
  
  
@@ -2365,8 +2079,9 @@ MOTION:
 
 
 13a.
- 
- 2008.0315D
+<<Project End>>
+<<Project Start>>
+2008.0315D
  
  
  
@@ -2414,8 +2129,9 @@ ABSENT:
 
 
 13b.
- 
- 2009.0062D
+<<Project End>>
+<<Project Start>>
+2009.0062D
  
  
 (E. Watty:
@@ -2456,16 +2172,15 @@ AYES:
 ABSENT:
  
  Miguel and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2009.0454T 
+<<Project End>>
+<<Project Start>>
+2009.0454T 
  
  
  

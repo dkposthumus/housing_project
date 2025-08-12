@@ -1,315 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 8, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2008
-
-
-/ August 8, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-August 8, 2008 - Special
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 8, 2008  Special
-SAN FRANCISCO
- 
-PLANNING COMMISSION
-
-
- 
-
-
-Special Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
- 
-
-
-Friday, August 8, 2008
-
-
-1:30 PM
-
-
-Special Meeting
-
-
- 
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Miguel, Antonini, Borden, Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 1:43 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, Craig Nikitas â Acting Zoning Administrator, Amit Ghosh â Chief Planner, Ben Fu, AnMarie Rodgers, Kevin Guy, Sharon Young, Angela Heitter, Scott Sanchez, Elaine Forbes, Corey Teague, and Linda Avery â Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-SPEAKER(S)
-
-
-NONE
-
-
- 
-
-
-B.
- 
- CONSENT CALENDAR
-
-
- 
-
-
-All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
- 
- There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-
-
- 
-
-
-Item taken off consent and followed item 6
-<<Project End>>
-<<Project Start>>
-
-
-1.
- 
- 2008.0711X
+2008.0711X
  
  
 ( Tape IA ; IB)
@@ -421,8 +111,6 @@ COMMISSIONERS' QUESTIONS AND MATTERS
  
  
 (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -537,8 +225,6 @@ D.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -578,8 +264,6 @@ Director Rahaim
 -
  
  Next week we will be updating you, the first of a series, on the Bike Plan EIR during my report.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -692,8 +376,6 @@ D-
  
  
 Introductions:
-<<Project End>>
-<<Project Start>>
 
 
 1.
@@ -703,8 +385,6 @@ Conditional Use Authorization required for removal of any dwelling unit
 .
  
  It is sponsor by Supervisor McGoldrick and it would include the removal of dwelling units through merger, conversion or demolition.
-<<Project End>>
-<<Project Start>>
 
 
 2.
@@ -809,16 +489,15 @@ G.
  
  
 CONSIDERATION OF FINDINGS AND FINAL ACTION â PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.1256C
+<<Project End>>
+<<Project Start>>
+2007.1256C
  
  
 (Tape IA)
@@ -893,16 +572,15 @@ H.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2008.0282C
+<<Project End>>
+<<Project Start>>
+2008.0282C
  
  
 (Tape IA)
@@ -992,8 +670,9 @@ MOTION:
 
 
 7a.
- 
- 2007.0980E
+<<Project End>>
+<<Project Start>>
+2007.0980E
 C
 V 
  
@@ -1143,8 +822,9 @@ MOTION:
 
 
 7b.
- 
- 2007.0980EC
+<<Project End>>
+<<Project Start>>
+2007.0980EC
 V
  
  
@@ -1185,16 +865,14 @@ SPEAKER(S):
 ACTION:
  
  Acting Zoning Administrator Nikitas closed public hearing and granted the variance subject to standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.1072C
  
  
@@ -1375,8 +1053,6 @@ MOTION:
 
 
 The Commission reopened the hearing at the end to instruct staff to prepare findings for the denial of this project.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1386,8 +1062,9 @@ The Commission reopened the hearing at the end to instruct staff to prepare find
 
 
 9.
- 
- 2008.0642T
+<<Project End>>
+<<Project Start>>
+2008.0642T
  
  (Tape IIA)
  
@@ -1489,8 +1166,9 @@ MOTION:
 
 
 10a.
- 
- 2007.0785V
+<<Project End>>
+<<Project Start>>
+2007.0785V
 Z
  
  
@@ -1589,8 +1267,9 @@ MOTION:
 
 
 10b.
- 
- 2007.0785
+<<Project End>>
+<<Project Start>>
+2007.0785
 V
 Z
  
@@ -1620,16 +1299,15 @@ SPEAKER(S):
 ACTION:
  
  Acting Zoning Administrator Nikitas granted the variance with the condition that project sponsor continue working with staff on design issues, subject to the Board of Supervisors reclassifying the zoning for the property, and subject to all the standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2008.0622D
+<<Project End>>
+<<Project Start>>
+2008.0622D
  
  
  

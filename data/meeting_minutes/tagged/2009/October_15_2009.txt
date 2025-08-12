@@ -1,277 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : October 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2009
-
-
-/ October 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-October 15, 2009
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-October 15, 2009
- 
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, October 15, 2009
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT MIGUEL AT 1:40 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: 
- 
-John Rahaim – Director of Planning, Larry Badiner – Zoning Administrator, Ben Fu, Elizabeth Watty, Jonas Ionin, Cecilia Jaroslawsky, Diego Sanchez, Sophie Hayward, and Linda Avery – Commission Secretary.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission
- will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2009.0322C
+2009.0322C
  
  
  
@@ -322,8 +50,9 @@ AYES:
 
 
 2a.
- 
- 2006.0431
+<<Project End>>
+<<Project Start>>
+2006.0431
 C
 EKV
  
@@ -370,8 +99,9 @@ AYES:
 
 
 2b.
- 
- 2006.0431CEK
+<<Project End>>
+<<Project Start>>
+2006.0431CEK
 V
  
  
@@ -425,8 +155,6 @@ B.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -435,8 +163,8 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
  
  3.
- 
- 
+<<Project End>>
+<<Project Start>>
 2009.0866C
  
  
@@ -480,16 +208,15 @@ AYES:
 MOTION:
  
  17962
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2009.0804C
+<<Project End>>
+<<Project Start>>
+2009.0804C
  
  
  
@@ -558,8 +285,6 @@ Adoption of Commission Minutes
  – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -599,8 +324,6 @@ ACTION:
 AYES:
  
  Miguel, Olague, Antonini, Borden, Lee, Moore and Sugaya
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -930,8 +653,6 @@ th
 D.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1017,8 +738,6 @@ nd
  It will have ten days for appeal.
  
  It was emailed to everyone we knew who was interested and also mailed to Mr. Garfinkle and Mr. Williams.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1101,8 +820,6 @@ HISTORIC PRESERVATION COMMISSION:
  
  N
 one
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1190,8 +907,6 @@ RE:
 
 
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1200,8 +915,9 @@ REGULAR CALENDAR
 
 
 10.
- 
- 2008.1157C
+<<Project End>>
+<<Project Start>>
+2008.1157C
  
  
  
@@ -1255,16 +971,15 @@ AYES:
 MOTION:
  
  17964
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2009.0584DD
+<<Project End>>
+<<Project Start>>
+2009.0584DD
  
  
  
@@ -1317,8 +1032,9 @@ NAYES:
 
 
 12a.
- 
- 2009.0107D
+<<Project End>>
+<<Project Start>>
+2009.0107D
  
  (D. SÃNCHEZ: (415) 575-9082)
 
@@ -1377,8 +1093,9 @@ DRA:
 
 
 12b.
- 
- 2008.0505 
+<<Project End>>
+<<Project Start>>
+2008.0505 
 DDD
 V
  
@@ -1450,8 +1167,9 @@ DRA:
 
 
 12c.
- 
- 2008.0505DDD
+<<Project End>>
+<<Project Start>>
+2008.0505DDD
 V
  
 (D. SÃNCHEZ: (415) 575-9082)
@@ -1483,16 +1201,15 @@ SPEAKERS:
 ACTION:
  
  The Zoning Administrator closed the public hearing and granted the variance
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2008.1409I
+<<Project End>>
+<<Project Start>>
+2008.1409I
  
  
  

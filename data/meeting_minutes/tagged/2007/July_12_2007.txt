@@ -1,337 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ July 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-July 12, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 12, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 12, 2007
-
-
-1:00 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-
-
-COMMISSIONER ABSENT:
- 
- None
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT ALEXANDER AT 1:10 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Adam Light – Co-Acting Zoning Administrator and David Lindsay – Co-Acting Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Craig Nikitas, James Miller, Edgar Oropeza, April Hesik, Michael Li, Nannie Turrell, Kearstin Dischinger, Jonathan Lau, Linda Avery – Commission Secretary.
-
-
- 
-
-
-EXECUTIVE SESSION
- 
- (Tape IB)
-
-
-Conference with Legal Counsel – Pursuant to California Government Code Section 54956.9(a) and San Francisco Administrative Code Section 67.10(d)(1). (Kate Stacy / Audrey Pearson)
-
-
-Existing Litigation: 
-San Franciscans for Livable Neighborhoods v. City and County of San Francisco
-, San Francisco Superior Court Case 504-780, Court of Appeal A112987.
-
-
-a)
- 
- 
-Disclose no information, or
-
-
- 
-
-
-b)
- 
- 
-Disclose information that a majority deems to be in the public interest.
-
-
- 
-
-
-SPEAKERS:
- 
- None
-
-
-ACTION:
- 
- In public session (following the closed Executive Session) the Commission, by unanimous vote, passed a motion to not disclose any information.
-
-
-AYES:
- 
- 
- 
- Alexander, Antonini, Moore, S. Lee, W. Lee, Olague, and Sugaya
-
-
- 
-
-
-1:30
-2:08 P.M.
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0136C
+2007.0136C
  
  
 (Tape IB)
@@ -412,16 +80,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0469C
+<<Project End>>
+<<Project Start>>
+2007.0469C
  
  
  
@@ -458,16 +125,15 @@ ACTION:
 AYES:
  
  Alexander, Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0246C
+<<Project End>>
+<<Project Start>>
+2007.0246C
  
  
  
@@ -537,8 +203,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -606,8 +270,6 @@ AYES:
 
 
 Item 5 was taken out of order and moved to the end of the Calendar
-<<Project End>>
-<<Project Start>>
 
 
 5.
@@ -683,8 +345,6 @@ Commissioner W. Lee
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -696,8 +356,6 @@ C.
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -838,13 +496,11 @@ th
 
 
 Item 8 followed item 12
-<<Project End>>
-<<Project Start>>
 
 
 8.
- 
- 
+<<Project End>>
+<<Project Start>>
 2002.0626CEKVX
  
  
@@ -986,13 +642,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item 9 was taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 9.
- 
- 2007.0344C
+<<Project End>>
+<<Project Start>>
+2007.0344C
  
  
 (Tape IB)
@@ -1111,16 +766,14 @@ AYES:
 MOTION:
  
  17458
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0301G
  
  
@@ -1168,8 +821,9 @@ Item 11 was taken off consent
 
 
 11a.
- 
- 2007.0242
+<<Project End>>
+<<Project Start>>
+2007.0242
 C
 V
  
@@ -1282,8 +936,9 @@ AYES:
 
 
 11b.
- 
- 2007.0242C
+<<Project End>>
+<<Project Start>>
+2007.0242C
 V
  
  
@@ -1313,16 +968,15 @@ SPEAKERS:
 ACTION:
  
  Acting Zoning Administrator continued this item to August 2, 2007.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2007.0330D
+<<Project End>>
+<<Project Start>>
+2007.0330D
  
  
  
@@ -1375,16 +1029,15 @@ G.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0193D
+<<Project End>>
+<<Project Start>>
+2007.0193D
  
  
 (Tape IIA; IIB; IIIA)
@@ -2051,13 +1704,12 @@ NAYES:
 
 
 Item 14 followed item 16
-<<Project End>>
-<<Project Start>>
 
 
 14.
- 
- 2004.1245E
+<<Project End>>
+<<Project Start>>
+2004.1245E
  
  
 (Tape IIIB; IVA)
@@ -2335,8 +1987,6 @@ EXCUSED:
 
 
 15a.
-<<Project End>>
-<<Project Start>>
  
  2004.
 1245EKV
@@ -2399,8 +2049,9 @@ EXCUSED:
 
 
 15b.
- 
- 2004.1245EK
+<<Project End>>
+<<Project Start>>
+2004.1245EK
 V
 X
  
@@ -2455,13 +2106,12 @@ EXCUSED:
 
 
 Item 16 followed item 13
-<<Project End>>
-<<Project Start>>
 
 
 16.
- 
- 2007.0587T
+<<Project End>>
+<<Project Start>>
+2007.0587T
  
  
 (Tape IIIA; IIIB)
@@ -3166,13 +2816,12 @@ RESOLUTION:
 
 
 Item 17 followed item 14/15
-<<Project End>>
-<<Project Start>>
 
 
 17.
- 
- 2003.0347T
+<<Project End>>
+<<Project Start>>
+2003.0347T
  
  
 (Tape IVA; IVB)
@@ -3425,16 +3074,15 @@ RESOLUTION:
 
 6:00
 9:50 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0074TZ
+<<Project End>>
+<<Project Start>>
+2006.0074TZ
  
  
  
@@ -3464,8 +3112,9 @@ BAYVIEW HUNTERS POINT AREA PLAN RELATED TO PLANNING CODE AND MAP AMENDMENTS.
 
 
 A)
- 
- 2006.0074E
+<<Project End>>
+<<Project Start>>
+2006.0074E
 T
 Z
  
@@ -3502,8 +3151,9 @@ Preliminary Recommendation:
 
 
 B)
- 
- 2006.0074ET
+<<Project End>>
+<<Project Start>>
+2006.0074ET
 Z
  
  

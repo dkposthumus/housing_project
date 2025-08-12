@@ -1,286 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : July 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ July 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-July 26, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-July 26, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, July 26, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:38 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Michael Li, Tara Sullivan-Lenane, Craig Nikitas,
-
-
-Glenn Cabreros, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- 
-Commission
- 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-
-
- 
-
-
-1a.
- 
- 2007.0388
+2007.0388
 C
 V
  
@@ -336,8 +55,9 @@ ABSENT:
 
 
 1b.
- 
- 2007.0388C
+<<Project End>>
+<<Project Start>>
+2007.0388C
 V
  
  
@@ -382,16 +102,14 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0668C
  
  
@@ -447,8 +165,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -497,8 +213,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -506,8 +220,9 @@ ABSENT:
 
  
  4.
- 
- 2005.1059
+<<Project End>>
+<<Project Start>>
+2005.1059
 D
 V
  
@@ -564,8 +279,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -613,8 +326,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1080,8 +791,6 @@ th
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1095,8 +804,6 @@ C.
  
  
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1530,8 +1237,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 9a.
- 
- 2006.0616BEK
+<<Project End>>
+<<Project Start>>
+2006.0616BEK
 X
  
  
@@ -1599,8 +1307,9 @@ MOTION:
 
 
 9b.
- 
- 2006.0616
+<<Project End>>
+<<Project Start>>
+2006.0616
 B
 EKX 
  
@@ -1683,16 +1392,15 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Items 10 and 11 were taken off the Consent Calendar
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2007.0312D
+<<Project End>>
+<<Project Start>>
+2007.0312D
  
  
 (Tape IB)
@@ -1864,16 +1572,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2007.0588D
+<<Project End>>
+<<Project Start>>
+2007.0588D
  
  
 (Tape IB)
@@ -1963,8 +1670,6 @@ REGULAR CALENDAR
 
 
 Item 12 was taken our of order and followed item13
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2256,8 +1961,9 @@ Item 13 followed item 11
 
 
 13
- 
- 2007.0509T
+<<Project End>>
+<<Project Start>>
+2007.0509T
  
  
 (Tape IB)
@@ -2342,16 +2048,15 @@ RESOLUTION:
 
 
 Item 14 followed item 12
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0965DD
+<<Project End>>
+<<Project Start>>
+2006.0965DD
  
  
 (Tape IIA)
@@ -2574,8 +2279,6 @@ EXCUSED:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2584,8 +2287,8 @@ ABSENT:
  
  
 15.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.1059D
 V
  
@@ -2642,8 +2345,6 @@ ACTION:
 
 
 6:00 p.m.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2689,8 +2390,6 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2745,16 +2444,15 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2005.0351E 
+<<Project End>>
+<<Project Start>>
+2005.0351E 
  
  
  
@@ -2822,8 +2520,6 @@ AYES:
 ABSENT:
  
  Alexander and W. Lee.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2831,8 +2527,8 @@ ABSENT:
 
  
  19.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0297D 
  
  

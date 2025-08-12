@@ -1,279 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 9, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2007
-
-
-/ August 9, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-August 9, 2007
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 9, 2007
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 9, 2007
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- Olague, Antonini, S. Lee, W. Lee, Moore and Sugaya
-
-
-COMMISSIONER ABSENT:
- 
- Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:42 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Anmarie Rodgers, Adam Light, Joshua Switzky, Sarah Jones, Craig Nikitas, Aaron Starr, Kate Conner, Ben Fu, Cecilia Jaroslawsky, Elizabeth Watty, Michelle Glueckert, Elaine Forbes, Michael Jacinto, Ken Rich, Linda Avery – Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2007.0101U
+2007.0101U
  
  (J. SWITZKY: (415) 575-6816)
 
@@ -309,16 +35,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2007.0688T
+<<Project End>>
+<<Project Start>>
+2007.0688T
  
  
  
@@ -364,16 +89,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 3.
- 
- 2007.0515T
+<<Project End>>
+<<Project Start>>
+2007.0515T
  
  (A. RODGERS: (415) 558-6396)
 
@@ -411,16 +135,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 4.
- 
- 2007.0517T
+<<Project End>>
+<<Project Start>>
+2007.0517T
  
  
  
@@ -465,16 +188,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 5.
- 
- 2007.0511T
+<<Project End>>
+<<Project Start>>
+2007.0511T
  
  
  
@@ -518,16 +240,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 6.
- 
- 2007.0136C
+<<Project End>>
+<<Project Start>>
+2007.0136C
  
  
  
@@ -586,16 +307,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 7.
- 
- 2007.0212D
+<<Project End>>
+<<Project Start>>
+2007.0212D
  
  
  
@@ -642,8 +362,6 @@ Adoption of Commission Minutes
 – Charter Section 4.104 requires all commissioners to vote yes or no on all matters unless that commissioner is excused by a vote of the Commission.
  
  Commissioners may not be automatically excluded from a vote on the minutes because they did not attend the meeting.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -690,8 +408,6 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1061,8 +777,6 @@ C.
  DIRECTOR'S REPORT
  
  (Tape IA)
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1208,8 +922,6 @@ Three have been upheld and the other was continued to a date in October.
 -
  
  In some of these cases, the Board says that they do need a CU and we expect them to come to you.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1324,8 +1036,6 @@ Board of Appeals
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1374,16 +1084,15 @@ ACTION:
  No Action required of the Commission.
  
  Informational Only.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 13.
- 
- 2007.0529I
+<<Project End>>
+<<Project Start>>
+2007.0529I
  
  
 (Tape IA)
@@ -1421,8 +1130,6 @@ SPEAKERS:
 ACTION:
  
  The Commission decided not to hold a public hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -1648,13 +1355,12 @@ All matters listed hereunder constitute a Consent Calendar, are considered to be
 
 
 Item 15 was taken off consent
-<<Project End>>
-<<Project Start>>
 
 
 15.
- 
- 2007.0444C
+<<Project End>>
+<<Project Start>>
+2007.0444C
  
  
 (Tape IA; IB)
@@ -1752,8 +1458,6 @@ F.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1763,8 +1467,9 @@ REGULAR CALENDAR
 
 
 16.
- 
- 2007.0386C 
+<<Project End>>
+<<Project Start>>
+2007.0386C 
  
  
 (Tape IB; IIA)
@@ -1946,8 +1651,9 @@ MOTION:
 
 
 17a.
- 
- 2007.0388
+<<Project End>>
+<<Project Start>>
+2007.0388
 C
 V
  
@@ -2132,8 +1838,9 @@ MOTION:
 
 
 17b.
- 
- 2007.0388C
+<<Project End>>
+<<Project Start>>
+2007.0388C
 V
  
  
@@ -2165,16 +1872,14 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed public hearing and granted the variance subject to the standard conditions of approval.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 
+<<Project End>>
+<<Project Start>>
 2007.0164D
  
  
@@ -2487,16 +2192,15 @@ AYES:
 ABSENT:
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2007.0507C
+<<Project End>>
+<<Project Start>>
+2007.0507C
  
  (Tape IIB)
  
@@ -2613,16 +2317,15 @@ ABSENT:
 MOTION:
  
  17476
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2007.0571D
+<<Project End>>
+<<Project Start>>
+2007.0571D
  
  (Tape IIB)
  
@@ -2810,8 +2513,9 @@ ACTION:
 
 
 21a.
- 
- 2006.0892
+<<Project End>>
+<<Project Start>>
+2006.0892
 C
 V
  
@@ -2910,8 +2614,9 @@ MOTION:
 
 
 21b.
- 
- 2006.0892C
+<<Project End>>
+<<Project Start>>
+2006.0892C
 V
  
  
@@ -2937,16 +2642,15 @@ SPEAKERS:
 ACTION:
  
  Zoning Administrator closed the public hearing and granted the rear yard variance but has taken the open space variance under advisement.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 22.
- 
- 2007.0457T
+<<Project End>>
+<<Project Start>>
+2007.0457T
  
  
 (Tape IIB; IIIA)
@@ -3061,16 +2765,15 @@ RESOLUTION:
 
 
 6:00 P.M.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2004.0160E
+<<Project End>>
+<<Project Start>>
+2004.0160E
  
  
 (Tape IIIA)

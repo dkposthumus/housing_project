@@ -1,282 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : June 8, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ June 8, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-June 8, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-June 8, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
- 
-
-
-Meeting Minutes
-
-
- 
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, June 8, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT:
- 
- S. Lee, Alexander, Antonini, Bradford-Bell, W. Lee and Olague
-
-
-COMMISSIONER ABSENT:
- 
- Hughes
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT SUE LEE AT 1:30 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Dean Macris – Director of Planning, Larry Badiner – Zoning Administrator, Amit Ghosh – Chief Planner, Dan Sider, Cytra Moitra, Rick Cooper, Paul Lord, Michael Smith, John Purvis, Shawn Mendrin, Jonas Ionin – Acting Commission Secretary.
-
-
- 
-
-
- 
-
-
-A.
- 
- 
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0537D
+2006.0537D
  
  
  
@@ -327,8 +50,9 @@ ABSENT:
 
 
 2a.
- 
- 2005.0938
+<<Project End>>
+<<Project Start>>
+2005.0938
 C
 R
  
@@ -409,8 +133,9 @@ I appreciate the group for gathering over 900 signatures opposing the project.
 
 
 2b.
- 
- 2005.0938C
+<<Project End>>
+<<Project Start>>
+2005.0938C
 R
  
  
@@ -469,8 +194,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -521,8 +244,6 @@ ABSENT
 :
  
  Hughes
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -603,8 +324,6 @@ Commissioner Antonini
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -657,8 +376,6 @@ We discussed the regulations involved with these sites and what potentially woul
  
  
 I just wanted you to know that we did have that outreach program.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -754,8 +471,6 @@ Board of Appeals
 
 
 The Clerk of the Board found that there was no reason to grant that second request and the Board of Appeals decided that there was no new information presented to them to grant the re-hearing.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -925,16 +640,15 @@ ACTION:
  Informational Only.
  
  No Action required of the Commission
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 8.
- 
- 2005.0816 
+<<Project End>>
+<<Project Start>>
+2005.0816 
 I
 C
  
@@ -1015,14 +729,13 @@ D.
 All matters listed hereunder constitute a Consent Calendar, are considered to be routine by the Planning Commission, and will be acted upon by a single roll call vote of the Commission.
  
  There will be no separate discussion of these items unless a member of the Commission, the public, or staff so requests, in which event the matter shall be removed from the Consent Calendar and considered as a separate item at this or a future hearing.
-<<Project End>>
-<<Project Start>>
 
 
 
 9.
- 
- 2005.0816I
+<<Project End>>
+<<Project Start>>
+2005.0816I
 C
  
  
@@ -1138,8 +851,6 @@ G.
  
  
 REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1147,8 +858,9 @@ REGULAR CALENDAR
 
 
 10.
- 
- 2006.0093
+<<Project End>>
+<<Project Start>>
+2006.0093
 T
  
  
@@ -1482,16 +1194,15 @@ ABSENT:
 RESOLUTION:
  
  17258
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 11.
- 
- 2006.0109Z 
+<<Project End>>
+<<Project Start>>
+2006.0109Z 
  
  
 (Tape IIA)
@@ -1729,16 +1440,15 @@ ABSENT:
 MOTION:
  
  17259
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 12.
- 
- 2005.0552E
+<<Project End>>
+<<Project Start>>
+2005.0552E
  
  
  
@@ -1794,8 +1504,9 @@ ABSENT:
 
 
 13a.
- 
- 2004.0552X
+<<Project End>>
+<<Project Start>>
+2004.0552X
  
  
  
@@ -1852,8 +1563,9 @@ ABSENT:
 
 
 13b.
- 
- 2004.0552V
+<<Project End>>
+<<Project Start>>
+2004.0552V
  
  (M. SNYDER (415) 558-6891)
 
@@ -1891,8 +1603,9 @@ ACTION:
 
 
 14a.
- 
- 2006.0358X
+<<Project End>>
+<<Project Start>>
+2006.0358X
  
  
  
@@ -2051,8 +1764,9 @@ ABSENT:
 
 
 15a.
- 
- 2006.0543E
+<<Project End>>
+<<Project Start>>
+2006.0543E
 TZ
  
  
@@ -2204,8 +1918,9 @@ RESOLUTION:
 
 
 15b.
- 
- 2006.0544E
+<<Project End>>
+<<Project Start>>
+2006.0544E
 T
  
  
@@ -2249,16 +1964,15 @@ ABSENT:
 RESOLUTION:
  
  17261
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0436ETZ
+<<Project End>>
+<<Project Start>>
+2006.0436ETZ
  
  
  
@@ -2366,16 +2080,15 @@ AYES:
 ABSENT:
  
  Bradford-Bell, Hughes and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2006.0092E
+<<Project End>>
+<<Project Start>>
+2006.0092E
 T
  
  
@@ -2604,16 +2317,15 @@ AYES:
 ABSENT:
  
  Bradford-Bell, Hughes and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0100C
+<<Project End>>
+<<Project Start>>
+2006.0100C
  
  
  
@@ -3082,16 +2794,15 @@ ABSENT:
 MOTION:
  
  17262
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 19.
- 
- 2006.0506C 
+<<Project End>>
+<<Project Start>>
+2006.0506C 
  
  
  
@@ -3153,8 +2864,6 @@ ABSENT:
 MOTION:
  
  17263
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3162,8 +2871,9 @@ MOTION:
 
  
  20.
- 
- 2005.1208D
+<<Project End>>
+<<Project Start>>
+2005.1208D
  
  
  
@@ -3229,8 +2939,8 @@ ABSENT
  
  
 21a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2006.0586D
  
  
@@ -3311,8 +3021,9 @@ ABSENT:
 
  
  21b.
- 
- 2005.0974V
+<<Project End>>
+<<Project Start>>
+2005.0974V
  
  
  
@@ -3350,8 +3061,8 @@ ACTION:
 
 
 22a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0769D 
  
  
@@ -3449,8 +3160,9 @@ ABSENT:
 
 
 22b.
- 
- 2005.0775D 
+<<Project End>>
+<<Project Start>>
+2005.0775D 
  
  
  
@@ -3514,16 +3226,15 @@ MOTION FAILED
 ACTION:
  
  In the absence of a substitute motion, the project is approved as proposed.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 23.
- 
- 2006.0537D
+<<Project End>>
+<<Project Start>>
+2006.0537D
  
  (S. MENDRIN: (415) 558-6625)
 
@@ -3641,16 +3352,15 @@ AYES:
 ABSENT:
  
  Bradford-Bell, Hughes and W. Lee
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 24.
- 
- 2005.0659C
+<<Project End>>
+<<Project Start>>
+2005.0659C
  
  
  

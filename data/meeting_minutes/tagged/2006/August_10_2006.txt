@@ -1,312 +1,5 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : August 10, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2006
-
-
-/ August 10, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-August 10, 2006
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-August 10, 2006
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-Meeting Minutes
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, August 10, 2006
-
-
-1:30 PM
-
-
-Regular Meeting
-
-
- 
-
-
-COMMISSIONERS PRESENT: Vice President Christina Olague; Michael J. Antonini; William L. Lee; Kathrin Moore; Hisashi Sugaya
-
-
- 
-
-
-COMMISSIONERS ABSENT: Dwight S. Alexander
-
-
- 
-
-
-THE MEETING WAS CALLED TO ORDER BY VICE-PRESIDENT OLAGUE AT 1:35 P.M.
-
-
- 
-
-
-STAFF IN ATTENDANCE: Larry Badiner – Zoning Administrator and Acting Director; Dan Sider; Tom Wang; Kelly Amdur; Joshua Switzky; Alicia John-Baptiste; Glen Cabreros; Dan DiBartolo; Carol Roos; Isolde Wilson; Michelle Glueckert; Michael Li; Cecilia Jaroslawsky; April Hesik; Rick Crawford; Linda Avery – Commission Secretary
-
-
- 
-
-
-Commission Secretary Avery:
- 
- 
-Prior to taking care of our regular Commission business, we would like to have a statement read in honor of our past Commissioner and former Supervisor Sue Bierman.
- 
- Then we would like to observe a minute of silence in her honor.
-
-
- 
-
-
-Zoning Administrator Badiner:
- 
- I would like to read a statement from Director Macris who is out of town.
- 
- Sue's passion for San Francisco was remarkable.
- 
- She treated all citizens fairly regardless of circumstances or status.
- 
- What set her apart was not her general regard for people as individuals.
- 
- In every San Francisco person she found joy everywhere.
- 
- She was the best of America.
- 
- San Francisco was privileged to have Sue as a citizen and an advocate for these many years.
- 
- There are a number of members of staff who are here also in recognition of Sue.
-
-
-With that, we ask that we have a moment of silence in her honor.
-
-
-Thank you.
-
-
- 
-
-
-
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
- 
-
-
-The
- Commission 
-will consider a request for continuance to a later date.
- 
- The Commission may choose to continue the item to the date proposed below, to continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
- 
-
-
-1.
- 
- 2006.0522C
+2006.0522C
  
  
  
@@ -360,16 +53,15 @@ AYES:
 ABSENT
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 2.
- 
- 2006.0668C
+<<Project End>>
+<<Project Start>>
+2006.0668C
  
  
  
@@ -423,16 +115,15 @@ AYES:
 ABSENT
  
  Alexander
+
+
+ 
+
+
+3.
 <<Project End>>
 <<Project Start>>
-
-
- 
-
-
-3. 
- 
- 2006.0084D
+2006.0084D
  
  
  
@@ -489,8 +180,6 @@ B.
  
  
 COMMISSIONERS' QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -870,8 +559,6 @@ I will discuss that with the Director and we will get back to you on the timing 
 C.
  
  DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -933,8 +620,6 @@ The only other thing I would say is that I've talked to a number of you over the
  I have been in close discussions with Mr. Macris.
  
  I suspect that on his return we will want to talk as individuals and try to make sure things go smoothly.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1483,8 +1168,6 @@ The fact is this is a unique lot.
 
 
 CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1493,8 +1176,9 @@ CONSIDERATION OF FINDINGS AND FINAL ACTION – PUBLIC HEARING CLOSED
 
 
 7.
- 
- 2005.0659C
+<<Project End>>
+<<Project Start>>
+2005.0659C
  
  
  
@@ -1604,9 +1288,10 @@ ALL ITEMS ON THE CONSENT CALENDAR WERE TAKEN OFF CONSENT AND HEARD AND CONSIDERE
  
 
 
-8a. 
- 
- 2006.0413
+8a.
+<<Project End>>
+<<Project Start>>
+2006.0413
 X
 V & 2002.1077E
  
@@ -1825,8 +1510,9 @@ MOTION:
 
 
 8b.
- 
- 2006.0413X
+<<Project End>>
+<<Project Start>>
+2006.0413X
 V
  
  
@@ -1876,8 +1562,9 @@ Zoning Administrator closed public hearing and granted the variance.
 
 
 9a.
- 
- 2006.0691CV
+<<Project End>>
+<<Project Start>>
+2006.0691CV
 X
  & 2002.1077E
  
@@ -2026,8 +1713,9 @@ MOTION:
 
 
 9b.
- 
- 2006.0691
+<<Project End>>
+<<Project Start>>
+2006.0691
 C
 VX
  
@@ -2102,8 +1790,9 @@ MOTION:
 
 
 9c.
- 
- 2006.0691C
+<<Project End>>
+<<Project Start>>
+2006.0691C
 V
 X
  
@@ -2141,16 +1830,15 @@ Zoning Administrator closed public hearing and granted the variance
 
 
 ITEM 10 WAS TAKEN OUT OR ORDER AND HEARD BEFORE ITEMS 8 AND 9.
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 10.
- 
- 2002.1263U
+<<Project End>>
+<<Project Start>>
+2002.1263U
  
  
  
@@ -2210,8 +1898,6 @@ MOTION:
 H.
  
  REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2256,8 +1942,8 @@ ACTION:
 
  
  12a.
- 
- 
+<<Project End>>
+<<Project Start>>
 2005.0089DDDDDDDDDDDE
  
  
@@ -2318,8 +2004,9 @@ ACTION:
 
  
  12b.
- 
- 2005.0387DDDDDDDDDDD 
+<<Project End>>
+<<Project Start>>
+2005.0387DDDDDDDDDDD 
  
  
  
@@ -2370,8 +2057,6 @@ ACTION:
 
  
  The matter is no longer before the Commission for consideration or action.
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -2585,16 +2270,15 @@ ACTION:
  Discussion Only.
  
  No Action
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 14.
- 
- 2006.0905R 
+<<Project End>>
+<<Project Start>>
+2006.0905R 
  
  
  
@@ -2760,16 +2444,15 @@ EXCUSED:
 ABSENT
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 15.
- 
- 2004.0745E
+<<Project End>>
+<<Project Start>>
+2004.0745E
  
  
  
@@ -3049,16 +2732,15 @@ ABSENT
 MOTION:
  
  17303
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 16.
- 
- 2006.0745C
+<<Project End>>
+<<Project Start>>
+2006.0745C
  
  
  
@@ -3257,16 +2939,15 @@ ABSENT
  MOTION:
  
  17304
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 17.
- 
- 2005.0737C
+<<Project End>>
+<<Project Start>>
+2005.0737C
  
  
  
@@ -3366,16 +3047,15 @@ ABSENT
 MOTION:
  
  17306
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 18.
- 
- 2006.0360C
+<<Project End>>
+<<Project Start>>
+2006.0360C
  
  
  
@@ -3457,8 +3137,9 @@ MOTION:
 
 
 19a.
- 
- 2006.0274D
+<<Project End>>
+<<Project Start>>
+2006.0274D
  
  
  
@@ -3665,8 +3346,9 @@ ABSENT
 
 
 19b.
- 
- 2006.0276D
+<<Project End>>
+<<Project Start>>
+2006.0276D
  
  
  
@@ -3716,16 +3398,15 @@ AYES:
 ABSENT
  
  Alexander
-<<Project End>>
-<<Project Start>>
 
 
  
 
 
 20.
- 
- 2006.0570D
+<<Project End>>
+<<Project Start>>
+2006.0570D
  
  
  
@@ -3913,8 +3594,6 @@ RESULT:
 ACTOPN:
  
  In the absence of a successful motion, the project is approved as proposed
-<<Project End>>
-<<Project Start>>
 
 
  
@@ -3927,8 +3606,9 @@ ACTOPN:
 
 
 21.
- 
- 2004.0750D
+<<Project End>>
+<<Project Start>>
+2004.0750D
  
  
  

@@ -1,334 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : February 15, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2001
-
-
-/ February 15, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-February 15, 2001
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-February 15, 2001
-
-
- 
-
-
-SAN FRANCISCO PLANNING COMMISSION
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-Meeting Minutes
-
-
-
-
-
-          
-        
-
-
-
-
-Commission Chambers - Room 400
-
-
-City Hall, 1 Dr. Carlton B. Goodlett Place
-
-
-Thursday, February 15, 2001
-
-
-1:30 PM
-
-
-
-
-
-          
-        
-
-
-
-
-Regular Meeting
-
-
-
-
-
-          
-        
-
-
-
-
-PRESENT:
-
-
-Baltimore, Chinchilla, Fay, Joe, Salinas, Theoharis
-
-
-ABSENT:
-
-
-None
-
-
-
-
-
-          
-        
-
-
-
-
-THE MEETING WAS CALLED TO ORDER BY PRESIDENT THEOHARIS 
-        AT 1:40 p.m.
-
-
-
-
-
-          
-        
-
-
-
-
-STAFF IN ATTENDANCE:
- Gerald G. 
-        Green, Director of Planning; Larry Badiner, Zoning Administrator; Costolino 
-        Hogan; Hillary Gitelman; Leslie Buford; Joan Kugler; Ricardo Bressanutti; 
-        Rick Crawford; Sailesh Mehra; Michael Smith; Nora Priego, Transcription 
-        Secretary; Linda Avery, Commission Secretary
-
-
-
-
-
-          
-        
-
-
-
-
-A.
- 
-ITEMS PROPOSED FOR CONTINUANCE
-
-
-
-
-
-          
-        
-
-
-
-
- 
-1a.
-
-
 2000.863
 B
 V
@@ -421,8 +91,8 @@ Chinchilla
 
  
 1b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.863B
 V
 
@@ -487,8 +157,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -503,7 +171,8 @@ Chinchilla
 
 
 2.
- 
+<<Project End>>
+<<Project Start>>
 2000.1310C
 
 
@@ -565,8 +234,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -580,8 +247,8 @@ Chinchilla
 
  
 3.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1108C
 
 
@@ -644,8 +311,6 @@ Baltimore, Fay, Joe, Salinas, Theoharis
 ABSENT:
  
 Chinchilla
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -659,8 +324,8 @@ Chinchilla
 
  
 4.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1033D
 
 
@@ -744,8 +409,6 @@ B.
  
 COMMISSIONERS' 
         QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -786,8 +449,6 @@ C.
 
 
 DIRECTOR'S REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -809,8 +470,6 @@ Director's Announcements
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -850,8 +509,6 @@ BOA:
 
 
 None
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -924,8 +581,6 @@ The following item was taken out of order.
 
 
 Voted on after Public Comment.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1071,8 +726,6 @@ Continued
  
 Public 
         comment remains open.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1086,7 +739,8 @@ Public
 
  
 11.
- 
+<<Project End>>
+<<Project Start>>
 2000.613E
 
 
@@ -1315,8 +969,6 @@ ACTION:
 Meeting held.
  
 No Action Required
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1330,8 +982,8 @@ No Action Required
 
  
 12.
-
-
+<<Project End>>
+<<Project Start>>
 1997.478E
 
 
@@ -1469,8 +1121,6 @@ Chinchilla
 MOTION:
  
 16092
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1484,8 +1134,8 @@ MOTION:
 
  
 13.
-
-
+<<Project End>>
+<<Project Start>>
 1999.377E
 
 
@@ -1567,8 +1217,6 @@ Chinchilla
 MOTION:
  
 16093
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1582,7 +1230,8 @@ MOTION:
 
  
 14.
- 
+<<Project End>>
+<<Project Start>>
 2000.594E
 
 
@@ -1751,8 +1400,6 @@ Chinchilla
 MOTION:
  
 16094
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1766,8 +1413,8 @@ MOTION:
 
  
 15.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1179C
 
 
@@ -1876,7 +1523,8 @@ MOTION:
 
  
 16a.
- 
+<<Project End>>
+<<Project Start>>
 2000.1248
 C
 
@@ -2067,8 +1715,8 @@ MOTION:
 
  
 16b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1248
 V
 
@@ -2162,7 +1810,8 @@ At Approximately
 
  
 17a.
- 
+<<Project End>>
+<<Project Start>>
 2000.964DDDD 
         
 
@@ -2467,8 +2116,8 @@ Joe
 
  
 17b.
-
-
+<<Project End>>
+<<Project Start>>
 2000.964
 V
 
@@ -2524,8 +2173,6 @@ ACTION:
  
 Zoning 
         Administrator Closed Public Hearing has taken the matter under advisement.
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2539,8 +2186,8 @@ Zoning
 
  
 18.
-
-
+<<Project End>>
+<<Project Start>>
 2000.1124D
 
 
@@ -2693,8 +2340,6 @@ Chinchilla, Fay,
 NAYES:
  
 Baltimore and Joe
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2708,7 +2353,8 @@ Baltimore and Joe
 
  
 19.
- 
+<<Project End>>
+<<Project Start>>
 2000.1265D
 
 

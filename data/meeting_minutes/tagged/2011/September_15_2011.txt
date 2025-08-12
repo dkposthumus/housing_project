@@ -1,299 +1,4 @@
 <<Project Start>>
-
-
-
-
-
-
-San Francisco Planning Department : September 15, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planning Department
-
-
-
-
-
-
-
-
-
-
-
-
-Home
- 
-/
-
-
-Public Hearings
-
-			
-				/
-			
-				
-Planning Commission
-
-			
-				/
-			
-				
-Minutes
-
-			
-				/
-			
-				
-2011
-
-
-/ September 15, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-September 15, 2011
-
-
-
-
-
-
-
-
-
-
-
-
-larger font size
-
-
-smaller font size
-
-
-font size
-
-
-text only
-
-
-text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SAN FRANCISCO
-
-
-PLANNING COMMISSION
-
-
-
-
-Meeting Minutes
-
-
-
-
-Commission Chambers - Room 400
-
-
-
-
-City Hall, 1 Dr. Carlton B. 
-Goodlett Place
-
-
-
-
-Thursday, September 15, 2011
-
-
-
-
-12:00 PM
-
-
-
-
-Regular Meeting
-
-
-
-
- 
-
-
-
-COMMISSIONERS PRESENT: Olague, Miguel, Antonini, Fong, Moore, Sugaya
-
-
-
-COMMISSIONER ABSENT:       Borden
-
-
- 
-
-
-THE 
-MEETING WAS CALLED TO ORDER BY PRESIDENT OLAGUE AT 12:09 PM
-
-
- 
-
-
-
-
-STAFF IN ATTENDANCE: John Rahaim â Director of Planning, 
-Scott Sanchez â Zoning Administrator, Rick Crawford, Sharon Lai, Diego Sanchez, 
-Aaron Starr, Adrian Putra, Brittany Bendix, Aaron Hollister, Kevin Guy, Corey 
-Teague, Ben Fu, Linda Avery â Commission Secretary
-
-
- 
-
-
- 
-
-
-A.
-                 
-
-CONSIDERATION OF ITEMS PROPOSED FOR CONTINUANCE
-
-
-
- 
-
-
-The 
-Commission will consider a request for continuance to a later date.  The 
-Commission may choose to continue the item to the date proposed below, to 
-continue the item to another date, or to hear the item on this calendar.
-<<Project End>>
-<<Project Start>>
-
-
-
-
-            
-
-
-
-
-1.         
 2010.1136D                                                                       
 (S. VELLVE: (415) 558-6263)
 
@@ -359,28 +64,28 @@ ACTION:           Continued as proposed
 
 
             ABSENT:          Borden
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+2.
 <<Project End>>
 <<Project Start>>
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-2.         
 2011.0464C                                                                      
 
 
@@ -443,8 +148,6 @@ ACTION:           Continued as proposed
 
 
             ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -454,10 +157,9 @@ ACTION:           Continued as proposed
 
 
 
-3.         
-
-
-
+3.
+<<Project End>>
+<<Project Start>>
 2011.0393C                                                                  (R. 
 CRAWFORD: (415) 558-6358)
 
@@ -546,9 +248,9 @@ Items 4a and
 
 
 
-4a.       
-
-
+4a.
+<<Project End>>
+<<Project Start>>
 2010.0948XV  
                                                             (R. 
 CRAWFORD:  (415) 558-6358
@@ -620,9 +322,9 @@ layout, renderings, design & commercial space
 
 
 
-4b.       
-
-
+4b.
+<<Project End>>
+<<Project Start>>
 2010.0948XV 
                                                              (R. 
 CRAWFORD:  (415) 558-6358)
@@ -670,8 +372,6 @@ item 4a
 
 ACTION:           Following public 
 hearing, Zoning Administrator Sanchez continued the item to 10/20/11
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -681,9 +381,9 @@ hearing, Zoning Administrator Sanchez continued the item to 10/20/11
 
 
 
-5.        
-
-
+5.
+<<Project End>>
+<<Project Start>>
 2011.0238C
                                            
                                       (S. LAI: (415) 575-9087)
@@ -752,15 +452,13 @@ ACTION:           Approved
 
 
 Item 6 was taken out of order and followed item 9
+
+
+
+
+6.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-6.        
-
-
 2011.0415C 
 
                                                                        (D. 
@@ -817,8 +515,6 @@ ACTION:           Approved
 
 
             MOTION:           18439
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -828,9 +524,9 @@ ACTION:           Approved
 
 
 
-7.        
-
-
+7.
+<<Project End>>
+<<Project Start>>
 2011.0565C
                                                                    
        (A. STARR: (415) 558-6362)
@@ -886,8 +582,6 @@ ACTION:           Approved
 
 
             MOTION:           18436
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -897,9 +591,9 @@ ACTION:           Approved
 
 
 
-8.        
-
-
+8.
+<<Project End>>
+<<Project Start>>
 2011.0574C
                                                        
                   (A. PUTRA: (415) 575-9079)
@@ -965,15 +659,13 @@ ACTION:           Approved
 
 
 Item 9 was taken out of order and followed item 4
+
+
+
+
+9.
 <<Project End>>
 <<Project Start>>
-
-
-
-
-9.        
-
-
 2011.0496C
                                                              
           (B. BENDIX:  (415) 575-9114) 
@@ -1037,8 +729,6 @@ require the retention of the sign
 
 
             MOTION:           18438
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1046,9 +736,9 @@ require the retention of the sign
  
 
 
-10.       
-
-
+10.
+<<Project End>>
+<<Project Start>>
 2011.0292C 
 
                                                                    (A. 
@@ -1121,8 +811,6 @@ C.
         
 
 COMMISSIONERSâ QUESTIONS AND MATTERS
-<<Project End>>
-<<Project Start>>
  
 
 
@@ -1312,8 +1000,6 @@ individual reports.
 
 
 D.         DIRECTORâS REPORT
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1351,8 +1037,6 @@ about the friendly guidelines. I entered the process a bit skeptical about the
 need for that and have become convinced that it is the right thing to do. A 
 number of cities are looking at it as the right thing to do. There is positive 
 feedback as well.
-<<Project End>>
-<<Project Start>>
          
 
 
@@ -1534,8 +1218,6 @@ COMMISSION:
 
 
 No meeting this week
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1545,9 +1227,9 @@ No meeting this week
 
 
 
-14.       
-
-
+14.
+<<Project End>>
+<<Project Start>>
 2011.0523I 
 
                                                                    
@@ -1677,9 +1359,7 @@ Street
 F.
                  
 
-REGULAR CALENDAR
-<<Project End>>
-<<Project Start>>
+REGULAR CALENDAR  
 
 
 
@@ -1689,9 +1369,9 @@ REGULAR CALENDAR
 
 
 
-15.       
-
-
+15.
+<<Project End>>
+<<Project Start>>
 2011.0005C 
 
                                                                    (A. 
@@ -1750,8 +1430,6 @@ ACTION:           Approved
 
 
             MOTION:           18441
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1761,9 +1439,9 @@ ACTION:           Approved
 
 
 
-16.       
-
-
+16.
+<<Project End>>
+<<Project Start>>
 2011.0101C
                                                                   
 
@@ -1821,8 +1499,6 @@ continued to 1-12-12
 
 
             ABSENT:          Borden
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1832,9 +1508,9 @@ continued to 1-12-12
 
 
 
-17.       
-
-
+17.
+<<Project End>>
+<<Project Start>>
 2011.0664C
                                                                   
 
@@ -1898,8 +1574,6 @@ community on outstanding concerns
 
 
             MOTION:           18442
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -1909,9 +1583,9 @@ community on outstanding concerns
 
 
 
-18.       
-
-
+18.
+<<Project End>>
+<<Project Start>>
 2011.0186C
                                                                    
   
@@ -1989,8 +1663,6 @@ Friday & Saturday at Midnight
 
 
             MOTION:           18443
-<<Project End>>
-<<Project Start>>
 
 
 
@@ -2000,11 +1672,9 @@ Friday & Saturday at Midnight
 
 
 
-19.       
-
-
-
-
+19.
+<<Project End>>
+<<Project Start>>
 2010.0094X
                                                                                
 (
