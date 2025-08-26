@@ -31,7 +31,15 @@
       "paired": 12,
       "labels_without_block": 1,
       "unmatched_blocks": 1
+    },
+    {
+      "year": 2002,
+      "labels": 15,
+      "blocks_found": 16,
+      "paired": 15,
+      "labels_without_block": 0,
+      "unmatched_blocks": 1
     }
   ],
-  "total_examples": 101
+  "total_examples": 116
 }
