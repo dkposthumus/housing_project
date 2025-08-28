@@ -1,28 +1,16 @@
 {
   "stats": {
     "year": 2003,
-    "labels": 22,
+    "labels": 23,
     "blocks_found": 23,
-    "paired": 16,
-    "labels_without_block": 6,
-    "unmatched_blocks": 6
+    "paired": 22,
+    "labels_without_block": 1,
+    "unmatched_blocks": 0
   },
   "details": {
     "missing_label_case_numbers": [
-      "<missing case_number>",
-      "2002.0771CDV",
-      "2002.0771CDV",
-      "2002.0771CDV",
-      "2002.0933DV",
-      "2002.0933DV"
+      "<missing case_number>"
     ],
-    "unmatched_block_case_numbers": [
-      "2002.0771",
-      "2002.0771C",
-      "2002.0771CD",
-      "2002.0933",
-      "2002.0933D",
-      "2002.1064D"
-    ]
+    "unmatched_block_case_numbers": []
   }
 }

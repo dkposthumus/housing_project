@@ -42,12 +42,20 @@
     },
     {
       "year": 2003,
-      "labels": 22,
+      "labels": 23,
       "blocks_found": 23,
-      "paired": 16,
-      "labels_without_block": 6,
-      "unmatched_blocks": 6
+      "paired": 22,
+      "labels_without_block": 1,
+      "unmatched_blocks": 0
+    },
+    {
+      "year": 2004,
+      "labels": 25,
+      "blocks_found": 25,
+      "paired": 21,
+      "labels_without_block": 4,
+      "unmatched_blocks": 2
     }
   ],
-  "total_examples": 132
+  "total_examples": 159
 }

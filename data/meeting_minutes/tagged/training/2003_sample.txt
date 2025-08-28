@@ -130,9 +130,7 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 NAYES: Boyd
 <<Project End>>
 <<Project Start>>
-10. 2000.1311E
-C
-D                         (D. SIDER: (415) 558-6697)
+10. 2000.1311ECD                         (D. SIDER: (415) 558-6697)
 
 
 2690 HARRISON STREET (A.K.A. 3000 - 23
@@ -182,8 +180,7 @@ D. REGULAR CALENDAR
 
 <<Project End>>
 <<Project Start>>
-11a. 2002.0877C
-R
+11a. 2002.0877CR
   (S. VELLVE: (415) 558-6263)
 
 
@@ -220,9 +217,7 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 MOTION: 16547
 <<Project End>>
 <<Project Start>>
-11b. 2002.0877
-C
-R (S. VELLVE: (415) 558-6263)
+11b. 2002.0877CR (S. VELLVE: (415) 558-6263)
 
 
 720 MOSCOW STREET (SAN FRANCISCO FIRE DEPARTMENT STATION #43
@@ -723,9 +718,7 @@ AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 
 <<Project End>>
 <<Project Start>>
-16a. 2002.0771
-C
-DV (K. AMDUR: (415) 558-6351)
+16a. 2002.0771CDV (K. AMDUR: (415) 558-6351)
 
 
 559 VALLEJO STREET
@@ -774,9 +767,7 @@ ABSENT: Boyd
 MOTION: 16550
 <<Project End>>
 <<Project Start>>
-16b. 2002.0771C
-D
-V (K. AMDUR: (415) 558-6351)
+16b. 2002.0771CDV (K. AMDUR: (415) 558-6351)
 
 
 559 VALLEJO STREET
@@ -798,8 +789,7 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 ABSENT: Boyd
 <<Project End>>
 <<Project Start>>
-  16c. 2002.0771CD
-V
+  16c. 2002.0771CDV
  (K. AMDUR: (415) 558-6351)
 
 
@@ -1043,9 +1033,7 @@ ABSENT: Boyd and Hughes
 
 <<Project End>>
 <<Project Start>>
-21a. 2002.0933
-D
-V (B. FU: (415) 558-6613)
+21a. 2002.0933DV (B. FU: (415) 558-6613)
 
 
 891 CAROLINA STREET
@@ -1223,8 +1211,7 @@ NAYES: Feldstein
 ABSENT: Boyd and Hughes
 <<Project End>>
 <<Project Start>>
-21b. 2002.0933D
-V
+21b. 2002.0933DV
  (B. FU: (415) 558-6613)
 
 

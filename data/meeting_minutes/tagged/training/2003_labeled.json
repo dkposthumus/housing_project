@@ -1,5 +1,6 @@
 [
     {
+        "item": "1",
         "case_number": "2002.1310D",
         "project_address": "2625-2627 broderick street",
         "lot_number": "6",
@@ -15,6 +16,7 @@
     },
     {
         "case_number": "2002.0778E",
+        "item": "2",
         "project_address": "150 broadway",
         "lot_number": "011",
         "assessor_block": "0141",
@@ -31,6 +33,7 @@
     },
     {
         "case_number": "2003.0037C",
+        "item": "4",
         "project_address": "165-167 texas street",
         "lot_number": "016",
         "lot_number_2": "017",
@@ -46,6 +49,7 @@
     },
     {
         "case_number": "2002.0038TZ",
+        "item": "5",
         "lot_number": "1",
         "assessor_block": "3978",
         "project_descr": "17th AND RHODE ISLAND GROCERY STORE SPECIAL USE SUB-DISTRICT Consideration of an Ordinance amending the San Francisco Planning Code by adding Section 781.10 to create the 17th and Rhode Island Grocery Store Special Use Sub-district, applicable to the newly rezoned NC-3 block (previously M-1) bounded by 17th Street, Rhode Island Street, Mariposa Street and Kansas Street (Assessor's Block 3978, Lot 1), to permit a neighborhood grocery store at 17th and Rhode Island and amending the Section 712 Zoning Control Table; amending Section Map 8 and 8SU of the Zoning Map of the City and County of San Francisco for the property described as Assessor's Block 3978, Lot 1; and adopting findings.",
@@ -56,6 +60,7 @@
     },
     {
         "case_number": "2002.0636DD",
+        "item": "9",
         "project_address": "111 manchester street",
         "lot_number": "019",
         "assessor_block": "5544",
@@ -72,7 +77,8 @@
         "noes": "boyd"
     },
     {
-        "case_number": "2000.1311E",
+        "case_number": "2000.1311ECD",
+        "item": "10",
         "project_address": "2690 harrison street",
         "lot_number": "004",
         "assessor_block": "3639",
@@ -86,7 +92,8 @@
         "action_name": "motion no. 16546"
     },
     {
-        "case_number": "2002.0877C",
+        "case_number": "2002.0877CR",
+        "item": "11a",
         "project_address": "720 moscow street",
         "lot_number": "024",
         "assessor_block": "6338",
@@ -112,7 +119,8 @@
         "action_name": "motion no. 16547"
     },
     {
-        "case_number": "2002.0877",
+        "case_number": "2002.0877CR",
+        "item": "11b",
         "project_address": "720 moscow street",
         "lot_number": "024",
         "assessor_block": "6338",
@@ -127,6 +135,7 @@
         "action_name": "motion no. 16548"
     },
     {
+        "item": "12",
         "project_descr": " - Staff presentation and community comments on the public review draft of the Market and Octavia Neighborhood Plan, distributed on December 17, 2002 as part of the Department's Better Neighborhoods Program - comment gathering only; no approval actions.  Information available at ",
         "speakers": "ramona davis norman rolfe, howard strassner, robert meyers, ashley hamlett, ron hartman, mike ellis, christopher pederson, anthony faber, robin levitt, jon twichell, john keazer, ron miguel, kate white, heather thomson, marcy adelman, clark seally, judy macks, matile ruthschild, nolan madison, jan faulkner, patricia walkup, nancy brundy, stefan hastrup, ingrid summerfield, gary gee, calvin welch, george orleas, sean kiegran",
         "speaker_statements": [
@@ -433,7 +442,8 @@
         "action": "meeting held to receive public comment. no action required by the commission"
     },
     {
-        "case_number": "2002.1084C",
+      "item": "13",  
+      "case_number": "2002.1084C",
         "project_address": "321-323 grant avenue",
         "lot_number": "003",
         "assessor_block": "0286",
@@ -449,6 +459,7 @@
     },
     {
         "case_number": "2003.0073H",
+        "item": "14",
         "project_address": "1355 market street",
         "lot_number": "1",
         "assessor_block": "3508",
@@ -482,6 +493,7 @@
     },
     {
         "case_number": "2002.1120C",
+        "item": "15",
         "project_address": "629 portola drive",
         "lot_number": "004",
         "assessor_block": "2892",
@@ -496,6 +508,7 @@
     },
     {
         "case_number": "2002.0771CDV",
+        "item": "16a",
         "project_address": "559 vallejo street",
         "lot_number": "27",
         "lot_number_2": "35",
@@ -544,6 +557,7 @@
     },
     {
         "case_number": "2002.0771CDV",
+        "item": "16b",
         "project_address": "559 vallejo street",
         "lot_number": "27",
         "lot_number_2": "35",
@@ -557,6 +571,7 @@
     },
     {
         "case_number": "2002.0771CDV",
+        "item": "16c",
         "project_address": "559 vallejo street",
         "lot_number": "27",
         "lot_number_2": "35",
@@ -567,6 +582,7 @@
     },
     {
         "case_number": "2001.0792E",
+        "item": "17",
         "project_address": "301 mission street",
         "project_descr": "Public Hearing on Draft Environmental Impact Report. The project proposes demolition of three existing two- to six-story structures on the project site, totaling about 173,650 gross square feet (gsf), and the building of a 58-story, 605 foot-tall, mixed userdevelopment, totaling about 1,156,500 gsf.  The net change in area for the site would be an increase of about 982,850 gsf.  The proposed development would contain about 130,560 gsf of office space; a 120-suite extended-stay hotel (about 164,800 gsf); 320 residential units (about 551,000 gsf); ground-floor retail and restaurant space (about 9,400 gsf); a publicly accessible atrium (about 6,400 gsf); and lobbies (about 4,340 gsf).  Building services would occupy about 33,400 gsf and mechanical space would occupy about 104,840 gsf.  There would be three off-street loading docks and four off-street van spaces, and 400 spaces of underground parking and vehicular circulation on four levels (about 151,760 gsf).  The site includes Lots 1 and 17 on Assessor's Block 3719.  The project requires approval as new construction in a C-3 District under Planning Code Section 309; a Bulk Limits:  Special Exceptions in C-3 District authorization under Section 272; a Height Limits:  Special Exception for Upper Tower Extensions in S Districts authorization under Section 263.9; Conditional Use authorization for a Major (Nonaccessory) Parking Garage Not Open to the Public under Section 223(p); Conditional Use authorization for Hotel Use in a C-3-O District under Section 216(c);  transfer of development rights in a C-3 District authorization under Section 128; a lot line adjustment to merge the existing lots by the Public Works Department; and approval by the Board of Supervisors to eliminate the mid-block pedestrian crosswalk across Fremont Street between Mission and Natoma Streets.",
         "preliminary_recommendation": "public hearing to receive comments. no action required",
@@ -617,7 +633,21 @@
         "action": "public hearing held. no action required."
     },
     {
+        "case_number": "2002.1064D",
+        "item": "18",
+        "lot_number": "013B",
+        "assessor_block": "2419",
+        "project_descr": "Request for Discretionary Review of Building Permit Application No. 2002.03.13.1301, proposing to construct a two-story over garage single-family dwelling,",
+        "type_district": "rh-1",
+        "type_district_descr": "residential, house, one-family",
+        "height_and_bulk_district": "40-x",
+        "preliminary_recommendation": "take discretionary review and approve with modifications",
+        "speakers": "none",
+        "action": "discretionary review request has been withdrawn"
+    },
+    {
         "case_number": "2003.0190D",
+        "item": "19",
         "project_address": "442-20th Avenue",
         "lot_number": "034",
         "assessor_block": "1525",
@@ -653,6 +683,7 @@
     },
     {
         "case_number": "2002.1284D",
+        "item": "20",
         "project_address": "710 edinburgh street",
         "assessor_block": "6342",
         "lot_number": "004",
@@ -709,6 +740,7 @@
     },
     {
         "case_number": "2002.0933DV",
+        "item": "21a",
         "project_address": "891 carolina street",
         "lot_number": "027",
         "assessor_block": "4097",
@@ -862,6 +894,7 @@
     },
     {
         "case_number": "2002.0933DV",
+        "item": "21b",
         "project_address": "891 carolina street",
         "lot_number": "027",
         "assessor_block": "4097",
@@ -874,6 +907,7 @@
     },
     {
         "case_number": "2003.0219D",
+        "item": "22",
         "project_address": "149 panama street",
         "lot_number": "011",
         "lot_number_2": "012",
@@ -900,6 +934,7 @@
     },
     {
         "case_number": "2003.0221D",
+        "item": "23",
         "project_address": "44 niantic avenue",
         "lot_number": "005",
         "lot_number_2": "006",
