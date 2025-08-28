@@ -721,7 +721,8 @@ ACTION: Without hearing, item continued to March 27, 2003 because of an incorrec
 
 AYES: Antonini, Bradford Bell, Boyd, Feldstein, Hughes, S. Lee, W. Lee
 
-
+<<Project End>>
+<<Project Start>>
 16a. 2002.0771
 C
 DV (K. AMDUR: (415) 558-6351)
@@ -771,8 +772,8 @@ ABSENT: Boyd
 
 
 MOTION: 16550
-
-
+<<Project End>>
+<<Project Start>>
 16b. 2002.0771C
 D
 V (K. AMDUR: (415) 558-6351)
@@ -795,8 +796,8 @@ AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
 
 
 ABSENT: Boyd
-
-
+<<Project End>>
+<<Project Start>>
   16c. 2002.0771CD
 V
  (K. AMDUR: (415) 558-6351)
@@ -1040,7 +1041,8 @@ AYES: Antonini, Bradford Bell, Feldstein, S. Lee, W. Lee
 
 ABSENT: Boyd and Hughes
 
-
+<<Project End>>
+<<Project Start>>
 21a. 2002.0933
 D
 V (B. FU: (415) 558-6613)
@@ -1219,8 +1221,8 @@ NAYES: Feldstein
 
 
 ABSENT: Boyd and Hughes
-
-
+<<Project End>>
+<<Project Start>>
 21b. 2002.0933D
 V
  (B. FU: (415) 558-6613)
@@ -1290,62 +1292,4 @@ AYES: Antonini, Bradford Bell, Feldstein, S. Lee, W. Lee
 
 
 ABSENT: Boyd and Hughes
-
-
-F. PUBLIC COMMENT
-
-
-At this time, members of the public may address the Commission on items of interest to the public that are within the subject matter jurisdiction of the Commission except agenda items.  With respect to agenda items, your opportunity to address the Commission will be afforded when the item is reached in the meeting with one exception.  When the agenda item has already been reviewed in a public hearing at which members of the public were allowed to testify and the Commission has closed the public hearing, your opportunity to address the Commission must be exercised during the Public Comment portion of the Calendar.  Each member of the public may address the Commission for up to three minutes. 
-
-
-The Brown Act forbids a commission from taking action or discussing any item not appearing on the posted agenda, including those items raised at public comment.  In response to public comment, the commission is limited to: 
-
-
-(1)  responding to statements made or questions posed by members of the public; or
-
-
-(2)  requesting staff to report back on a matter at a subsequent meeting; or 
-
-
-(3)  directing staff to place the item on a future agenda.  (Government Code Section 54954.2(a))
-
-
-Terry Milne
-
-
-- He spoke about Discretionary Reviews.
-
-
-- He received a notice about a project with a rear yard extension--the calculations are incorrect.
-
-
-- The Planning staff has told him that they accept the plans/calculations the Project Sponsor gives them.
-
-
-- There have been a few cases in his neighborhood where the survey for the lot (for a proposed project) was miscalculated.
-
-
-Adjournment: 9:00 p.m.
-
-
-THESE MINUTES ARE PROPOSED FOR ADOPTION AT THE REGULAR MEETING OF THE PLANNING COMMISSION ON THURSDAY, APRIL 24, 2003.
-
-
-SPEAKERS: None
-
-
-ACTION: Approved
-
-
-AYES: Antonini, Bradford Bell, Feldstein, Hughes, S. Lee, W. Lee
-
-
-ABSENT: Boyd
-
-
-
-
-
-
-Last updated: 11/17/2009 10:00:05 PM
 <<Project End>>
